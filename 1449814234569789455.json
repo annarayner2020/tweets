@@ -1,0 +1,229 @@
+{
+  "created_at": "Sun Oct 17 19:07:04 +0000 2021",
+  "id": 1449814234569789455,
+  "id_str": "1449814234569789455",
+  "text": "RT @LawLording: @derekdokoto @akheriaty https://t.co/hdjt6yL3lB\n\nConvince these parents their choice was the right one.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LawLording",
+        "name": "Law Lording",
+        "id": 1426452146564837377,
+        "id_str": "1426452146564837377",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "derekdokoto",
+        "name": "Derek Dokoto",
+        "id": 22568054,
+        "id_str": "22568054",
+        "indices": [
+          16,
+          28
+        ]
+      },
+      {
+        "screen_name": "akheriaty",
+        "name": "Aaron Kheriaty, MD",
+        "id": 54322957,
+        "id_str": "54322957",
+        "indices": [
+          29,
+          39
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/hdjt6yL3lB",
+        "expanded_url": "https://www.msn.com/en-us/health/medical/13-year-old-dies-in-sleep-after-receiving-pfizer-covid-vaccine-cdc-investigating/ar-AALHXDL",
+        "display_url": "msn.com/en-us/health/m\u2026",
+        "indices": [
+          40,
+          63
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 17 10:13:57 +0000 2021",
+    "id": 1449680073355939843,
+    "id_str": "1449680073355939843",
+    "text": "@derekdokoto @akheriaty https://t.co/hdjt6yL3lB\n\nConvince these parents their choice was the right one.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "derekdokoto",
+          "name": "Derek Dokoto",
+          "id": 22568054,
+          "id_str": "22568054",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "akheriaty",
+          "name": "Aaron Kheriaty, MD",
+          "id": 54322957,
+          "id_str": "54322957",
+          "indices": [
+            13,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hdjt6yL3lB",
+          "expanded_url": "https://www.msn.com/en-us/health/medical/13-year-old-dies-in-sleep-after-receiving-pfizer-covid-vaccine-cdc-investigating/ar-AALHXDL",
+          "display_url": "msn.com/en-us/health/m\u2026",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": 1449627220398379011,
+    "in_reply_to_status_id_str": "1449627220398379011",
+    "in_reply_to_user_id": 22568054,
+    "in_reply_to_user_id_str": "22568054",
+    "in_reply_to_screen_name": "derekdokoto",
+    "user": {
+      "id": 1426452146564837377,
+      "id_str": "1426452146564837377",
+      "name": "Law Lording",
+      "screen_name": "LawLording",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4,
+      "friends_count": 140,
+      "listed_count": 0,
+      "created_at": "Sat Aug 14 07:55:09 +0000 2021",
+      "favourites_count": 120,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 448,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 44,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 23,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

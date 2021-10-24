@@ -1,0 +1,570 @@
+{
+  "created_at": "Fri Aug 20 14:44:18 +0000 2021",
+  "id": 1428729609319747591,
+  "id_str": "1428729609319747591",
+  "text": "RT @WG_Gervais: Important history lesson from Der F\u00fchrer, Herr Trudeau.\n#VaccinePassports #VoteTrudeauOut #elexn44 https://t.co/4Y6ulISEwc",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "VaccinePassports",
+        "indices": [
+          72,
+          89
+        ]
+      },
+      {
+        "text": "VoteTrudeauOut",
+        "indices": [
+          90,
+          105
+        ]
+      },
+      {
+        "text": "elexn44",
+        "indices": [
+          106,
+          114
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "WG_Gervais",
+        "name": "W | L L | A |V|",
+        "id": 49651268,
+        "id_str": "49651268",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1428721732714643461,
+        "id_str": "1428721732714643461",
+        "indices": [
+          115,
+          138
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428721732714643461/pu/img/XtJ2WEQF1UIQSorD.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428721732714643461/pu/img/XtJ2WEQF1UIQSorD.jpg",
+        "url": "https://t.co/4Y6ulISEwc",
+        "display_url": "pic.twitter.com/4Y6ulISEwc",
+        "expanded_url": "https://twitter.com/WG_Gervais/status/1428725231800225793/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1428725231800225793,
+        "source_status_id_str": "1428725231800225793",
+        "source_user_id": 49651268,
+        "source_user_id_str": "49651268"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1428721732714643461,
+        "id_str": "1428721732714643461",
+        "indices": [
+          115,
+          138
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428721732714643461/pu/img/XtJ2WEQF1UIQSorD.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428721732714643461/pu/img/XtJ2WEQF1UIQSorD.jpg",
+        "url": "https://t.co/4Y6ulISEwc",
+        "display_url": "pic.twitter.com/4Y6ulISEwc",
+        "expanded_url": "https://twitter.com/WG_Gervais/status/1428725231800225793/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1428725231800225793,
+        "source_status_id_str": "1428725231800225793",
+        "source_user_id": 49651268,
+        "source_user_id_str": "49651268",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 139989,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1428721732714643461/pu/vid/1280x720/oj7lzEHa76oQiCb6.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1428721732714643461/pu/pl/q7CccJ83QEomCRFD.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1428721732714643461/pu/vid/480x270/gdx5zHExq8bdpzcR.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1428721732714643461/pu/vid/640x360/7HzxCu5AlqeB3ZKa.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 49651268,
+            "id_str": "49651268",
+            "name": "W | L L | A |V|",
+            "screen_name": "WG_Gervais",
+            "location": "Techno-Fascist State of Karens",
+            "description": "Filmmaker @ https://t.co/IPI7aPELUP LBRY https://t.co/rUtqTiiKlj https://t.co/0CW4k2AIvN Pronouns: Fu Ck/Ja Ck",
+            "url": "https://t.co/CJgpJHPX92",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/CJgpJHPX92",
+                    "expanded_url": "https://www.buymeacoffee.com/katewand",
+                    "display_url": "buymeacoffee.com/katewand",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": [
+                  {
+                    "url": "https://t.co/IPI7aPELUP",
+                    "expanded_url": "http://Very-Opinionated.com",
+                    "display_url": "Very-Opinionated.com",
+                    "indices": [
+                      12,
+                      35
+                    ]
+                  },
+                  {
+                    "url": "https://t.co/rUtqTiiKlj",
+                    "expanded_url": "http://odysee.com/@VeryOpinionatedShow:5",
+                    "display_url": "odysee.com/@VeryOpinionat\u2026",
+                    "indices": [
+                      41,
+                      64
+                    ]
+                  },
+                  {
+                    "url": "https://t.co/0CW4k2AIvN",
+                    "expanded_url": "Https://YouTube.com/c/TheVeryOpinionatedKateWandShow",
+                    "display_url": "YouTube.com/c/TheVeryOpini\u2026",
+                    "indices": [
+                      65,
+                      88
+                    ]
+                  }
+                ]
+              }
+            },
+            "protected": false,
+            "followers_count": 1673,
+            "friends_count": 3332,
+            "listed_count": 10,
+            "created_at": "Mon Jun 22 14:53:52 +0000 2009",
+            "favourites_count": 66917,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17260,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1428739064610631682/8PmnzjgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1428739064610631682/8PmnzjgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/49651268/1629593018",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Aug 20 14:26:54 +0000 2021",
+    "id": 1428725231800225793,
+    "id_str": "1428725231800225793",
+    "text": "Important history lesson from Der F\u00fchrer, Herr Trudeau.\n#VaccinePassports #VoteTrudeauOut #elexn44 https://t.co/4Y6ulISEwc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VaccinePassports",
+          "indices": [
+            56,
+            73
+          ]
+        },
+        {
+          "text": "VoteTrudeauOut",
+          "indices": [
+            74,
+            89
+          ]
+        },
+        {
+          "text": "elexn44",
+          "indices": [
+            90,
+            98
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1428721732714643461,
+          "id_str": "1428721732714643461",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428721732714643461/pu/img/XtJ2WEQF1UIQSorD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428721732714643461/pu/img/XtJ2WEQF1UIQSorD.jpg",
+          "url": "https://t.co/4Y6ulISEwc",
+          "display_url": "pic.twitter.com/4Y6ulISEwc",
+          "expanded_url": "https://twitter.com/WG_Gervais/status/1428725231800225793/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1428721732714643461,
+          "id_str": "1428721732714643461",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428721732714643461/pu/img/XtJ2WEQF1UIQSorD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428721732714643461/pu/img/XtJ2WEQF1UIQSorD.jpg",
+          "url": "https://t.co/4Y6ulISEwc",
+          "display_url": "pic.twitter.com/4Y6ulISEwc",
+          "expanded_url": "https://twitter.com/WG_Gervais/status/1428725231800225793/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 139989,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1428721732714643461/pu/vid/1280x720/oj7lzEHa76oQiCb6.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1428721732714643461/pu/pl/q7CccJ83QEomCRFD.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1428721732714643461/pu/vid/480x270/gdx5zHExq8bdpzcR.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1428721732714643461/pu/vid/640x360/7HzxCu5AlqeB3ZKa.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 49651268,
+      "id_str": "49651268",
+      "name": "W | L L | A |V|",
+      "screen_name": "WG_Gervais",
+      "location": "Techno-Fascist State of Karens",
+      "description": "Filmmaker @ https://t.co/IPI7aPELUP LBRY https://t.co/rUtqTiiKlj https://t.co/0CW4k2AIvN Pronouns: Fu Ck/Ja Ck",
+      "url": "https://t.co/CJgpJHPX92",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/CJgpJHPX92",
+              "expanded_url": "https://www.buymeacoffee.com/katewand",
+              "display_url": "buymeacoffee.com/katewand",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/IPI7aPELUP",
+              "expanded_url": "http://Very-Opinionated.com",
+              "display_url": "Very-Opinionated.com",
+              "indices": [
+                12,
+                35
+              ]
+            },
+            {
+              "url": "https://t.co/rUtqTiiKlj",
+              "expanded_url": "http://odysee.com/@VeryOpinionatedShow:5",
+              "display_url": "odysee.com/@VeryOpinionat\u2026",
+              "indices": [
+                41,
+                64
+              ]
+            },
+            {
+              "url": "https://t.co/0CW4k2AIvN",
+              "expanded_url": "Https://YouTube.com/c/TheVeryOpinionatedKateWandShow",
+              "display_url": "YouTube.com/c/TheVeryOpini\u2026",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1673,
+      "friends_count": 3332,
+      "listed_count": 10,
+      "created_at": "Mon Jun 22 14:53:52 +0000 2009",
+      "favourites_count": 66917,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17260,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1428739064610631682/8PmnzjgF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1428739064610631682/8PmnzjgF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/49651268/1629593018",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 123,
+    "favorite_count": 242,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "de"
+  },
+  "is_quote_status": false,
+  "retweet_count": 123,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "de"
+}

@@ -1,0 +1,294 @@
+{
+  "created_at": "Sun Sep 19 18:11:32 +0000 2021",
+  "id": 1439653400128466946,
+  "id_str": "1439653400128466946",
+  "text": "RT @LaserHodl: You do not have to live within the Covid scam anymore. Stop catastophizing. Stop being a victim. Stop complying. Simply move\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LaserHodl",
+        "name": "LaserHodl \ud83d\udef0\u2728",
+        "id": 1274491960019939328,
+        "id_str": "1274491960019939328",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Sep 19 17:54:18 +0000 2021",
+    "id": 1439649063671111686,
+    "id_str": "1439649063671111686",
+    "text": "You do not have to live within the Covid scam anymore. Stop catastophizing. Stop being a victim. Stop complying. Si\u2026 https://t.co/EpAA76c7uj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EpAA76c7uj",
+          "expanded_url": "https://twitter.com/i/web/status/1439649063671111686",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1274491960019939328,
+      "id_str": "1274491960019939328",
+      "name": "LaserHodl \ud83d\udef0\u2728",
+      "screen_name": "LaserHodl",
+      "location": "",
+      "description": "Helping Families Navigate Reset. Champion of Toxicity. Tokens are Time Theft. Saving is Justice. Opt Out at Every Layer. Renaissance Now. #Bitcoin",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11952,
+      "friends_count": 1144,
+      "listed_count": 162,
+      "created_at": "Sat Jun 20 23:59:51 +0000 2020",
+      "favourites_count": 45875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12737,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1446316382472351745/J4lxVkdV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1446316382472351745/J4lxVkdV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274491960019939328/1627971648",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1439410038423134210,
+    "quoted_status_id_str": "1439410038423134210",
+    "quoted_status": {
+      "created_at": "Sun Sep 19 02:04:30 +0000 2021",
+      "id": 1439410038423134210,
+      "id_str": "1439410038423134210",
+      "text": "New York City requires vaccine passports to eat in a restaurant or go to the gym. Meanwhile less than four hours aw\u2026 https://t.co/8kSdPiTRUf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8kSdPiTRUf",
+            "expanded_url": "https://twitter.com/i/web/status/1439410038423134210",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 50772918,
+        "id_str": "50772918",
+        "name": "Clay Travis",
+        "screen_name": "ClayTravis",
+        "location": "Nashville",
+        "description": "https://t.co/GDdmAGFxIU, @outkick @clayandbuck radio 12-3 pm et & @foxbetlive TV show 5 et, author, Republicans Buy Sneakers Too, dad of three boys, lawyer",
+        "url": "https://t.co/5cIt9LNswn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5cIt9LNswn",
+                "expanded_url": "http://www.outkick.com",
+                "display_url": "outkick.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/GDdmAGFxIU",
+                "expanded_url": "http://Outkick.com",
+                "display_url": "Outkick.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 808280,
+        "friends_count": 462,
+        "listed_count": 3939,
+        "created_at": "Thu Jun 25 21:16:40 +0000 2009",
+        "favourites_count": 22481,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 117788,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668983225860034564/PIdSf23G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668983225860034564/PIdSf23G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50772918/1448333179",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 18837,
+      "favorite_count": 93818,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 97,
+    "favorite_count": 664,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1439410038423134210,
+  "quoted_status_id_str": "1439410038423134210",
+  "retweet_count": 97,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

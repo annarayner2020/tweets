@@ -1,0 +1,297 @@
+{
+  "created_at": "Thu Feb 18 14:59:07 +0000 2021",
+  "id": 1362416360437936133,
+  "id_str": "1362416360437936133",
+  "text": "RT @deeksj: Latest week's test-and-trace data: 2,400,724 Innova tests done, 7,548 positive.  That's now 0.31% - below the 0.32% \"false posi\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "deeksj",
+        "name": "Jon Deeks FMedSci",
+        "id": 496394921,
+        "id_str": "496394921",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5326,
+    "friends_count": 897,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7108,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4082,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Feb 18 14:48:30 +0000 2021",
+    "id": 1362413687437488139,
+    "id_str": "1362413687437488139",
+    "text": "Latest week's test-and-trace data: 2,400,724 Innova tests done, 7,548 positive.  That's now 0.31% - below the 0.32%\u2026 https://t.co/GK2ZA1d7Dt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GK2ZA1d7Dt",
+          "expanded_url": "https://twitter.com/i/web/status/1362413687437488139",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 496394921,
+      "id_str": "496394921",
+      "name": "Jon Deeks FMedSci",
+      "screen_name": "deeksj",
+      "location": "Birmingham, UK",
+      "description": "Biostatistician trying to work out the best ways of evaluating medical tests. Views expressed are my own and do not necessarily reflect my employer or funders.",
+      "url": "https://t.co/7csu48o6Th",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7csu48o6Th",
+              "expanded_url": "https://www.birmingham.ac.uk/staff/profiles/applied-health/deeks-jon.aspx",
+              "display_url": "birmingham.ac.uk/staff/profiles\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10163,
+      "friends_count": 727,
+      "listed_count": 94,
+      "created_at": "Sat Feb 18 22:34:45 +0000 2012",
+      "favourites_count": 710,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2251,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/565191644413046785/Z2swj_CH_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/565191644413046785/Z2swj_CH_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/496394921/1593808590",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1360277931361243136,
+    "quoted_status_id_str": "1360277931361243136",
+    "quoted_status": {
+      "created_at": "Fri Feb 12 17:21:46 +0000 2021",
+      "id": 1360277931361243136,
+      "id_str": "1360277931361243136",
+      "text": "These are Test and Trace results for LFTs in UK. Great the number of positive cases has dropped- incidence is down,\u2026 https://t.co/eZixsNnWGi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eZixsNnWGi",
+            "expanded_url": "https://twitter.com/i/web/status/1360277931361243136",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 496394921,
+        "id_str": "496394921",
+        "name": "Jon Deeks FMedSci",
+        "screen_name": "deeksj",
+        "location": "Birmingham, UK",
+        "description": "Biostatistician trying to work out the best ways of evaluating medical tests. Views expressed are my own and do not necessarily reflect my employer or funders.",
+        "url": "https://t.co/7csu48o6Th",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7csu48o6Th",
+                "expanded_url": "https://www.birmingham.ac.uk/staff/profiles/applied-health/deeks-jon.aspx",
+                "display_url": "birmingham.ac.uk/staff/profiles\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10163,
+        "friends_count": 727,
+        "listed_count": 94,
+        "created_at": "Sat Feb 18 22:34:45 +0000 2012",
+        "favourites_count": 710,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2251,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565191644413046785/Z2swj_CH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565191644413046785/Z2swj_CH_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/496394921/1593808590",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 59,
+      "favorite_count": 182,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 208,
+    "favorite_count": 468,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1360277931361243136,
+  "quoted_status_id_str": "1360277931361243136",
+  "retweet_count": 208,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

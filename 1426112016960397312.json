@@ -1,0 +1,279 @@
+{
+  "created_at": "Fri Aug 13 09:22:55 +0000 2021",
+  "id": 1426112016960397312,
+  "id_str": "1426112016960397312",
+  "text": "The most important issue of the moment. Money. \n\nIf you let them take cash, you are officially digital \ud83d\udc11\n\nSee China\u2026 https://t.co/jfwB7CYPvv",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/jfwB7CYPvv",
+        "expanded_url": "https://twitter.com/i/web/status/1426112016960397312",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1426096023697514498,
+  "quoted_status_id_str": "1426096023697514498",
+  "quoted_status": {
+    "created_at": "Fri Aug 13 08:19:22 +0000 2021",
+    "id": 1426096023697514498,
+    "id_str": "1426096023697514498",
+    "text": "Today is #CashFriday - using more \ud83d\udcb7 in our everyday lives is a revolutionary act.\n\nUSE \nMORE\nCASH https://t.co/E0vmnypmqo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CashFriday",
+          "indices": [
+            9,
+            20
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1426094981572440073,
+          "id_str": "1426094981572440073",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8qB1HiXsAkUVzg.png",
+          "media_url_https": "https://pbs.twimg.com/media/E8qB1HiXsAkUVzg.png",
+          "url": "https://t.co/E0vmnypmqo",
+          "display_url": "pic.twitter.com/E0vmnypmqo",
+          "expanded_url": "https://twitter.com/org_scp/status/1426096023697514498/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1448,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1426094981572440073,
+          "id_str": "1426094981572440073",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8qB1HiXsAkUVzg.png",
+          "media_url_https": "https://pbs.twimg.com/media/E8qB1HiXsAkUVzg.png",
+          "url": "https://t.co/E0vmnypmqo",
+          "display_url": "pic.twitter.com/E0vmnypmqo",
+          "expanded_url": "https://twitter.com/org_scp/status/1426096023697514498/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1448,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1320463487257247744,
+      "id_str": "1320463487257247744",
+      "name": "STOPCOMMONPASS.ORG \u274c",
+      "screen_name": "org_scp",
+      "location": "Global",
+      "description": "Vaccine Passports are the New Abnormal.\n\n| Enquiries: stopcommonpass@pm.me\n| https://t.co/QNOUnauTaz",
+      "url": "https://t.co/gMnmRqJyBh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gMnmRqJyBh",
+              "expanded_url": "https://www.stopcommonpass.org",
+              "display_url": "stopcommonpass.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/QNOUnauTaz",
+              "expanded_url": "http://buymeacoffee.com/stopcommonpass",
+              "display_url": "buymeacoffee.com/stopcommonpass",
+              "indices": [
+                77,
+                100
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 17795,
+      "friends_count": 396,
+      "listed_count": 50,
+      "created_at": "Sun Oct 25 20:33:33 +0000 2020",
+      "favourites_count": 25066,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9866,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1433036140278435840/-z8LBIGy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1433036140278435840/-z8LBIGy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320463487257247744/1605385558",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 186,
+    "favorite_count": 347,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 5,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,304 @@
+{
+  "created_at": "Sat Aug 21 10:41:01 +0000 2021",
+  "id": 1429030775480102912,
+  "id_str": "1429030775480102912",
+  "text": "RT @Francis_Hoar: Tedros should read his own report, from those heady days of October, 2019: https://t.co/ubyGiXAIeM.\n\nActive contract trac\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Francis_Hoar",
+        "name": "Francis Hoar",
+        "id": 142640919,
+        "id_str": "142640919",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ubyGiXAIeM",
+        "expanded_url": "https://apps.who.int/iris/bitstream/handle/10665/329438/9789241516839-eng.pdf",
+        "display_url": "apps.who.int/iris/bitstream\u2026",
+        "indices": [
+          93,
+          116
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Aug 21 08:59:27 +0000 2021",
+    "id": 1429005214829453314,
+    "id_str": "1429005214829453314",
+    "text": "Tedros should read his own report, from those heady days of October, 2019: https://t.co/ubyGiXAIeM.\n\nActive contrac\u2026 https://t.co/N7gDS5OlnW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ubyGiXAIeM",
+          "expanded_url": "https://apps.who.int/iris/bitstream/handle/10665/329438/9789241516839-eng.pdf",
+          "display_url": "apps.who.int/iris/bitstream\u2026",
+          "indices": [
+            75,
+            98
+          ]
+        },
+        {
+          "url": "https://t.co/N7gDS5OlnW",
+          "expanded_url": "https://twitter.com/i/web/status/1429005214829453314",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 142640919,
+      "id_str": "142640919",
+      "name": "Francis Hoar",
+      "screen_name": "Francis_Hoar",
+      "location": "London",
+      "description": "Barrister, specialist in election/public, commercial & employment law. Legal commentator. History, architecture, skiing, singing. There is #ABetterWay.",
+      "url": "https://t.co/RKTOYVXuSE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RKTOYVXuSE",
+              "expanded_url": "https://francishoar.wordpress.com/2020/11/02/recent-articles/",
+              "display_url": "francishoar.wordpress.com/2020/11/02/rec\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40820,
+      "friends_count": 1076,
+      "listed_count": 183,
+      "created_at": "Tue May 11 11:10:42 +0000 2010",
+      "favourites_count": 28272,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 66617,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968039817962557440/uLWoS_8m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968039817962557440/uLWoS_8m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/142640919/1593991458",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1428985927460851713,
+    "quoted_status_id_str": "1428985927460851713",
+    "quoted_status": {
+      "created_at": "Sat Aug 21 07:42:49 +0000 2021",
+      "id": 1428985927460851713,
+      "id_str": "1428985927460851713",
+      "text": "Fool me once, shame on you; fool me twice, shame on me  \"Vaccine on it's own will not end this Pandemic, Surveillan\u2026 https://t.co/DXgb65qmAq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DXgb65qmAq",
+            "expanded_url": "https://twitter.com/i/web/status/1428985927460851713",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 775385104973725696,
+        "id_str": "775385104973725696",
+        "name": "Anneke Rousell",
+        "screen_name": "An_Collective",
+        "location": "A farm in Africa",
+        "description": "Been there. Done that. Got the T-shirt in many sizes. Semi-retired Solo Ager, Wayfarer of the Retirement landscape 2020 and beyond the Rona",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 163,
+        "friends_count": 326,
+        "listed_count": 1,
+        "created_at": "Mon Sep 12 17:26:30 +0000 2016",
+        "favourites_count": 2063,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2500,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1422090038611951617/oiR3QZte_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1422090038611951617/oiR3QZte_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/775385104973725696/1473754141",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 93,
+      "favorite_count": 262,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 117,
+    "favorite_count": 242,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1428985927460851713,
+  "quoted_status_id_str": "1428985927460851713",
+  "retweet_count": 117,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

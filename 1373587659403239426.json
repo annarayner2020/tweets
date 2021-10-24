@@ -1,0 +1,202 @@
+{
+  "created_at": "Sun Mar 21 10:49:52 +0000 2021",
+  "id": 1373587659403239426,
+  "id_str": "1373587659403239426",
+  "text": "In the private sector, if anyone was so spectacularly shit at their job, they would be handed a P45 and sent on the\u2026 https://t.co/dQSTaXGQZ2",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/dQSTaXGQZ2",
+        "expanded_url": "https://twitter.com/i/web/status/1373587659403239426",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1373586370543943683,
+  "quoted_status_id_str": "1373586370543943683",
+  "quoted_status": {
+    "created_at": "Sun Mar 21 10:44:45 +0000 2021",
+    "id": 1373586370543943683,
+    "id_str": "1373586370543943683",
+    "text": "@annarayner2020 Do you think that now all the predictions from this modelling group have been proved wrong that the\u2026 https://t.co/AcMjrsHaTX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "annarayner2020",
+          "name": "Anna Rayner",
+          "id": 1309907616953491457,
+          "id_str": "1309907616953491457",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AcMjrsHaTX",
+          "expanded_url": "https://twitter.com/i/web/status/1373586370543943683",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1373577412223643651,
+    "in_reply_to_status_id_str": "1373577412223643651",
+    "in_reply_to_user_id": 1309907616953491457,
+    "in_reply_to_user_id_str": "1309907616953491457",
+    "in_reply_to_screen_name": "annarayner2020",
+    "user": {
+      "id": 1063018598942339072,
+      "id_str": "1063018598942339072",
+      "name": "Jercuinn",
+      "screen_name": "jercuinn",
+      "location": "Ireland",
+      "description": "I would rather have questions that can\u2019t be answered than answers that can\u2019t be questioned.\u201dR P Feynman",
+      "url": "https://t.co/Ew7tTpbrSC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Ew7tTpbrSC",
+              "expanded_url": "https://scholar.google.com/citations?user=xU0uxTcAAAAJ&hl=en",
+              "display_url": "scholar.google.com/citations?user\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 531,
+      "friends_count": 1116,
+      "listed_count": 0,
+      "created_at": "Thu Nov 15 10:39:18 +0000 2018",
+      "favourites_count": 29551,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7075,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1063026657290788864/o4e7cZr1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063026657290788864/o4e7cZr1_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "retweet_count": 2,
+  "favorite_count": 20,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

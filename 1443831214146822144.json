@@ -1,0 +1,192 @@
+{
+  "created_at": "Fri Oct 01 06:52:41 +0000 2021",
+  "id": 1443831214146822144,
+  "id_str": "1443831214146822144",
+  "text": "Section 666? \n\nhttps://t.co/d8Zo4zWhIM",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/d8Zo4zWhIM",
+        "expanded_url": "https://twitter.com/cynthiamckinney/status/1443752811750174724",
+        "display_url": "twitter.com/cynthiamckinne\u2026",
+        "indices": [
+          15,
+          38
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4683,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1443752811750174724,
+  "quoted_status_id_str": "1443752811750174724",
+  "quoted_status": {
+    "created_at": "Fri Oct 01 01:41:08 +0000 2021",
+    "id": 1443752811750174724,
+    "id_str": "1443752811750174724",
+    "text": "Democrats Slip Plans for $700,000 Vaccine Compliance Fines Under U.S. Code Section 666 Into Budget Bill --Employers\u2026 https://t.co/rWLpKGVEnm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rWLpKGVEnm",
+          "expanded_url": "https://twitter.com/i/web/status/1443752811750174724",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18572546,
+      "id_str": "18572546",
+      "name": "Cynthia McKinney PhD",
+      "screen_name": "cynthiamckinney",
+      "location": "Atlanta, GA",
+      "description": "Former Congresswoman & 2008 Presidential Nominee for the Green Party.",
+      "url": "https://t.co/6k8T3VJ7Cf",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/6k8T3VJ7Cf",
+              "expanded_url": "https://www.allthingscynthiamckinney.com/",
+              "display_url": "allthingscynthiamckinney.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 48900,
+      "friends_count": 2342,
+      "listed_count": 729,
+      "created_at": "Sat Jan 03 04:02:02 +0000 2009",
+      "favourites_count": 20937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 23928,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1253696339180949513/KmeCYBZV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253696339180949513/KmeCYBZV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18572546/1601374317",
+      "profile_link_color": "21C412",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "9EA8A2",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 328,
+    "favorite_count": 468,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

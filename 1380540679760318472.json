@@ -1,0 +1,381 @@
+{
+  "created_at": "Fri Apr 09 15:18:41 +0000 2021",
+  "id": 1380540679760318472,
+  "id_str": "1380540679760318472",
+  "text": "RT @AlanFreestone: People know Central Banks are destroying their savings &amp; purchasing power through money printing. This is an attempt to\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AlanFreestone",
+        "name": "Alan Freestone",
+        "id": 592201973,
+        "id_str": "592201973",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Apr 09 10:58:09 +0000 2021",
+    "id": 1380475110977593346,
+    "id_str": "1380475110977593346",
+    "text": "People know Central Banks are destroying their savings &amp; purchasing power through money printing. This is an attemp\u2026 https://t.co/NaAWq4RLrh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/NaAWq4RLrh",
+          "expanded_url": "https://twitter.com/i/web/status/1380475110977593346",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 592201973,
+      "id_str": "592201973",
+      "name": "Alan Freestone",
+      "screen_name": "AlanFreestone",
+      "location": "Birmingham, England",
+      "description": "#Bitcoin REMNANT. Free man. \nSelf-sovereignty has never been more important.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2542,
+      "friends_count": 1684,
+      "listed_count": 59,
+      "created_at": "Sun May 27 22:45:41 +0000 2012",
+      "favourites_count": 97292,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17975,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1363179410434781190/6YMB9ois_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363179410434781190/6YMB9ois_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/592201973/1629628025",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1380471699787841538,
+    "quoted_status_id_str": "1380471699787841538",
+    "quoted_status": {
+      "created_at": "Fri Apr 09 10:44:35 +0000 2021",
+      "id": 1380471699787841538,
+      "id_str": "1380471699787841538",
+      "text": "More money into stocks in the past five months than the last 12 years https://t.co/61ifGrgSJ4 https://t.co/ZRpHaDkv4d",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/61ifGrgSJ4",
+            "expanded_url": "http://dlvr.it/RxJj5v",
+            "display_url": "dlvr.it/RxJj5v",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1380471698244345857,
+            "id_str": "1380471698244345857",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyhrsgxVoAEBF2t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyhrsgxVoAEBF2t.jpg",
+            "url": "https://t.co/ZRpHaDkv4d",
+            "display_url": "pic.twitter.com/ZRpHaDkv4d",
+            "expanded_url": "https://twitter.com/CityAM/status/1380471699787841538/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 839,
+                "h": 523,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 839,
+                "h": 523,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 424,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1380471698244345857,
+            "id_str": "1380471698244345857",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyhrsgxVoAEBF2t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyhrsgxVoAEBF2t.jpg",
+            "url": "https://t.co/ZRpHaDkv4d",
+            "display_url": "pic.twitter.com/ZRpHaDkv4d",
+            "expanded_url": "https://twitter.com/CityAM/status/1380471699787841538/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 839,
+                "h": 523,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 839,
+                "h": 523,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 424,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 45840503,
+        "id_str": "45840503",
+        "name": "City A.M.",
+        "screen_name": "CityAM",
+        "location": "London, England",
+        "description": "London's business newspaper - News, Opinion, Analysis and Sports, 24/7 via https://t.co/uawxH6L1lo. \n\nSign up for our free 3x daily news alerts via https://t.co/mgignptfoL",
+        "url": "https://t.co/QIKZT4adDH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/QIKZT4adDH",
+                "expanded_url": "http://www.cityam.com",
+                "display_url": "cityam.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/uawxH6L1lo",
+                "expanded_url": "http://cityam.com",
+                "display_url": "cityam.com",
+                "indices": [
+                  75,
+                  98
+                ]
+              },
+              {
+                "url": "https://t.co/mgignptfoL",
+                "expanded_url": "http://cityam.com/newsletters/",
+                "display_url": "cityam.com/newsletters/",
+                "indices": [
+                  148,
+                  171
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 70305,
+        "friends_count": 841,
+        "listed_count": 1578,
+        "created_at": "Tue Jun 09 13:53:06 +0000 2009",
+        "favourites_count": 2175,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 194701,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1F7CAB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/882244135255764993/imaO0-Wi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/882244135255764993/imaO0-Wi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45840503/1610903669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1380471699787841538,
+  "quoted_status_id_str": "1380471699787841538",
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

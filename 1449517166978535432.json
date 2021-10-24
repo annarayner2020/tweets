@@ -1,0 +1,210 @@
+{
+  "created_at": "Sat Oct 16 23:26:37 +0000 2021",
+  "id": 1449517166978535432,
+  "id_str": "1449517166978535432",
+  "text": "RT @SabinaWalker18: 1/x \ud83d\udc47\ud83d\udc47\ud83d\udc47\nCopied\n\n\u201cTravelling without a vax passport is now being made possible friends \ud83c\udf39\n\nIntroducing #FreedomTravelAlli\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SabinaWalker18",
+        "name": "Sabina Walker \ud83d\ude00 Master Appl Science (Neuroscience",
+        "id": 1029496778855309312,
+        "id_str": "1029496778855309312",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Oct 16 17:57:39 +0000 2021",
+    "id": 1449434376962334721,
+    "id_str": "1449434376962334721",
+    "text": "1/x \ud83d\udc47\ud83d\udc47\ud83d\udc47\nCopied\n\n\u201cTravelling without a vax passport is now being made possible friends \ud83c\udf39\n\nIntroducing\u2026 https://t.co/CuEi4TuHT9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CuEi4TuHT9",
+          "expanded_url": "https://twitter.com/i/web/status/1449434376962334721",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1029496778855309312,
+      "id_str": "1029496778855309312",
+      "name": "Sabina Walker \ud83d\ude00 Master Appl Science (Neuroscience",
+      "screen_name": "SabinaWalker18",
+      "location": "Sydney NSW Australia",
+      "description": "Blocked 3X\nHere \u2935\ufe0f\nSOS-SAVE OUR SCIENCE, SAVE OUR SOULS\nhttps://t.co/y16sStcXqk\n#NoLockdown\n#NoVaxPassports\nhttps://t.co/Obs5X71xwB",
+      "url": "https://t.co/xYeJnR0diQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xYeJnR0diQ",
+              "expanded_url": "https://painmatters.wordpress.com",
+              "display_url": "painmatters.wordpress.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/y16sStcXqk",
+              "expanded_url": "https://t.me/SOSsaveOURscienceSAVEourSOULS",
+              "display_url": "t.me/SOSsaveOURscie\u2026",
+              "indices": [
+                56,
+                79
+              ]
+            },
+            {
+              "url": "https://t.co/Obs5X71xwB",
+              "expanded_url": "http://linkedin.com/in/sabinawalker",
+              "display_url": "linkedin.com/in/sabinawalker",
+              "indices": [
+                108,
+                131
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2167,
+      "friends_count": 1098,
+      "listed_count": 22,
+      "created_at": "Tue Aug 14 22:35:33 +0000 2018",
+      "favourites_count": 14446,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19792,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1342349819327627264/eE_MRyPw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342349819327627264/eE_MRyPw_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029496778855309312/1604196318",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 27,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 9,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

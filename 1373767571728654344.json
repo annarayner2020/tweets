@@ -1,0 +1,486 @@
+{
+  "created_at": "Sun Mar 21 22:44:47 +0000 2021",
+  "id": 1373767571728654344,
+  "id_str": "1373767571728654344",
+  "text": "RT @pcrclaims: Love you! \u2763\ufe0f What beautiful voices! #Manchesterprotest https://t.co/ia2vqErqg3",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Manchesterprotest",
+        "indices": [
+          51,
+          69
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "pcrclaims",
+        "name": "PCRclaims\ud83c\udf38",
+        "id": 1330266621810778114,
+        "id_str": "1330266621810778114",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1373665231898079235,
+        "id_str": "1373665231898079235",
+        "indices": [
+          70,
+          93
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373665231898079235/pu/img/j_t0owvJ_MGho1Oq.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373665231898079235/pu/img/j_t0owvJ_MGho1Oq.jpg",
+        "url": "https://t.co/ia2vqErqg3",
+        "display_url": "pic.twitter.com/ia2vqErqg3",
+        "expanded_url": "https://twitter.com/pcrclaims/status/1373665276009578497/video/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 750,
+            "h": 860,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 593,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 860,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1373665276009578497,
+        "source_status_id_str": "1373665276009578497",
+        "source_user_id": 1330266621810778114,
+        "source_user_id_str": "1330266621810778114"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1373665231898079235,
+        "id_str": "1373665231898079235",
+        "indices": [
+          70,
+          93
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373665231898079235/pu/img/j_t0owvJ_MGho1Oq.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373665231898079235/pu/img/j_t0owvJ_MGho1Oq.jpg",
+        "url": "https://t.co/ia2vqErqg3",
+        "display_url": "pic.twitter.com/ia2vqErqg3",
+        "expanded_url": "https://twitter.com/pcrclaims/status/1373665276009578497/video/1",
+        "type": "video",
+        "sizes": {
+          "medium": {
+            "w": 750,
+            "h": 860,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 593,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 860,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1373665276009578497,
+        "source_status_id_str": "1373665276009578497",
+        "source_user_id": 1330266621810778114,
+        "source_user_id_str": "1330266621810778114",
+        "video_info": {
+          "aspect_ratio": [
+            75,
+            86
+          ],
+          "duration_millis": 15927,
+          "variants": [
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1373665231898079235/pu/vid/480x550/wr3pAqF2gRr9bb8B.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1373665231898079235/pu/vid/720x824/PqfUCOJGtF3qvOkn.mp4?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1373665231898079235/pu/vid/320x366/xS0XXEltdoZ30lRa.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1373665231898079235/pu/pl/ZVlroV3YalyatG_I.m3u8?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 1330266621810778114,
+            "id_str": "1330266621810778114",
+            "name": "PCRclaims\ud83c\udf38",
+            "screen_name": "pcrclaims",
+            "location": "Edinburgh, Scotland",
+            "description": "PCR mass testing created a disproportionate state of fear in the nation drawing unmerited attention to \u201ccases\u201d instead of disease. Time for a @LiberalSpring\ud83c\udf38",
+            "url": "https://t.co/TXJ0Dy08md",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/TXJ0Dy08md",
+                    "expanded_url": "https://pcrclaims.co.uk",
+                    "display_url": "pcrclaims.co.uk",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 37201,
+            "friends_count": 297,
+            "listed_count": 167,
+            "created_at": "Sat Nov 21 21:47:51 +0000 2020",
+            "favourites_count": 1570,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4615,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1352286847863566336/ijaNQO_D_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352286847863566336/ijaNQO_D_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330266621810778114/1622885860",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Mar 21 15:58:17 +0000 2021",
+    "id": 1373665276009578497,
+    "id_str": "1373665276009578497",
+    "text": "Love you! \u2763\ufe0f What beautiful voices! #Manchesterprotest https://t.co/ia2vqErqg3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Manchesterprotest",
+          "indices": [
+            36,
+            54
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1373665231898079235,
+          "id_str": "1373665231898079235",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373665231898079235/pu/img/j_t0owvJ_MGho1Oq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373665231898079235/pu/img/j_t0owvJ_MGho1Oq.jpg",
+          "url": "https://t.co/ia2vqErqg3",
+          "display_url": "pic.twitter.com/ia2vqErqg3",
+          "expanded_url": "https://twitter.com/pcrclaims/status/1373665276009578497/video/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 750,
+              "h": 860,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 593,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 860,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1373665231898079235,
+          "id_str": "1373665231898079235",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373665231898079235/pu/img/j_t0owvJ_MGho1Oq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373665231898079235/pu/img/j_t0owvJ_MGho1Oq.jpg",
+          "url": "https://t.co/ia2vqErqg3",
+          "display_url": "pic.twitter.com/ia2vqErqg3",
+          "expanded_url": "https://twitter.com/pcrclaims/status/1373665276009578497/video/1",
+          "type": "video",
+          "sizes": {
+            "medium": {
+              "w": 750,
+              "h": 860,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 593,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 860,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              75,
+              86
+            ],
+            "duration_millis": 15927,
+            "variants": [
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1373665231898079235/pu/vid/480x550/wr3pAqF2gRr9bb8B.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1373665231898079235/pu/vid/720x824/PqfUCOJGtF3qvOkn.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1373665231898079235/pu/vid/320x366/xS0XXEltdoZ30lRa.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1373665231898079235/pu/pl/ZVlroV3YalyatG_I.m3u8?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1330266621810778114,
+      "id_str": "1330266621810778114",
+      "name": "PCRclaims\ud83c\udf38",
+      "screen_name": "pcrclaims",
+      "location": "Edinburgh, Scotland",
+      "description": "PCR mass testing created a disproportionate state of fear in the nation drawing unmerited attention to \u201ccases\u201d instead of disease. Time for a @LiberalSpring\ud83c\udf38",
+      "url": "https://t.co/TXJ0Dy08md",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/TXJ0Dy08md",
+              "expanded_url": "https://pcrclaims.co.uk",
+              "display_url": "pcrclaims.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 37201,
+      "friends_count": 297,
+      "listed_count": 167,
+      "created_at": "Sat Nov 21 21:47:51 +0000 2020",
+      "favourites_count": 1570,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4615,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1352286847863566336/ijaNQO_D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352286847863566336/ijaNQO_D_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330266621810778114/1622885860",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 451,
+    "favorite_count": 1387,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 451,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

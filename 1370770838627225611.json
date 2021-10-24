@@ -1,0 +1,374 @@
+{
+  "created_at": "Sat Mar 13 16:16:50 +0000 2021",
+  "id": 1370770838627225611,
+  "id_str": "1370770838627225611",
+  "text": "RT @baggiebirdd: Unbelievable - is this basically what is happening in the UK? @SteveBakerHW @DesmondSwayne @CharlesWalkerMP @grahambradymp",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "baggiebirdd",
+        "name": "robert healey \ud83c\udf38",
+        "id": 215406319,
+        "id_str": "215406319",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "SteveBakerHW",
+        "name": "Steve Baker MP FRSA",
+        "id": 15157283,
+        "id_str": "15157283",
+        "indices": [
+          79,
+          92
+        ]
+      },
+      {
+        "screen_name": "DesmondSwayne",
+        "name": "Desmond Swayne",
+        "id": 1633543440,
+        "id_str": "1633543440",
+        "indices": [
+          93,
+          107
+        ]
+      },
+      {
+        "screen_name": "CharlesWalkerMP",
+        "name": "Charles Walker MP",
+        "id": 1145687208030081024,
+        "id_str": "1145687208030081024",
+        "indices": [
+          108,
+          124
+        ]
+      },
+      {
+        "screen_name": "grahambradymp",
+        "name": "Graham Brady MP",
+        "id": 37212789,
+        "id_str": "37212789",
+        "indices": [
+          125,
+          139
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5406,
+    "friends_count": 956,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7636,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4565,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Mar 13 15:56:06 +0000 2021",
+    "id": 1370765623224107009,
+    "id_str": "1370765623224107009",
+    "text": "Unbelievable - is this basically what is happening in the UK? @SteveBakerHW @DesmondSwayne @CharlesWalkerMP\u2026 https://t.co/Hm6XXmjyVs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SteveBakerHW",
+          "name": "Steve Baker MP FRSA",
+          "id": 15157283,
+          "id_str": "15157283",
+          "indices": [
+            62,
+            75
+          ]
+        },
+        {
+          "screen_name": "DesmondSwayne",
+          "name": "Desmond Swayne",
+          "id": 1633543440,
+          "id_str": "1633543440",
+          "indices": [
+            76,
+            90
+          ]
+        },
+        {
+          "screen_name": "CharlesWalkerMP",
+          "name": "Charles Walker MP",
+          "id": 1145687208030081024,
+          "id_str": "1145687208030081024",
+          "indices": [
+            91,
+            107
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Hm6XXmjyVs",
+          "expanded_url": "https://twitter.com/i/web/status/1370765623224107009",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 215406319,
+      "id_str": "215406319",
+      "name": "robert healey \ud83c\udf38",
+      "screen_name": "baggiebirdd",
+      "location": "Tamworth, England",
+      "description": "East stand ticket holder. I am the opposition fans nemesis.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1808,
+      "friends_count": 2057,
+      "listed_count": 14,
+      "created_at": "Sat Nov 13 21:11:51 +0000 2010",
+      "favourites_count": 31355,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 28706,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1341434779821109248/qlne2Qgd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341434779821109248/qlne2Qgd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/215406319/1632238232",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1370740859046612993,
+    "quoted_status_id_str": "1370740859046612993",
+    "quoted_status": {
+      "created_at": "Sat Mar 13 14:17:42 +0000 2021",
+      "id": 1370740859046612993,
+      "id_str": "1370740859046612993",
+      "text": "Short video analysis of the https://t.co/H90VfQKMUx leaked emails!\nPlease retweet widely, tagging Irish politicians\u2026 https://t.co/fxksKTVHGi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H90VfQKMUx",
+            "expanded_url": "http://Gript.ie",
+            "display_url": "Gript.ie",
+            "indices": [
+              28,
+              51
+            ]
+          },
+          {
+            "url": "https://t.co/fxksKTVHGi",
+            "expanded_url": "https://twitter.com/i/web/status/1370740859046612993",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2383882980,
+        "id_str": "2383882980",
+        "name": "Ivor Cummins",
+        "screen_name": "FatEmperor",
+        "location": "Ireland",
+        "description": "Technical Manager / Team Leader, Biochemical Engineer, Complex Problem Solving Specialist, Technologist https://t.co/mLhZnC1KGq @PanData19 Member #CAC #CVD #RootCause",
+        "url": "http://t.co/tVfArmbN3L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/tVfArmbN3L",
+                "expanded_url": "http://www.thefatemperor.com",
+                "display_url": "thefatemperor.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/mLhZnC1KGq",
+                "expanded_url": "http://SmilesMatter.info",
+                "display_url": "SmilesMatter.info",
+                "indices": [
+                  104,
+                  127
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 141354,
+        "friends_count": 10695,
+        "listed_count": 1448,
+        "created_at": "Tue Mar 11 15:31:46 +0000 2014",
+        "favourites_count": 154894,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 113445,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341199030467108869/TBu25r6t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341199030467108869/TBu25r6t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2383882980/1621713436",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 829,
+      "favorite_count": 1071,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 43,
+    "favorite_count": 76,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1370740859046612993,
+  "quoted_status_id_str": "1370740859046612993",
+  "retweet_count": 43,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

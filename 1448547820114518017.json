@@ -1,0 +1,199 @@
+{
+  "created_at": "Thu Oct 14 07:14:47 +0000 2021",
+  "id": 1448547820114518017,
+  "id_str": "1448547820114518017",
+  "text": "RT @rejectthegreat1: @miss_anthrop75 Oh it's serious.  And now that people have volunteered to be injected with ticking time bombs there wi\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "rejectthegreat1",
+        "name": "Reject The great reset",
+        "id": 1345050175841198085,
+        "id_str": "1345050175841198085",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "miss_anthrop75",
+        "name": "Miss Anthropist 2.0 \ud83c\udf38 #NoVaccinePassportsAnywhere",
+        "id": 1370536202089209856,
+        "id_str": "1370536202089209856",
+        "indices": [
+          21,
+          36
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 13 22:26:16 +0000 2021",
+    "id": 1448414813323939843,
+    "id_str": "1448414813323939843",
+    "text": "@miss_anthrop75 Oh it's serious.  And now that people have volunteered to be injected with ticking time bombs there\u2026 https://t.co/L52m9jLDBe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "miss_anthrop75",
+          "name": "Miss Anthropist 2.0 \ud83c\udf38 #NoVaccinePassportsAnywhere",
+          "id": 1370536202089209856,
+          "id_str": "1370536202089209856",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L52m9jLDBe",
+          "expanded_url": "https://twitter.com/i/web/status/1448414813323939843",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1448412388353511429,
+    "in_reply_to_status_id_str": "1448412388353511429",
+    "in_reply_to_user_id": 1370536202089209856,
+    "in_reply_to_user_id_str": "1370536202089209856",
+    "in_reply_to_screen_name": "miss_anthrop75",
+    "user": {
+      "id": 1345050175841198085,
+      "id_str": "1345050175841198085",
+      "name": "Reject The great reset",
+      "screen_name": "rejectthegreat1",
+      "location": "Wales",
+      "description": "No one is blinder than he who will not see.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3880,
+      "friends_count": 4972,
+      "listed_count": 6,
+      "created_at": "Fri Jan 01 16:52:17 +0000 2021",
+      "favourites_count": 36287,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17820,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1345050664276262914/6t60Fhd7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345050664276262914/6t60Fhd7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345050175841198085/1609630737",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 82,
+    "favorite_count": 390,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 82,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

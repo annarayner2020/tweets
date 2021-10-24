@@ -1,0 +1,200 @@
+{
+  "created_at": "Tue Mar 30 09:59:18 +0000 2021",
+  "id": 1376836423819616256,
+  "id_str": "1376836423819616256",
+  "text": "RT @BorisJohnson_MP: Just because I got sacked twice for lying, cheated on my first wife with my second wife, cheated on my second wife wit\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BorisJohnson_MP",
+        "name": "Parody Boris Johnson",
+        "id": 955157661212987392,
+        "id_str": "955157661212987392",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Mar 28 08:43:36 +0000 2021",
+    "id": 1376092598687916036,
+    "id_str": "1376092598687916036",
+    "text": "Just because I got sacked twice for lying, cheated on my first wife with my second wife, cheated on my second wife\u2026 https://t.co/iLKJ0uGPP7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iLKJ0uGPP7",
+          "expanded_url": "https://twitter.com/i/web/status/1376092598687916036",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 955157661212987392,
+      "id_str": "955157661212987392",
+      "name": "Parody Boris Johnson",
+      "screen_name": "BorisJohnson_MP",
+      "location": "Blighty",
+      "description": "Like the real PM, only honest. I also do the Parody Boris Johnson Podcast. Support the show via Patreon \u27a1\ufe0f  https://t.co/cGamx1tgke\nSubscribe and listen \u2b07\ufe0f",
+      "url": "https://t.co/MnnQdKRbvV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MnnQdKRbvV",
+              "expanded_url": "https://podfollow.com/the-parody-boris-johnson-podcast",
+              "display_url": "podfollow.com/the-parody-bor\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/cGamx1tgke",
+              "expanded_url": "http://bit.ly/3rPDJG3",
+              "display_url": "bit.ly/3rPDJG3",
+              "indices": [
+                108,
+                131
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 188658,
+      "friends_count": 901,
+      "listed_count": 373,
+      "created_at": "Sun Jan 21 19:18:27 +0000 2018",
+      "favourites_count": 14011,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 21866,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1414465401736638465/EhRUsx7i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414465401736638465/EhRUsx7i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/955157661212987392/1617274515",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6638,
+    "favorite_count": 28431,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 6638,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

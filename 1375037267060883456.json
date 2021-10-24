@@ -1,0 +1,508 @@
+{
+  "created_at": "Thu Mar 25 10:50:06 +0000 2021",
+  "id": 1375037267060883456,
+  "id_str": "1375037267060883456",
+  "text": "RT @Bobby_Network: Belgium, politicians leading the way. https://t.co/MnhAjuUKn6",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Bobby_Network",
+        "name": "Bobby Rajesh Malhotra \u30c4 \u03c8",
+        "id": 85569220,
+        "id_str": "85569220",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1374510324229935117,
+        "id_str": "1374510324229935117",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374510324229935117/pu/img/qH7aGeTKjpG8bQ0q.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374510324229935117/pu/img/qH7aGeTKjpG8bQ0q.jpg",
+        "url": "https://t.co/MnhAjuUKn6",
+        "display_url": "pic.twitter.com/MnhAjuUKn6",
+        "expanded_url": "https://twitter.com/Bobby_Network/status/1374510491767173129/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 612,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 385,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 612,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1374510491767173129,
+        "source_status_id_str": "1374510491767173129",
+        "source_user_id": 85569220,
+        "source_user_id_str": "85569220"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1374510324229935117,
+        "id_str": "1374510324229935117",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374510324229935117/pu/img/qH7aGeTKjpG8bQ0q.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374510324229935117/pu/img/qH7aGeTKjpG8bQ0q.jpg",
+        "url": "https://t.co/MnhAjuUKn6",
+        "display_url": "pic.twitter.com/MnhAjuUKn6",
+        "expanded_url": "https://twitter.com/Bobby_Network/status/1374510491767173129/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 612,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 385,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 612,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1374510491767173129,
+        "source_status_id_str": "1374510491767173129",
+        "source_user_id": 85569220,
+        "source_user_id_str": "85569220",
+        "video_info": {
+          "aspect_ratio": [
+            17,
+            30
+          ],
+          "duration_millis": 7834,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1374510324229935117/pu/vid/612x1080/7lVyeC9DWiruLpp-.mp4?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1374510324229935117/pu/vid/320x564/RBFOpGLlBuXFRdaQ.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1374510324229935117/pu/pl/u85Rwv6IjV-mLsGM.m3u8?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1374510324229935117/pu/vid/480x846/Y2CiUOOIHyJKaTAh.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 85569220,
+            "id_str": "85569220",
+            "name": "Bobby Rajesh Malhotra \u30c4 \u03c8",
+            "screen_name": "Bobby_Network",
+            "location": "Vienna",
+            "description": "Dissecting #SocialEngineering. My artistic method is accompanied by high political content.\n\nSubstack: https://t.co/mdDvGm5BBf\nJoin: https://t.co/F7hUWMBg6U",
+            "url": "https://t.co/dZ7HEoSSJ2",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/dZ7HEoSSJ2",
+                    "expanded_url": "https://bobbyrajeshmalhotra.tumblr.com",
+                    "display_url": "bobbyrajeshmalhotra.tumblr.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": [
+                  {
+                    "url": "https://t.co/mdDvGm5BBf",
+                    "expanded_url": "http://bobbynetwork.substack.com",
+                    "display_url": "bobbynetwork.substack.com",
+                    "indices": [
+                      103,
+                      126
+                    ]
+                  },
+                  {
+                    "url": "https://t.co/F7hUWMBg6U",
+                    "expanded_url": "http://t.me/bobbynetwork",
+                    "display_url": "t.me/bobbynetwork",
+                    "indices": [
+                      133,
+                      156
+                    ]
+                  }
+                ]
+              }
+            },
+            "protected": false,
+            "followers_count": 14100,
+            "friends_count": 2138,
+            "listed_count": 148,
+            "created_at": "Tue Oct 27 13:32:46 +0000 2009",
+            "favourites_count": 18405,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 15248,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1332032200922046467/YEy_iV7H_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332032200922046467/YEy_iV7H_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/85569220/1617117104",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Mar 23 23:56:53 +0000 2021",
+    "id": 1374510491767173129,
+    "id_str": "1374510491767173129",
+    "text": "Belgium, politicians leading the way. https://t.co/MnhAjuUKn6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1374510324229935117,
+          "id_str": "1374510324229935117",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374510324229935117/pu/img/qH7aGeTKjpG8bQ0q.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374510324229935117/pu/img/qH7aGeTKjpG8bQ0q.jpg",
+          "url": "https://t.co/MnhAjuUKn6",
+          "display_url": "pic.twitter.com/MnhAjuUKn6",
+          "expanded_url": "https://twitter.com/Bobby_Network/status/1374510491767173129/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 612,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 612,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1374510324229935117,
+          "id_str": "1374510324229935117",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374510324229935117/pu/img/qH7aGeTKjpG8bQ0q.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374510324229935117/pu/img/qH7aGeTKjpG8bQ0q.jpg",
+          "url": "https://t.co/MnhAjuUKn6",
+          "display_url": "pic.twitter.com/MnhAjuUKn6",
+          "expanded_url": "https://twitter.com/Bobby_Network/status/1374510491767173129/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 612,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 612,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              17,
+              30
+            ],
+            "duration_millis": 7834,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1374510324229935117/pu/vid/612x1080/7lVyeC9DWiruLpp-.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1374510324229935117/pu/vid/320x564/RBFOpGLlBuXFRdaQ.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1374510324229935117/pu/pl/u85Rwv6IjV-mLsGM.m3u8?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1374510324229935117/pu/vid/480x846/Y2CiUOOIHyJKaTAh.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 85569220,
+      "id_str": "85569220",
+      "name": "Bobby Rajesh Malhotra \u30c4 \u03c8",
+      "screen_name": "Bobby_Network",
+      "location": "Vienna",
+      "description": "Dissecting #SocialEngineering. My artistic method is accompanied by high political content.\n\nSubstack: https://t.co/mdDvGm5BBf\nJoin: https://t.co/F7hUWMBg6U",
+      "url": "https://t.co/dZ7HEoSSJ2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/dZ7HEoSSJ2",
+              "expanded_url": "https://bobbyrajeshmalhotra.tumblr.com",
+              "display_url": "bobbyrajeshmalhotra.tumblr.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/mdDvGm5BBf",
+              "expanded_url": "http://bobbynetwork.substack.com",
+              "display_url": "bobbynetwork.substack.com",
+              "indices": [
+                103,
+                126
+              ]
+            },
+            {
+              "url": "https://t.co/F7hUWMBg6U",
+              "expanded_url": "http://t.me/bobbynetwork",
+              "display_url": "t.me/bobbynetwork",
+              "indices": [
+                133,
+                156
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 14100,
+      "friends_count": 2138,
+      "listed_count": 148,
+      "created_at": "Tue Oct 27 13:32:46 +0000 2009",
+      "favourites_count": 18405,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 15248,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1332032200922046467/YEy_iV7H_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332032200922046467/YEy_iV7H_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/85569220/1617117104",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2391,
+    "favorite_count": 4321,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2391,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

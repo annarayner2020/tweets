@@ -1,0 +1,319 @@
+{
+  "created_at": "Sat Aug 14 18:15:43 +0000 2021",
+  "id": 1426608489934344198,
+  "id_str": "1426608489934344198",
+  "text": "RT @Francis_Hoar: He\u2019s a grotty little sexist coward who blocks those who don\u2019t buy into his dogma. https://t.co/FHFpUzOUNd",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Francis_Hoar",
+        "name": "Francis Hoar",
+        "id": 142640919,
+        "id_str": "142640919",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/FHFpUzOUNd",
+        "expanded_url": "https://twitter.com/skepticalzebra/status/1426515887033569282",
+        "display_url": "twitter.com/skepticalzebra\u2026",
+        "indices": [
+          100,
+          123
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Aug 14 16:37:33 +0000 2021",
+    "id": 1426583784540024836,
+    "id_str": "1426583784540024836",
+    "text": "He\u2019s a grotty little sexist coward who blocks those who don\u2019t buy into his dogma. https://t.co/FHFpUzOUNd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FHFpUzOUNd",
+          "expanded_url": "https://twitter.com/skepticalzebra/status/1426515887033569282",
+          "display_url": "twitter.com/skepticalzebra\u2026",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 142640919,
+      "id_str": "142640919",
+      "name": "Francis Hoar",
+      "screen_name": "Francis_Hoar",
+      "location": "London",
+      "description": "Barrister, specialist in election/public, commercial & employment law. Legal commentator. History, architecture, skiing, singing. There is #ABetterWay.",
+      "url": "https://t.co/RKTOYVXuSE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RKTOYVXuSE",
+              "expanded_url": "https://francishoar.wordpress.com/2020/11/02/recent-articles/",
+              "display_url": "francishoar.wordpress.com/2020/11/02/rec\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40820,
+      "friends_count": 1076,
+      "listed_count": 183,
+      "created_at": "Tue May 11 11:10:42 +0000 2010",
+      "favourites_count": 28272,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 66618,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968039817962557440/uLWoS_8m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968039817962557440/uLWoS_8m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/142640919/1593991458",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1426515887033569282,
+    "quoted_status_id_str": "1426515887033569282",
+    "quoted_status": {
+      "created_at": "Sat Aug 14 12:07:45 +0000 2021",
+      "id": 1426515887033569282,
+      "id_str": "1426515887033569282",
+      "text": "So @bealelab has blocked me. After repeatedly attacking my anonymity &amp; calling a pile on. When quizzed on his hypoc\u2026 https://t.co/Pae1nnIQn6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bealelab",
+            "name": "Rupert Beale",
+            "id": 608568292,
+            "id_str": "608568292",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Pae1nnIQn6",
+            "expanded_url": "https://twitter.com/i/web/status/1426515887033569282",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1274648814180347904,
+        "id_str": "1274648814180347904",
+        "name": "Amy \ud83e\udd93",
+        "screen_name": "skepticalzebra",
+        "location": "",
+        "description": "Liberal leftie. Doctor, Bkgd in Ethics. Reviews: \u201csuperficially mundane\u201d, \u201cnot so spectacular\u201d, tweets in a \u201ctone of threatening flippancy\u201d. Not an actual zebra",
+        "url": "https://t.co/K73qj4rgRM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/K73qj4rgRM",
+                "expanded_url": "https://unherd.com/author/skeptical-zebra/",
+                "display_url": "unherd.com/author/skeptic\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13125,
+        "friends_count": 1100,
+        "listed_count": 93,
+        "created_at": "Sun Jun 21 10:22:29 +0000 2020",
+        "favourites_count": 59623,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 21453,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1432685908243922946/qDuJdakK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432685908243922946/qDuJdakK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274648814180347904/1629423061",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 139,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 19,
+    "favorite_count": 151,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1426515887033569282,
+  "quoted_status_id_str": "1426515887033569282",
+  "retweet_count": 19,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,256 @@
+{
+  "created_at": "Sun Jan 24 08:58:14 +0000 2021",
+  "id": 1353265845372379143,
+  "id_str": "1353265845372379143",
+  "text": "This is very, very concerning.\n\nWhere is the debate, the evidence? https://t.co/HGagNuafbA",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/HGagNuafbA",
+        "expanded_url": "https://twitter.com/hendopolis/status/1353097636505657345",
+        "display_url": "twitter.com/hendopolis/sta\u2026",
+        "indices": [
+          67,
+          90
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5176,
+    "friends_count": 889,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6566,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3652,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1353097636505657345,
+  "quoted_status_id_str": "1353097636505657345",
+  "quoted_status": {
+    "created_at": "Sat Jan 23 21:49:50 +0000 2021",
+    "id": 1353097636505657345,
+    "id_str": "1353097636505657345",
+    "text": "TELEGRAPH FRONT: Cabinet to back guarded hotel quarantine #TomorrowsPapersToday https://t.co/7GdFTDPUtk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TomorrowsPapersToday",
+          "indices": [
+            58,
+            79
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1353097631329882112,
+          "id_str": "1353097631329882112",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/EscrIG3XEAAxx5d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EscrIG3XEAAxx5d.jpg",
+          "url": "https://t.co/7GdFTDPUtk",
+          "display_url": "pic.twitter.com/7GdFTDPUtk",
+          "expanded_url": "https://twitter.com/hendopolis/status/1353097636505657345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 547,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 310,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1787,
+              "h": 815,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1353097631329882112,
+          "id_str": "1353097631329882112",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/EscrIG3XEAAxx5d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EscrIG3XEAAxx5d.jpg",
+          "url": "https://t.co/7GdFTDPUtk",
+          "display_url": "pic.twitter.com/7GdFTDPUtk",
+          "expanded_url": "https://twitter.com/hendopolis/status/1353097636505657345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 547,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 310,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1787,
+              "h": 815,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16692859,
+      "id_str": "16692859",
+      "name": "Neil Henderson",
+      "screen_name": "hendopolis",
+      "location": "Maine Rd",
+      "description": "BBC Newsdesk and #tomorrowspaperstoday chap. #MCFC addict, cat slave and bleeder of radiators. Not an offical BBC account.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 99207,
+      "friends_count": 7692,
+      "listed_count": 1520,
+      "created_at": "Sat Oct 11 03:59:16 +0000 2008",
+      "favourites_count": 27648,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 72243,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/522146754473762816/5NJVM3Y4_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/522146754473762816/5NJVM3Y4_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16692859/1627455260",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCD",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 88,
+    "favorite_count": 122,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 7,
+  "favorite_count": 37,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,305 @@
+{
+  "created_at": "Wed Mar 31 13:27:25 +0000 2021",
+  "id": 1377251187179786241,
+  "id_str": "1377251187179786241",
+  "text": "RT @abirballan: Children should:\n1. go back to school face to face.\n2. play and socialize\n3. participate in sports and cultural activities\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "abirballan",
+        "name": "Abir Ballan",
+        "id": 569970630,
+        "id_str": "569970630",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Mar 31 12:55:25 +0000 2021",
+    "id": 1377243134212632577,
+    "id_str": "1377243134212632577",
+    "text": "Children should:\n1. go back to school face to face.\n2. play and socialize\n3. participate in sports and cultural act\u2026 https://t.co/Nf58CuGhEI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Nf58CuGhEI",
+          "expanded_url": "https://twitter.com/i/web/status/1377243134212632577",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 569970630,
+      "id_str": "569970630",
+      "name": "Abir Ballan",
+      "screen_name": "abirballan",
+      "location": "",
+      "description": "@PanData19 member of executive committee| Masters in Public Health| Psychology| Education | Children\u2019s Author| I do not consent to the new abnormal.",
+      "url": "https://t.co/L4BlcLVh6m",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/L4BlcLVh6m",
+              "expanded_url": "https://www.pandata19.org/",
+              "display_url": "pandata19.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 37236,
+      "friends_count": 534,
+      "listed_count": 287,
+      "created_at": "Thu May 03 11:14:47 +0000 2012",
+      "favourites_count": 7856,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9408,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1320671112880152577/xXivOqmJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320671112880152577/xXivOqmJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/569970630/1601284104",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1375875275251191813,
+    "quoted_status_id_str": "1375875275251191813",
+    "quoted_status": {
+      "created_at": "Sat Mar 27 18:20:02 +0000 2021",
+      "id": 1375875275251191813,
+      "id_str": "1375875275251191813",
+      "text": "More lies from the #Israel Government\n\n\u201cCorona is not a game, children\nYour sweet child may kill your neighbour. \nD\u2026 https://t.co/5JGKj8kQFi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Israel",
+            "indices": [
+              19,
+              26
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5JGKj8kQFi",
+            "expanded_url": "https://twitter.com/i/web/status/1375875275251191813",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1344007017862750208,
+        "id_str": "1344007017862750208",
+        "name": "Freedom Israel \ud83d\ude42",
+        "screen_name": "FreedomIsrael_",
+        "location": "Israel",
+        "description": "Freedom Israel is a grassroots organisation which aims to ensure that the people of Israel are given the choice to make their own decisions",
+        "url": "https://t.co/okgJwqog6q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/okgJwqog6q",
+                "expanded_url": "http://FreedomIsrael.org",
+                "display_url": "FreedomIsrael.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 14902,
+        "friends_count": 5351,
+        "listed_count": 66,
+        "created_at": "Tue Dec 29 19:47:19 +0000 2020",
+        "favourites_count": 2972,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8650,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1348875769213313024/grQqkvpy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348875769213313024/grQqkvpy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344007017862750208/1610431933",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 34,
+      "favorite_count": 88,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 76,
+    "favorite_count": 233,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1375875275251191813,
+  "quoted_status_id_str": "1375875275251191813",
+  "retweet_count": 76,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

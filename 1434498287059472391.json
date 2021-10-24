@@ -1,0 +1,318 @@
+{
+  "created_at": "Sun Sep 05 12:46:57 +0000 2021",
+  "id": 1434498287059472391,
+  "id_str": "1434498287059472391",
+  "text": "RT @NickHudsonCT: The direction of flow is totalitarian. The injections do not prevent infection or transmission, so there is no medical or\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NickHudsonCT",
+        "name": "Nick Hudson",
+        "id": 1055641334063751169,
+        "id_str": "1055641334063751169",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Sep 04 07:27:32 +0000 2021",
+    "id": 1434055511385808897,
+    "id_str": "1434055511385808897",
+    "text": "The direction of flow is totalitarian. The injections do not prevent infection or transmission, so there is no medi\u2026 https://t.co/xuKOVNGUWh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xuKOVNGUWh",
+          "expanded_url": "https://twitter.com/i/web/status/1434055511385808897",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1055641334063751169,
+      "id_str": "1055641334063751169",
+      "name": "Nick Hudson",
+      "screen_name": "NickHudsonCT",
+      "location": "Cape Town, South Africa",
+      "description": "@Pandata19 chairman, investor, actuary. Thumos is required, not a Great Reset.",
+      "url": "https://t.co/Ll73TbIrlE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Ll73TbIrlE",
+              "expanded_url": "http://www.pandata.org",
+              "display_url": "pandata.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 53493,
+      "friends_count": 590,
+      "listed_count": 340,
+      "created_at": "Fri Oct 26 02:04:41 +0000 2018",
+      "favourites_count": 42882,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13344,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1342483379745419265/uIxW6VIg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342483379745419265/uIxW6VIg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055641334063751169/1540521238",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1426660530958200833,
+    "quoted_status_id_str": "1426660530958200833",
+    "quoted_status": {
+      "created_at": "Sat Aug 14 21:42:31 +0000 2021",
+      "id": 1426660530958200833,
+      "id_str": "1426660530958200833",
+      "text": "Vaccine passports for concerts.\nDoes the science line up with this widespread panic?\n@phish @WidespreadPanic\u2026 https://t.co/rCRfm4mgAg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "phish",
+            "name": "Phish",
+            "id": 14503997,
+            "id_str": "14503997",
+            "indices": [
+              85,
+              91
+            ]
+          },
+          {
+            "screen_name": "WidespreadPanic",
+            "name": "Widespread Panic",
+            "id": 23458786,
+            "id_str": "23458786",
+            "indices": [
+              92,
+              108
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rCRfm4mgAg",
+            "expanded_url": "https://twitter.com/i/web/status/1426660530958200833",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 33177553,
+        "id_str": "33177553",
+        "name": "Kevin McKernan \ud83d\ude42",
+        "screen_name": "Kevin_McKernan",
+        "location": "Marblehead, MA",
+        "description": "Cannabis Genome Project,2011. Developed the SOLiD sequencer. R&D lead Human Genome Project at MIT/WIBR",
+        "url": "https://t.co/3gXYoI8k1C",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3gXYoI8k1C",
+                "expanded_url": "http://medicinalgenomics.com",
+                "display_url": "medicinalgenomics.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24246,
+        "friends_count": 1920,
+        "listed_count": 298,
+        "created_at": "Sun Apr 19 10:58:59 +0000 2009",
+        "favourites_count": 35331,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18457,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402102134762573826/vHsBW4dv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402102134762573826/vHsBW4dv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33177553/1416355284",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 126,
+      "favorite_count": 256,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 469,
+    "favorite_count": 948,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1426660530958200833,
+  "quoted_status_id_str": "1426660530958200833",
+  "retweet_count": 469,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

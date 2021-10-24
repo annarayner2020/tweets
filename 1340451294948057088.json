@@ -1,0 +1,393 @@
+{
+  "created_at": "Sun Dec 20 00:17:47 +0000 2020",
+  "id": 1340451294948057088,
+  "id_str": "1340451294948057088",
+  "text": "RT @Kevin_McKernan: @carlheneghan when did evidence matter? https://t.co/HBfglDntXH",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Kevin_McKernan",
+        "name": "Kevin McKernan \ud83d\ude42",
+        "id": 33177553,
+        "id_str": "33177553",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "carlheneghan",
+        "name": "Carl Heneghan",
+        "id": 44098174,
+        "id_str": "44098174",
+        "indices": [
+          20,
+          33
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1340390177139777538,
+        "id_str": "1340390177139777538",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EpoFw7DW4AI1W8J.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpoFw7DW4AI1W8J.jpg",
+        "url": "https://t.co/HBfglDntXH",
+        "display_url": "pic.twitter.com/HBfglDntXH",
+        "expanded_url": "https://twitter.com/Kevin_McKernan/status/1340390188359569408/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 498,
+            "h": 364,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 498,
+            "h": 364,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 498,
+            "h": 364,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1340390188359569408,
+        "source_status_id_str": "1340390188359569408",
+        "source_user_id": 33177553,
+        "source_user_id_str": "33177553"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1340390177139777538,
+        "id_str": "1340390177139777538",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EpoFw7DW4AI1W8J.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpoFw7DW4AI1W8J.jpg",
+        "url": "https://t.co/HBfglDntXH",
+        "display_url": "pic.twitter.com/HBfglDntXH",
+        "expanded_url": "https://twitter.com/Kevin_McKernan/status/1340390188359569408/photo/1",
+        "type": "animated_gif",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 498,
+            "h": 364,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 498,
+            "h": 364,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 498,
+            "h": 364,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1340390188359569408,
+        "source_status_id_str": "1340390188359569408",
+        "source_user_id": 33177553,
+        "source_user_id_str": "33177553",
+        "video_info": {
+          "aspect_ratio": [
+            249,
+            182
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/EpoFw7DW4AI1W8J.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5182,
+    "friends_count": 873,
+    "listed_count": 13,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6141,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3283,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Dec 19 20:14:58 +0000 2020",
+    "id": 1340390188359569408,
+    "id_str": "1340390188359569408",
+    "text": "@carlheneghan when did evidence matter? https://t.co/HBfglDntXH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "carlheneghan",
+          "name": "Carl Heneghan",
+          "id": 44098174,
+          "id_str": "44098174",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1340390177139777538,
+          "id_str": "1340390177139777538",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EpoFw7DW4AI1W8J.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpoFw7DW4AI1W8J.jpg",
+          "url": "https://t.co/HBfglDntXH",
+          "display_url": "pic.twitter.com/HBfglDntXH",
+          "expanded_url": "https://twitter.com/Kevin_McKernan/status/1340390188359569408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 498,
+              "h": 364,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 498,
+              "h": 364,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 498,
+              "h": 364,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1340390177139777538,
+          "id_str": "1340390177139777538",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EpoFw7DW4AI1W8J.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpoFw7DW4AI1W8J.jpg",
+          "url": "https://t.co/HBfglDntXH",
+          "display_url": "pic.twitter.com/HBfglDntXH",
+          "expanded_url": "https://twitter.com/Kevin_McKernan/status/1340390188359569408/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 498,
+              "h": 364,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 498,
+              "h": 364,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 498,
+              "h": 364,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              249,
+              182
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EpoFw7DW4AI1W8J.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1340389063472365572,
+    "in_reply_to_status_id_str": "1340389063472365572",
+    "in_reply_to_user_id": 44098174,
+    "in_reply_to_user_id_str": "44098174",
+    "in_reply_to_screen_name": "carlheneghan",
+    "user": {
+      "id": 33177553,
+      "id_str": "33177553",
+      "name": "Kevin McKernan \ud83d\ude42",
+      "screen_name": "Kevin_McKernan",
+      "location": "Marblehead",
+      "description": "Cannabis Genome Project,2011. Developed the SOLiD sequencer. R&D lead Human Genome Project at MIT/WIBR",
+      "url": "https://t.co/3gXYoI8k1C",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3gXYoI8k1C",
+              "expanded_url": "http://medicinalgenomics.com",
+              "display_url": "medicinalgenomics.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 23347,
+      "friends_count": 1884,
+      "listed_count": 283,
+      "created_at": "Sun Apr 19 10:58:59 +0000 2009",
+      "favourites_count": 32906,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17636,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1402102134762573826/vHsBW4dv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402102134762573826/vHsBW4dv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33177553/1416355284",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 167,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 8,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

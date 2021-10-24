@@ -1,0 +1,270 @@
+{
+  "created_at": "Sun Sep 26 07:25:59 +0000 2021",
+  "id": 1442027654601973760,
+  "id_str": "1442027654601973760",
+  "text": "The devil hiding in plain sight. https://t.co/mDHeyxgFXV",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/mDHeyxgFXV",
+        "expanded_url": "https://twitter.com/jen95873143/status/1441853598699114497",
+        "display_url": "twitter.com/jen95873143/st\u2026",
+        "indices": [
+          33,
+          56
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1441853598699114497,
+  "quoted_status_id_str": "1441853598699114497",
+  "quoted_status": {
+    "created_at": "Sat Sep 25 19:54:20 +0000 2021",
+    "id": 1441853598699114497,
+    "id_str": "1441853598699114497",
+    "text": "@InterBang @JoeBlob20 @DarnelSugarfoo @567Neil @KatieJ04560306 @drdavidbull @LettingFocus @BreesAnna @boocles42\u2026 https://t.co/d0lx8W6YYo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "InterBang",
+          "name": "InterBang",
+          "id": 1200270705369272320,
+          "id_str": "1200270705369272320",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "JoeBlob20",
+          "name": "@Joe Blob20 for the Slog & Saul Bollocks Alliance",
+          "id": 1049929977507012608,
+          "id_str": "1049929977507012608",
+          "indices": [
+            11,
+            21
+          ]
+        },
+        {
+          "screen_name": "DarnelSugarfoo",
+          "name": "Rosie's National Strike",
+          "id": 936238338356404224,
+          "id_str": "936238338356404224",
+          "indices": [
+            22,
+            37
+          ]
+        },
+        {
+          "screen_name": "567Neil",
+          "name": "Neil",
+          "id": 814187117014384641,
+          "id_str": "814187117014384641",
+          "indices": [
+            38,
+            46
+          ]
+        },
+        {
+          "screen_name": "KatieJ04560306",
+          "name": "Katie \u271d Don't take the Mark \ud83d\udc89 & Resist \ud83d\udc89 Tyranny",
+          "id": 1377364517819047936,
+          "id_str": "1377364517819047936",
+          "indices": [
+            47,
+            62
+          ]
+        },
+        {
+          "screen_name": "drdavidbull",
+          "name": "Dr David Bull",
+          "id": 22464893,
+          "id_str": "22464893",
+          "indices": [
+            63,
+            75
+          ]
+        },
+        {
+          "screen_name": "LettingFocus",
+          "name": "David Lawrenson",
+          "id": 22779332,
+          "id_str": "22779332",
+          "indices": [
+            76,
+            89
+          ]
+        },
+        {
+          "screen_name": "BreesAnna",
+          "name": "Anna Brees",
+          "id": 702798054357909504,
+          "id_str": "702798054357909504",
+          "indices": [
+            90,
+            100
+          ]
+        },
+        {
+          "screen_name": "boocles42",
+          "name": "Chris Buckley\ud83d\ude42",
+          "id": 1471947782,
+          "id_str": "1471947782",
+          "indices": [
+            101,
+            111
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d0lx8W6YYo",
+          "expanded_url": "https://twitter.com/i/web/status/1441853598699114497",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1441823761976729600,
+    "in_reply_to_status_id_str": "1441823761976729600",
+    "in_reply_to_user_id": 1200270705369272320,
+    "in_reply_to_user_id_str": "1200270705369272320",
+    "in_reply_to_screen_name": "InterBang",
+    "user": {
+      "id": 1135326704929390592,
+      "id_str": "1135326704929390592",
+      "name": "jen",
+      "screen_name": "jen95873143",
+      "location": "",
+      "description": "gab: @jen95873143",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2234,
+      "friends_count": 4997,
+      "listed_count": 9,
+      "created_at": "Sun Jun 02 23:25:54 +0000 2019",
+      "favourites_count": 51216,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 75155,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 3,
+  "favorite_count": 8,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

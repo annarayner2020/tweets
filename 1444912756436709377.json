@@ -1,0 +1,195 @@
+{
+  "created_at": "Mon Oct 04 06:30:20 +0000 2021",
+  "id": 1444912756436709377,
+  "id_str": "1444912756436709377",
+  "text": "Perhaps that should be his triplet tagline instead\n\nBoris Brings Bollocks https://t.co/AMHNLt0s6X",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/AMHNLt0s6X",
+        "expanded_url": "https://twitter.com/candacecambden/status/1444911231069003778",
+        "display_url": "twitter.com/candacecambden\u2026",
+        "indices": [
+          74,
+          97
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7759,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1444911231069003778,
+  "quoted_status_id_str": "1444911231069003778",
+  "quoted_status": {
+    "created_at": "Mon Oct 04 06:24:17 +0000 2021",
+    "id": 1444911231069003778,
+    "id_str": "1444911231069003778",
+    "text": "Yep https://t.co/2j78D4wjQp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2j78D4wjQp",
+          "expanded_url": "https://twitter.com/BernieSpofforth/status/1444759201163751427",
+          "display_url": "twitter.com/BernieSpoffort\u2026",
+          "indices": [
+            4,
+            27
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 620162740,
+      "id_str": "620162740",
+      "name": "MayhemMakes \ud83d\ude42\ud83c\udf38",
+      "screen_name": "candacecambden",
+      "location": "Not backing down.",
+      "description": "Working class writer of songs, baker of bread, maker of wine. Mother to three uncommon entities. Dissenter. Think, damn you! #ImDone",
+      "url": "https://t.co/1jNResze0c",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/1jNResze0c",
+              "expanded_url": "http://soundcloud.com/candacecambden",
+              "display_url": "soundcloud.com/candacecambden",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 555,
+      "friends_count": 636,
+      "listed_count": 22,
+      "created_at": "Wed Jun 27 16:54:37 +0000 2012",
+      "favourites_count": 33473,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21464,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "8A2533",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/895034401343631362/IIJ2YiZ7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/895034401343631362/IIJ2YiZ7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620162740/1502227972",
+      "profile_link_color": "0AF539",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "919E70",
+      "profile_text_color": "4D4F4B",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1444759201163751427,
+    "quoted_status_id_str": "1444759201163751427",
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

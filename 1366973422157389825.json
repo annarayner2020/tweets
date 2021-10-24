@@ -1,0 +1,207 @@
+{
+  "created_at": "Wed Mar 03 04:47:15 +0000 2021",
+  "id": 1366973422157389825,
+  "id_str": "1366973422157389825",
+  "text": "RT @louisaclary: Robert F. Kennedy, Jr. on why Fauci will not support #Ivermectin.\nPut down your politics. Whatever side of the aisle you s\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ivermectin",
+        "indices": [
+          70,
+          81
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "louisaclary",
+        "name": "Louisa Clary",
+        "id": 63018484,
+        "id_str": "63018484",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5170,
+    "friends_count": 883,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6367,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3481,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Mar 02 14:19:31 +0000 2021",
+    "id": 1366755049112821761,
+    "id_str": "1366755049112821761",
+    "text": "Robert F. Kennedy, Jr. on why Fauci will not support #Ivermectin.\nPut down your politics. Whatever side of the aisl\u2026 https://t.co/hG4ysdk6Ii",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ivermectin",
+          "indices": [
+            53,
+            64
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hG4ysdk6Ii",
+          "expanded_url": "https://twitter.com/i/web/status/1366755049112821761",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63018484,
+      "id_str": "63018484",
+      "name": "Louisa Clary",
+      "screen_name": "louisaclary",
+      "location": "Nashville, TN & Scottsdale, AZ",
+      "description": "Got COVID? Early treatment prevents hospitalization & death by over 85%. Eminent COVID-treating physicians saving lives are being deleted by Twitter.",
+      "url": "https://t.co/GdPiV4HS3k",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/GdPiV4HS3k",
+              "expanded_url": "https://t.me/joinchat/waJKy223PjkyNDVh",
+              "display_url": "t.me/joinchat/waJKy\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 15161,
+      "friends_count": 1332,
+      "listed_count": 129,
+      "created_at": "Wed Aug 05 03:24:57 +0000 2009",
+      "favourites_count": 5767,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9222,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369099152005754881/8P6LmmkB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369099152005754881/8P6LmmkB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/63018484/1623800782",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 265,
+    "favorite_count": 382,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 265,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

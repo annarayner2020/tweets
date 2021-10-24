@@ -1,0 +1,383 @@
+{
+  "created_at": "Fri Aug 06 11:32:01 +0000 2021",
+  "id": 1423607791575609348,
+  "id_str": "1423607791575609348",
+  "text": "RT @beverleyturner: I have been contacted by many doctors this week who are in a state of crisis because they share the very measured feeli\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "beverleyturner",
+        "name": "Bev Turner \ud83c\udf38",
+        "id": 62469990,
+        "id_str": "62469990",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Aug 06 07:55:49 +0000 2021",
+    "id": 1423553382367776769,
+    "id_str": "1423553382367776769",
+    "text": "I have been contacted by many doctors this week who are in a state of crisis because they share the very measured f\u2026 https://t.co/xtEHu5ntY0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xtEHu5ntY0",
+          "expanded_url": "https://twitter.com/i/web/status/1423553382367776769",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 62469990,
+      "id_str": "62469990",
+      "name": "Bev Turner \ud83c\udf38",
+      "screen_name": "beverleyturner",
+      "location": "assistant@thebevturner.co.uk",
+      "description": "Journalist. Broadcaster. Podcast host. Author of 3 books. Birther of 3 kids.",
+      "url": "https://t.co/KcdoXVqzmt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KcdoXVqzmt",
+              "expanded_url": "http://www.thebevturner.co.uk",
+              "display_url": "thebevturner.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 72321,
+      "friends_count": 4679,
+      "listed_count": 224,
+      "created_at": "Mon Aug 03 08:27:50 +0000 2009",
+      "favourites_count": 11749,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 13652,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1388844939052781568/TcL9zQf3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388844939052781568/TcL9zQf3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/62469990/1616748975",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1421600041014284291,
+    "quoted_status_id_str": "1421600041014284291",
+    "quoted_status": {
+      "created_at": "Sat Jul 31 22:33:56 +0000 2021",
+      "id": 1421600041014284291,
+      "id_str": "1421600041014284291",
+      "text": "Another doctor from new Zealand https://t.co/WFifiWcjTg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1421599994168188928,
+            "id_str": "1421599994168188928",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1421599994168188928/pu/img/JqeP2j21LsTHP5Du.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1421599994168188928/pu/img/JqeP2j21LsTHP5Du.jpg",
+            "url": "https://t.co/WFifiWcjTg",
+            "display_url": "pic.twitter.com/WFifiWcjTg",
+            "expanded_url": "https://twitter.com/waldron_pj/status/1421600041014284291/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 688,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 433,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 688,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1421599994168188928,
+            "id_str": "1421599994168188928",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1421599994168188928/pu/img/JqeP2j21LsTHP5Du.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1421599994168188928/pu/img/JqeP2j21LsTHP5Du.jpg",
+            "url": "https://t.co/WFifiWcjTg",
+            "display_url": "pic.twitter.com/WFifiWcjTg",
+            "expanded_url": "https://twitter.com/waldron_pj/status/1421600041014284291/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 688,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 433,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 688,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                135,
+                86
+              ],
+              "duration_millis": 130733,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1421599994168188928/pu/vid/564x360/hgwPPrpVOMQD3ADp.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1421599994168188928/pu/vid/422x270/GBo41DyYfwC8YQy-.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1421599994168188928/pu/vid/1080x688/aqRUPDz3XxAqqB4h.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1421599994168188928/pu/pl/yOww3MthhcLqFFMn.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1134917958893998080,
+        "id_str": "1134917958893998080",
+        "name": "Pj Waldron \ud83c\udf38",
+        "screen_name": "waldron_pj",
+        "location": "",
+        "description": "VTID",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5238,
+        "friends_count": 5681,
+        "listed_count": 13,
+        "created_at": "Sat Jun 01 20:21:41 +0000 2019",
+        "favourites_count": 59007,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 76915,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1134918190247661569/ImArNZEw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134918190247661569/ImArNZEw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1134917958893998080/1595436102",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2838,
+      "favorite_count": 4855,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1621,
+    "favorite_count": 3274,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1421600041014284291,
+  "quoted_status_id_str": "1421600041014284291",
+  "retweet_count": 1621,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

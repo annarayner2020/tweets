@@ -1,0 +1,324 @@
+{
+  "created_at": "Tue Dec 22 12:01:00 +0000 2020",
+  "id": 1341353041090502657,
+  "id_str": "1341353041090502657",
+  "text": "RT @NickHudsonCT: Changizi has the eye! It is not surprising that people who have fled illiberal societies are the most likely to grasp wha\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NickHudsonCT",
+        "name": "Nick Hudson",
+        "id": 1055641334063751169,
+        "id_str": "1055641334063751169",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5181,
+    "friends_count": 873,
+    "listed_count": 13,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6146,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3291,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Dec 22 06:53:09 +0000 2020",
+    "id": 1341275565228220416,
+    "id_str": "1341275565228220416",
+    "text": "Changizi has the eye! It is not surprising that people who have fled illiberal societies are the most likely to gra\u2026 https://t.co/gNpJgQRYJG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gNpJgQRYJG",
+          "expanded_url": "https://twitter.com/i/web/status/1341275565228220416",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1055641334063751169,
+      "id_str": "1055641334063751169",
+      "name": "Nick Hudson",
+      "screen_name": "NickHudsonCT",
+      "location": "Cape Town, South Africa",
+      "description": "@Pandata19 chairman, investor, actuary. Thumos is required, not a Great Reset.",
+      "url": "https://t.co/Ll73TbIrlE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Ll73TbIrlE",
+              "expanded_url": "http://www.pandata.org",
+              "display_url": "pandata.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 46614,
+      "friends_count": 571,
+      "listed_count": 298,
+      "created_at": "Fri Oct 26 02:04:41 +0000 2018",
+      "favourites_count": 38766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12213,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1342483379745419265/uIxW6VIg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342483379745419265/uIxW6VIg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055641334063751169/1540521238",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1339282595394297860,
+    "quoted_status_id_str": "1339282595394297860",
+    "quoted_status": {
+      "created_at": "Wed Dec 16 18:53:48 +0000 2020",
+      "id": 1339282595394297860,
+      "id_str": "1339282595394297860",
+      "text": "[1]\n\u201cIn reading the history of nations, we find that, like individuals, they have whims &amp; peculiarities; their seas\u2026 https://t.co/hb0dYG0Nyn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hb0dYG0Nyn",
+            "expanded_url": "https://twitter.com/i/web/status/1339282595394297860",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 49445813,
+        "id_str": "49445813",
+        "name": "getrevue.co/profile/markchangizi",
+        "screen_name": "MarkChangizi",
+        "location": "Columbus, OH",
+        "description": "Science Moment series https://t.co/EhVFSDhaGR\nFreeX Newsletter https://t.co/9GfpK8lz1l\nVein Finder & Colorblind Lenses https://t.co/5EtNMrrO4n",
+        "url": "https://t.co/3jSvqxO0Hp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3jSvqxO0Hp",
+                "expanded_url": "https://linktr.ee/Markchangizi",
+                "display_url": "linktr.ee/Markchangizi",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/EhVFSDhaGR",
+                "expanded_url": "http://youtube.com/c/markchangizi",
+                "display_url": "youtube.com/c/markchangizi",
+                "indices": [
+                  22,
+                  45
+                ]
+              },
+              {
+                "url": "https://t.co/9GfpK8lz1l",
+                "expanded_url": "http://getrevue.co/profile/markchangizi",
+                "display_url": "getrevue.co/profile/markch\u2026",
+                "indices": [
+                  63,
+                  86
+                ]
+              },
+              {
+                "url": "https://t.co/5EtNMrrO4n",
+                "expanded_url": "http://VinoOptics.com",
+                "display_url": "VinoOptics.com",
+                "indices": [
+                  119,
+                  142
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 29120,
+        "friends_count": 908,
+        "listed_count": 569,
+        "created_at": "Sun Jun 21 22:10:51 +0000 2009",
+        "favourites_count": 37091,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 63703,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357823810263744512/lbd-T_6D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357823810263744512/lbd-T_6D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49445813/1630605253",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 74,
+      "favorite_count": 196,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 13,
+    "favorite_count": 60,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1339282595394297860,
+  "quoted_status_id_str": "1339282595394297860",
+  "retweet_count": 13,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,191 @@
+{
+  "created_at": "Mon Mar 29 02:49:37 +0000 2021",
+  "id": 1376365902980120576,
+  "id_str": "1376365902980120576",
+  "text": "\u2018To see people defile their children with masks is something totally unbearable to me.\u2019 \n\n@CMO_England\u2026 https://t.co/XB7oHM0lnb",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "CMO_England",
+        "name": "Professor Chris Whitty",
+        "id": 1178622443814084608,
+        "id_str": "1178622443814084608",
+        "indices": [
+          90,
+          102
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/XB7oHM0lnb",
+        "expanded_url": "https://twitter.com/i/web/status/1376365902980120576",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          104,
+          127
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1376270274522460161,
+  "quoted_status_id_str": "1376270274522460161",
+  "quoted_status": {
+    "created_at": "Sun Mar 28 20:29:37 +0000 2021",
+    "id": 1376270274522460161,
+    "id_str": "1376270274522460161",
+    "text": "93 year-old holocaust survivor compares masks to the yellow star but says the current situation is worse. It is ins\u2026 https://t.co/DOKM1HNUcz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DOKM1HNUcz",
+          "expanded_url": "https://twitter.com/i/web/status/1376270274522460161",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1086212368575680512,
+      "id_str": "1086212368575680512",
+      "name": "Joel",
+      "screen_name": "RealJoelSmalley",
+      "location": "Dem. People's Rep. of England",
+      "description": "Calling me anti- this and that is fine. You become that way when you're a critical thinker. Long term, it's good for survival. #LetsGoBrandon",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 48816,
+      "friends_count": 3669,
+      "listed_count": 265,
+      "created_at": "Fri Jan 18 10:43:04 +0000 2019",
+      "favourites_count": 36425,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8447,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1449466834785349638/y1RCIEKj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449466834785349638/y1RCIEKj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086212368575680512/1634234358",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1668,
+    "favorite_count": 3184,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 7,
+  "favorite_count": 23,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

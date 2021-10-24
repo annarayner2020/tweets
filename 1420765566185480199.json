@@ -1,0 +1,374 @@
+{
+  "created_at": "Thu Jul 29 15:18:02 +0000 2021",
+  "id": 1420765566185480199,
+  "id_str": "1420765566185480199",
+  "text": "RT @lopp: https://t.co/eUBkCpPVM9",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "lopp",
+        "name": "Jameson Lopp",
+        "id": 23618940,
+        "id_str": "23618940",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1420489510937403396,
+        "id_str": "1420489510937403396",
+        "indices": [
+          10,
+          33
+        ],
+        "media_url": "http://pbs.twimg.com/media/E7aXryKXoAQILif.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E7aXryKXoAQILif.jpg",
+        "url": "https://t.co/eUBkCpPVM9",
+        "display_url": "pic.twitter.com/eUBkCpPVM9",
+        "expanded_url": "https://twitter.com/lopp/status/1420489515895070725/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 716,
+            "h": 537,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 716,
+            "h": 537,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1420489515895070725,
+        "source_status_id_str": "1420489515895070725",
+        "source_user_id": 23618940,
+        "source_user_id_str": "23618940"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1420489510937403396,
+        "id_str": "1420489510937403396",
+        "indices": [
+          10,
+          33
+        ],
+        "media_url": "http://pbs.twimg.com/media/E7aXryKXoAQILif.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E7aXryKXoAQILif.jpg",
+        "url": "https://t.co/eUBkCpPVM9",
+        "display_url": "pic.twitter.com/eUBkCpPVM9",
+        "expanded_url": "https://twitter.com/lopp/status/1420489515895070725/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 716,
+            "h": 537,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 716,
+            "h": 537,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1420489515895070725,
+        "source_status_id_str": "1420489515895070725",
+        "source_user_id": 23618940,
+        "source_user_id_str": "23618940"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jul 28 21:01:06 +0000 2021",
+    "id": 1420489515895070725,
+    "id_str": "1420489515895070725",
+    "text": "https://t.co/eUBkCpPVM9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1420489510937403396,
+          "id_str": "1420489510937403396",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7aXryKXoAQILif.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7aXryKXoAQILif.jpg",
+          "url": "https://t.co/eUBkCpPVM9",
+          "display_url": "pic.twitter.com/eUBkCpPVM9",
+          "expanded_url": "https://twitter.com/lopp/status/1420489515895070725/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 716,
+              "h": 537,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 716,
+              "h": 537,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1420489510937403396,
+          "id_str": "1420489510937403396",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7aXryKXoAQILif.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7aXryKXoAQILif.jpg",
+          "url": "https://t.co/eUBkCpPVM9",
+          "display_url": "pic.twitter.com/eUBkCpPVM9",
+          "expanded_url": "https://twitter.com/lopp/status/1420489515895070725/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 716,
+              "h": 537,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 716,
+              "h": 537,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23618940,
+      "id_str": "23618940",
+      "name": "Jameson Lopp",
+      "screen_name": "lopp",
+      "location": "Cyberspace",
+      "description": "Cypherpunk \u00b7 Co-founder & CTO @CasaHODL \u00b7 @BTC Times Editor \u00b7 @INXLimited Advisor \u00b7 creator of https://t.co/q2pgFGTJZh, https://t.co/c15g0T3qAv, https://t.co/xUkNreXj20",
+      "url": "https://t.co/d76G9YfU2l",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/d76G9YfU2l",
+              "expanded_url": "https://lopp.net",
+              "display_url": "lopp.net",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/q2pgFGTJZh",
+              "expanded_url": "http://bitcoin.page",
+              "display_url": "bitcoin.page",
+              "indices": [
+                95,
+                118
+              ]
+            },
+            {
+              "url": "https://t.co/c15g0T3qAv",
+              "expanded_url": "http://lightning.how",
+              "display_url": "lightning.how",
+              "indices": [
+                120,
+                143
+              ]
+            },
+            {
+              "url": "https://t.co/xUkNreXj20",
+              "expanded_url": "http://statoshi.info",
+              "display_url": "statoshi.info",
+              "indices": [
+                145,
+                168
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 351913,
+      "friends_count": 242,
+      "listed_count": 6236,
+      "created_at": "Tue Mar 10 17:22:20 +0000 2009",
+      "favourites_count": 17466,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 33454,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1362539312525565956/4tGaZ-Yp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362539312525565956/4tGaZ-Yp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23618940/1433197606",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 454,
+    "favorite_count": 2393,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": false,
+  "retweet_count": 454,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

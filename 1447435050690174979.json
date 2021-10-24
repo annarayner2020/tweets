@@ -1,0 +1,284 @@
+{
+  "created_at": "Mon Oct 11 05:33:02 +0000 2021",
+  "id": 1447435050690174979,
+  "id_str": "1447435050690174979",
+  "text": "RT @timfprice: A genuine pandemic probably wouldn't necessitate ventilating mannequins - or paying crisis actors to pretend to be ill.\n\n#Pl\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "timfprice",
+        "name": "Tim Price \ud83d\ude03",
+        "id": 88006261,
+        "id_str": "88006261",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Oct 11 05:28:41 +0000 2021",
+    "id": 1447433952784957443,
+    "id_str": "1447433952784957443",
+    "text": "A genuine pandemic probably wouldn't necessitate ventilating mannequins - or paying crisis actors to pretend to be\u2026 https://t.co/TTU2uZ10TV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TTU2uZ10TV",
+          "expanded_url": "https://twitter.com/i/web/status/1447433952784957443",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 88006261,
+      "id_str": "88006261",
+      "name": "Tim Price \ud83d\ude03",
+      "screen_name": "timfprice",
+      "location": "London, Great Britain \ud83d\ude03",
+      "description": "Fund manager. Author, 'Investing Through The Looking Glass', 'The War on Cash'. \ud83d\ude03 Keep the faith ! Amor vincit omnia \u2764\ufe0f\ud83d\udcaa\ud83d\ude4f\u271d\ufe0f",
+      "url": "https://t.co/B3fv1hzvVl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/B3fv1hzvVl",
+              "expanded_url": "http://pricevaluepartners.com",
+              "display_url": "pricevaluepartners.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14674,
+      "friends_count": 7866,
+      "listed_count": 159,
+      "created_at": "Fri Nov 06 18:52:45 +0000 2009",
+      "favourites_count": 69654,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 51765,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1133323238216536064/4SI6VN0t_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133323238216536064/4SI6VN0t_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/88006261/1573119042",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1447243569551400961,
+    "quoted_status_id_str": "1447243569551400961",
+    "quoted_status": {
+      "created_at": "Sun Oct 10 16:52:10 +0000 2021",
+      "id": 1447243569551400961,
+      "id_str": "1447243569551400961",
+      "text": "It turns out that it\u2019s been the unvaxed mannequins spreading the virus this entire time.\nThank You CBC\u2026. But why ar\u2026 https://t.co/ZUFcvvmkuY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZUFcvvmkuY",
+            "expanded_url": "https://twitter.com/i/web/status/1447243569551400961",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1083148979984973824,
+        "id_str": "1083148979984973824",
+        "name": "Manny",
+        "screen_name": "Manny70944327",
+        "location": "Okanagan, Alberta ",
+        "description": "Not Manny-Ottawa. Yes, my last name is 70944327, PARLER @Manny007.....From The GTA, Live in B.C., worked out of AB for 34 years. #TrudeauMustGo",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2781,
+        "friends_count": 2439,
+        "listed_count": 2,
+        "created_at": "Wed Jan 09 23:50:15 +0000 2019",
+        "favourites_count": 30628,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40859,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105280692403896322/fiYV9PF7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105280692403896322/fiYV9PF7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083148979984973824/1585772543",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 477,
+      "favorite_count": 1046,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 61,
+    "favorite_count": 143,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1447243569551400961,
+  "quoted_status_id_str": "1447243569551400961",
+  "retweet_count": 61,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

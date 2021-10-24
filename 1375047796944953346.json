@@ -1,0 +1,297 @@
+{
+  "created_at": "Thu Mar 25 11:31:56 +0000 2021",
+  "id": 1375047796944953346,
+  "id_str": "1375047796944953346",
+  "text": "RT @juicemaster: \ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc THERE IS NO REASON ON EARTH TO VACCINATE CHILDREN AGAINST COVID-19 - please, STOP THIS MADNESS! https://t.co/nU\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "juicemaster",
+        "name": "Jason Vale",
+        "id": 6137652,
+        "id_str": "6137652",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Mar 24 19:41:20 +0000 2021",
+    "id": 1374808571188277249,
+    "id_str": "1374808571188277249",
+    "text": "\ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc THERE IS NO REASON ON EARTH TO VACCINATE CHILDREN AGAINST COVID-19 - please, STOP THIS MADNESS! https://t.co/nUzBGzlw3p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nUzBGzlw3p",
+          "expanded_url": "https://twitter.com/talkRADIO/status/1374786556796473351",
+          "display_url": "twitter.com/talkRADIO/stat\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 6137652,
+      "id_str": "6137652",
+      "name": "Jason Vale",
+      "screen_name": "juicemaster",
+      "location": "England",
+      "description": "Sold over 6 million books, made a movie, built a retreat and have been on a mission to Juice The World for 20 years!",
+      "url": "https://t.co/Wp3RO35IE6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Wp3RO35IE6",
+              "expanded_url": "http://www.juicemaster.com",
+              "display_url": "juicemaster.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 55118,
+      "friends_count": 2607,
+      "listed_count": 255,
+      "created_at": "Fri May 18 13:34:47 +0000 2007",
+      "favourites_count": 9332,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 21197,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E9FFA6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1188353409365229568/qn9aSnWg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188353409365229568/qn9aSnWg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/6137652/1572160507",
+      "profile_link_color": "FF9100",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1374786556796473351,
+    "quoted_status_id_str": "1374786556796473351",
+    "quoted_status": {
+      "created_at": "Wed Mar 24 18:13:52 +0000 2021",
+      "id": 1374786556796473351,
+      "id_str": "1374786556796473351",
+      "text": "Children could be vaccinated against Covid-19 as soon as August.\n\nGP Renee Hoenderkamp says children should not rec\u2026 https://t.co/TesxofP7ZS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TesxofP7ZS",
+            "expanded_url": "https://twitter.com/i/web/status/1374786556796473351",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3380282686,
+        "id_str": "3380282686",
+        "name": "talkRADIO",
+        "screen_name": "talkRADIO",
+        "location": "United Kingdom",
+        "description": "The home of talkRADIO and talkRADIO TV.\ntalkTV is coming soon!",
+        "url": "https://t.co/kswWL8Rlo4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/kswWL8Rlo4",
+                "expanded_url": "http://talkradio.tv",
+                "display_url": "talkradio.tv",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 177288,
+        "friends_count": 25,
+        "listed_count": 674,
+        "created_at": "Fri Jul 17 11:48:34 +0000 2015",
+        "favourites_count": 1530,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 82018,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414520027886325766/Y-jNgOl__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414520027886325766/Y-jNgOl__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3380282686/1633604554",
+        "profile_link_color": "EA1C2D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 272,
+      "favorite_count": 756,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 88,
+    "favorite_count": 288,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1374786556796473351,
+  "quoted_status_id_str": "1374786556796473351",
+  "retweet_count": 88,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

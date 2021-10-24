@@ -1,0 +1,279 @@
+{
+  "created_at": "Wed Sep 15 06:43:36 +0000 2021",
+  "id": 1438030721973735426,
+  "id_str": "1438030721973735426",
+  "text": "Communism, neo-feudal digital slavery, fascism - it's all the same: shitty for the end user (you and me). \n\nNo not\u2026 https://t.co/cYRc4qpoqd",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/cYRc4qpoqd",
+        "expanded_url": "https://twitter.com/i/web/status/1438030721973735426",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1437072338420383748,
+  "quoted_status_id_str": "1437072338420383748",
+  "quoted_status": {
+    "created_at": "Sun Sep 12 15:15:19 +0000 2021",
+    "id": 1437072338420383748,
+    "id_str": "1437072338420383748",
+    "text": "SMART YOUNG LADY \ud83d\udc47\u23f0\ud83e\udd70\ud83d\ude07\ud83d\ude4f https://t.co/K6KdTYMQb8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1437072018420215808,
+          "id_str": "1437072018420215808",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1437072018420215808/pu/img/2eduvgLmjvKTetW_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1437072018420215808/pu/img/2eduvgLmjvKTetW_.jpg",
+          "url": "https://t.co/K6KdTYMQb8",
+          "display_url": "pic.twitter.com/K6KdTYMQb8",
+          "expanded_url": "https://twitter.com/TheArchitect009/status/1437072338420383748/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1138,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1138,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1437072018420215808,
+          "id_str": "1437072018420215808",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1437072018420215808/pu/img/2eduvgLmjvKTetW_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1437072018420215808/pu/img/2eduvgLmjvKTetW_.jpg",
+          "url": "https://t.co/K6KdTYMQb8",
+          "display_url": "pic.twitter.com/K6KdTYMQb8",
+          "expanded_url": "https://twitter.com/TheArchitect009/status/1437072338420383748/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1138,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1138,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              320,
+              569
+            ],
+            "duration_millis": 118367,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1437072018420215808/pu/vid/320x568/Y5hOJwYAcTxGtxRM.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1437072018420215808/pu/vid/480x852/G7GMoORSmpA-2l4-.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1437072018420215808/pu/pl/ejTN9LwvL248lhKO.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1437072018420215808/pu/vid/640x1138/cl0YhK4RKnMxeqDf.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1118646607174688769,
+      "id_str": "1118646607174688769",
+      "name": "ANDAZI ELITE #ROGUEREBELS",
+      "screen_name": "TheArchitect009",
+      "location": "Professor Of Constellation V\u2122\ufe0f",
+      "description": "FREEMASONS ARE SPEs (SUPPRESSOR PARASITE ENTITES) I TWEET ALL KINDS OF CRAZY SHIT #WeAreUnderAttack #CodeRed \u26a0\ufe0f\ud83d\udd1e",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9292,
+      "friends_count": 6029,
+      "listed_count": 22,
+      "created_at": "Wed Apr 17 22:45:09 +0000 2019",
+      "favourites_count": 88444,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 59331,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1404159362730532870/iEL0KPB9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404159362730532870/iEL0KPB9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1118646607174688769/1626732943",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1277,
+    "favorite_count": 1800,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 3,
+  "favorite_count": 7,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

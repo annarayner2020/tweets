@@ -1,0 +1,584 @@
+{
+  "created_at": "Tue Aug 10 06:32:06 +0000 2021",
+  "id": 1424981867380551688,
+  "id_str": "1424981867380551688",
+  "text": "RT @Lukewearechange: This video should go viral but it\u2019s most likely going to get banned, ask yourself why?  https://t.co/MscboyexM7",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Lukewearechange",
+        "name": "Luke Rudkowski",
+        "id": 95994080,
+        "id_str": "95994080",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1424573018001612806,
+        "id_str": "1424573018001612806",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1424573018001612806/img/sZjAzcmlbe5aGEHX.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1424573018001612806/img/sZjAzcmlbe5aGEHX.jpg",
+        "url": "https://t.co/MscboyexM7",
+        "display_url": "pic.twitter.com/MscboyexM7",
+        "expanded_url": "https://twitter.com/SebGorka/status/1424603849952829442/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1424603849952829442,
+        "source_status_id_str": "1424603849952829442",
+        "source_user_id": 2417586104,
+        "source_user_id_str": "2417586104"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1424573018001612806,
+        "id_str": "1424573018001612806",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1424573018001612806/img/sZjAzcmlbe5aGEHX.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1424573018001612806/img/sZjAzcmlbe5aGEHX.jpg",
+        "url": "https://t.co/MscboyexM7",
+        "display_url": "pic.twitter.com/MscboyexM7",
+        "expanded_url": "https://twitter.com/SebGorka/status/1424603849952829442/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1424603849952829442,
+        "source_status_id_str": "1424603849952829442",
+        "source_user_id": 2417586104,
+        "source_user_id_str": "2417586104",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 394327,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1424573018001612806/vid/1280x720/ccd80fDhKvW-QH6H.mp4?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1424573018001612806/vid/480x270/ahf5xG-y3eUiZhq0.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1424573018001612806/vid/640x360/mtohy9TTwZ7fycGX.mp4?tag=14"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1424573018001612806/pl/R4aMo1RSK6IxaVns.m3u8?tag=14"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "id": 2417586104,
+            "id_str": "2417586104",
+            "name": "Sebastian Gorka DrG",
+            "screen_name": "SebGorka",
+            "location": "Washington, DC",
+            "description": "DoD Presidential Appointee \ud83d\udd34 Host AMERICAFIRST & The Gorka Reality Check https://t.co/Hot8xkCumn \ud83d\udd34 Get THE WAR FOR AMERICA\u2019S SOUL https://t.co/KNDHLtvHAs",
+            "url": "https://t.co/nWCsFmpzVc",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/nWCsFmpzVc",
+                    "expanded_url": "http://SebGorka.com",
+                    "display_url": "SebGorka.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": [
+                  {
+                    "url": "https://t.co/Hot8xkCumn",
+                    "expanded_url": "http://www.SebGorka.com",
+                    "display_url": "SebGorka.com",
+                    "indices": [
+                      73,
+                      96
+                    ]
+                  },
+                  {
+                    "url": "https://t.co/KNDHLtvHAs",
+                    "expanded_url": "http://www.SebGorkaStore.com",
+                    "display_url": "SebGorkaStore.com",
+                    "indices": [
+                      130,
+                      153
+                    ]
+                  }
+                ]
+              }
+            },
+            "protected": false,
+            "followers_count": 1131823,
+            "friends_count": 5021,
+            "listed_count": 3981,
+            "created_at": "Sat Mar 29 15:31:11 +0000 2014",
+            "favourites_count": 75314,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 67802,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1171596431997755392/FgT6kdne_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171596431997755392/FgT6kdne_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2417586104/1555562371",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5423,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7744,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Aug 09 15:10:07 +0000 2021",
+    "id": 1424749841381568516,
+    "id_str": "1424749841381568516",
+    "text": "This video should go viral but it\u2019s most likely going to get banned, ask yourself why?  https://t.co/MscboyexM7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1424573018001612806,
+          "id_str": "1424573018001612806",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1424573018001612806/img/sZjAzcmlbe5aGEHX.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1424573018001612806/img/sZjAzcmlbe5aGEHX.jpg",
+          "url": "https://t.co/MscboyexM7",
+          "display_url": "pic.twitter.com/MscboyexM7",
+          "expanded_url": "https://twitter.com/SebGorka/status/1424603849952829442/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1424603849952829442,
+          "source_status_id_str": "1424603849952829442",
+          "source_user_id": 2417586104,
+          "source_user_id_str": "2417586104"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1424573018001612806,
+          "id_str": "1424573018001612806",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1424573018001612806/img/sZjAzcmlbe5aGEHX.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1424573018001612806/img/sZjAzcmlbe5aGEHX.jpg",
+          "url": "https://t.co/MscboyexM7",
+          "display_url": "pic.twitter.com/MscboyexM7",
+          "expanded_url": "https://twitter.com/SebGorka/status/1424603849952829442/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1424603849952829442,
+          "source_status_id_str": "1424603849952829442",
+          "source_user_id": 2417586104,
+          "source_user_id_str": "2417586104",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 394327,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1424573018001612806/vid/1280x720/ccd80fDhKvW-QH6H.mp4?tag=14"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1424573018001612806/vid/480x270/ahf5xG-y3eUiZhq0.mp4?tag=14"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1424573018001612806/vid/640x360/mtohy9TTwZ7fycGX.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1424573018001612806/pl/R4aMo1RSK6IxaVns.m3u8?tag=14"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "id": 2417586104,
+              "id_str": "2417586104",
+              "name": "Sebastian Gorka DrG",
+              "screen_name": "SebGorka",
+              "location": "Washington, DC",
+              "description": "DoD Presidential Appointee \ud83d\udd34 Host AMERICAFIRST & The Gorka Reality Check https://t.co/Hot8xkCumn \ud83d\udd34 Get THE WAR FOR AMERICA\u2019S SOUL https://t.co/KNDHLtvHAs",
+              "url": "https://t.co/nWCsFmpzVc",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/nWCsFmpzVc",
+                      "expanded_url": "http://SebGorka.com",
+                      "display_url": "SebGorka.com",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/Hot8xkCumn",
+                      "expanded_url": "http://www.SebGorka.com",
+                      "display_url": "SebGorka.com",
+                      "indices": [
+                        73,
+                        96
+                      ]
+                    },
+                    {
+                      "url": "https://t.co/KNDHLtvHAs",
+                      "expanded_url": "http://www.SebGorkaStore.com",
+                      "display_url": "SebGorkaStore.com",
+                      "indices": [
+                        130,
+                        153
+                      ]
+                    }
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 1131823,
+              "friends_count": 5021,
+              "listed_count": 3981,
+              "created_at": "Sat Mar 29 15:31:11 +0000 2014",
+              "favourites_count": 75314,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": true,
+              "statuses_count": 67802,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1171596431997755392/FgT6kdne_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171596431997755392/FgT6kdne_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2417586104/1555562371",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 95994080,
+      "id_str": "95994080",
+      "name": "Luke Rudkowski",
+      "screen_name": "Lukewearechange",
+      "location": "Brooklyn NY",
+      "description": "\ud83c\uddf5\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 \u201cMr. Rudkowski is no shrinking violet. Armed with a video camera and a YouTube account- NYTIMES",
+      "url": "https://t.co/5SQOVrsSCo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5SQOVrsSCo",
+              "expanded_url": "http://youtube.com/wearechange",
+              "display_url": "youtube.com/wearechange",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190070,
+      "friends_count": 2889,
+      "listed_count": 1659,
+      "created_at": "Thu Dec 10 22:04:56 +0000 2009",
+      "favourites_count": 4297,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 43079,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1199152764825280513/IfkjLZuB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199152764825280513/IfkjLZuB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/95994080/1547747122",
+      "profile_link_color": "4E6085",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8335,
+    "favorite_count": 15477,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 8335,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

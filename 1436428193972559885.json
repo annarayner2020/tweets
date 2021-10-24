@@ -1,0 +1,201 @@
+{
+  "created_at": "Fri Sep 10 20:35:43 +0000 2021",
+  "id": 1436428193972559885,
+  "id_str": "1436428193972559885",
+  "text": "RT @RealEddieHobbs: BIS the Bank for International Settlements aka the Tower of Basel, inscrutable, all powerful, outside sovereign control\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "RealEddieHobbs",
+        "name": "Eddie Hobbs \ud83d\ude42",
+        "id": 88657346,
+        "id_str": "88657346",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 10 18:29:37 +0000 2021",
+    "id": 1436396459017052162,
+    "id_str": "1436396459017052162",
+    "text": "BIS the Bank for International Settlements aka the Tower of Basel, inscrutable, all powerful, outside sovereign con\u2026 https://t.co/A6h8W3PoRF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/A6h8W3PoRF",
+          "expanded_url": "https://twitter.com/i/web/status/1436396459017052162",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 88657346,
+      "id_str": "88657346",
+      "name": "Eddie Hobbs \ud83d\ude42",
+      "screen_name": "RealEddieHobbs",
+      "location": " Retweets not Endorsement",
+      "description": "Investment, Competition, Economics. Moderate; anti Totalitarian + Segregation. Vax for Adults not Healthy Kids https://t.co/LnrcgUgbUo Block Abuse & Stupidity.",
+      "url": "https://t.co/1PkpU3cwAD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/1PkpU3cwAD",
+              "expanded_url": "https://hobbsfinancial.ie",
+              "display_url": "hobbsfinancial.ie",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/LnrcgUgbUo",
+              "expanded_url": "http://hobbsfinancial.ie",
+              "display_url": "hobbsfinancial.ie",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 19283,
+      "friends_count": 2287,
+      "listed_count": 132,
+      "created_at": "Mon Nov 09 12:50:03 +0000 2009",
+      "favourites_count": 668,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 25387,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/930445992297627649/YdvjSwNZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/930445992297627649/YdvjSwNZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/88657346/1633454056",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 80,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 36,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

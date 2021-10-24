@@ -1,0 +1,208 @@
+{
+  "created_at": "Sat Apr 10 23:01:32 +0000 2021",
+  "id": 1381019545868075011,
+  "id_str": "1381019545868075011",
+  "text": "RT @siris68: @annarayner2020 @go_show95 Killanthropist suits him perfectly.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "siris68",
+        "name": "\ud835\udd7e\ud835\udd9e\ud835\udd91\ud835\udd9b\ud835\udd8e\ud835\udd8a\u2766",
+        "id": 789958566425788416,
+        "id_str": "789958566425788416",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "annarayner2020",
+        "name": "Anna Rayner",
+        "id": 1309907616953491457,
+        "id_str": "1309907616953491457",
+        "indices": [
+          13,
+          28
+        ]
+      },
+      {
+        "screen_name": "go_show95",
+        "name": "GoShow95",
+        "id": 945349954100498432,
+        "id_str": "945349954100498432",
+        "indices": [
+          29,
+          39
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Apr 10 21:22:42 +0000 2021",
+    "id": 1380994675125985288,
+    "id_str": "1380994675125985288",
+    "text": "@annarayner2020 @go_show95 Killanthropist suits him perfectly.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "annarayner2020",
+          "name": "Anna Rayner",
+          "id": 1309907616953491457,
+          "id_str": "1309907616953491457",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "go_show95",
+          "name": "GoShow95",
+          "id": 945349954100498432,
+          "id_str": "945349954100498432",
+          "indices": [
+            16,
+            26
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1380991098101903360,
+    "in_reply_to_status_id_str": "1380991098101903360",
+    "in_reply_to_user_id": 1309907616953491457,
+    "in_reply_to_user_id_str": "1309907616953491457",
+    "in_reply_to_screen_name": "annarayner2020",
+    "user": {
+      "id": 789958566425788416,
+      "id_str": "789958566425788416",
+      "name": "\ud835\udd7e\ud835\udd9e\ud835\udd91\ud835\udd9b\ud835\udd8e\ud835\udd8a\u2766",
+      "screen_name": "siris68",
+      "location": "Oud-Beijerland \ud83c\uddf3\ud83c\uddf1",
+      "description": "\ud835\udd04\ud835\udd30 \ud835\udd26\ud835\udd2f\ud835\udd2c\ud835\udd2b \ud835\udd30\ud835\udd25\ud835\udd1e\ud835\udd2f\ud835\udd2d\ud835\udd22\ud835\udd2b\ud835\udd30 \ud835\udd26\ud835\udd2f\ud835\udd2c\ud835\udd2b, \ud835\udd30\ud835\udd2c \ud835\udd2c\ud835\udd2b\ud835\udd22 \ud835\udd2d\ud835\udd22\ud835\udd2f\ud835\udd30\ud835\udd2c\ud835\udd2b \ud835\udd30\ud835\udd25\ud835\udd1e\ud835\udd2f\ud835\udd2d\ud835\udd22\ud835\udd2b\ud835\udd30 \ud835\udd1e\ud835\udd2b\ud835\udd2c\ud835\udd31\ud835\udd25\ud835\udd22\ud835\udd2f \u2694\ufe0f #NoVaccinePassport #StopTheShot  #ClotShot \ud83e\uddae\ud83d\udc15\u200d\ud83e\uddba\ud83d\udc15\ud83c\udfc3\ud83c\udffb\u200d\u2642\ufe0f",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 192,
+      "friends_count": 298,
+      "listed_count": 2,
+      "created_at": "Sat Oct 22 22:36:13 +0000 2016",
+      "favourites_count": 11624,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2168,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1442602852522811392/Qe_tGFjI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442602852522811392/Qe_tGFjI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/789958566425788416/1634567256",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

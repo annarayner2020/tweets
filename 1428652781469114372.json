@@ -1,0 +1,391 @@
+{
+  "created_at": "Fri Aug 20 09:39:00 +0000 2021",
+  "id": 1428652781469114372,
+  "id_str": "1428652781469114372",
+  "text": "RT @danjgregory: People were criticised for using the term \u2018medical apartheid\u2019, however when you witness members of society being discrimin\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "danjgregory",
+        "name": "Dan Astin-Gregory",
+        "id": 320332027,
+        "id_str": "320332027",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Aug 20 08:21:55 +0000 2021",
+    "id": 1428633379705135119,
+    "id_str": "1428633379705135119",
+    "text": "People were criticised for using the term \u2018medical apartheid\u2019, however when you witness members of society being di\u2026 https://t.co/FSFNWSDbNq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FSFNWSDbNq",
+          "expanded_url": "https://twitter.com/i/web/status/1428633379705135119",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 320332027,
+      "id_str": "320332027",
+      "name": "Dan Astin-Gregory",
+      "screen_name": "danjgregory",
+      "location": "United Kingdom",
+      "description": "\u270c\ufe0f Turn ON. Tune IN. Rise UP. Become the leader you were born to be. Together we can change the world. \ud83c\udfa7 Host of The Pandemic Podcast \ud83d\udc47",
+      "url": "https://t.co/2NMRKRLgbv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2NMRKRLgbv",
+              "expanded_url": "http://www.danjgregory.com/pandemic",
+              "display_url": "danjgregory.com/pandemic",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 16946,
+      "friends_count": 2032,
+      "listed_count": 108,
+      "created_at": "Sun Jun 19 18:35:43 +0000 2011",
+      "favourites_count": 606,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4611,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1326913806644162572/mbaVeijC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1326913806644162572/mbaVeijC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/320332027/1614504711",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1428354978515611648,
+    "quoted_status_id_str": "1428354978515611648",
+    "quoted_status": {
+      "created_at": "Thu Aug 19 13:55:39 +0000 2021",
+      "id": 1428354978515611648,
+      "id_str": "1428354978515611648",
+      "text": "REPORT: \ud83e\udd14 Where do we go from here? - French police physically block unvaccinated people from entering supermarket. https://t.co/G8cqqRLPN3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1428354843085664266,
+            "id_str": "1428354843085664266",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428354843085664266/pu/img/yKZRCPfAfFI_CxZX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428354843085664266/pu/img/yKZRCPfAfFI_CxZX.jpg",
+            "url": "https://t.co/G8cqqRLPN3",
+            "display_url": "pic.twitter.com/G8cqqRLPN3",
+            "expanded_url": "https://twitter.com/NewGranada1979/status/1428354978515611648/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 636,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 636,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 636,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1428354843085664266,
+            "id_str": "1428354843085664266",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428354843085664266/pu/img/yKZRCPfAfFI_CxZX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428354843085664266/pu/img/yKZRCPfAfFI_CxZX.jpg",
+            "url": "https://t.co/G8cqqRLPN3",
+            "display_url": "pic.twitter.com/G8cqqRLPN3",
+            "expanded_url": "https://twitter.com/NewGranada1979/status/1428354978515611648/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 636,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 636,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 636,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                53,
+                30
+              ],
+              "duration_millis": 82709,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1428354843085664266/pu/vid/476x270/kYe2DEYu5UtjsxCS.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1428354843085664266/pu/vid/636x360/xEf2gxnMakA6vQF3.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1428354843085664266/pu/pl/A1AZ4Hee9sRpGRYL.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1348341036699979776,
+        "id_str": "1348341036699979776",
+        "name": "New Granada",
+        "screen_name": "NewGranada1979",
+        "location": "Now posting content to #GETTR.",
+        "description": "Banned and censored on all social platforms. These are the stories they do not want you to know about. - #GENX can save America.",
+        "url": "https://t.co/HIdh5Sjdat",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HIdh5Sjdat",
+                "expanded_url": "http://gettr.com/user/newgranada1979",
+                "display_url": "gettr.com/user/newgranad\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7694,
+        "friends_count": 48,
+        "listed_count": 35,
+        "created_at": "Sun Jan 10 18:48:59 +0000 2021",
+        "favourites_count": 504,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3321,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401305830478077952/yELYy1hd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401305830478077952/yELYy1hd_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1348341036699979776/1622930709",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 131,
+      "favorite_count": 239,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 178,
+    "favorite_count": 388,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1428354978515611648,
+  "quoted_status_id_str": "1428354978515611648",
+  "retweet_count": 178,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

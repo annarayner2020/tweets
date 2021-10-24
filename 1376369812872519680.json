@@ -1,0 +1,225 @@
+{
+  "created_at": "Mon Mar 29 03:05:09 +0000 2021",
+  "id": 1376369812872519680,
+  "id_str": "1376369812872519680",
+  "text": "\u2018The regime would have no power if they didn\u2019t act as foot soldiers for tyranny.\u2019\n\n@metpoliceuk - that\u2019s you. https://t.co/Y4ZWGiQt7P",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "metpoliceuk",
+        "name": "Metropolitan Police",
+        "id": 66967746,
+        "id_str": "66967746",
+        "indices": [
+          83,
+          95
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Y4ZWGiQt7P",
+        "expanded_url": "https://twitter.com/AdamBrimson/status/1376107914755198978",
+        "display_url": "twitter.com/AdamBrimson/st\u2026",
+        "indices": [
+          110,
+          133
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1376107914755198978,
+  "quoted_status_id_str": "1376107914755198978",
+  "quoted_status": {
+    "created_at": "Sun Mar 28 09:44:28 +0000 2021",
+    "id": 1376107914755198978,
+    "id_str": "1376107914755198978",
+    "text": "God Bless David Kurten \ud83d\ude4f\ud83d\udd25 https://t.co/HususezY5X",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HususezY5X",
+          "expanded_url": "https://twitter.com/IrishProtector/status/1375774175441326088",
+          "display_url": "twitter.com/IrishProtector\u2026",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2178096652,
+      "id_str": "2178096652",
+      "name": "Adam Brimson Designs",
+      "screen_name": "AdamBrimson",
+      "location": "",
+      "description": "Artist. The Government Will Not Save You\n\nUseful links:\nhttps://t.co/UKOrYQlqIw\n\nBuy me a coffee:\nhttps://t.co/xQnfOUbWVt",
+      "url": "https://t.co/FPeH4HiYJL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/FPeH4HiYJL",
+              "expanded_url": "http://www.adambrimsondesigns.com",
+              "display_url": "adambrimsondesigns.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/UKOrYQlqIw",
+              "expanded_url": "https://linktr.ee/AdamBrimsonDesigns",
+              "display_url": "linktr.ee/AdamBrimsonDes\u2026",
+              "indices": [
+                56,
+                79
+              ]
+            },
+            {
+              "url": "https://t.co/xQnfOUbWVt",
+              "expanded_url": "https://www.buymeacoffee.com/AdamBrimson",
+              "display_url": "buymeacoffee.com/AdamBrimson",
+              "indices": [
+                98,
+                121
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 5574,
+      "friends_count": 2035,
+      "listed_count": 18,
+      "created_at": "Tue Nov 12 11:47:59 +0000 2013",
+      "favourites_count": 25509,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 28842,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1450204069759537157/an8br3oO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450204069759537157/an8br3oO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2178096652/1584009328",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1375774175441326088,
+    "quoted_status_id_str": "1375774175441326088",
+    "retweet_count": 13,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "no"
+  },
+  "retweet_count": 0,
+  "favorite_count": 6,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

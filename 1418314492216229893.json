@@ -1,0 +1,311 @@
+{
+  "created_at": "Thu Jul 22 20:58:20 +0000 2021",
+  "id": 1418314492216229893,
+  "id_str": "1418314492216229893",
+  "text": "RT @MichaelPSenger: As we've seen, this consistent messaging is dangerously effective, even when it's Great Leap Forward-level absurd and c\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MichaelPSenger",
+        "name": "Michael P Senger",
+        "id": 1679362640,
+        "id_str": "1679362640",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jul 22 16:42:08 +0000 2021",
+    "id": 1418250018251677696,
+    "id_str": "1418250018251677696",
+    "text": "As we've seen, this consistent messaging is dangerously effective, even when it's Great Leap Forward-level absurd a\u2026 https://t.co/LzfolaIIWQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LzfolaIIWQ",
+          "expanded_url": "https://twitter.com/i/web/status/1418250018251677696",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1418249000638050306,
+    "in_reply_to_status_id_str": "1418249000638050306",
+    "in_reply_to_user_id": 1679362640,
+    "in_reply_to_user_id_str": "1679362640",
+    "in_reply_to_screen_name": "MichaelPSenger",
+    "user": {
+      "id": 1679362640,
+      "id_str": "1679362640",
+      "name": "Michael P Senger",
+      "screen_name": "MichaelPSenger",
+      "location": "",
+      "description": "Attorney, author of China\u2019s Global Lockdown Propaganda Campaign",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 67248,
+      "friends_count": 15676,
+      "listed_count": 424,
+      "created_at": "Sat Aug 17 23:24:38 +0000 2013",
+      "favourites_count": 208739,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679362640/1597698065",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1418132037517684738,
+    "quoted_status_id_str": "1418132037517684738",
+    "quoted_status": {
+      "created_at": "Thu Jul 22 08:53:20 +0000 2021",
+      "id": 1418132037517684738,
+      "id_str": "1418132037517684738",
+      "text": "Remember when the Euro-American self-appointed arbiters of global human rights were condemning China's 'authoritari\u2026 https://t.co/lGmlCp0mIH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lGmlCp0mIH",
+            "expanded_url": "https://twitter.com/i/web/status/1418132037517684738",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 36912627,
+        "id_str": "36912627",
+        "name": "Carlos Martinez",
+        "screen_name": "agent_of_change",
+        "location": "London",
+        "description": "Co-founder @NoColdWar\n\nCo-editor @socialist_china\n\nWords: https://t.co/3Il8wsHYsb \n\nVideo: https://t.co/D5PEjXI8R0\n\nBeats: https://t.co/KMp4cGD9Fw",
+        "url": "https://t.co/5LaiwuDdRW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LaiwuDdRW",
+                "expanded_url": "https://www.invent-the-future.org",
+                "display_url": "invent-the-future.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/3Il8wsHYsb",
+                "expanded_url": "http://invent-the-future.org",
+                "display_url": "invent-the-future.org",
+                "indices": [
+                  58,
+                  81
+                ]
+              },
+              {
+                "url": "https://t.co/D5PEjXI8R0",
+                "expanded_url": "http://youtube.com/inventthefuture",
+                "display_url": "youtube.com/inventthefuture",
+                "indices": [
+                  91,
+                  114
+                ]
+              },
+              {
+                "url": "https://t.co/KMp4cGD9Fw",
+                "expanded_url": "http://soundcloud.com/agentofchange",
+                "display_url": "soundcloud.com/agentofchange",
+                "indices": [
+                  123,
+                  146
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 16936,
+        "friends_count": 2842,
+        "listed_count": 262,
+        "created_at": "Fri May 01 09:10:13 +0000 2009",
+        "favourites_count": 13018,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 41866,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375714629096202242/WTpe8UQQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375714629096202242/WTpe8UQQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 45,
+      "favorite_count": 209,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 24,
+    "favorite_count": 67,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1418132037517684738,
+  "quoted_status_id_str": "1418132037517684738",
+  "retweet_count": 24,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

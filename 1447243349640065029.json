@@ -1,0 +1,304 @@
+{
+  "created_at": "Sun Oct 10 16:51:17 +0000 2021",
+  "id": 1447243349640065029,
+  "id_str": "1447243349640065029",
+  "text": "RT @AuroriaTwittori: 2009!\nhttps://t.co/jJJYpWRin9",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AuroriaTwittori",
+        "name": "Auroria Twittoria",
+        "id": 610510859,
+        "id_str": "610510859",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/jJJYpWRin9",
+        "expanded_url": "https://twitter.com/constanzag77/status/1388251877255507969",
+        "display_url": "twitter.com/constanzag77/s\u2026",
+        "indices": [
+          27,
+          50
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 10 15:38:42 +0000 2021",
+    "id": 1447225081609048067,
+    "id_str": "1447225081609048067",
+    "text": "2009!\nhttps://t.co/jJJYpWRin9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jJJYpWRin9",
+          "expanded_url": "https://twitter.com/constanzag77/status/1388251877255507969",
+          "display_url": "twitter.com/constanzag77/s\u2026",
+          "indices": [
+            6,
+            29
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 610510859,
+      "id_str": "610510859",
+      "name": "Auroria Twittoria",
+      "screen_name": "AuroriaTwittori",
+      "location": "Internet",
+      "description": "He who starts slinging mud is in my view already wrong.\nvuilspuiterij leidt tot ban\nGab: AuroriaGB @Auroria_Gabboria",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1488,
+      "friends_count": 4826,
+      "listed_count": 3,
+      "created_at": "Sun Jun 17 04:40:57 +0000 2012",
+      "favourites_count": 17385,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 26008,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347596803361959942/ebxoRumf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347596803361959942/ebxoRumf_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1388251877255507969,
+    "quoted_status_id_str": "1388251877255507969",
+    "quoted_status": {
+      "created_at": "Fri Apr 30 22:00:14 +0000 2021",
+      "id": 1388251877255507969,
+      "id_str": "1388251877255507969",
+      "text": "A 10 YEAR OLD WARNING\n\nJane B\u00fcrgermeister had to endure big pressure after exposing Big Pharma and governments when\u2026 https://t.co/R7RwujgVOL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/R7RwujgVOL",
+            "expanded_url": "https://twitter.com/i/web/status/1388251877255507969",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3147430363,
+        "id_str": "3147430363",
+        "name": "Constanza G. \u2600\ufe0f\u26a1\ufe0f",
+        "screen_name": "constanzag77",
+        "location": "M\u00e9xico",
+        "description": "\u201cWhere all think alike, no one thinks very much.\u201d Walter Lippmann https://t.co/NnHAsoPhhs",
+        "url": "https://t.co/WeOa7Lrw3O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WeOa7Lrw3O",
+                "expanded_url": "http://covexit.com",
+                "display_url": "covexit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/NnHAsoPhhs",
+                "expanded_url": "https://twitter.com/constanzag77/status/1272293240356532224?s=21",
+                "display_url": "twitter.com/constanzag77/s\u2026",
+                "indices": [
+                  66,
+                  89
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2952,
+        "friends_count": 1992,
+        "listed_count": 24,
+        "created_at": "Fri Apr 10 07:15:29 +0000 2015",
+        "favourites_count": 71793,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 93713,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587170516852551680/2etLGpNk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587170516852551680/2etLGpNk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3147430363/1428662367",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 677,
+      "favorite_count": 905,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1388251877255507969,
+  "quoted_status_id_str": "1388251877255507969",
+  "retweet_count": 6,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

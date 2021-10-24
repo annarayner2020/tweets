@@ -1,0 +1,297 @@
+{
+  "created_at": "Sat Aug 21 22:53:18 +0000 2021",
+  "id": 1429215059843092481,
+  "id_str": "1429215059843092481",
+  "text": "RT @Francis_Hoar: Australia has become a police state.\nIn any other context we would impose economic sanctions on them. We should. And a tr\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Francis_Hoar",
+        "name": "Francis Hoar",
+        "id": 142640919,
+        "id_str": "142640919",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Aug 21 18:11:24 +0000 2021",
+    "id": 1429144118727434244,
+    "id_str": "1429144118727434244",
+    "text": "Australia has become a police state.\nIn any other context we would impose economic sanctions on them. We should. An\u2026 https://t.co/tEpwSOckBL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tEpwSOckBL",
+          "expanded_url": "https://twitter.com/i/web/status/1429144118727434244",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 142640919,
+      "id_str": "142640919",
+      "name": "Francis Hoar",
+      "screen_name": "Francis_Hoar",
+      "location": "London",
+      "description": "Barrister, specialist in election/public, commercial & employment law. Legal commentator. History, architecture, skiing, singing. There is #ABetterWay.",
+      "url": "https://t.co/RKTOYVXuSE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RKTOYVXuSE",
+              "expanded_url": "https://francishoar.wordpress.com/2020/11/02/recent-articles/",
+              "display_url": "francishoar.wordpress.com/2020/11/02/rec\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40820,
+      "friends_count": 1076,
+      "listed_count": 183,
+      "created_at": "Tue May 11 11:10:42 +0000 2010",
+      "favourites_count": 28272,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 66617,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968039817962557440/uLWoS_8m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968039817962557440/uLWoS_8m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/142640919/1593991458",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1428971550800113684,
+    "quoted_status_id_str": "1428971550800113684",
+    "quoted_status": {
+      "created_at": "Sat Aug 21 06:45:41 +0000 2021",
+      "id": 1428971550800113684,
+      "id_str": "1428971550800113684",
+      "text": "This was the moment police fired TEAR GAS at protesters marching away from them.\n\nToday's the first time I've seen\u2026 https://t.co/005e4NR5Rs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/005e4NR5Rs",
+            "expanded_url": "https://twitter.com/i/web/status/1428971550800113684",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 97054224,
+        "id_str": "97054224",
+        "name": "Avi Yemini \ud83c\udde6\ud83c\uddfa\ud83c\uddee\ud83c\uddf1",
+        "screen_name": "OzraeliAvi",
+        "location": "Melbourne, Victoria",
+        "description": "Chief Oz correspondent for @RebelNewsOnline. In charge of telling the other side of the story down under.",
+        "url": "https://t.co/P1zS235oTr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/P1zS235oTr",
+                "expanded_url": "http://RebelNews.com.au",
+                "display_url": "RebelNews.com.au",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 187527,
+        "friends_count": 971,
+        "listed_count": 580,
+        "created_at": "Tue Dec 15 20:23:03 +0000 2009",
+        "favourites_count": 7066,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19431,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1332624725160300544/ungit5Ic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332624725160300544/ungit5Ic_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97054224/1607598855",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "050505",
+        "profile_sidebar_fill_color": "EBE5CB",
+        "profile_text_color": "034261",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1175,
+      "favorite_count": 3339,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 914,
+    "favorite_count": 2354,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1428971550800113684,
+  "quoted_status_id_str": "1428971550800113684",
+  "retweet_count": 914,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

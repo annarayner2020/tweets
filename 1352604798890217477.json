@@ -1,0 +1,336 @@
+{
+  "created_at": "Fri Jan 22 13:11:28 +0000 2021",
+  "id": 1352604798890217477,
+  "id_str": "1352604798890217477",
+  "text": "RT @NickHudsonCT: What took them so long? @pandata19 produced that result in May! https://t.co/bqolKyJiuP",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NickHudsonCT",
+        "name": "Nick Hudson",
+        "id": 1055641334063751169,
+        "id_str": "1055641334063751169",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "PanData19",
+        "name": "PANDA - Pandemics ~ Data & Analytics",
+        "id": 1256921941933535232,
+        "id_str": "1256921941933535232",
+        "indices": [
+          42,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/bqolKyJiuP",
+        "expanded_url": "https://www.pandata.org/wp-content/uploads/2020/06/PANDA-Research-Report-Quantifying-Years-of-Lost-Life-PDF_.pdf",
+        "display_url": "pandata.org/wp-content/upl\u2026",
+        "indices": [
+          82,
+          105
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5175,
+    "friends_count": 889,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6566,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3652,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 20 18:51:40 +0000 2021",
+    "id": 1351965635450908677,
+    "id_str": "1351965635450908677",
+    "text": "What took them so long? @pandata19 produced that result in May! https://t.co/bqolKyJiuP https://t.co/oVDmn83bLf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PanData19",
+          "name": "PANDA - Pandemics ~ Data & Analytics",
+          "id": 1256921941933535232,
+          "id_str": "1256921941933535232",
+          "indices": [
+            24,
+            34
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bqolKyJiuP",
+          "expanded_url": "https://www.pandata.org/wp-content/uploads/2020/06/PANDA-Research-Report-Quantifying-Years-of-Lost-Life-PDF_.pdf",
+          "display_url": "pandata.org/wp-content/upl\u2026",
+          "indices": [
+            64,
+            87
+          ]
+        },
+        {
+          "url": "https://t.co/oVDmn83bLf",
+          "expanded_url": "https://twitter.com/lyndonlab/status/1351963834630758402",
+          "display_url": "twitter.com/lyndonlab/stat\u2026",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1055641334063751169,
+      "id_str": "1055641334063751169",
+      "name": "Nick Hudson",
+      "screen_name": "NickHudsonCT",
+      "location": "Cape Town, South Africa",
+      "description": "@Pandata19 chairman, investor, actuary. Thumos is required, not a Great Reset.",
+      "url": "https://t.co/Ll73TbIrlE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Ll73TbIrlE",
+              "expanded_url": "http://www.pandata.org",
+              "display_url": "pandata.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 50767,
+      "friends_count": 583,
+      "listed_count": 325,
+      "created_at": "Fri Oct 26 02:04:41 +0000 2018",
+      "favourites_count": 41109,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12794,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1342483379745419265/uIxW6VIg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342483379745419265/uIxW6VIg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055641334063751169/1540521238",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1351963834630758402,
+    "quoted_status_id_str": "1351963834630758402",
+    "quoted_status": {
+      "created_at": "Wed Jan 20 18:44:31 +0000 2021",
+      "id": 1351963834630758402,
+      "id_str": "1351963834630758402",
+      "text": "@NickHudsonCT Researchers from Harvard University, Johns Hopkins University, and Duke University concluded that a s\u2026 https://t.co/Smsb9b69f6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NickHudsonCT",
+            "name": "Nick Hudson",
+            "id": 1055641334063751169,
+            "id_str": "1055641334063751169",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Smsb9b69f6",
+            "expanded_url": "https://twitter.com/i/web/status/1351963834630758402",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1351958936413470728,
+      "in_reply_to_status_id_str": "1351958936413470728",
+      "in_reply_to_user_id": 1055641334063751169,
+      "in_reply_to_user_id_str": "1055641334063751169",
+      "in_reply_to_screen_name": "NickHudsonCT",
+      "user": {
+        "id": 196732333,
+        "id_str": "196732333",
+        "name": "Lyndon Labuschagne",
+        "screen_name": "lyndonlab",
+        "location": "",
+        "description": "Minor Investor, Networking, No like BGP IPv4 IPv6. Beer drinker, Interested in all things Gold, Silver a bit suspicious of Bitcoin. SLAYER! #soundmoney",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 235,
+        "friends_count": 659,
+        "listed_count": 0,
+        "created_at": "Wed Sep 29 19:50:43 +0000 2010",
+        "favourites_count": 32467,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4534,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251886353484328967/RGDLinfX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251886353484328967/RGDLinfX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196732333/1587367523",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 350,
+      "favorite_count": 598,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 234,
+    "favorite_count": 585,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1351963834630758402,
+  "quoted_status_id_str": "1351963834630758402",
+  "retweet_count": 234,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

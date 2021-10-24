@@ -1,0 +1,286 @@
+{
+  "created_at": "Sun Aug 29 18:35:28 +0000 2021",
+  "id": 1432049277145124867,
+  "id_str": "1432049277145124867",
+  "text": "RT @LaserHodl: The West is being introduced to China's model of high tech authoritarianism through Covid.\n\nThis is the #GreatReset. https:/\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "GreatReset",
+        "indices": [
+          119,
+          130
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LaserHodl",
+        "name": "LaserHodl \ud83d\udef0\u2728",
+        "id": 1274491960019939328,
+        "id_str": "1274491960019939328",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Aug 29 18:31:47 +0000 2021",
+    "id": 1432048349570609157,
+    "id_str": "1432048349570609157",
+    "text": "The West is being introduced to China's model of high tech authoritarianism through Covid.\n\nThis is the #GreatReset. https://t.co/rGNtZX8mtE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GreatReset",
+          "indices": [
+            104,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rGNtZX8mtE",
+          "expanded_url": "https://twitter.com/JesseMatchey/status/1432044385038835712",
+          "display_url": "twitter.com/JesseMatchey/s\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1274491960019939328,
+      "id_str": "1274491960019939328",
+      "name": "LaserHodl \ud83d\udef0\u2728",
+      "screen_name": "LaserHodl",
+      "location": "",
+      "description": "Helping Families Navigate Reset. Champion of Toxicity. Tokens are Time Theft. Saving is Justice. Opt Out at Every Layer. Renaissance Now. #Bitcoin",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11952,
+      "friends_count": 1144,
+      "listed_count": 162,
+      "created_at": "Sat Jun 20 23:59:51 +0000 2020",
+      "favourites_count": 45875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12737,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1446316382472351745/J4lxVkdV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1446316382472351745/J4lxVkdV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274491960019939328/1627971648",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1432044385038835712,
+    "quoted_status_id_str": "1432044385038835712",
+    "quoted_status": {
+      "created_at": "Sun Aug 29 18:16:02 +0000 2021",
+      "id": 1432044385038835712,
+      "id_str": "1432044385038835712",
+      "text": "Look around, people. CCP is being implemented in your countries.\n\nHow hot does the boiling water have to get before\u2026 https://t.co/5V9AWXWOB9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5V9AWXWOB9",
+            "expanded_url": "https://twitter.com/i/web/status/1432044385038835712",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1082428918924070913,
+        "id_str": "1082428918924070913",
+        "name": "Jesse \u201cEpstein&Ghislaine families=WEF&4IR\u201d Matchey",
+        "screen_name": "JesseMatchey",
+        "location": "Arizona, USA",
+        "description": "Retired Army Blackhawk Pilot;MEDEVAC;Former financial planner;Decentralize;Buy local;Buy from countries promoting freedom;EMBA;boycott vax passport",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11070,
+        "friends_count": 1620,
+        "listed_count": 61,
+        "created_at": "Tue Jan 08 00:08:59 +0000 2019",
+        "favourites_count": 30092,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23251,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1161389047090044928/yaxbjg3R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161389047090044928/yaxbjg3R_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082428918924070913/1597497318",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 132,
+      "favorite_count": 516,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 26,
+    "favorite_count": 113,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1432044385038835712,
+  "quoted_status_id_str": "1432044385038835712",
+  "retweet_count": 26,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

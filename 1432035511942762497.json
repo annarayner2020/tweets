@@ -1,0 +1,323 @@
+{
+  "created_at": "Sun Aug 29 17:40:46 +0000 2021",
+  "id": 1432035511942762497,
+  "id_str": "1432035511942762497",
+  "text": "RT @WG_Gervais: Fuck Trudeau indeed. https://t.co/WSWhFkEI4E",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "WG_Gervais",
+        "name": "W | L L | A |V|",
+        "id": 49651268,
+        "id_str": "49651268",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/WSWhFkEI4E",
+        "expanded_url": "https://twitter.com/canmericanized/status/1432030745506336772",
+        "display_url": "twitter.com/canmericanized\u2026",
+        "indices": [
+          37,
+          60
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Aug 29 17:34:45 +0000 2021",
+    "id": 1432033997056581634,
+    "id_str": "1432033997056581634",
+    "text": "Fuck Trudeau indeed. https://t.co/WSWhFkEI4E",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/WSWhFkEI4E",
+          "expanded_url": "https://twitter.com/canmericanized/status/1432030745506336772",
+          "display_url": "twitter.com/canmericanized\u2026",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 49651268,
+      "id_str": "49651268",
+      "name": "W | L L | A |V|",
+      "screen_name": "WG_Gervais",
+      "location": "Techno-Fascist State of Karens",
+      "description": "Filmmaker @ https://t.co/IPI7aPELUP LBRY https://t.co/rUtqTiiKlj https://t.co/0CW4k2AIvN Pronouns: Fu Ck/Ja Ck",
+      "url": "https://t.co/CJgpJHPX92",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/CJgpJHPX92",
+              "expanded_url": "https://www.buymeacoffee.com/katewand",
+              "display_url": "buymeacoffee.com/katewand",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/IPI7aPELUP",
+              "expanded_url": "http://Very-Opinionated.com",
+              "display_url": "Very-Opinionated.com",
+              "indices": [
+                12,
+                35
+              ]
+            },
+            {
+              "url": "https://t.co/rUtqTiiKlj",
+              "expanded_url": "http://odysee.com/@VeryOpinionatedShow:5",
+              "display_url": "odysee.com/@VeryOpinionat\u2026",
+              "indices": [
+                41,
+                64
+              ]
+            },
+            {
+              "url": "https://t.co/0CW4k2AIvN",
+              "expanded_url": "Https://YouTube.com/c/TheVeryOpinionatedKateWandShow",
+              "display_url": "YouTube.com/c/TheVeryOpini\u2026",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1673,
+      "friends_count": 3332,
+      "listed_count": 10,
+      "created_at": "Mon Jun 22 14:53:52 +0000 2009",
+      "favourites_count": 66917,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17260,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1428739064610631682/8PmnzjgF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1428739064610631682/8PmnzjgF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/49651268/1629593018",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1432030745506336772,
+    "quoted_status_id_str": "1432030745506336772",
+    "quoted_status": {
+      "created_at": "Sun Aug 29 17:21:50 +0000 2021",
+      "id": 1432030745506336772,
+      "id_str": "1432030745506336772",
+      "text": "Trudeau drown out by protestors in Cambridge: \u201cFuck Trudeau\u201d audible. \n\nPeaceful assembly and protest is a constitu\u2026 https://t.co/5j2Qx1QhZw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5j2Qx1QhZw",
+            "expanded_url": "https://twitter.com/i/web/status/1432030745506336772",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2261896579,
+        "id_str": "2261896579",
+        "name": "Rowan",
+        "screen_name": "canmericanized",
+        "location": "Ontario, Canada",
+        "description": "\ud83c\udde8\ud83c\udde6 Pro economic freedom & prosperity/anti lockdown pragmatist. Pro vax & choice but anti passport. COVID moderate and classic pre 2015 neo conservative. #CPC",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7585,
+        "friends_count": 1340,
+        "listed_count": 26,
+        "created_at": "Wed Dec 25 20:48:26 +0000 2013",
+        "favourites_count": 57471,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16765,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1450568813057961984/LREaWVJK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450568813057961984/LREaWVJK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2261896579/1622740297",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 179,
+      "favorite_count": 490,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1432030745506336772,
+  "quoted_status_id_str": "1432030745506336772",
+  "retweet_count": 6,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

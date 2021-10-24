@@ -1,0 +1,187 @@
+{
+  "created_at": "Wed Mar 03 18:03:51 +0000 2021",
+  "id": 1367173893560090628,
+  "id_str": "1367173893560090628",
+  "text": "RT @UNICEF: 168 empty desks.\n168 unused backpacks.\n168 million children with schools completely closed for nearly a year due to COVID-19.\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "UNICEF",
+        "name": "UNICEF",
+        "id": 33933259,
+        "id_str": "33933259",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5385,
+    "friends_count": 900,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7415,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4351,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Mar 03 00:05:00 +0000 2021",
+    "id": 1366902390167924737,
+    "id_str": "1366902390167924737",
+    "text": "168 empty desks.\n168 unused backpacks.\n168 million children with schools completely closed for nearly a year due to\u2026 https://t.co/gRiRvEUOKP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gRiRvEUOKP",
+          "expanded_url": "https://twitter.com/i/web/status/1366902390167924737",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33933259,
+      "id_str": "33933259",
+      "name": "UNICEF",
+      "screen_name": "UNICEF",
+      "location": "",
+      "description": "Let's break the stigma around mental health. It starts with one moment, one conversation, one question: What\u2019s on your mind? \ud83d\udc49https://t.co/ixIykIx3pO",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/ixIykIx3pO",
+              "expanded_url": "https://uni.cf/On-My-Mind",
+              "display_url": "uni.cf/On-My-Mind",
+              "indices": [
+                126,
+                149
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8930894,
+      "friends_count": 712,
+      "listed_count": 26506,
+      "created_at": "Tue Apr 21 15:16:12 +0000 2009",
+      "favourites_count": 19865,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 51865,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "141414",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/808330362417979392/AdiQ86lk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/808330362417979392/AdiQ86lk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33933259/1633392096",
+      "profile_link_color": "1CABE2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0E0E0",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 996,
+    "favorite_count": 2391,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 996,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

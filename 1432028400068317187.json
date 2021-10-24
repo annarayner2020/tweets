@@ -1,0 +1,315 @@
+{
+  "created_at": "Sun Aug 29 17:12:31 +0000 2021",
+  "id": 1432028400068317187,
+  "id_str": "1432028400068317187",
+  "text": "RT @ZubyMusic: Big yikes.\n\nIf stuff like this is permissible, then there is no meaningful difference between democracies and dictatorships.\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ZubyMusic",
+        "name": "ZUBY:",
+        "id": 57441414,
+        "id_str": "57441414",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Aug 28 00:55:13 +0000 2021",
+    "id": 1431420069431713797,
+    "id_str": "1431420069431713797",
+    "text": "Big yikes.\n\nIf stuff like this is permissible, then there is no meaningful difference between democracies and dicta\u2026 https://t.co/lLyB1vPWox",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lLyB1vPWox",
+          "expanded_url": "https://twitter.com/i/web/status/1431420069431713797",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 57441414,
+      "id_str": "57441414",
+      "name": "ZUBY:",
+      "screen_name": "ZubyMusic",
+      "location": "Global",
+      "description": "Rapper. Author. Podcaster. Speaker. Coach \ud83d\udcaa\ud83c\udffe 'Strong Advice' eBook https://t.co/esYVAadpS2 | \ud83c\udfb5 'Word of Zuby' out now - https://t.co/Sei6Xef4f7",
+      "url": "https://t.co/tIGb73GO1t",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tIGb73GO1t",
+              "expanded_url": "http://teamzuby.com",
+              "display_url": "teamzuby.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/esYVAadpS2",
+              "expanded_url": "http://gumroad.com/l/zubyfitness",
+              "display_url": "gumroad.com/l/zubyfitness",
+              "indices": [
+                67,
+                90
+              ]
+            },
+            {
+              "url": "https://t.co/Sei6Xef4f7",
+              "expanded_url": "http://fanlink.to/wordofzuby",
+              "display_url": "fanlink.to/wordofzuby",
+              "indices": [
+                120,
+                143
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 545568,
+      "friends_count": 3304,
+      "listed_count": 1557,
+      "created_at": "Thu Jul 16 20:44:53 +0000 2009",
+      "favourites_count": 107586,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 114149,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "28022E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1363770757709508608/EBWhpEq0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363770757709508608/EBWhpEq0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/57441414/1624864610",
+      "profile_link_color": "8A2EBF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0E0E0",
+      "profile_text_color": "0040FF",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1431400939680903170,
+    "quoted_status_id_str": "1431400939680903170",
+    "quoted_status": {
+      "created_at": "Fri Aug 27 23:39:12 +0000 2021",
+      "id": 1431400939680903170,
+      "id_str": "1431400939680903170",
+      "text": "Vaccines are the best way to finish the fight against COVID-19. That's why we will make vaccines mandatory for anyo\u2026 https://t.co/DvTwzvQoTH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DvTwzvQoTH",
+            "expanded_url": "https://twitter.com/i/web/status/1431400939680903170",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14260960,
+        "id_str": "14260960",
+        "name": "Justin Trudeau",
+        "screen_name": "JustinTrudeau",
+        "location": "Papineau",
+        "description": "Father, husband, @liberal_party Leader, 23rd Prime Minister of Canada. | Papa, mari, chef du @parti_liberal, 23e premier ministre du Canada.",
+        "url": "https://t.co/8GPrcWoMpj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/8GPrcWoMpj",
+                "expanded_url": "http://liberal.ca",
+                "display_url": "liberal.ca",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5764137,
+        "friends_count": 940,
+        "listed_count": 14523,
+        "created_at": "Sun Mar 30 21:04:14 +0000 2008",
+        "favourites_count": 119,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 37079,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBDCDD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1426938479909421056/QpI3TSNn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426938479909421056/QpI3TSNn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14260960/1629043620",
+        "profile_link_color": "B50000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B80B0B",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2049,
+      "favorite_count": 16327,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 1367,
+    "favorite_count": 8085,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1431400939680903170,
+  "quoted_status_id_str": "1431400939680903170",
+  "retweet_count": 1367,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

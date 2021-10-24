@@ -1,0 +1,423 @@
+{
+  "created_at": "Fri Apr 09 17:45:27 +0000 2021",
+  "id": 1380577614557929472,
+  "id_str": "1380577614557929472",
+  "text": "RT @JeanmarcBenoit: @DonaldWelsh16 @Milhouse_Van_Ho https://t.co/CvdC0asS92",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JeanmarcBenoit",
+        "name": "Jean Marc Benoit MD",
+        "id": 721487027401789441,
+        "id_str": "721487027401789441",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "DonaldWelsh16",
+        "name": "Donald Welsh",
+        "id": 1042884264889606149,
+        "id_str": "1042884264889606149",
+        "indices": [
+          20,
+          34
+        ]
+      },
+      {
+        "screen_name": "Milhouse_Van_Ho",
+        "name": "Milhouse Van Houten",
+        "id": 1246065743294332928,
+        "id_str": "1246065743294332928",
+        "indices": [
+          35,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/CvdC0asS92",
+        "expanded_url": "https://twitter.com/LostGenBC/status/1380353252860985344",
+        "display_url": "twitter.com/LostGenBC/stat\u2026",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Apr 09 02:58:22 +0000 2021",
+    "id": 1380354372304052224,
+    "id_str": "1380354372304052224",
+    "text": "@DonaldWelsh16 @Milhouse_Van_Ho https://t.co/CvdC0asS92",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DonaldWelsh16",
+          "name": "Donald Welsh",
+          "id": 1042884264889606149,
+          "id_str": "1042884264889606149",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "Milhouse_Van_Ho",
+          "name": "Milhouse Van Houten",
+          "id": 1246065743294332928,
+          "id_str": "1246065743294332928",
+          "indices": [
+            15,
+            31
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CvdC0asS92",
+          "expanded_url": "https://twitter.com/LostGenBC/status/1380353252860985344",
+          "display_url": "twitter.com/LostGenBC/stat\u2026",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1042884264889606149,
+    "in_reply_to_user_id_str": "1042884264889606149",
+    "in_reply_to_screen_name": "DonaldWelsh16",
+    "user": {
+      "id": 721487027401789441,
+      "id_str": "721487027401789441",
+      "name": "Jean Marc Benoit MD",
+      "screen_name": "JeanmarcBenoit",
+      "location": "Canada",
+      "description": "Veteran physician, metabolics, health educator/student. Evidence-based medicine/reporting. Tweets may offend w/truth \n\nhttps://t.co/BFLKVCzZyf\u2026",
+      "url": "https://t.co/opoRyHenFh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/opoRyHenFh",
+              "expanded_url": "https://www.linkedin.com/in/jean-marc-benoit-aa24156/",
+              "display_url": "linkedin.com/in/jean-marc-b\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/BFLKVCzZyf",
+              "expanded_url": "http://linkedin.com/in/jean-marc-b",
+              "display_url": "linkedin.com/in/jean-marc-b",
+              "indices": [
+                119,
+                142
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 20667,
+      "friends_count": 585,
+      "listed_count": 109,
+      "created_at": "Sat Apr 16 23:54:46 +0000 2016",
+      "favourites_count": 9091,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 23542,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369282822788243456/YtFu7XFO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369282822788243456/YtFu7XFO_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1380353252860985344,
+    "quoted_status_id_str": "1380353252860985344",
+    "quoted_status": {
+      "created_at": "Fri Apr 09 02:53:55 +0000 2021",
+      "id": 1380353252860985344,
+      "id_str": "1380353252860985344",
+      "text": "@JeanmarcBenoit https://t.co/3wSFNpCbMT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JeanmarcBenoit",
+            "name": "Jean Marc Benoit MD",
+            "id": 721487027401789441,
+            "id_str": "721487027401789441",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1380353250428211201,
+            "id_str": "1380353250428211201",
+            "indices": [
+              16,
+              39
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eyf_98RUUAER6Vy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eyf_98RUUAER6Vy.jpg",
+            "url": "https://t.co/3wSFNpCbMT",
+            "display_url": "pic.twitter.com/3wSFNpCbMT",
+            "expanded_url": "https://twitter.com/LostGenBC/status/1380353252860985344/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 880,
+                "h": 326,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 880,
+                "h": 326,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 252,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1380353250428211201,
+            "id_str": "1380353250428211201",
+            "indices": [
+              16,
+              39
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eyf_98RUUAER6Vy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eyf_98RUUAER6Vy.jpg",
+            "url": "https://t.co/3wSFNpCbMT",
+            "display_url": "pic.twitter.com/3wSFNpCbMT",
+            "expanded_url": "https://twitter.com/LostGenBC/status/1380353252860985344/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 880,
+                "h": 326,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 880,
+                "h": 326,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 252,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1380341568591306752,
+      "in_reply_to_status_id_str": "1380341568591306752",
+      "in_reply_to_user_id": 721487027401789441,
+      "in_reply_to_user_id_str": "721487027401789441",
+      "in_reply_to_screen_name": "JeanmarcBenoit",
+      "user": {
+        "id": 1258177482093522945,
+        "id_str": "1258177482093522945",
+        "name": "LostGeneration",
+        "screen_name": "LostGenBC",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 168,
+        "listed_count": 1,
+        "created_at": "Wed May 06 23:31:09 +0000 2020",
+        "favourites_count": 35,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 53,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1380353252860985344,
+  "quoted_status_id_str": "1380353252860985344",
+  "retweet_count": 7,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

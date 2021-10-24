@@ -1,0 +1,297 @@
+{
+  "created_at": "Sat Oct 09 07:25:44 +0000 2021",
+  "id": 1446738634770718723,
+  "id_str": "1446738634770718723",
+  "text": "RT @FFOEG3: https://t.co/QbJIuF4Aoi",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "FFOEG3",
+        "name": "Arthur Fleck aka Utu",
+        "id": 1334956377605857282,
+        "id_str": "1334956377605857282",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/QbJIuF4Aoi",
+        "expanded_url": "https://twitter.com/Covid19Critical/status/1446460263092326437?t=t1FWvNCQRsPFvLdTMVm6zQ&s=19",
+        "display_url": "twitter.com/Covid19Critica\u2026",
+        "indices": [
+          12,
+          35
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Oct 09 07:19:27 +0000 2021",
+    "id": 1446737053501345792,
+    "id_str": "1446737053501345792",
+    "text": "https://t.co/QbJIuF4Aoi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QbJIuF4Aoi",
+          "expanded_url": "https://twitter.com/Covid19Critical/status/1446460263092326437?t=t1FWvNCQRsPFvLdTMVm6zQ&s=19",
+          "display_url": "twitter.com/Covid19Critica\u2026",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1334956377605857282,
+      "id_str": "1334956377605857282",
+      "name": "Arthur Fleck aka Utu",
+      "screen_name": "FFOEG3",
+      "location": "",
+      "description": "Jack can't keep me away\nA Living Man\nNot here to be nice, Here to be Honest.\nQuit your Cult.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 197,
+      "friends_count": 239,
+      "listed_count": 2,
+      "created_at": "Fri Dec 04 20:23:09 +0000 2020",
+      "favourites_count": 7412,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3965,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1390386805304963075/xIO4a7YZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390386805304963075/xIO4a7YZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334956377605857282/1634715619",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1446460263092326437,
+    "quoted_status_id_str": "1446460263092326437",
+    "quoted_status": {
+      "created_at": "Fri Oct 08 12:59:35 +0000 2021",
+      "id": 1446460263092326437,
+      "id_str": "1446460263092326437",
+      "text": "***BREAKING SCANDAL***\n\nFACT:\nBetween 100-200 members of Congress and their families &amp; staffers have been treated w\u2026 https://t.co/eui65nxbVu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eui65nxbVu",
+            "expanded_url": "https://twitter.com/i/web/status/1446460263092326437",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1255176009764294656,
+        "id_str": "1255176009764294656",
+        "name": "Frontline Covid-19 Critical Care",
+        "screen_name": "Covid19Critical",
+        "location": "Washington, DC",
+        "description": "Leading critical care doctors of the FLCCC Alliance have developed MATH+ & I-Mask+ treatment protocols for COVID19. Sorry, no medical questions answered on DM.",
+        "url": "https://t.co/aabYVWtJQ2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/aabYVWtJQ2",
+                "expanded_url": "https://covid19criticalcare.com/",
+                "display_url": "covid19criticalcare.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 128616,
+        "friends_count": 549,
+        "listed_count": 787,
+        "created_at": "Tue Apr 28 16:44:27 +0000 2020",
+        "favourites_count": 566,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1210,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278034913967722498/lGG4hfRq_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278034913967722498/lGG4hfRq_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255176009764294656/1588093585",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1446312291302055940,
+      "quoted_status_id_str": "1446312291302055940",
+      "retweet_count": 13776,
+      "favorite_count": 20460,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1446460263092326437,
+  "quoted_status_id_str": "1446460263092326437",
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

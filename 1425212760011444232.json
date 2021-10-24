@@ -1,0 +1,352 @@
+{
+  "created_at": "Tue Aug 10 21:49:35 +0000 2021",
+  "id": 1425212760011444232,
+  "id_str": "1425212760011444232",
+  "text": "RT @NickHudsonCT: Who needs the Muppet Show when you can simply take a democratic paradise into martial law over a somewhat bad flu? https:\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NickHudsonCT",
+        "name": "Nick Hudson",
+        "id": 1055641334063751169,
+        "id_str": "1055641334063751169",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Aug 10 20:36:41 +0000 2021",
+    "id": 1425194412502568962,
+    "id_str": "1425194412502568962",
+    "text": "Who needs the Muppet Show when you can simply take a democratic paradise into martial law over a somewhat bad flu? https://t.co/y3QqEdpC7x",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/y3QqEdpC7x",
+          "expanded_url": "https://twitter.com/prof_freedom/status/1425043401993560066",
+          "display_url": "twitter.com/prof_freedom/s\u2026",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1055641334063751169,
+      "id_str": "1055641334063751169",
+      "name": "Nick Hudson",
+      "screen_name": "NickHudsonCT",
+      "location": "Cape Town, South Africa",
+      "description": "@Pandata19 chairman, investor, actuary. Thumos is required, not a Great Reset.",
+      "url": "https://t.co/Ll73TbIrlE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Ll73TbIrlE",
+              "expanded_url": "http://www.pandata.org",
+              "display_url": "pandata.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 53493,
+      "friends_count": 590,
+      "listed_count": 340,
+      "created_at": "Fri Oct 26 02:04:41 +0000 2018",
+      "favourites_count": 42882,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13344,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1342483379745419265/uIxW6VIg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342483379745419265/uIxW6VIg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055641334063751169/1540521238",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1425043401993560066,
+    "quoted_status_id_str": "1425043401993560066",
+    "quoted_status": {
+      "created_at": "Tue Aug 10 10:36:37 +0000 2021",
+      "id": 1425043401993560066,
+      "id_str": "1425043401993560066",
+      "text": "Sydney - a true lockdown success story. https://t.co/C2WCgRbC0m",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425042044599341058,
+            "id_str": "1425042044599341058",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8bEMHpXEAImIDn.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8bEMHpXEAImIDn.png",
+            "url": "https://t.co/C2WCgRbC0m",
+            "display_url": "pic.twitter.com/C2WCgRbC0m",
+            "expanded_url": "https://twitter.com/prof_freedom/status/1425043401993560066/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 648,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 754,
+                "h": 791,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 754,
+                "h": 791,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425042044599341058,
+            "id_str": "1425042044599341058",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8bEMHpXEAImIDn.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8bEMHpXEAImIDn.png",
+            "url": "https://t.co/C2WCgRbC0m",
+            "display_url": "pic.twitter.com/C2WCgRbC0m",
+            "expanded_url": "https://twitter.com/prof_freedom/status/1425043401993560066/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 648,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 754,
+                "h": 791,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 754,
+                "h": 791,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252542024299012097,
+        "id_str": "1252542024299012097",
+        "name": "Prof. Freedom",
+        "screen_name": "prof_freedom",
+        "location": "",
+        "description": "Covid is real. Lockdown sceptic. Mask sceptic. Pro Covid vax for eldery. Covid vax for kids = No! Libertarian, Atheist.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24506,
+        "friends_count": 465,
+        "listed_count": 0,
+        "created_at": "Tue Apr 21 10:17:51 +0000 2020",
+        "favourites_count": 39828,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25748,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1438948180767526912/CJ1oQp6s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1438948180767526912/CJ1oQp6s_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252542024299012097/1622099933",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1140,
+      "favorite_count": 3661,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 132,
+    "favorite_count": 454,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1425043401993560066,
+  "quoted_status_id_str": "1425043401993560066",
+  "retweet_count": 132,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

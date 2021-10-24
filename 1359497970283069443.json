@@ -1,0 +1,193 @@
+{
+  "created_at": "Wed Feb 10 13:42:29 +0000 2021",
+  "id": 1359497970283069443,
+  "id_str": "1359497970283069443",
+  "text": "The next war: the Zero Covid crazies. They immediately need to be stopped in their tracks for this biologically imp\u2026 https://t.co/ZPislZs2HU",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/ZPislZs2HU",
+        "expanded_url": "https://twitter.com/i/web/status/1359497970283069443",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5200,
+    "friends_count": 892,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6801,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3810,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1359215513906253828,
+  "quoted_status_id_str": "1359215513906253828",
+  "quoted_status": {
+    "created_at": "Tue Feb 09 19:00:06 +0000 2021",
+    "id": 1359215513906253828,
+    "id_str": "1359215513906253828",
+    "text": "WATCH: Laura Dodsworth speaks to sociologist and government advisor Robert Dingwall, about the growing calls for\u2026 https://t.co/HheV4qPOvR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HheV4qPOvR",
+          "expanded_url": "https://twitter.com/i/web/status/1359215513906253828",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1266142915073658882,
+      "id_str": "1266142915073658882",
+      "name": "Unlocked \ud83d\udd11",
+      "screen_name": "Unlocked_UK_",
+      "location": "United Kingdom",
+      "description": "Peter Hitchens: The Slow Death of Freedom 1914-2020 \ud83d\udc47",
+      "url": "https://t.co/YTTpfqdfA6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YTTpfqdfA6",
+              "expanded_url": "https://www.youtube.com/c/Unlocked_UK_",
+              "display_url": "youtube.com/c/Unlocked_UK_",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32725,
+      "friends_count": 574,
+      "listed_count": 127,
+      "created_at": "Thu May 28 23:03:01 +0000 2020",
+      "favourites_count": 12679,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8325,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1326853394762493952/NQNcZZdb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1326853394762493952/NQNcZZdb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1266142915073658882/1615914653",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 180,
+    "favorite_count": 308,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 3,
+  "favorite_count": 16,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

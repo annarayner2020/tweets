@@ -1,0 +1,204 @@
+{
+  "created_at": "Sat Aug 14 14:31:44 +0000 2021",
+  "id": 1426552121302917124,
+  "id_str": "1426552121302917124",
+  "text": "If you look at \u2018Shill\u2019 in the dictionary, I believe it says \u2018@jeremyfarrar\u2019 under definition. \n\nWill he have any re\u2026 https://t.co/BuBis6mV1P",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JeremyFarrar",
+        "name": "Jeremy Farrar",
+        "id": 1489776218,
+        "id_str": "1489776218",
+        "indices": [
+          61,
+          74
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/BuBis6mV1P",
+        "expanded_url": "https://twitter.com/i/web/status/1426552121302917124",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1424993280916348937,
+  "quoted_status_id_str": "1424993280916348937",
+  "quoted_status": {
+    "created_at": "Tue Aug 10 07:17:27 +0000 2021",
+    "id": 1424993280916348937,
+    "id_str": "1424993280916348937",
+    "text": "We live in an era of more frequent &amp; more complex Epidemics/Pandemics with the key drivers all features of the 21st\u2026 https://t.co/HH00DWJtZG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HH00DWJtZG",
+          "expanded_url": "https://twitter.com/i/web/status/1424993280916348937",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1489776218,
+      "id_str": "1489776218",
+      "name": "Jeremy Farrar",
+      "screen_name": "JeremyFarrar",
+      "location": "London",
+      "description": "Director of the Wellcome Trust (@WellcomeTrust).",
+      "url": "https://t.co/knfefj2rnn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/knfefj2rnn",
+              "expanded_url": "http://wellcome.org",
+              "display_url": "wellcome.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 73728,
+      "friends_count": 210,
+      "listed_count": 1341,
+      "created_at": "Fri Jun 07 07:30:53 +0000 2013",
+      "favourites_count": 3570,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 51067,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "414141",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1136300466763997184/pYXTqIc3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136300466763997184/pYXTqIc3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489776218/1559805364",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "favorite_count": 81,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 0,
+  "favorite_count": 3,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

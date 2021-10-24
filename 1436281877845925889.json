@@ -1,0 +1,308 @@
+{
+  "created_at": "Fri Sep 10 10:54:19 +0000 2021",
+  "id": 1436281877845925889,
+  "id_str": "1436281877845925889",
+  "text": "RT @bobscartoons: Needles to say, irony is dead. https://t.co/mhfbF9CQAw",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "bobscartoons",
+        "name": "Bob Moran",
+        "id": 118044673,
+        "id_str": "118044673",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/mhfbF9CQAw",
+        "expanded_url": "https://twitter.com/disclosetv/status/1436072294644953092",
+        "display_url": "twitter.com/disclosetv/sta\u2026",
+        "indices": [
+          49,
+          72
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5217,
+    "friends_count": 894,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7036,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3997,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Sep 09 21:46:33 +0000 2021",
+    "id": 1436083630418403328,
+    "id_str": "1436083630418403328",
+    "text": "Needles to say, irony is dead. https://t.co/mhfbF9CQAw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mhfbF9CQAw",
+          "expanded_url": "https://twitter.com/disclosetv/status/1436072294644953092",
+          "display_url": "twitter.com/disclosetv/sta\u2026",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 118044673,
+      "id_str": "118044673",
+      "name": "Bob Moran",
+      "screen_name": "bobscartoons",
+      "location": "UK",
+      "description": "Cartoonist @Telegraph\nSome cartoons shared here have not appeared in print. Cartoons published by the paper will be specified as such.",
+      "url": "https://t.co/AKKwa66z3z",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AKKwa66z3z",
+              "expanded_url": "http://www.bobmoran.co.uk",
+              "display_url": "bobmoran.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 41310,
+      "friends_count": 1051,
+      "listed_count": 320,
+      "created_at": "Sat Feb 27 12:21:54 +0000 2010",
+      "favourites_count": 2280,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7520,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/918172564907810816/b_6IDgsl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/918172564907810816/b_6IDgsl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/118044673/1631350204",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1436072294644953092,
+    "quoted_status_id_str": "1436072294644953092",
+    "quoted_status": {
+      "created_at": "Thu Sep 09 21:01:30 +0000 2021",
+      "id": 1436072294644953092,
+      "id_str": "1436072294644953092",
+      "text": "NEW - Kamala Harris: \"The right of women to make decisions about their own bodies is not negotiable. The right of w\u2026 https://t.co/EYuWj1wx9i",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EYuWj1wx9i",
+            "expanded_url": "https://twitter.com/i/web/status/1436072294644953092",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15392486,
+        "id_str": "15392486",
+        "name": "Disclose.tv",
+        "screen_name": "disclosetv",
+        "location": "",
+        "description": "Observing world events unfold in the grand theater of our time.",
+        "url": "https://t.co/O31NBnbXq4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/O31NBnbXq4",
+                "expanded_url": "https://www.disclose.tv",
+                "display_url": "disclose.tv",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 636718,
+        "friends_count": 741,
+        "listed_count": 3346,
+        "created_at": "Fri Jul 11 15:25:39 +0000 2008",
+        "favourites_count": 39426,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3002,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/898153945721339904/OFVCkPfR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/898153945721339904/OFVCkPfR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15392486/1633300955",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "454545",
+        "profile_sidebar_fill_color": "CFCFCF",
+        "profile_text_color": "2B2B2B",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1079,
+      "favorite_count": 2765,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 301,
+    "favorite_count": 1406,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1436072294644953092,
+  "quoted_status_id_str": "1436072294644953092",
+  "retweet_count": 301,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

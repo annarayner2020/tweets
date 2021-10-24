@@ -1,0 +1,346 @@
+{
+  "created_at": "Thu Jan 14 05:19:43 +0000 2021",
+  "id": 1349586975888723969,
+  "id_str": "1349586975888723969",
+  "text": "RT @jamft: And the sheep say ... https://t.co/KQlAb4IiVk",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jamft",
+        "name": "Juergen Amft",
+        "id": 49210987,
+        "id_str": "49210987",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1349586330515173376,
+        "id_str": "1349586330515173376",
+        "indices": [
+          33,
+          56
+        ],
+        "media_url": "http://pbs.twimg.com/media/ErqxngAUcAAang9.png",
+        "media_url_https": "https://pbs.twimg.com/media/ErqxngAUcAAang9.png",
+        "url": "https://t.co/KQlAb4IiVk",
+        "display_url": "pic.twitter.com/KQlAb4IiVk",
+        "expanded_url": "https://twitter.com/jamft/status/1349586376392495104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 387,
+            "h": 539,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 387,
+            "h": 539,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 387,
+            "h": 539,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1349586376392495104,
+        "source_status_id_str": "1349586376392495104",
+        "source_user_id": 49210987,
+        "source_user_id_str": "49210987"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1349586330515173376,
+        "id_str": "1349586330515173376",
+        "indices": [
+          33,
+          56
+        ],
+        "media_url": "http://pbs.twimg.com/media/ErqxngAUcAAang9.png",
+        "media_url_https": "https://pbs.twimg.com/media/ErqxngAUcAAang9.png",
+        "url": "https://t.co/KQlAb4IiVk",
+        "display_url": "pic.twitter.com/KQlAb4IiVk",
+        "expanded_url": "https://twitter.com/jamft/status/1349586376392495104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 387,
+            "h": 539,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 387,
+            "h": 539,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 387,
+            "h": 539,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1349586376392495104,
+        "source_status_id_str": "1349586376392495104",
+        "source_user_id": 49210987,
+        "source_user_id_str": "49210987"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5175,
+    "friends_count": 887,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6455,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3563,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jan 14 05:17:20 +0000 2021",
+    "id": 1349586376392495104,
+    "id_str": "1349586376392495104",
+    "text": "And the sheep say ... https://t.co/KQlAb4IiVk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1349586330515173376,
+          "id_str": "1349586330515173376",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErqxngAUcAAang9.png",
+          "media_url_https": "https://pbs.twimg.com/media/ErqxngAUcAAang9.png",
+          "url": "https://t.co/KQlAb4IiVk",
+          "display_url": "pic.twitter.com/KQlAb4IiVk",
+          "expanded_url": "https://twitter.com/jamft/status/1349586376392495104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 387,
+              "h": 539,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 387,
+              "h": 539,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 387,
+              "h": 539,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1349586330515173376,
+          "id_str": "1349586330515173376",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErqxngAUcAAang9.png",
+          "media_url_https": "https://pbs.twimg.com/media/ErqxngAUcAAang9.png",
+          "url": "https://t.co/KQlAb4IiVk",
+          "display_url": "pic.twitter.com/KQlAb4IiVk",
+          "expanded_url": "https://twitter.com/jamft/status/1349586376392495104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 387,
+              "h": 539,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 387,
+              "h": 539,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 387,
+              "h": 539,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 49210987,
+      "id_str": "49210987",
+      "name": "Juergen Amft",
+      "screen_name": "jamft",
+      "location": "Calgary, Alberta, Canada",
+      "description": "Stock Trader, Analyst, Photographer, Father, Husband, Brewer of fine beer, smoker of fine meat, roaster of fine coffee.\nViews often change as new facts emerge.",
+      "url": "http://t.co/JfhxC5c4MS",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/JfhxC5c4MS",
+              "expanded_url": "http://www.oakwise.org",
+              "display_url": "oakwise.org",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8387,
+      "friends_count": 146,
+      "listed_count": 44,
+      "created_at": "Sun Jun 21 03:01:46 +0000 2009",
+      "favourites_count": 61443,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 71707,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/274033130/Juergen_med_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/274033130/Juergen_med_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/49210987/1364854512",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 49,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 19,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

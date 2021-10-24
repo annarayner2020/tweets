@@ -1,0 +1,307 @@
+{
+  "created_at": "Sun Sep 26 10:49:53 +0000 2021",
+  "id": 1442078968870412289,
+  "id_str": "1442078968870412289",
+  "text": "RT @JoRogersUK: Neil Oliver is fast making my short list of \u201ctrusted names\u201d. And it is short.\n\nNo idea about his alliances or political bel\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JoRogersUK",
+        "name": "Jo Rogers \ud83c\udf38",
+        "id": 136929904,
+        "id_str": "136929904",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4684,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Sep 26 10:27:37 +0000 2021",
+    "id": 1442073364923920384,
+    "id_str": "1442073364923920384",
+    "text": "Neil Oliver is fast making my short list of \u201ctrusted names\u201d. And it is short.\n\nNo idea about his alliances or polit\u2026 https://t.co/DUDlt3tXsa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DUDlt3tXsa",
+          "expanded_url": "https://twitter.com/i/web/status/1442073364923920384",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 136929904,
+      "id_str": "136929904",
+      "name": "Jo Rogers \ud83c\udf38",
+      "screen_name": "JoRogersUK",
+      "location": "London",
+      "description": "Legal problem-solver. Democracy Declarer: https://t.co/hOTXw869S7",
+      "url": "https://t.co/q1sABZ2Ivg",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q1sABZ2Ivg",
+              "expanded_url": "http://lawyersforliberty.uk",
+              "display_url": "lawyersforliberty.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/hOTXw869S7",
+              "expanded_url": "https://democracydeclaration.com/",
+              "display_url": "democracydeclaration.com",
+              "indices": [
+                42,
+                65
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4289,
+      "friends_count": 603,
+      "listed_count": 29,
+      "created_at": "Sun Apr 25 08:52:43 +0000 2010",
+      "favourites_count": 6468,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1917,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1437917355435233283/snQeR1sX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1437917355435233283/snQeR1sX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/136929904/1630531153",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1441830195976146950,
+    "quoted_status_id_str": "1441830195976146950",
+    "quoted_status": {
+      "created_at": "Sat Sep 25 18:21:21 +0000 2021",
+      "id": 1441830195976146950,
+      "id_str": "1441830195976146950",
+      "text": "Neil Oliver: 'There\u2019s fear in the air. The strongest smell of fear is emanating not from the ordinary people, but f\u2026 https://t.co/qcVBp5vHPQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qcVBp5vHPQ",
+            "expanded_url": "https://twitter.com/i/web/status/1441830195976146950",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1339166129110065152,
+        "id_str": "1339166129110065152",
+        "name": "GB News",
+        "screen_name": "GBNEWS",
+        "location": "",
+        "description": "Freeview 236, Sky HD 515, Virgin Media HD 626, YouView 236, Freesat HD 216, YouTube, mobile, online & radio - news, opinion & debate for all the UK.",
+        "url": "https://t.co/SGyNilQpMI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SGyNilQpMI",
+                "expanded_url": "http://www.gbnews.uk",
+                "display_url": "gbnews.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 324000,
+        "friends_count": 37,
+        "listed_count": 772,
+        "created_at": "Wed Dec 16 11:11:23 +0000 2020",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 11599,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1377301663740989442/7Hbbjuxt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377301663740989442/7Hbbjuxt_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339166129110065152/1629583470",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5106,
+      "favorite_count": 12364,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 123,
+    "favorite_count": 503,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1441830195976146950,
+  "quoted_status_id_str": "1441830195976146950",
+  "retweet_count": 123,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

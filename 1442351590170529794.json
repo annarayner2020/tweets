@@ -1,0 +1,426 @@
+{
+  "created_at": "Mon Sep 27 04:53:11 +0000 2021",
+  "id": 1442351590170529794,
+  "id_str": "1442351590170529794",
+  "text": "RT @bobscartoons: .@IrreverendPod @holydisrupter @calvinrobinson",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "bobscartoons",
+        "name": "Bob Moran",
+        "id": 118044673,
+        "id_str": "118044673",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "IrreverendPod",
+        "name": "Irreverend",
+        "id": 1312042471803752450,
+        "id_str": "1312042471803752450",
+        "indices": [
+          19,
+          33
+        ]
+      },
+      {
+        "screen_name": "holydisrupter",
+        "name": "Daniel French",
+        "id": 941936011,
+        "id_str": "941936011",
+        "indices": [
+          34,
+          48
+        ]
+      },
+      {
+        "screen_name": "calvinrobinson",
+        "name": "Calvin",
+        "id": 75343905,
+        "id_str": "75343905",
+        "indices": [
+          49,
+          64
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5217,
+    "friends_count": 894,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7036,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3997,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Sep 26 22:29:30 +0000 2021",
+    "id": 1442255035258208257,
+    "id_str": "1442255035258208257",
+    "text": ".@IrreverendPod @holydisrupter @calvinrobinson https://t.co/w60945Gbqk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IrreverendPod",
+          "name": "Irreverend",
+          "id": 1312042471803752450,
+          "id_str": "1312042471803752450",
+          "indices": [
+            1,
+            15
+          ]
+        },
+        {
+          "screen_name": "holydisrupter",
+          "name": "Daniel French",
+          "id": 941936011,
+          "id_str": "941936011",
+          "indices": [
+            16,
+            30
+          ]
+        },
+        {
+          "screen_name": "calvinrobinson",
+          "name": "Calvin",
+          "id": 75343905,
+          "id_str": "75343905",
+          "indices": [
+            31,
+            46
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/w60945Gbqk",
+          "expanded_url": "https://twitter.com/FiveTimesAugust/status/1442235146552299529",
+          "display_url": "twitter.com/FiveTimesAugus\u2026",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 118044673,
+      "id_str": "118044673",
+      "name": "Bob Moran",
+      "screen_name": "bobscartoons",
+      "location": "UK",
+      "description": "Cartoonist @Telegraph\nSome cartoons shared here have not appeared in print. Cartoons published by the paper will be specified as such.",
+      "url": "https://t.co/AKKwa66z3z",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/AKKwa66z3z",
+              "expanded_url": "http://www.bobmoran.co.uk",
+              "display_url": "bobmoran.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 41310,
+      "friends_count": 1051,
+      "listed_count": 320,
+      "created_at": "Sat Feb 27 12:21:54 +0000 2010",
+      "favourites_count": 2280,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7521,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/918172564907810816/b_6IDgsl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/918172564907810816/b_6IDgsl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/118044673/1631350204",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1442235146552299529,
+    "quoted_status_id_str": "1442235146552299529",
+    "quoted_status": {
+      "created_at": "Sun Sep 26 21:10:29 +0000 2021",
+      "id": 1442235146552299529,
+      "id_str": "1442235146552299529",
+      "text": "I saw this last night and wanted it to not be real\u2026 but it\u2019s real\u2026 and it\u2019s a best seller. \ud83e\udd26\u200d\u2642\ufe0f https://t.co/7LiZfdCfqD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1442235137899569152,
+            "id_str": "1442235137899569152",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/FAPZN3UXIAAT8JG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FAPZN3UXIAAT8JG.jpg",
+            "url": "https://t.co/7LiZfdCfqD",
+            "display_url": "pic.twitter.com/7LiZfdCfqD",
+            "expanded_url": "https://twitter.com/FiveTimesAugust/status/1442235146552299529/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 419,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1125,
+                "h": 1825,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 740,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1442235137899569152,
+            "id_str": "1442235137899569152",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/FAPZN3UXIAAT8JG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FAPZN3UXIAAT8JG.jpg",
+            "url": "https://t.co/7LiZfdCfqD",
+            "display_url": "pic.twitter.com/7LiZfdCfqD",
+            "expanded_url": "https://twitter.com/FiveTimesAugust/status/1442235146552299529/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 419,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1125,
+                "h": 1825,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 740,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19956739,
+        "id_str": "19956739",
+        "name": "Five Times August",
+        "screen_name": "FiveTimesAugust",
+        "location": "Dallas, TX",
+        "description": "Brad. Husband. Daddy. Songwriter.  New single \"Joe\u201d out now",
+        "url": "https://t.co/vg5b2gLZM3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vg5b2gLZM3",
+                "expanded_url": "http://fivetimesaugust.com",
+                "display_url": "fivetimesaugust.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 58125,
+        "friends_count": 1257,
+        "listed_count": 368,
+        "created_at": "Tue Feb 03 05:47:54 +0000 2009",
+        "favourites_count": 12567,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 18676,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "010101",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1434631958198431749/CB-umk4U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1434631958198431749/CB-umk4U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19956739/1630974970",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "1F1F1F",
+        "profile_text_color": "B5B5B5",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 486,
+      "favorite_count": 1413,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 50,
+    "favorite_count": 161,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1442235146552299529,
+  "quoted_status_id_str": "1442235146552299529",
+  "retweet_count": 50,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "und"
+}

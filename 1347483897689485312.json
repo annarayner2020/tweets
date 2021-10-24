@@ -1,0 +1,195 @@
+{
+  "created_at": "Fri Jan 08 10:02:50 +0000 2021",
+  "id": 1347483897689485312,
+  "id_str": "1347483897689485312",
+  "text": "RT @Francis_Hoar: Data from the NHS.  See the second tweet - fewer ambulances dispatching patients than this time last year.\n#WhyAreWeDoing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Francis_Hoar",
+        "name": "Francis Hoar",
+        "id": 142640919,
+        "id_str": "142640919",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5172,
+    "friends_count": 881,
+    "listed_count": 13,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6333,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3455,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jan 07 17:12:31 +0000 2021",
+    "id": 1347229642357403649,
+    "id_str": "1347229642357403649",
+    "text": "Data from the NHS.  See the second tweet - fewer ambulances dispatching patients than this time last year.\u2026 https://t.co/TL7CjKRqz0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TL7CjKRqz0",
+          "expanded_url": "https://twitter.com/i/web/status/1347229642357403649",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 142640919,
+      "id_str": "142640919",
+      "name": "Francis Hoar",
+      "screen_name": "Francis_Hoar",
+      "location": "London",
+      "description": "Barrister, specialist in election/public, commercial & employment law. Legal commentator. History, architecture, skiing, singing. There is #ABetterWay.",
+      "url": "https://t.co/RKTOYVXuSE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RKTOYVXuSE",
+              "expanded_url": "https://francishoar.wordpress.com/2020/11/02/recent-articles/",
+              "display_url": "francishoar.wordpress.com/2020/11/02/rec\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 39443,
+      "friends_count": 1064,
+      "listed_count": 177,
+      "created_at": "Tue May 11 11:10:42 +0000 2010",
+      "favourites_count": 28019,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 66021,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968039817962557440/uLWoS_8m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968039817962557440/uLWoS_8m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/142640919/1593991458",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1347221879736643585,
+    "quoted_status_id_str": "1347221879736643585",
+    "retweet_count": 174,
+    "favorite_count": 361,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1347221879736643585,
+  "quoted_status_id_str": "1347221879736643585",
+  "retweet_count": 174,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

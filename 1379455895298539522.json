@@ -1,0 +1,307 @@
+{
+  "created_at": "Tue Apr 06 15:28:09 +0000 2021",
+  "id": 1379455895298539522,
+  "id_str": "1379455895298539522",
+  "text": "RT @dockaurG: I\u2019m honoured to announce Concerned Ontario Doctors\u2019 Covid-19 Summit\n\nJoin Us Apr11!\n\nOpening/Closing Address: Me\n\nModerator:\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "dockaurG",
+        "name": "Kulvinder Kaur MD",
+        "id": 4086538637,
+        "id_str": "4086538637",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Apr 05 20:42:39 +0000 2021",
+    "id": 1379172653488037889,
+    "id_str": "1379172653488037889",
+    "text": "I\u2019m honoured to announce Concerned Ontario Doctors\u2019 Covid-19 Summit\n\nJoin Us Apr11!\n\nOpening/Closing Address: Me\n\nM\u2026 https://t.co/vSM4aA3rgp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vSM4aA3rgp",
+          "expanded_url": "https://twitter.com/i/web/status/1379172653488037889",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4086538637,
+      "id_str": "4086538637",
+      "name": "Kulvinder Kaur MD",
+      "screen_name": "dockaurG",
+      "location": "Ontario, Canada",
+      "description": "Physician. #Patient #HumanRights #CareNotCuts Advocate. Volunteer. President & CoFounder - Concerned Ontario Doctors @OnCall4ON. Cupcake Connoisseur. Tweets own",
+      "url": "https://t.co/6GK1P768tU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/6GK1P768tU",
+              "expanded_url": "https://www.CareNotCuts.ca",
+              "display_url": "CareNotCuts.ca",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 126117,
+      "friends_count": 638,
+      "listed_count": 763,
+      "created_at": "Sun Nov 01 01:33:51 +0000 2015",
+      "favourites_count": 23602,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 24754,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1008169814190219264/1xyRYcob_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008169814190219264/1xyRYcob_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4086538637/1474719584",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1379166250669068290,
+    "quoted_status_id_str": "1379166250669068290",
+    "quoted_status": {
+      "created_at": "Mon Apr 05 20:17:12 +0000 2021",
+      "id": 1379166250669068290,
+      "id_str": "1379166250669068290",
+      "text": "\ud83c\udfa5 JOIN US \ud83c\udde8\ud83c\udde6\n\nCONCERNED ONTARIO DOCTORS\u2019 COVID-19 SUMMIT\n\nWorld Eminent Professors on\nCanada\u2019s Covid-19 Response:\u2026 https://t.co/qg7Utf9QnJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qg7Utf9QnJ",
+            "expanded_url": "https://twitter.com/i/web/status/1379166250669068290",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3772180214,
+        "id_str": "3772180214",
+        "name": "Your Ontario Doctors",
+        "screen_name": "OnCall4ON",
+        "location": "Ontario, Canada",
+        "description": "As your Concerned Ontario Doctors we will always put #PatientsFirst. Let's fight for our healthcare together! https://t.co/Lf6eF3k5rI #CareNotCuts #onhealth #onpoli",
+        "url": "https://t.co/Wi6AWM8Eoz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Wi6AWM8Eoz",
+                "expanded_url": "https://www.facebook.com/concernedontariodoctors",
+                "display_url": "facebook.com/concernedontar\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Lf6eF3k5rI",
+                "expanded_url": "http://www.carenotcuts.ca",
+                "display_url": "carenotcuts.ca",
+                "indices": [
+                  110,
+                  133
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 24284,
+        "friends_count": 2221,
+        "listed_count": 151,
+        "created_at": "Sat Oct 03 17:18:28 +0000 2015",
+        "favourites_count": 28590,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26918,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127910339092328449/h4fDx2i7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127910339092328449/h4fDx2i7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3772180214/1452970887",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 868,
+      "favorite_count": 1623,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1190,
+    "favorite_count": 2420,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1379166250669068290,
+  "quoted_status_id_str": "1379166250669068290",
+  "retweet_count": 1190,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,219 @@
+{
+  "created_at": "Mon Feb 01 13:44:38 +0000 2021",
+  "id": 1356237023028326401,
+  "id_str": "1356237023028326401",
+  "text": "RT @NInterit: @benmagelsen @trishsprintshop It goes way beyond that.\n- Cuomo and his band of brothers have explicitly banned the use of Hyd\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NInterit",
+        "name": "nihil interit \ud83d\ude03",
+        "id": 1229025716932612098,
+        "id_str": "1229025716932612098",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "benmagelsen",
+        "name": "Ben Magelsen \ud83c\uddfa\ud83c\uddf8",
+        "id": 1655820770,
+        "id_str": "1655820770",
+        "indices": [
+          14,
+          26
+        ]
+      },
+      {
+        "screen_name": "trishsprintshop",
+        "name": "Trish Lilly",
+        "id": 323833199,
+        "id_str": "323833199",
+        "indices": [
+          27,
+          43
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5186,
+    "friends_count": 889,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6639,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3702,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Jan 31 06:59:50 +0000 2021",
+    "id": 1355772764263763971,
+    "id_str": "1355772764263763971",
+    "text": "@benmagelsen @trishsprintshop It goes way beyond that.\n- Cuomo and his band of brothers have explicitly banned the\u2026 https://t.co/ERL80FBWxn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "benmagelsen",
+          "name": "Ben Magelsen \ud83c\uddfa\ud83c\uddf8",
+          "id": 1655820770,
+          "id_str": "1655820770",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "trishsprintshop",
+          "name": "Trish Lilly",
+          "id": 323833199,
+          "id_str": "323833199",
+          "indices": [
+            13,
+            29
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ERL80FBWxn",
+          "expanded_url": "https://twitter.com/i/web/status/1355772764263763971",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1355399445081280518,
+    "in_reply_to_status_id_str": "1355399445081280518",
+    "in_reply_to_user_id": 1655820770,
+    "in_reply_to_user_id_str": "1655820770",
+    "in_reply_to_screen_name": "benmagelsen",
+    "user": {
+      "id": 1229025716932612098,
+      "id_str": "1229025716932612098",
+      "name": "nihil interit \ud83d\ude03",
+      "screen_name": "NInterit",
+      "location": "",
+      "description": "Here to bust myths. No exceptions. Capable of self reflection, utterly unimpressed by anyone's opinion about me, dedicated seeker of fun.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1109,
+      "friends_count": 947,
+      "listed_count": 4,
+      "created_at": "Sun Feb 16 12:52:37 +0000 2020",
+      "favourites_count": 24703,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12561,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1303064367781605382/CrTK3q_m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303064367781605382/CrTK3q_m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229025716932612098/1599373905",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 440,
+    "favorite_count": 678,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 440,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,297 @@
+{
+  "created_at": "Tue Mar 09 15:54:55 +0000 2021",
+  "id": 1369315772883959813,
+  "id_str": "1369315772883959813",
+  "text": "RT @AngelaPower7: It\u2019s time we charged the Gov with crimes against humanity... https://t.co/sTmT1weUIt",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AngelaPower7",
+        "name": "Angela Power Supports #BackTo60 #NoMasks #KBF",
+        "id": 716055577,
+        "id_str": "716055577",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/sTmT1weUIt",
+        "expanded_url": "https://twitter.com/ClareCraigPath/status/1369276376520482818",
+        "display_url": "twitter.com/ClareCraigPath\u2026",
+        "indices": [
+          79,
+          102
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5384,
+    "friends_count": 902,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7471,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4415,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Mar 09 15:54:00 +0000 2021",
+    "id": 1369315543006724107,
+    "id_str": "1369315543006724107",
+    "text": "It\u2019s time we charged the Gov with crimes against humanity... https://t.co/sTmT1weUIt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sTmT1weUIt",
+          "expanded_url": "https://twitter.com/ClareCraigPath/status/1369276376520482818",
+          "display_url": "twitter.com/ClareCraigPath\u2026",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 716055577,
+      "id_str": "716055577",
+      "name": "Angela Power Supports #BackTo60 #NoMasks #KBF",
+      "screen_name": "AngelaPower7",
+      "location": "United Kingdom",
+      "description": "Passionately British and a dissident. #NoVaccines #NoMasks #BuyBritish #KBF #Scamdemic2020 #ClimateChangeScam #AllLivesMatter #FreeSpeech #LoveTrump",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4631,
+      "friends_count": 4939,
+      "listed_count": 7,
+      "created_at": "Wed Jul 25 13:20:21 +0000 2012",
+      "favourites_count": 235035,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 154014,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1378760505981034500/sFDiHOoz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378760505981034500/sFDiHOoz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/716055577/1591340097",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1369276376520482818,
+    "quoted_status_id_str": "1369276376520482818",
+    "quoted_status": {
+      "created_at": "Tue Mar 09 13:18:22 +0000 2021",
+      "id": 1369276376520482818,
+      "id_str": "1369276376520482818",
+      "text": "COVID deaths and respiratory deaths together are at the same levels as respiratory deaths normally are. https://t.co/DYjvYp62YU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DYjvYp62YU",
+            "expanded_url": "https://twitter.com/InProportion2/status/1368842171739209732",
+            "display_url": "twitter.com/InProportion2/\u2026",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1302978006441492481,
+        "id_str": "1302978006441492481",
+        "name": "Dr Clare Craig",
+        "screen_name": "ClareCraigPath",
+        "location": "",
+        "description": "Diagnostic pathologist, lover of data, digital pathology and AI, sceptical but optimistic. Views my own not the RCPath's.",
+        "url": "https://t.co/g3aXTQ7A0p",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/g3aXTQ7A0p",
+                "expanded_url": "https://www.hartgroup.org/",
+                "display_url": "hartgroup.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 83827,
+        "friends_count": 387,
+        "listed_count": 562,
+        "created_at": "Mon Sep 07 14:32:26 +0000 2020",
+        "favourites_count": 1676,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7090,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302978006441492481/1628178678",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1368842171739209732,
+      "quoted_status_id_str": "1368842171739209732",
+      "retweet_count": 766,
+      "favorite_count": 1487,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 6,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1369276376520482818,
+  "quoted_status_id_str": "1369276376520482818",
+  "retweet_count": 6,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

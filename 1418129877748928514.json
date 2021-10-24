@@ -1,0 +1,189 @@
+{
+  "created_at": "Thu Jul 22 08:44:45 +0000 2021",
+  "id": 1418129877748928514,
+  "id_str": "1418129877748928514",
+  "text": "RT @aginnt: No, this isn\u2019t satire; this isn\u2019t from a horror movie.\n\nThis is Australia.\nhttps://t.co/azbJB1hC23",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "aginnt",
+        "name": "Aaron Ginn",
+        "id": 184789840,
+        "id_str": "184789840",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/azbJB1hC23",
+        "expanded_url": "https://twitter.com/LHatesYouALot/status/1417118833865854978/video/1",
+        "display_url": "twitter.com/LHatesYouALot/\u2026",
+        "indices": [
+          87,
+          110
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jul 21 14:53:05 +0000 2021",
+    "id": 1417860184538451968,
+    "id_str": "1417860184538451968",
+    "text": "No, this isn\u2019t satire; this isn\u2019t from a horror movie.\n\nThis is Australia.\nhttps://t.co/azbJB1hC23",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/azbJB1hC23",
+          "expanded_url": "https://twitter.com/LHatesYouALot/status/1417118833865854978/video/1",
+          "display_url": "twitter.com/LHatesYouALot/\u2026",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 184789840,
+      "id_str": "184789840",
+      "name": "Aaron Ginn",
+      "screen_name": "aginnt",
+      "location": "",
+      "description": "Cofounder of @joinlincoln + new co. alum: growth @everlane @stumbleupon and @MittRomney 2012. Saved by grace for \u03ba\u03b1\u03b9\u03bd\u1f78\u03bd \u03bf\u1f50\u03c1\u03b1\u03bd\u1f79\u03c2 \u03b3\u1fc6\u03bd. #skeptic #crossfit #keto",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 39671,
+      "friends_count": 937,
+      "listed_count": 745,
+      "created_at": "Mon Aug 30 14:00:57 +0000 2010",
+      "favourites_count": 8491,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20857,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1153839283259629570/OYHwVln6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153839283259629570/OYHwVln6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/184789840/1583852930",
+      "profile_link_color": "0C00B3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D2",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5147,
+    "favorite_count": 14240,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5147,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

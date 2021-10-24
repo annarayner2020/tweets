@@ -1,0 +1,308 @@
+{
+  "created_at": "Sat Aug 14 16:54:04 +0000 2021",
+  "id": 1426587942382940171,
+  "id_str": "1426587942382940171",
+  "text": "RT @LaserHodl: The Signal is Growing.\n\n@TheELongWave @_whitneywebb @HoweGeneration @LibertyBlitz @Nakadai_mon @MartyBent @1MarkMoss @AlexEp\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LaserHodl",
+        "name": "LaserHodl \ud83d\udef0\u2728",
+        "id": 1274491960019939328,
+        "id_str": "1274491960019939328",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "TheELongWave",
+        "name": "The Economic LongWave",
+        "id": 1212394617020137474,
+        "id_str": "1212394617020137474",
+        "indices": [
+          39,
+          52
+        ]
+      },
+      {
+        "screen_name": "_whitneywebb",
+        "name": "Whitney Webb",
+        "id": 765241482974470144,
+        "id_str": "765241482974470144",
+        "indices": [
+          53,
+          66
+        ]
+      },
+      {
+        "screen_name": "HoweGeneration",
+        "name": "Neil Howe",
+        "id": 3503290701,
+        "id_str": "3503290701",
+        "indices": [
+          67,
+          82
+        ]
+      },
+      {
+        "screen_name": "LibertyBlitz",
+        "name": "Michael Krieger",
+        "id": 559802746,
+        "id_str": "559802746",
+        "indices": [
+          83,
+          96
+        ]
+      },
+      {
+        "screen_name": "Nakadai_mon",
+        "name": "Nakadai.\u738b\u221e/21M\ud83d\udd31\ud83e\udd81\ud83d\udee1\ufe0f\ud83c\udfef\ud83d\udcff",
+        "id": 1308404331016790017,
+        "id_str": "1308404331016790017",
+        "indices": [
+          97,
+          109
+        ]
+      },
+      {
+        "screen_name": "MartyBent",
+        "name": "Marty Bent",
+        "id": 375707743,
+        "id_str": "375707743",
+        "indices": [
+          110,
+          120
+        ]
+      },
+      {
+        "screen_name": "1MarkMoss",
+        "name": "Mark Moss",
+        "id": 961026235122958336,
+        "id_str": "961026235122958336",
+        "indices": [
+          121,
+          131
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Aug 14 14:32:37 +0000 2021",
+    "id": 1426552343366037507,
+    "id_str": "1426552343366037507",
+    "text": "The Signal is Growing.\n\n@TheELongWave @_whitneywebb @HoweGeneration @LibertyBlitz @Nakadai_mon @MartyBent\u2026 https://t.co/4sExN4en2A",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TheELongWave",
+          "name": "The Economic LongWave",
+          "id": 1212394617020137474,
+          "id_str": "1212394617020137474",
+          "indices": [
+            24,
+            37
+          ]
+        },
+        {
+          "screen_name": "_whitneywebb",
+          "name": "Whitney Webb",
+          "id": 765241482974470144,
+          "id_str": "765241482974470144",
+          "indices": [
+            38,
+            51
+          ]
+        },
+        {
+          "screen_name": "HoweGeneration",
+          "name": "Neil Howe",
+          "id": 3503290701,
+          "id_str": "3503290701",
+          "indices": [
+            52,
+            67
+          ]
+        },
+        {
+          "screen_name": "LibertyBlitz",
+          "name": "Michael Krieger",
+          "id": 559802746,
+          "id_str": "559802746",
+          "indices": [
+            68,
+            81
+          ]
+        },
+        {
+          "screen_name": "Nakadai_mon",
+          "name": "Nakadai.\u738b\u221e/21M\ud83d\udd31\ud83e\udd81\ud83d\udee1\ufe0f\ud83c\udfef\ud83d\udcff",
+          "id": 1308404331016790017,
+          "id_str": "1308404331016790017",
+          "indices": [
+            82,
+            94
+          ]
+        },
+        {
+          "screen_name": "MartyBent",
+          "name": "Marty Bent",
+          "id": 375707743,
+          "id_str": "375707743",
+          "indices": [
+            95,
+            105
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4sExN4en2A",
+          "expanded_url": "https://twitter.com/i/web/status/1426552343366037507",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1274491960019939328,
+      "id_str": "1274491960019939328",
+      "name": "LaserHodl \ud83d\udef0\u2728",
+      "screen_name": "LaserHodl",
+      "location": "",
+      "description": "Helping Families Navigate Reset. Champion of Toxicity. Tokens are Time Theft. Saving is Justice. Opt Out at Every Layer. Renaissance Now. #Bitcoin",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11952,
+      "friends_count": 1144,
+      "listed_count": 162,
+      "created_at": "Sat Jun 20 23:59:51 +0000 2020",
+      "favourites_count": 45875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12737,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1446316382472351745/J4lxVkdV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1446316382472351745/J4lxVkdV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274491960019939328/1627971648",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 67,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 8,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

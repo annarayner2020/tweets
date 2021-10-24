@@ -1,0 +1,216 @@
+{
+  "created_at": "Mon Aug 23 11:04:03 +0000 2021",
+  "id": 1429761345390628870,
+  "id_str": "1429761345390628870",
+  "text": "RT @michael_saylor: My Advice for those entering Adulthood:\n\n1. Focus your Energy\n2. Guard your Time\n3. Train your Mind\n4. Train your Body\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Aug 22 07:02:23 +0000 2021",
+    "id": 1429338140809080834,
+    "id_str": "1429338140809080834",
+    "text": "My Advice for those entering Adulthood:\n\n1. Focus your Energy\n2. Guard your Time\n3. Train your Mind\n4. Train your B\u2026 https://t.co/C1K1C7klN5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/C1K1C7klN5",
+          "expanded_url": "https://twitter.com/i/web/status/1429338140809080834",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 244647486,
+      "id_str": "244647486",
+      "name": "Michael Saylor\u26a1\ufe0f",
+      "screen_name": "saylor",
+      "location": "Miami Beach, FL",
+      "description": "$MSTR Founder & CEO | @MIT Aerospace | bio @ https://t.co/ujOwMF6F7F | free education @ https://t.co/f30dcxd8Xv | #Bitcoin is https://t.co/47dA8aiixk & https://t.co/uSXhfX0Jm6. | All tweets are my own.",
+      "url": "https://t.co/lz9bT9Kvoy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lz9bT9Kvoy",
+              "expanded_url": "https://microstrategy.com",
+              "display_url": "microstrategy.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/ujOwMF6F7F",
+              "expanded_url": "http://michael.com",
+              "display_url": "michael.com",
+              "indices": [
+                45,
+                68
+              ]
+            },
+            {
+              "url": "https://t.co/f30dcxd8Xv",
+              "expanded_url": "http://saylor.org",
+              "display_url": "saylor.org",
+              "indices": [
+                88,
+                111
+              ]
+            },
+            {
+              "url": "https://t.co/47dA8aiixk",
+              "expanded_url": "http://hope.com",
+              "display_url": "hope.com",
+              "indices": [
+                126,
+                149
+              ]
+            },
+            {
+              "url": "https://t.co/uSXhfX0Jm6",
+              "expanded_url": "http://strategy.com",
+              "display_url": "strategy.com",
+              "indices": [
+                152,
+                175
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1681589,
+      "friends_count": 524,
+      "listed_count": 9979,
+      "created_at": "Sat Jan 29 20:11:04 +0000 2011",
+      "favourites_count": 1969,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2510,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1427230461210808321/ZqZ3ezw-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1427230461210808321/ZqZ3ezw-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/244647486/1606261344",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4968,
+    "favorite_count": 22709,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 4968,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

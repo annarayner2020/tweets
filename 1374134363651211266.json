@@ -1,0 +1,317 @@
+{
+  "created_at": "Mon Mar 22 23:02:17 +0000 2021",
+  "id": 1374134363651211266,
+  "id_str": "1374134363651211266",
+  "text": "RT @FatEmperor: The end of bodily autonomy - the end of Great Britain?",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "FatEmperor",
+        "name": "Ivor Cummins",
+        "id": 2383882980,
+        "id_str": "2383882980",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Mar 22 22:21:26 +0000 2021",
+    "id": 1374124083215007755,
+    "id_str": "1374124083215007755",
+    "text": "The end of bodily autonomy - the end of Great Britain? https://t.co/Icxa2a8Ux8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Icxa2a8Ux8",
+          "expanded_url": "https://twitter.com/Telegraph/status/1374112123740172291",
+          "display_url": "twitter.com/Telegraph/stat\u2026",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2383882980,
+      "id_str": "2383882980",
+      "name": "Ivor Cummins",
+      "screen_name": "FatEmperor",
+      "location": "Ireland",
+      "description": "Technical Manager / Team Leader, Biochemical Engineer, Complex Problem Solving Specialist, Technologist https://t.co/mLhZnC1KGq @PanData19 Member #CAC #CVD #RootCause",
+      "url": "http://t.co/tVfArmbN3L",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/tVfArmbN3L",
+              "expanded_url": "http://www.thefatemperor.com",
+              "display_url": "thefatemperor.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/mLhZnC1KGq",
+              "expanded_url": "http://SmilesMatter.info",
+              "display_url": "SmilesMatter.info",
+              "indices": [
+                104,
+                127
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 141687,
+      "friends_count": 10695,
+      "listed_count": 1450,
+      "created_at": "Tue Mar 11 15:31:46 +0000 2014",
+      "favourites_count": 155198,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 113737,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1341199030467108869/TBu25r6t_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341199030467108869/TBu25r6t_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2383882980/1621713436",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1374112123740172291,
+    "quoted_status_id_str": "1374112123740172291",
+    "quoted_status": {
+      "created_at": "Mon Mar 22 21:33:54 +0000 2021",
+      "id": 1374112123740172291,
+      "id_str": "1374112123740172291",
+      "text": "\ud83d\udd34 \ud83d\udc89 Care home workers will be required by law to have a Covid-19 jab under a historic legal change agreed by Boris\u2026 https://t.co/1AL3eg5xNs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1AL3eg5xNs",
+            "expanded_url": "https://twitter.com/i/web/status/1374112123740172291",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16343974,
+        "id_str": "16343974",
+        "name": "The Telegraph",
+        "screen_name": "Telegraph",
+        "location": "London, UK",
+        "description": "Think ahead with the latest news, comment, analysis and video. \n\nSubscribe here: https://t.co/xLGnIGReLy\u2026",
+        "url": "https://t.co/ve1cMBKSfu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ve1cMBKSfu",
+                "expanded_url": "http://www.telegraph.co.uk/?WT.mc_id=tw",
+                "display_url": "telegraph.co.uk/?WT.mc_id=tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/xLGnIGReLy",
+                "expanded_url": "http://telegraph.co.uk/customer/subsc",
+                "display_url": "telegraph.co.uk/customer/subsc",
+                "indices": [
+                  81,
+                  104
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3108530,
+        "friends_count": 853,
+        "listed_count": 19682,
+        "created_at": "Thu Sep 18 06:50:54 +0000 2008",
+        "favourites_count": 364,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 445745,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "5F5653",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/943090005723041792/2cjxINlJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/943090005723041792/2cjxINlJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16343974/1582025066",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F4F4F0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 358,
+      "favorite_count": 560,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 295,
+    "favorite_count": 963,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1374112123740172291,
+  "quoted_status_id_str": "1374112123740172291",
+  "retweet_count": 295,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,217 @@
+{
+  "created_at": "Wed Jan 27 11:01:04 +0000 2021",
+  "id": 1354383920884813825,
+  "id_str": "1354383920884813825",
+  "text": "RT @EdConwaySky: The likelihood of someone with #COVID19 dying in intensive care has dropped from nearly 45% to not much above 20%! That\u2019s\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "COVID19",
+        "indices": [
+          48,
+          56
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "EdConwaySky",
+        "name": "Ed Conway",
+        "id": 7847192,
+        "id_str": "7847192",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5176,
+    "friends_count": 889,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6566,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3652,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Aug 07 14:01:09 +0000 2020",
+    "id": 1291736138571489282,
+    "id_str": "1291736138571489282",
+    "text": "The likelihood of someone with #COVID19 dying in intensive care has dropped from nearly 45% to not much above 20%!\u2026 https://t.co/jQNPV2hEQI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "COVID19",
+          "indices": [
+            31,
+            39
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jQNPV2hEQI",
+          "expanded_url": "https://twitter.com/i/web/status/1291736138571489282",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1291736135719362560,
+    "in_reply_to_status_id_str": "1291736135719362560",
+    "in_reply_to_user_id": 7847192,
+    "in_reply_to_user_id_str": "7847192",
+    "in_reply_to_screen_name": "EdConwaySky",
+    "user": {
+      "id": 7847192,
+      "id_str": "7847192",
+      "name": "Ed Conway",
+      "screen_name": "EdConwaySky",
+      "location": "Deep in a spreadsheet",
+      "description": "Numbers guy. Likes charts. Occasionally spotted on @SkyNews & @TheTimes. Books: https://t.co/NLlq0OMlqg DMs open. Email: ed.conway@sky.uk",
+      "url": "https://t.co/tjy1fduDFe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tjy1fduDFe",
+              "expanded_url": "http://www.edmundconway.com",
+              "display_url": "edmundconway.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/NLlq0OMlqg",
+              "expanded_url": "http://edmundconway.com/books/",
+              "display_url": "edmundconway.com/books/",
+              "indices": [
+                80,
+                103
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 143378,
+      "friends_count": 1064,
+      "listed_count": 0,
+      "created_at": "Tue Jul 31 13:11:19 +0000 2007",
+      "favourites_count": 1075,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 28553,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/509109353794658304/8nhFNZrb_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/509109353794658304/8nhFNZrb_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7847192/1439387283",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 459,
+    "favorite_count": 1137,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 459,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

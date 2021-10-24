@@ -1,0 +1,407 @@
+{
+  "created_at": "Sun Feb 14 08:11:23 +0000 2021",
+  "id": 1360864200004927490,
+  "id_str": "1360864200004927490",
+  "text": "RT @StrypzVBLtd: Good on ya Micky \ud83d\udc4d\ud83c\udffb https://t.co/wE1LZhXHz7",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "StrypzVBLtd",
+        "name": "Strypz",
+        "id": 2786506868,
+        "id_str": "2786506868",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/wE1LZhXHz7",
+        "expanded_url": "https://twitter.com/CharlieEmmaUK/status/1338147571823415298",
+        "display_url": "twitter.com/CharlieEmmaUK/\u2026",
+        "indices": [
+          37,
+          60
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5221,
+    "friends_count": 897,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7007,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3996,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Dec 14 09:35:41 +0000 2020",
+    "id": 1338417367697776640,
+    "id_str": "1338417367697776640",
+    "text": "Good on ya Micky \ud83d\udc4d\ud83c\udffb https://t.co/wE1LZhXHz7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wE1LZhXHz7",
+          "expanded_url": "https://twitter.com/CharlieEmmaUK/status/1338147571823415298",
+          "display_url": "twitter.com/CharlieEmmaUK/\u2026",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2786506868,
+      "id_str": "2786506868",
+      "name": "Strypz",
+      "screen_name": "StrypzVBLtd",
+      "location": "East Yorks but travel UK-wide",
+      "description": "Experienced vehicle fleet livery professional with over 30 years experience offering a UK wide service. Especially proficient in the rebranding of full fleets.",
+      "url": "https://t.co/7IoQMnufDx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7IoQMnufDx",
+              "expanded_url": "http://www.strypz.co.uk",
+              "display_url": "strypz.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9,
+      "friends_count": 50,
+      "listed_count": 0,
+      "created_at": "Tue Sep 02 19:11:05 +0000 2014",
+      "favourites_count": 1020,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 265,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1353634538258370560/vX1DaxW6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353634538258370560/vX1DaxW6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2786506868/1611566599",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1338147571823415298,
+    "quoted_status_id_str": "1338147571823415298",
+    "quoted_status": {
+      "created_at": "Sun Dec 13 15:43:37 +0000 2020",
+      "id": 1338147571823415298,
+      "id_str": "1338147571823415298",
+      "text": "Micky Flanagan is an anti-masker \ud83d\ude05 https://t.co/IO4YVaFsSe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1338147525291876352,
+            "id_str": "1338147525291876352",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338147525291876352/pu/img/XucjvyFcnxgP8Ha_.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338147525291876352/pu/img/XucjvyFcnxgP8Ha_.jpg",
+            "url": "https://t.co/IO4YVaFsSe",
+            "display_url": "pic.twitter.com/IO4YVaFsSe",
+            "expanded_url": "https://twitter.com/CharlieEmma85/status/1338147571823415298/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 555,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 315,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 592,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1338147525291876352,
+            "id_str": "1338147525291876352",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338147525291876352/pu/img/XucjvyFcnxgP8Ha_.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338147525291876352/pu/img/XucjvyFcnxgP8Ha_.jpg",
+            "url": "https://t.co/IO4YVaFsSe",
+            "display_url": "pic.twitter.com/IO4YVaFsSe",
+            "expanded_url": "https://twitter.com/CharlieEmma85/status/1338147571823415298/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 555,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 315,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 592,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                80,
+                37
+              ],
+              "duration_millis": 19665,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1338147525291876352/pu/vid/582x270/OkkGsnMt-TC9NAyF.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1338147525291876352/pu/pl/cqsjF2Y9r-dsSUxf.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1338147525291876352/pu/vid/778x360/tspl7OfUbvCg79wx.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1338147525291876352/pu/vid/1280x592/6gEpVUurN-WDHd7D.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2773644907,
+        "id_str": "2773644907",
+        "name": "Charlotte \ud83d\udd95\ud83c\udffc",
+        "screen_name": "CharlieEmmaUK",
+        "location": "",
+        "description": "Awake not woke. Pronouns: Fuck/Off ~ Lied to since birth. Not frightened of coughs. Henry Kissinger thinks I\u2019m a \u201cuseless eater\u201d. Exempt from bullshit.",
+        "url": "https://t.co/jH2q0rCdvg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/jH2q0rCdvg",
+                "expanded_url": "https://t.me/letscutthecrap",
+                "display_url": "t.me/letscutthecrap",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20818,
+        "friends_count": 5769,
+        "listed_count": 40,
+        "created_at": "Wed Aug 27 15:37:43 +0000 2014",
+        "favourites_count": 37357,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31632,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1444062522211016705/kawhMjkI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444062522211016705/kawhMjkI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2773644907/1615930898",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 87,
+      "favorite_count": 603,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1338147571823415298,
+  "quoted_status_id_str": "1338147571823415298",
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,279 @@
+{
+  "created_at": "Fri Oct 01 22:08:49 +0000 2021",
+  "id": 1444061766158360579,
+  "id_str": "1444061766158360579",
+  "text": "This is hands down the best thing I\u2019ve seen all week. \n\nSomething symbolic here. The fall of the cabal commences\u2026 https://t.co/kIKecQnUYP",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/kIKecQnUYP",
+        "expanded_url": "https://twitter.com/simonopey79/status/1443959147616210944",
+        "display_url": "twitter.com/simonopey79/st\u2026",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4683,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1443959147616210944,
+  "quoted_status_id_str": "1443959147616210944",
+  "quoted_status": {
+    "created_at": "Fri Oct 01 15:21:02 +0000 2021",
+    "id": 1443959147616210944,
+    "id_str": "1443959147616210944",
+    "text": "@NeverSleever https://t.co/G14elscjev",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NeverSleever",
+          "name": "Covid-1984",
+          "id": 1420863242054864898,
+          "id_str": "1420863242054864898",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1443959114162479105,
+          "id_str": "1443959114162479105",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443959114162479105/pu/img/eH1wNobFuTH0sz46.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443959114162479105/pu/img/eH1wNobFuTH0sz46.jpg",
+          "url": "https://t.co/G14elscjev",
+          "display_url": "pic.twitter.com/G14elscjev",
+          "expanded_url": "https://twitter.com/simonopey79/status/1443959147616210944/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 432,
+              "h": 238,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 432,
+              "h": 238,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 432,
+              "h": 238,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1443959114162479105,
+          "id_str": "1443959114162479105",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443959114162479105/pu/img/eH1wNobFuTH0sz46.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443959114162479105/pu/img/eH1wNobFuTH0sz46.jpg",
+          "url": "https://t.co/G14elscjev",
+          "display_url": "pic.twitter.com/G14elscjev",
+          "expanded_url": "https://twitter.com/simonopey79/status/1443959147616210944/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 432,
+              "h": 238,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 432,
+              "h": 238,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 432,
+              "h": 238,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              216,
+              119
+            ],
+            "duration_millis": 13371,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1443959114162479105/pu/pl/xmb7rd5vG2Nud_FR.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1443959114162479105/pu/vid/432x238/zm3nGYV6uUZH9MyK.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1443844318607912960,
+    "in_reply_to_status_id_str": "1443844318607912960",
+    "in_reply_to_user_id": 1420863242054864898,
+    "in_reply_to_user_id_str": "1420863242054864898",
+    "in_reply_to_screen_name": "NeverSleever",
+    "user": {
+      "id": 1083672572112392192,
+      "id_str": "1083672572112392192",
+      "name": "simon",
+      "screen_name": "simonopey79",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17,
+      "friends_count": 152,
+      "listed_count": 0,
+      "created_at": "Fri Jan 11 10:30:49 +0000 2019",
+      "favourites_count": 918,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 453,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1109124643888214022/h5nqUOMJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109124643888214022/h5nqUOMJ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 306,
+    "favorite_count": 981,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "retweet_count": 12,
+  "favorite_count": 23,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

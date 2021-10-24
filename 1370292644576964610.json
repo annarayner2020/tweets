@@ -1,0 +1,434 @@
+{
+  "created_at": "Fri Mar 12 08:36:39 +0000 2021",
+  "id": 1370292644576964610,
+  "id_str": "1370292644576964610",
+  "text": "RT @Bobby_Network: Our beloved @PeterDaszak says a) missing bat virus databases do not matter and b) he didn't ask for that during the usel\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Bobby_Network",
+        "name": "Bobby Rajesh Malhotra \u30c4 \u03c8",
+        "id": 85569220,
+        "id_str": "85569220",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "PeterDaszak",
+        "name": "Peter Daszak",
+        "id": 44376499,
+        "id_str": "44376499",
+        "indices": [
+          31,
+          43
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5398,
+    "friends_count": 943,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7588,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4519,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Mar 11 22:14:41 +0000 2021",
+    "id": 1370136120550424579,
+    "id_str": "1370136120550424579",
+    "text": "Our beloved @PeterDaszak says a) missing bat virus databases do not matter and b) he didn't ask for that during the\u2026 https://t.co/sGeE5GQQkP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PeterDaszak",
+          "name": "Peter Daszak",
+          "id": 44376499,
+          "id_str": "44376499",
+          "indices": [
+            12,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sGeE5GQQkP",
+          "expanded_url": "https://twitter.com/i/web/status/1370136120550424579",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 85569220,
+      "id_str": "85569220",
+      "name": "Bobby Rajesh Malhotra \u30c4 \u03c8",
+      "screen_name": "Bobby_Network",
+      "location": "Vienna",
+      "description": "Dissecting #SocialEngineering. My artistic method is accompanied by high political content.\n\nSubstack: https://t.co/mdDvGm5BBf\nJoin: https://t.co/F7hUWMBg6U",
+      "url": "https://t.co/dZ7HEoSSJ2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/dZ7HEoSSJ2",
+              "expanded_url": "https://bobbyrajeshmalhotra.tumblr.com",
+              "display_url": "bobbyrajeshmalhotra.tumblr.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/mdDvGm5BBf",
+              "expanded_url": "http://bobbynetwork.substack.com",
+              "display_url": "bobbynetwork.substack.com",
+              "indices": [
+                103,
+                126
+              ]
+            },
+            {
+              "url": "https://t.co/F7hUWMBg6U",
+              "expanded_url": "http://t.me/bobbynetwork",
+              "display_url": "t.me/bobbynetwork",
+              "indices": [
+                133,
+                156
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 14083,
+      "friends_count": 2133,
+      "listed_count": 148,
+      "created_at": "Tue Oct 27 13:32:46 +0000 2009",
+      "favourites_count": 18408,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 15238,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1332032200922046467/YEy_iV7H_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332032200922046467/YEy_iV7H_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/85569220/1617117104",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1369686004924309504,
+    "quoted_status_id_str": "1369686004924309504",
+    "quoted_status": {
+      "created_at": "Wed Mar 10 16:26:05 +0000 2021",
+      "id": 1369686004924309504,
+      "id_str": "1369686004924309504",
+      "text": "Here's the moment @PeterDaszak confirms he DID NOT ask for the data from the MISSING BAT VIRUS DATABASE. https://t.co/q8pbIRsZnF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PeterDaszak",
+            "name": "Peter Daszak",
+            "id": 44376499,
+            "id_str": "44376499",
+            "indices": [
+              18,
+              30
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1369685921969418240,
+            "id_str": "1369685921969418240",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1369685921969418240/pu/img/Byy2N_JvuwoO6JSf.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1369685921969418240/pu/img/Byy2N_JvuwoO6JSf.jpg",
+            "url": "https://t.co/q8pbIRsZnF",
+            "display_url": "pic.twitter.com/q8pbIRsZnF",
+            "expanded_url": "https://twitter.com/McWLuke/status/1369686004924309504/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1369685921969418240,
+            "id_str": "1369685921969418240",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1369685921969418240/pu/img/Byy2N_JvuwoO6JSf.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1369685921969418240/pu/img/Byy2N_JvuwoO6JSf.jpg",
+            "url": "https://t.co/q8pbIRsZnF",
+            "display_url": "pic.twitter.com/q8pbIRsZnF",
+            "expanded_url": "https://twitter.com/McWLuke/status/1369686004924309504/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 96434,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1369685921969418240/pu/vid/640x360/Ohv2SWSrc2ZFJzfd.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1369685921969418240/pu/vid/480x270/d09l87NkLRZSGyyh.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1369685921969418240/pu/pl/9ZYUTbSTmtxMBDz9.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1369685921969418240/pu/vid/1280x720/csn6mpwP9tYG3Wyi.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 965071570317266944,
+        "id_str": "965071570317266944",
+        "name": "Luke M",
+        "screen_name": "McWLuke",
+        "location": "views my own. ",
+        "description": "Cyber at @Internet2pointO, Researcher on CCP influence in \ud83c\uddec\ud83c\udde7 at @sinopsiscz. Now COVID-19. Tips? DM for @ProtonMail or @signalapp.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1049,
+        "friends_count": 280,
+        "listed_count": 21,
+        "created_at": "Sun Feb 18 03:52:47 +0000 2018",
+        "favourites_count": 6071,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10793,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1432084284655947778/ZpyzgkN4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432084284655947778/ZpyzgkN4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965071570317266944/1604954538",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 145,
+      "favorite_count": 303,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 18,
+    "favorite_count": 50,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1369686004924309504,
+  "quoted_status_id_str": "1369686004924309504",
+  "retweet_count": 18,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

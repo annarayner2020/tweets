@@ -1,0 +1,345 @@
+{
+  "created_at": "Fri Jan 22 13:07:59 +0000 2021",
+  "id": 1352603922695925775,
+  "id_str": "1352603922695925775",
+  "text": "RT @ClareCraigPath: @jengleruk and @RealJoelSmalley and I have heard what doctors are saying on the front line. \n\nThe describe a characteri\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ClareCraigPath",
+        "name": "Dr Clare Craig",
+        "id": 1302978006441492481,
+        "id_str": "1302978006441492481",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "jengleruk",
+        "name": "Jonathan Engler",
+        "id": 19684606,
+        "id_str": "19684606",
+        "indices": [
+          20,
+          30
+        ]
+      },
+      {
+        "screen_name": "RealJoelSmalley",
+        "name": "Joel",
+        "id": 1086212368575680512,
+        "id_str": "1086212368575680512",
+        "indices": [
+          35,
+          51
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5177,
+    "friends_count": 889,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6518,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3614,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jan 14 18:11:14 +0000 2021",
+    "id": 1349781131265245190,
+    "id_str": "1349781131265245190",
+    "text": "@jengleruk and @RealJoelSmalley and I have heard what doctors are saying on the front line. \n\nThe describe a charac\u2026 https://t.co/W9MwRR5f9c",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jengleruk",
+          "name": "Jonathan Engler",
+          "id": 19684606,
+          "id_str": "19684606",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "RealJoelSmalley",
+          "name": "Joel",
+          "id": 1086212368575680512,
+          "id_str": "1086212368575680512",
+          "indices": [
+            15,
+            31
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W9MwRR5f9c",
+          "expanded_url": "https://twitter.com/i/web/status/1349781131265245190",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19684606,
+    "in_reply_to_user_id_str": "19684606",
+    "in_reply_to_screen_name": "jengleruk",
+    "user": {
+      "id": 1302978006441492481,
+      "id_str": "1302978006441492481",
+      "name": "Dr Clare Craig",
+      "screen_name": "ClareCraigPath",
+      "location": "",
+      "description": "Diagnostic pathologist, lover of data, digital pathology and AI, sceptical but optimistic. Views my own not the RCPath's.",
+      "url": "https://t.co/g3aXTQ7A0p",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/g3aXTQ7A0p",
+              "expanded_url": "https://www.hartgroup.org/",
+              "display_url": "hartgroup.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79018,
+      "friends_count": 380,
+      "listed_count": 535,
+      "created_at": "Mon Sep 07 14:32:26 +0000 2020",
+      "favourites_count": 1648,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6700,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302978006441492481/1628178678",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1349779887238819840,
+    "quoted_status_id_str": "1349779887238819840",
+    "quoted_status": {
+      "created_at": "Thu Jan 14 18:06:17 +0000 2021",
+      "id": 1349779887238819840,
+      "id_str": "1349779887238819840",
+      "text": "A few weeks ago @ClareCraigPath, @RealJoelSmalley   and I wrote a short piece on endemic Covid, and what it might l\u2026 https://t.co/3XYOpCdrJw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ClareCraigPath",
+            "name": "Dr Clare Craig",
+            "id": 1302978006441492481,
+            "id_str": "1302978006441492481",
+            "indices": [
+              16,
+              31
+            ]
+          },
+          {
+            "screen_name": "RealJoelSmalley",
+            "name": "Joel",
+            "id": 1086212368575680512,
+            "id_str": "1086212368575680512",
+            "indices": [
+              33,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3XYOpCdrJw",
+            "expanded_url": "https://twitter.com/i/web/status/1349779887238819840",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19684606,
+        "id_str": "19684606",
+        "name": "Jonathan Engler",
+        "screen_name": "jengleruk",
+        "location": "",
+        "description": "Medically and legally qualified. Dad to 4 \u201cadult\u201d kids, husband. Covid is real but threat is exaggerated and response to it is massively more dangerous.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11652,
+        "friends_count": 1222,
+        "listed_count": 71,
+        "created_at": "Wed Jan 28 23:44:24 +0000 2009",
+        "favourites_count": 6045,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16611,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1426992341861163011/QBsUNAuO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426992341861163011/QBsUNAuO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 452,
+      "favorite_count": 914,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 262,
+    "favorite_count": 607,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1349779887238819840,
+  "quoted_status_id_str": "1349779887238819840",
+  "retweet_count": 262,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

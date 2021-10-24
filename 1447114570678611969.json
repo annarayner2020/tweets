@@ -1,0 +1,381 @@
+{
+  "created_at": "Sun Oct 10 08:19:34 +0000 2021",
+  "id": 1447114570678611969,
+  "id_str": "1447114570678611969",
+  "text": "RT @NInterit: James Corbett at his very best!\nReframing world perspectives entirely in a few paragraphs \n\n@CorbettReport",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NInterit",
+        "name": "nihil interit \ud83d\ude03",
+        "id": 1229025716932612098,
+        "id_str": "1229025716932612098",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "CorbettReport",
+        "name": "Corbett Report",
+        "id": 1088432454317367296,
+        "id_str": "1088432454317367296",
+        "indices": [
+          106,
+          120
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 10 08:18:54 +0000 2021",
+    "id": 1447114403854290946,
+    "id_str": "1447114403854290946",
+    "text": "James Corbett at his very best!\nReframing world perspectives entirely in a few paragraphs \n\n@CorbettReport https://t.co/kaeJ8DwG3A",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CorbettReport",
+          "name": "Corbett Report",
+          "id": 1088432454317367296,
+          "id_str": "1088432454317367296",
+          "indices": [
+            92,
+            106
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kaeJ8DwG3A",
+          "expanded_url": "https://twitter.com/annarayner2020/status/1446980412941684738",
+          "display_url": "twitter.com/annarayner2020\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1229025716932612098,
+      "id_str": "1229025716932612098",
+      "name": "nihil interit",
+      "screen_name": "NInterit",
+      "location": "",
+      "description": "Here to bust myths. No exceptions. Capable of self reflection, utterly unimpressed by anyone's opinion about me, dedicated seeker of fun.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1151,
+      "friends_count": 989,
+      "listed_count": 5,
+      "created_at": "Sun Feb 16 12:52:37 +0000 2020",
+      "favourites_count": 26145,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13261,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1303064367781605382/CrTK3q_m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303064367781605382/CrTK3q_m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229025716932612098/1599373905",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1446980412941684738,
+    "quoted_status_id_str": "1446980412941684738",
+    "quoted_status": {
+      "created_at": "Sat Oct 09 23:26:28 +0000 2021",
+      "id": 1446980412941684738,
+      "id_str": "1446980412941684738",
+      "text": "Extremely moving. https://t.co/ZFfzEAgOJR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1446980344213909515,
+            "id_str": "1446980344213909515",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446980344213909515/pu/img/b4y3VVgB4prlNC9_.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446980344213909515/pu/img/b4y3VVgB4prlNC9_.jpg",
+            "url": "https://t.co/ZFfzEAgOJR",
+            "display_url": "pic.twitter.com/ZFfzEAgOJR",
+            "expanded_url": "https://twitter.com/annarayner2020/status/1446980412941684738/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 432,
+                "h": 238,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 432,
+                "h": 238,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 432,
+                "h": 238,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1446980344213909515,
+            "id_str": "1446980344213909515",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446980344213909515/pu/img/b4y3VVgB4prlNC9_.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446980344213909515/pu/img/b4y3VVgB4prlNC9_.jpg",
+            "url": "https://t.co/ZFfzEAgOJR",
+            "display_url": "pic.twitter.com/ZFfzEAgOJR",
+            "expanded_url": "https://twitter.com/annarayner2020/status/1446980412941684738/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 432,
+                "h": 238,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 432,
+                "h": 238,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 432,
+                "h": 238,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                216,
+                119
+              ],
+              "duration_millis": 139969,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1446980344213909515/pu/pl/sRpQ_3IW3FujZG0Q.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1446980344213909515/pu/vid/432x238/YHKuugNQaTbCouid.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1309907616953491457,
+        "id_str": "1309907616953491457",
+        "name": "Anna Rayner",
+        "screen_name": "annarayner2020",
+        "location": "London",
+        "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5422,
+        "friends_count": 965,
+        "listed_count": 17,
+        "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+        "favourites_count": 7758,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4682,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 282,
+      "favorite_count": 530,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1446980412941684738,
+  "quoted_status_id_str": "1446980412941684738",
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

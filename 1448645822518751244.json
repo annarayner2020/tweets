@@ -1,0 +1,292 @@
+{
+  "created_at": "Thu Oct 14 13:44:13 +0000 2021",
+  "id": 1448645822518751244,
+  "id_str": "1448645822518751244",
+  "text": "RT @jengleruk: Is that \u201crobust\u201d when given every 4 months or so, or what?",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jengleruk",
+        "name": "Jonathan Engler",
+        "id": 19684606,
+        "id_str": "19684606",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 14 13:11:24 +0000 2021",
+    "id": 1448637564727013376,
+    "id_str": "1448637564727013376",
+    "text": "Is that \u201crobust\u201d when given every 4 months or so, or what? https://t.co/d443PZsj7X",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/d443PZsj7X",
+          "expanded_url": "https://twitter.com/trvrb/status/1448297977005723653",
+          "display_url": "twitter.com/trvrb/status/1\u2026",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19684606,
+      "id_str": "19684606",
+      "name": "Jonathan Engler",
+      "screen_name": "jengleruk",
+      "location": "",
+      "description": "Medically and legally qualified. Dad to 4 \u201cadult\u201d kids, husband. Covid is real but threat is exaggerated and response to it is massively more dangerous.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 12908,
+      "friends_count": 1245,
+      "listed_count": 85,
+      "created_at": "Wed Jan 28 23:44:24 +0000 2009",
+      "favourites_count": 6366,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17304,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1426992341861163011/QBsUNAuO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426992341861163011/QBsUNAuO_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1448297977005723653,
+    "quoted_status_id_str": "1448297977005723653",
+    "quoted_status": {
+      "created_at": "Wed Oct 13 14:42:00 +0000 2021",
+      "id": 1448297977005723653,
+      "id_str": "1448297977005723653",
+      "text": "At endemicity, circulation does not necessarily translate to disease burden. Based on robust vaccine effectiveness\u2026 https://t.co/zQyitCOst7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zQyitCOst7",
+            "expanded_url": "https://twitter.com/i/web/status/1448297977005723653",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1448297975537623047,
+      "in_reply_to_status_id_str": "1448297975537623047",
+      "in_reply_to_user_id": 224896427,
+      "in_reply_to_user_id_str": "224896427",
+      "in_reply_to_screen_name": "trvrb",
+      "user": {
+        "id": 224896427,
+        "id_str": "224896427",
+        "name": "Trevor Bedford",
+        "screen_name": "trvrb",
+        "location": "Seattle, WA",
+        "description": "Scientist @fredhutch, studying viruses, evolution and immunity. Collection of #COVID19 threads here: https://t.co/Yc4fun5rcp",
+        "url": "https://t.co/p515XfBPSp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/p515XfBPSp",
+                "expanded_url": "http://bedford.io",
+                "display_url": "bedford.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Yc4fun5rcp",
+                "expanded_url": "https://bedford.io/misc/twitter/",
+                "display_url": "bedford.io/misc/twitter/",
+                "indices": [
+                  101,
+                  124
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 339497,
+        "friends_count": 839,
+        "listed_count": 6490,
+        "created_at": "Fri Dec 10 04:13:14 +0000 2010",
+        "favourites_count": 6805,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 4652,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/532254561386262528/gHX_F_KC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/532254561386262528/gHX_F_KC_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/224896427/1415734314",
+        "profile_link_color": "356B98",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 67,
+      "favorite_count": 419,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1448297977005723653,
+  "quoted_status_id_str": "1448297977005723653",
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

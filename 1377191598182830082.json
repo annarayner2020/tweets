@@ -1,0 +1,179 @@
+{
+  "created_at": "Wed Mar 31 09:30:38 +0000 2021",
+  "id": 1377191598182830082,
+  "id_str": "1377191598182830082",
+  "text": "@DragonBitcoin @BitcoinRetreat @arcbtc @bitgeiniog @AlanFreestone @CoinFestUK @glennhodl @selfbankt @LeeDRHolland\u2026 https://t.co/MUXWjCGSCk",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DragonBitcoin",
+        "name": "Dragon Bitcoin \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f",
+        "id": 915628915108007937,
+        "id_str": "915628915108007937",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "BitcoinRetreat",
+        "name": "Bitcoin Beach Retreat",
+        "id": 1372126525156384768,
+        "id_str": "1372126525156384768",
+        "indices": [
+          15,
+          30
+        ]
+      },
+      {
+        "screen_name": "arcbtc",
+        "name": "Ben Arc \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f\u270a\u26a1\ufe0f",
+        "id": 616573174,
+        "id_str": "616573174",
+        "indices": [
+          31,
+          38
+        ]
+      },
+      {
+        "screen_name": "bitgeiniog",
+        "name": "Bitgeiniog (Welsh for Bitcoin)",
+        "id": 947953639217422336,
+        "id_str": "947953639217422336",
+        "indices": [
+          39,
+          50
+        ]
+      },
+      {
+        "screen_name": "AlanFreestone",
+        "name": "Alan Freestone",
+        "id": 592201973,
+        "id_str": "592201973",
+        "indices": [
+          51,
+          65
+        ]
+      },
+      {
+        "screen_name": "CoinFestUK",
+        "name": "CoinFestUK - 25th to 28th November 2021",
+        "id": 3502808423,
+        "id_str": "3502808423",
+        "indices": [
+          66,
+          77
+        ]
+      },
+      {
+        "screen_name": "glennhodl",
+        "name": "Glenn Hodl\u26a1\ud83e\udded",
+        "id": 739144091473215488,
+        "id_str": "739144091473215488",
+        "indices": [
+          78,
+          88
+        ]
+      },
+      {
+        "screen_name": "selfbankt",
+        "name": "SELF\u20bfANKT & SOVEREIGN",
+        "id": 1163052696800235526,
+        "id_str": "1163052696800235526",
+        "indices": [
+          89,
+          99
+        ]
+      },
+      {
+        "screen_name": "LeeDRHolland",
+        "name": "Lee Holland",
+        "id": 299156825,
+        "id_str": "299156825",
+        "indices": [
+          100,
+          113
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/MUXWjCGSCk",
+        "expanded_url": "https://twitter.com/i/web/status/1377191598182830082",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1373951166388789252,
+  "in_reply_to_status_id_str": "1373951166388789252",
+  "in_reply_to_user_id": 915628915108007937,
+  "in_reply_to_user_id_str": "915628915108007937",
+  "in_reply_to_screen_name": "DragonBitcoin",
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

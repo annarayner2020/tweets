@@ -1,0 +1,259 @@
+{
+  "created_at": "Sun Sep 26 06:26:38 +0000 2021",
+  "id": 1442012720287600640,
+  "id_str": "1442012720287600640",
+  "text": "RT @21WIRE: #UNGA speech: Unvaccinated #Brazil President #Bolsonaro rejects #VaccinePassports and projects rights of Doctors and patients t\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UNGA",
+        "indices": [
+          12,
+          17
+        ]
+      },
+      {
+        "text": "Brazil",
+        "indices": [
+          39,
+          46
+        ]
+      },
+      {
+        "text": "Bolsonaro",
+        "indices": [
+          57,
+          67
+        ]
+      },
+      {
+        "text": "VaccinePassports",
+        "indices": [
+          76,
+          93
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "21WIRE",
+        "name": "Patrick Henningsen",
+        "id": 16936686,
+        "id_str": "16936686",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5324,
+    "friends_count": 896,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7108,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4082,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Sep 25 19:13:35 +0000 2021",
+    "id": 1441843340979458051,
+    "id_str": "1441843340979458051",
+    "text": "#UNGA speech: Unvaccinated #Brazil President #Bolsonaro rejects #VaccinePassports and projects rights of Doctors an\u2026 https://t.co/yc1dxypP18",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UNGA",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Brazil",
+          "indices": [
+            27,
+            34
+          ]
+        },
+        {
+          "text": "Bolsonaro",
+          "indices": [
+            45,
+            55
+          ]
+        },
+        {
+          "text": "VaccinePassports",
+          "indices": [
+            64,
+            81
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yc1dxypP18",
+          "expanded_url": "https://twitter.com/i/web/status/1441843340979458051",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16936686,
+      "id_str": "16936686",
+      "name": "Patrick Henningsen",
+      "screen_name": "21WIRE",
+      "location": "USA",
+      "description": "Independent geopol analyst, journalist, radio & TV host, fierce critic of MSM propaganda. \u2764\ufe0f\u2019In the Old Normal https://t.co/YliYe40pMr",
+      "url": "https://t.co/7W5rQYE6xW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7W5rQYE6xW",
+              "expanded_url": "https://21stCenturyWire.com",
+              "display_url": "21stCenturyWire.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/YliYe40pMr",
+              "expanded_url": "http://21w.co/support",
+              "display_url": "21w.co/support",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 91959,
+      "friends_count": 2861,
+      "listed_count": 834,
+      "created_at": "Thu Oct 23 22:03:55 +0000 2008",
+      "favourites_count": 44782,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 104669,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "8B542B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1432624600798662659/qJJundtM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432624600798662659/qJJundtM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16936686/1630521991",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EADEAA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2471,
+    "favorite_count": 5388,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2471,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

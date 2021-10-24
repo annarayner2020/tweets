@@ -1,0 +1,224 @@
+{
+  "created_at": "Mon Oct 11 15:32:29 +0000 2021",
+  "id": 1447585905007644687,
+  "id_str": "1447585905007644687",
+  "text": "As a sane response to the Daily Mail\u2019s shameless fear-mongering nonsense earlier. https://t.co/y6mCLs6Aqo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/y6mCLs6Aqo",
+        "expanded_url": "https://twitter.com/ClareCraigPath/status/1447549927010324481",
+        "display_url": "twitter.com/ClareCraigPath\u2026",
+        "indices": [
+          82,
+          105
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1447549927010324481,
+  "quoted_status_id_str": "1447549927010324481",
+  "quoted_status": {
+    "created_at": "Mon Oct 11 13:09:31 +0000 2021",
+    "id": 1447549927010324481,
+    "id_str": "1447549927010324481",
+    "text": "@wealdengirl @RealJoelSmalley @jengleruk Here's some context. There are currently 14 pregnant women on ICU out of &gt;\u2026 https://t.co/GmGWVeXbDl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "wealdengirl",
+          "name": "Fairbrit",
+          "id": 2770753891,
+          "id_str": "2770753891",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "RealJoelSmalley",
+          "name": "Joel",
+          "id": 1086212368575680512,
+          "id_str": "1086212368575680512",
+          "indices": [
+            13,
+            29
+          ]
+        },
+        {
+          "screen_name": "jengleruk",
+          "name": "Jonathan Engler",
+          "id": 19684606,
+          "id_str": "19684606",
+          "indices": [
+            30,
+            40
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GmGWVeXbDl",
+          "expanded_url": "https://twitter.com/i/web/status/1447549927010324481",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1447545498412388369,
+    "in_reply_to_status_id_str": "1447545498412388369",
+    "in_reply_to_user_id": 2770753891,
+    "in_reply_to_user_id_str": "2770753891",
+    "in_reply_to_screen_name": "wealdengirl",
+    "user": {
+      "id": 1302978006441492481,
+      "id_str": "1302978006441492481",
+      "name": "Dr Clare Craig",
+      "screen_name": "ClareCraigPath",
+      "location": "",
+      "description": "Diagnostic pathologist, lover of data, digital pathology and AI, sceptical but optimistic. Views my own not the RCPath's.",
+      "url": "https://t.co/g3aXTQ7A0p",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/g3aXTQ7A0p",
+              "expanded_url": "https://www.hartgroup.org/",
+              "display_url": "hartgroup.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 84739,
+      "friends_count": 387,
+      "listed_count": 570,
+      "created_at": "Mon Sep 07 14:32:26 +0000 2020",
+      "favourites_count": 1680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7184,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302978006441492481/1628178678",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 104,
+    "favorite_count": 258,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

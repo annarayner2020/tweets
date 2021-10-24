@@ -1,0 +1,190 @@
+{
+  "created_at": "Fri Aug 13 17:30:44 +0000 2021",
+  "id": 1426234782367854596,
+  "id_str": "1426234782367854596",
+  "text": "RT @NewtonClarkeUK: Never forget... the carnage and destruction of the past 18 months was not caused by a virus. \n\nIt was caused by your go\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NewtonClarkeUK",
+        "name": "Newton Peter Clarke \ud83d\udc8e \ud83c\uddec\ud83c\udde7",
+        "id": 1199753098824159233,
+        "id_str": "1199753098824159233",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5183,
+    "friends_count": 882,
+    "listed_count": 13,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6299,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3422,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Aug 13 15:11:07 +0000 2021",
+    "id": 1426199646318338048,
+    "id_str": "1426199646318338048",
+    "text": "Never forget... the carnage and destruction of the past 18 months was not caused by a virus. \n\nIt was caused by you\u2026 https://t.co/oAU93uiHfA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oAU93uiHfA",
+          "expanded_url": "https://twitter.com/i/web/status/1426199646318338048",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1199753098824159233,
+      "id_str": "1199753098824159233",
+      "name": "Newton Peter Clarke \ud83d\udc8e \ud83c\uddec\ud83c\udde7",
+      "screen_name": "NewtonClarkeUK",
+      "location": "London, England",
+      "description": "#Liberty #Brexit \ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7 Blocked by @OwenJones84, @piersmorgan, @HackneyAbbott, @adamboultonSKY, @SholaMos1, @Andrew_Adonis, @ClaudiaWebbe\ud83c\udfc5\ud83c\udfc5\ud83c\udfc5\ud83c\udfc5\ud83c\udfc5\ud83c\udfc5\ud83c\udfc5",
+      "url": "https://t.co/T7j7QKtdyc",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/T7j7QKtdyc",
+              "expanded_url": "http://gbdeclaration.org",
+              "display_url": "gbdeclaration.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 23068,
+      "friends_count": 13306,
+      "listed_count": 37,
+      "created_at": "Wed Nov 27 18:13:58 +0000 2019",
+      "favourites_count": 26866,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17965,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1368549080071278595/a7MEQUUz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368549080071278595/a7MEQUUz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199753098824159233/1597787143",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 232,
+    "favorite_count": 637,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 232,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

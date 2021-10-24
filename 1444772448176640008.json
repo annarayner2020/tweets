@@ -1,0 +1,331 @@
+{
+  "created_at": "Sun Oct 03 21:12:48 +0000 2021",
+  "id": 1444772448176640008,
+  "id_str": "1444772448176640008",
+  "text": "RT @_whitneywebb: Y'all ready for the world where freedom is a \"service\"?\n\nThat's really the root of the whole vaccine passport push if you\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "_whitneywebb",
+        "name": "Whitney Webb",
+        "id": 765241482974470144,
+        "id_str": "765241482974470144",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7759,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 03 15:13:53 +0000 2021",
+    "id": 1444682120174215173,
+    "id_str": "1444682120174215173",
+    "text": "Y'all ready for the world where freedom is a \"service\"?\n\nThat's really the root of the whole vaccine passport push\u2026 https://t.co/UjOtgfWchA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UjOtgfWchA",
+          "expanded_url": "https://twitter.com/i/web/status/1444682120174215173",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 765241482974470144,
+      "id_str": "765241482974470144",
+      "name": "Whitney Webb",
+      "screen_name": "_whitneywebb",
+      "location": "Chile",
+      "description": "Writer & researcher for https://t.co/1ary1Ws9E2 & https://t.co/FXJpqUQ3PS. I mostly cover intelligence, tech, surveillance and civil liberties.",
+      "url": "https://t.co/5Gmt7afbJj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5Gmt7afbJj",
+              "expanded_url": "https://linktr.ee/whitneywebb",
+              "display_url": "linktr.ee/whitneywebb",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/1ary1Ws9E2",
+              "expanded_url": "https://unlimitedhangout.com",
+              "display_url": "unlimitedhangout.com",
+              "indices": [
+                24,
+                47
+              ]
+            },
+            {
+              "url": "https://t.co/FXJpqUQ3PS",
+              "expanded_url": "https://thelastamericanvagabond.com",
+              "display_url": "thelastamericanvagabond.com",
+              "indices": [
+                50,
+                73
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 140348,
+      "friends_count": 929,
+      "listed_count": 933,
+      "created_at": "Mon Aug 15 17:39:21 +0000 2016",
+      "favourites_count": 28641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10538,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1282479045335298050/sTgRq9Jk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282479045335298050/sTgRq9Jk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/765241482974470144/1473552169",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1444125778355052549,
+    "quoted_status_id_str": "1444125778355052549",
+    "quoted_status": {
+      "created_at": "Sat Oct 02 02:23:10 +0000 2021",
+      "id": 1444125778355052549,
+      "id_str": "1444125778355052549",
+      "text": "Yesterday's #ID2020 is today's Good Health Pass, is tomorrows Digital Identity for All.\n\n#Freedom-As-A-Service\n\nThe\u2026 https://t.co/0WZDAvszPv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ID2020",
+            "indices": [
+              12,
+              19
+            ]
+          },
+          {
+            "text": "Freedom",
+            "indices": [
+              89,
+              97
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0WZDAvszPv",
+            "expanded_url": "https://twitter.com/i/web/status/1444125778355052549",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1444121415469436934,
+      "in_reply_to_status_id_str": "1444121415469436934",
+      "in_reply_to_user_id": 23371841,
+      "in_reply_to_user_id_str": "23371841",
+      "in_reply_to_screen_name": "elleprovocateur",
+      "user": {
+        "id": 23371841,
+        "id_str": "23371841",
+        "name": "Cory Morningstar",
+        "screen_name": "elleprovocateur",
+        "location": "Canada",
+        "description": "Independent investigative journalist with artistic & intellectual tendencies, who lives and acts with little regard for conventional rules of behaviour.",
+        "url": "http://t.co/BTMfgTdW7X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/BTMfgTdW7X",
+                "expanded_url": "http://theartofannihilation.com/",
+                "display_url": "theartofannihilation.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24032,
+        "friends_count": 1129,
+        "listed_count": 313,
+        "created_at": "Sun Mar 08 23:39:20 +0000 2009",
+        "favourites_count": 17366,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 66297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520082526/wonder_woman_boot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/520082526/wonder_woman_boot_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23371841/1398865103",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 478,
+      "favorite_count": 763,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1023,
+    "favorite_count": 1994,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1444125778355052549,
+  "quoted_status_id_str": "1444125778355052549",
+  "retweet_count": 1023,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

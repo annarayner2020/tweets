@@ -1,0 +1,294 @@
+{
+  "created_at": "Mon Aug 09 23:04:10 +0000 2021",
+  "id": 1424869138321879041,
+  "id_str": "1424869138321879041",
+  "text": "RT @FatEmperor: \"Look at the terraces: no one! \ud83d\ude01\n\n We are winning against Macron's Health Pass! \ud83d\udc4d\n\n Now we must continue to put pressure an\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "FatEmperor",
+        "name": "Ivor Cummins",
+        "id": 2383882980,
+        "id_str": "2383882980",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Aug 09 22:43:51 +0000 2021",
+    "id": 1424864029353422852,
+    "id_str": "1424864029353422852",
+    "text": "\"Look at the terraces: no one! \ud83d\ude01\n\n We are winning against Macron's Health Pass! \ud83d\udc4d\n\n Now we must continue to put pre\u2026 https://t.co/SqtJU9mzNA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SqtJU9mzNA",
+          "expanded_url": "https://twitter.com/i/web/status/1424864029353422852",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2383882980,
+      "id_str": "2383882980",
+      "name": "Ivor Cummins",
+      "screen_name": "FatEmperor",
+      "location": "Ireland",
+      "description": "Technical Manager / Team Leader, Biochemical Engineer, Complex Problem Solving Specialist, Technologist https://t.co/mLhZnC1KGq @PanData19 Member #CAC #CVD #RootCause",
+      "url": "http://t.co/tVfArmbN3L",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/tVfArmbN3L",
+              "expanded_url": "http://www.thefatemperor.com",
+              "display_url": "thefatemperor.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/mLhZnC1KGq",
+              "expanded_url": "http://SmilesMatter.info",
+              "display_url": "SmilesMatter.info",
+              "indices": [
+                104,
+                127
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 141686,
+      "friends_count": 10695,
+      "listed_count": 1450,
+      "created_at": "Tue Mar 11 15:31:46 +0000 2014",
+      "favourites_count": 155198,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 113737,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1341199030467108869/TBu25r6t_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341199030467108869/TBu25r6t_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2383882980/1621713436",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1424806888785518604,
+    "quoted_status_id_str": "1424806888785518604",
+    "quoted_status": {
+      "created_at": "Mon Aug 09 18:56:48 +0000 2021",
+      "id": 1424806888785518604,
+      "id_str": "1424806888785518604",
+      "text": "Regardez les terrasses : personne!\ud83d\ude33\ud83d\ude02\n\nOn est en train de gagner contre le Pass Sanitaire de Macron!\ud83d\udc4d\n\nMaintenant il\u2026 https://t.co/vCvGmXw8FA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vCvGmXw8FA",
+            "expanded_url": "https://twitter.com/i/web/status/1424806888785518604",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 893758854294589440,
+        "id_str": "893758854294589440",
+        "name": "\u2757\ufe0f\ud835\ude74\ud835\ude97\ud835\ude7c\ud835\ude98\ud835\ude8d\ud835\ude8e\ud835\ude7c\ud835\ude8a\ud835\ude8c\ud835\ude8a\ud835\ude9b\ud835\ude98\ud835\ude97\u2122\ufe0f\u2757\ufe0f",
+        "screen_name": "EnModeMacaron",
+        "location": "Bordeaux, France",
+        "description": "Compte d\u2019actualit\u00e9 oppos\u00e9 au pouvoir en place. Toutes les nouvelles anti-Macron et anti-LREM. Diffuse des infos 100% s\u00fbres que d\u00e9testent les marcheurs!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 72439,
+        "friends_count": 15988,
+        "listed_count": 210,
+        "created_at": "Sat Aug 05 09:01:30 +0000 2017",
+        "favourites_count": 32237,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8579,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1423767128562446337/AB_X2B5d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423767128562446337/AB_X2B5d_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/893758854294589440/1545863373",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1025,
+      "favorite_count": 2159,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "retweet_count": 601,
+    "favorite_count": 1730,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1424806888785518604,
+  "quoted_status_id_str": "1424806888785518604",
+  "retweet_count": 601,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,219 @@
+{
+  "created_at": "Tue Feb 23 23:54:12 +0000 2021",
+  "id": 1364362956323045381,
+  "id_str": "1364362956323045381",
+  "text": "RT @MarkChangizi: One key to understanding the Covid Mass Delusion is that...\n\nYou don't believe what you do because you're acting like a s\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MarkChangizi",
+        "name": "Mark Changizi - youtube.com/c/markchangizi",
+        "id": 49445813,
+        "id_str": "49445813",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5326,
+    "friends_count": 897,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7108,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4082,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Feb 23 22:41:13 +0000 2021",
+    "id": 1364344592519356417,
+    "id_str": "1364344592519356417",
+    "text": "One key to understanding the Covid Mass Delusion is that...\n\nYou don't believe what you do because you're acting li\u2026 https://t.co/dSUCPsZtoE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dSUCPsZtoE",
+          "expanded_url": "https://twitter.com/i/web/status/1364344592519356417",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 49445813,
+      "id_str": "49445813",
+      "name": "Mark Changizi - youtube.com/c/markchangizi",
+      "screen_name": "MarkChangizi",
+      "location": "Columbus, OH",
+      "description": "Science Moment series https://t.co/EhVFSDhaGR\nFreeX Newsletter https://t.co/9GfpK8lz1l\nVein Finder & Colorblind Lenses https://t.co/5EtNMrrO4n",
+      "url": "https://t.co/3jSvqxO0Hp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3jSvqxO0Hp",
+              "expanded_url": "https://linktr.ee/Markchangizi",
+              "display_url": "linktr.ee/Markchangizi",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/EhVFSDhaGR",
+              "expanded_url": "http://youtube.com/c/markchangizi",
+              "display_url": "youtube.com/c/markchangizi",
+              "indices": [
+                22,
+                45
+              ]
+            },
+            {
+              "url": "https://t.co/9GfpK8lz1l",
+              "expanded_url": "http://getrevue.co/profile/markchangizi",
+              "display_url": "getrevue.co/profile/markch\u2026",
+              "indices": [
+                63,
+                86
+              ]
+            },
+            {
+              "url": "https://t.co/5EtNMrrO4n",
+              "expanded_url": "http://VinoOptics.com",
+              "display_url": "VinoOptics.com",
+              "indices": [
+                119,
+                142
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 31823,
+      "friends_count": 912,
+      "listed_count": 582,
+      "created_at": "Sun Jun 21 22:10:51 +0000 2009",
+      "favourites_count": 38273,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 66800,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1357823810263744512/lbd-T_6D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357823810263744512/lbd-T_6D_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/49445813/1630605253",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 10,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

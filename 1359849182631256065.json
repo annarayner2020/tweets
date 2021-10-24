@@ -1,0 +1,365 @@
+{
+  "created_at": "Thu Feb 11 12:58:04 +0000 2021",
+  "id": 1359849182631256065,
+  "id_str": "1359849182631256065",
+  "text": "RT @FatEmperor: Boom! Finally some main media coverage of a crucial point, see below tweet and maybe retweet - short vid here tyo explain:\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "FatEmperor",
+        "name": "Ivor Cummins",
+        "id": 2383882980,
+        "id_str": "2383882980",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5217,
+    "friends_count": 894,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6934,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3922,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Feb 11 12:56:41 +0000 2021",
+    "id": 1359848835821023233,
+    "id_str": "1359848835821023233",
+    "text": "Boom! Finally some main media coverage of a crucial point, see below tweet and maybe retweet - short vid here tyo e\u2026 https://t.co/dPBbXtInff",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dPBbXtInff",
+          "expanded_url": "https://twitter.com/i/web/status/1359848835821023233",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2383882980,
+      "id_str": "2383882980",
+      "name": "Ivor Cummins",
+      "screen_name": "FatEmperor",
+      "location": "Ireland",
+      "description": "Technical Manager / Team Leader, Biochemical Engineer, Complex Problem Solving Specialist, Technologist https://t.co/mLhZnC1KGq @PanData19 Member #CAC #CVD #RootCause",
+      "url": "http://t.co/tVfArmbN3L",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/tVfArmbN3L",
+              "expanded_url": "http://www.thefatemperor.com",
+              "display_url": "thefatemperor.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/mLhZnC1KGq",
+              "expanded_url": "http://SmilesMatter.info",
+              "display_url": "SmilesMatter.info",
+              "indices": [
+                104,
+                127
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 139039,
+      "friends_count": 10705,
+      "listed_count": 1437,
+      "created_at": "Tue Mar 11 15:31:46 +0000 2014",
+      "favourites_count": 153565,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 112379,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1341199030467108869/TBu25r6t_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341199030467108869/TBu25r6t_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2383882980/1621713436",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1359752560584884225,
+    "quoted_status_id_str": "1359752560584884225",
+    "quoted_status": {
+      "created_at": "Thu Feb 11 06:34:08 +0000 2021",
+      "id": 1359752560584884225,
+      "id_str": "1359752560584884225",
+      "text": "#antigen testing can miss some + pcr cases of #COVID19 BUT nearly ALL of them are not infectious so are irrelevant.\u2026 https://t.co/36cXeLk2bD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "antigen",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "text": "COVID19",
+            "indices": [
+              46,
+              54
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/36cXeLk2bD",
+            "expanded_url": "https://twitter.com/i/web/status/1359752560584884225",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21571540,
+        "id_str": "21571540",
+        "name": "John Curran",
+        "screen_name": "DrJohnCurran",
+        "location": "Ireland",
+        "description": "Cosmetic & Reconstructive #PlasticSurgery | Building Self Esteem & Improving Lives | Trained in \ud83c\uddee\ud83c\uddea\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8| https://t.co/32YvIejqoZ",
+        "url": "https://t.co/1M44vjnBp7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1M44vjnBp7",
+                "expanded_url": "http://www.johncurranplasticsurgery.com/",
+                "display_url": "johncurranplasticsurgery.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/32YvIejqoZ",
+                "expanded_url": "http://Instagram.com/drjohncurran",
+                "display_url": "Instagram.com/drjohncurran",
+                "indices": [
+                  104,
+                  127
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2547,
+        "friends_count": 2035,
+        "listed_count": 40,
+        "created_at": "Sun Feb 22 15:26:19 +0000 2009",
+        "favourites_count": 6867,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4583,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/678698435768418304/_PpokrDI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/678698435768418304/_PpokrDI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21571540/1455132007",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "402002",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "583d04d90e3931f3",
+        "url": "https://api.twitter.com/1.1/geo/id/583d04d90e3931f3.json",
+        "place_type": "city",
+        "name": "Kerry",
+        "full_name": "Kerry, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -10.6195445,
+                51.6881851
+              ],
+              [
+                -9.1191142,
+                51.6881851
+              ],
+              [
+                -9.1191142,
+                52.6028477
+              ],
+              [
+                -10.6195445,
+                52.6028477
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 127,
+      "favorite_count": 385,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 68,
+    "favorite_count": 164,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1359752560584884225,
+  "quoted_status_id_str": "1359752560584884225",
+  "retweet_count": 68,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,508 @@
+{
+  "created_at": "Wed Oct 20 11:31:13 +0000 2021",
+  "id": 1450786681171451905,
+  "id_str": "1450786681171451905",
+  "text": "RT @andrewlawrence: Return to Covid restrictions? \nGet f**ked. https://t.co/lRKwHWwtSa",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "andrewlawrence",
+        "name": "Andrew Lawrence",
+        "id": 19343824,
+        "id_str": "19343824",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1450773248686362625,
+        "id_str": "1450773248686362625",
+        "indices": [
+          63,
+          86
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450773248686362625/pu/img/GX9TG17n9OPdRCwB.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450773248686362625/pu/img/GX9TG17n9OPdRCwB.jpg",
+        "url": "https://t.co/lRKwHWwtSa",
+        "display_url": "pic.twitter.com/lRKwHWwtSa",
+        "expanded_url": "https://twitter.com/andrewlawrence/status/1450773998644695046/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1450773998644695046,
+        "source_status_id_str": "1450773998644695046",
+        "source_user_id": 19343824,
+        "source_user_id_str": "19343824"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1450773248686362625,
+        "id_str": "1450773248686362625",
+        "indices": [
+          63,
+          86
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450773248686362625/pu/img/GX9TG17n9OPdRCwB.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450773248686362625/pu/img/GX9TG17n9OPdRCwB.jpg",
+        "url": "https://t.co/lRKwHWwtSa",
+        "display_url": "pic.twitter.com/lRKwHWwtSa",
+        "expanded_url": "https://twitter.com/andrewlawrence/status/1450773998644695046/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1450773998644695046,
+        "source_status_id_str": "1450773998644695046",
+        "source_user_id": 19343824,
+        "source_user_id_str": "19343824",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 132031,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1450773248686362625/pu/vid/480x270/QhFmLEz5T2LJnH0C.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1450773248686362625/pu/pl/dIc57lp7-Y42Cscw.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1450773248686362625/pu/vid/1280x720/5ZLEX59osXDsZNwn.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1450773248686362625/pu/vid/640x360/0f8alJD7OjqPWtm7.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 19343824,
+            "id_str": "19343824",
+            "name": "Andrew Lawrence",
+            "screen_name": "andrewlawrence",
+            "location": "UK",
+            "description": "Comedian, funny videos and live stand-up.\nSupport welcomed here:\nhttps://t.co/RxpMqscBMk\nor here:\nhttps://t.co/kiGA813oZ1",
+            "url": "https://t.co/WwFwGyGay3",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/WwFwGyGay3",
+                    "expanded_url": "http://www.andrewlawrencecomedy.co.uk",
+                    "display_url": "andrewlawrencecomedy.co.uk",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": [
+                  {
+                    "url": "https://t.co/RxpMqscBMk",
+                    "expanded_url": "http://patreon.com/AndrewLawrenceComedy?fan_landing=true",
+                    "display_url": "patreon.com/AndrewLawrence\u2026",
+                    "indices": [
+                      65,
+                      88
+                    ]
+                  },
+                  {
+                    "url": "https://t.co/kiGA813oZ1",
+                    "expanded_url": "http://paypal.me/AndrewLawrenceComedy",
+                    "display_url": "paypal.me/AndrewLawrence\u2026",
+                    "indices": [
+                      98,
+                      121
+                    ]
+                  }
+                ]
+              }
+            },
+            "protected": false,
+            "followers_count": 68690,
+            "friends_count": 978,
+            "listed_count": 0,
+            "created_at": "Thu Jan 22 15:49:11 +0000 2009",
+            "favourites_count": 38913,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9880,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1429531291603673093/MhI4nl4g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429531291603673093/MhI4nl4g_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19343824/1573152924",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 20 10:40:50 +0000 2021",
+    "id": 1450773998644695046,
+    "id_str": "1450773998644695046",
+    "text": "Return to Covid restrictions? \nGet f**ked. https://t.co/lRKwHWwtSa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1450773248686362625,
+          "id_str": "1450773248686362625",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450773248686362625/pu/img/GX9TG17n9OPdRCwB.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450773248686362625/pu/img/GX9TG17n9OPdRCwB.jpg",
+          "url": "https://t.co/lRKwHWwtSa",
+          "display_url": "pic.twitter.com/lRKwHWwtSa",
+          "expanded_url": "https://twitter.com/andrewlawrence/status/1450773998644695046/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1450773248686362625,
+          "id_str": "1450773248686362625",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450773248686362625/pu/img/GX9TG17n9OPdRCwB.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450773248686362625/pu/img/GX9TG17n9OPdRCwB.jpg",
+          "url": "https://t.co/lRKwHWwtSa",
+          "display_url": "pic.twitter.com/lRKwHWwtSa",
+          "expanded_url": "https://twitter.com/andrewlawrence/status/1450773998644695046/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 132031,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1450773248686362625/pu/vid/480x270/QhFmLEz5T2LJnH0C.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1450773248686362625/pu/pl/dIc57lp7-Y42Cscw.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1450773248686362625/pu/vid/1280x720/5ZLEX59osXDsZNwn.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1450773248686362625/pu/vid/640x360/0f8alJD7OjqPWtm7.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19343824,
+      "id_str": "19343824",
+      "name": "Andrew Lawrence",
+      "screen_name": "andrewlawrence",
+      "location": "UK",
+      "description": "Comedian, funny videos and live stand-up.\nSupport welcomed here:\nhttps://t.co/RxpMqscBMk\nor here:\nhttps://t.co/kiGA813oZ1",
+      "url": "https://t.co/WwFwGyGay3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/WwFwGyGay3",
+              "expanded_url": "http://www.andrewlawrencecomedy.co.uk",
+              "display_url": "andrewlawrencecomedy.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/RxpMqscBMk",
+              "expanded_url": "http://patreon.com/AndrewLawrenceComedy?fan_landing=true",
+              "display_url": "patreon.com/AndrewLawrence\u2026",
+              "indices": [
+                65,
+                88
+              ]
+            },
+            {
+              "url": "https://t.co/kiGA813oZ1",
+              "expanded_url": "http://paypal.me/AndrewLawrenceComedy",
+              "display_url": "paypal.me/AndrewLawrence\u2026",
+              "indices": [
+                98,
+                121
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 68690,
+      "friends_count": 978,
+      "listed_count": 0,
+      "created_at": "Thu Jan 22 15:49:11 +0000 2009",
+      "favourites_count": 38913,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9880,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1429531291603673093/MhI4nl4g_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429531291603673093/MhI4nl4g_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19343824/1573152924",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 444,
+    "favorite_count": 1343,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 444,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

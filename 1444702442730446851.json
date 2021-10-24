@@ -1,0 +1,195 @@
+{
+  "created_at": "Sun Oct 03 16:34:38 +0000 2021",
+  "id": 1444702442730446851,
+  "id_str": "1444702442730446851",
+  "text": "Can someone explain why this is doing the rounds again? \n\nThis was a Feb headline wasn\u2019t it? https://t.co/xJGn6QJDB2",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/xJGn6QJDB2",
+        "expanded_url": "https://twitter.com/timfprice/status/1444405994411413507",
+        "display_url": "twitter.com/timfprice/stat\u2026",
+        "indices": [
+          93,
+          116
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1444405994411413507,
+  "quoted_status_id_str": "1444405994411413507",
+  "quoted_status": {
+    "created_at": "Sat Oct 02 20:56:39 +0000 2021",
+    "id": 1444405994411413507,
+    "id_str": "1444405994411413507",
+    "text": "UK monarchy is dead https://t.co/E3AqI1Cuyu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/E3AqI1Cuyu",
+          "expanded_url": "https://twitter.com/justavo36368903/status/1444313056255909891",
+          "display_url": "twitter.com/justavo3636890\u2026",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 88006261,
+      "id_str": "88006261",
+      "name": "Tim Price \ud83d\ude03",
+      "screen_name": "timfprice",
+      "location": "London, Great Britain \ud83d\ude03",
+      "description": "Fund manager. Author, 'Investing Through The Looking Glass', 'The War on Cash'. \ud83d\ude03 Keep the faith ! Amor vincit omnia \u2764\ufe0f\ud83d\udcaa\ud83d\ude4f\u271d\ufe0f",
+      "url": "https://t.co/B3fv1hzvVl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/B3fv1hzvVl",
+              "expanded_url": "http://pricevaluepartners.com",
+              "display_url": "pricevaluepartners.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14674,
+      "friends_count": 7866,
+      "listed_count": 159,
+      "created_at": "Fri Nov 06 18:52:45 +0000 2009",
+      "favourites_count": 69654,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 51765,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1133323238216536064/4SI6VN0t_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133323238216536064/4SI6VN0t_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/88006261/1573119042",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1444313056255909891,
+    "quoted_status_id_str": "1444313056255909891",
+    "retweet_count": 279,
+    "favorite_count": 1206,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

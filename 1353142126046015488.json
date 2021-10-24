@@ -1,0 +1,471 @@
+{
+  "created_at": "Sun Jan 24 00:46:37 +0000 2021",
+  "id": 1353142126046015488,
+  "id_str": "1353142126046015488",
+  "text": "RT @abirballan: @JuliaHB1 would you like to have @PanData19 @NickHudsonCT on your show for an international twist? \nCheck out our protocol\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "abirballan",
+        "name": "Abir Ballan",
+        "id": 569970630,
+        "id_str": "569970630",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "JuliaHB1",
+        "name": "Julia Hartley-Brewer",
+        "id": 459390022,
+        "id_str": "459390022",
+        "indices": [
+          16,
+          25
+        ]
+      },
+      {
+        "screen_name": "PanData19",
+        "name": "PANDA - Pandemics ~ Data & Analytics",
+        "id": 1256921941933535232,
+        "id_str": "1256921941933535232",
+        "indices": [
+          49,
+          59
+        ]
+      },
+      {
+        "screen_name": "NickHudsonCT",
+        "name": "Nick Hudson",
+        "id": 1055641334063751169,
+        "id_str": "1055641334063751169",
+        "indices": [
+          60,
+          73
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5175,
+    "friends_count": 889,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6566,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3652,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Jan 23 17:05:40 +0000 2021",
+    "id": 1353026124524236807,
+    "id_str": "1353026124524236807",
+    "text": "@JuliaHB1 would you like to have @PanData19 @NickHudsonCT on your show for an international twist? \nCheck out our p\u2026 https://t.co/Y2Nu9OxPp0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JuliaHB1",
+          "name": "Julia Hartley-Brewer",
+          "id": 459390022,
+          "id_str": "459390022",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "PanData19",
+          "name": "PANDA - Pandemics ~ Data & Analytics",
+          "id": 1256921941933535232,
+          "id_str": "1256921941933535232",
+          "indices": [
+            33,
+            43
+          ]
+        },
+        {
+          "screen_name": "NickHudsonCT",
+          "name": "Nick Hudson",
+          "id": 1055641334063751169,
+          "id_str": "1055641334063751169",
+          "indices": [
+            44,
+            57
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y2Nu9OxPp0",
+          "expanded_url": "https://twitter.com/i/web/status/1353026124524236807",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 459390022,
+    "in_reply_to_user_id_str": "459390022",
+    "in_reply_to_screen_name": "JuliaHB1",
+    "user": {
+      "id": 569970630,
+      "id_str": "569970630",
+      "name": "Abir Ballan",
+      "screen_name": "abirballan",
+      "location": "",
+      "description": "@PanData19 member of executive committee| Masters in Public Health| Psychology| Education | Children\u2019s Author| I do not consent to the new abnormal.",
+      "url": "https://t.co/L4BlcLVh6m",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/L4BlcLVh6m",
+              "expanded_url": "https://www.pandata19.org/",
+              "display_url": "pandata19.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 35996,
+      "friends_count": 529,
+      "listed_count": 279,
+      "created_at": "Thu May 03 11:14:47 +0000 2012",
+      "favourites_count": 7803,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9177,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1320671112880152577/xXivOqmJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320671112880152577/xXivOqmJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/569970630/1601284104",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1352929924458405888,
+    "quoted_status_id_str": "1352929924458405888",
+    "quoted_status": {
+      "created_at": "Sat Jan 23 10:43:24 +0000 2021",
+      "id": 1352929924458405888,
+      "id_str": "1352929924458405888",
+      "text": "Please follow and retweet. We need more of this in our debates over Covid policy. https://t.co/BSr7VnKgX0 https://t.co/paQpptVNiF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BSr7VnKgX0",
+            "expanded_url": "https://twitter.com/hartgroup_org/status/1352783134182547456",
+            "display_url": "twitter.com/hartgroup_org/\u2026",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1352929919836291073,
+            "id_str": "1352929919836291073",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsaSmA3XAAE2o5Q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsaSmA3XAAE2o5Q.jpg",
+            "url": "https://t.co/paQpptVNiF",
+            "display_url": "pic.twitter.com/paQpptVNiF",
+            "expanded_url": "https://twitter.com/JuliaHB1/status/1352929924458405888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 852,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1170,
+                "h": 1647,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 483,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1352929919836291073,
+            "id_str": "1352929919836291073",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsaSmA3XAAE2o5Q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsaSmA3XAAE2o5Q.jpg",
+            "url": "https://t.co/paQpptVNiF",
+            "display_url": "pic.twitter.com/paQpptVNiF",
+            "expanded_url": "https://twitter.com/JuliaHB1/status/1352929924458405888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 852,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1170,
+                "h": 1647,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 483,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1352929919857266688,
+            "id_str": "1352929919857266688",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsaSmA8XEAAH88m.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsaSmA8XEAAH88m.jpg",
+            "url": "https://t.co/paQpptVNiF",
+            "display_url": "pic.twitter.com/paQpptVNiF",
+            "expanded_url": "https://twitter.com/JuliaHB1/status/1352929924458405888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1170,
+                "h": 1931,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 727,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 412,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 459390022,
+        "id_str": "459390022",
+        "name": "Julia Hartley-Brewer",
+        "screen_name": "JuliaHB1",
+        "location": "London",
+        "description": "Presenter @talkRADIO TV Breakfast Show 6.30am-10am Mon-Fri on DAB+, smart speaker, app or https://t.co/ziGPcSzIm1. Journalist, broadcaster, speaker, awards host. Thee/thou",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/ziGPcSzIm1",
+                "expanded_url": "http://TalkRADIO.tv",
+                "display_url": "TalkRADIO.tv",
+                "indices": [
+                  90,
+                  113
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 327784,
+        "friends_count": 405,
+        "listed_count": 1703,
+        "created_at": "Mon Jan 09 16:23:03 +0000 2012",
+        "favourites_count": 28775,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 137591,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/780785624127340544/9mIlUtuB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/780785624127340544/9mIlUtuB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/459390022/1460194690",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1352783134182547456,
+      "quoted_status_id_str": "1352783134182547456",
+      "retweet_count": 1077,
+      "favorite_count": 1658,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 8,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1352929924458405888,
+  "quoted_status_id_str": "1352929924458405888",
+  "retweet_count": 8,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

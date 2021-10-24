@@ -1,0 +1,195 @@
+{
+  "created_at": "Wed Mar 24 07:58:09 +0000 2021",
+  "id": 1374631609769545735,
+  "id_str": "1374631609769545735",
+  "text": "This is so, so bad it's actually really funny! Propaganda 1980s style - reminds me of the 'stranger danger' campaig\u2026 https://t.co/zLIsZomXSf",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/zLIsZomXSf",
+        "expanded_url": "https://twitter.com/i/web/status/1374631609769545735",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1374628519511265281,
+  "quoted_status_id_str": "1374628519511265281",
+  "quoted_status": {
+    "created_at": "Wed Mar 24 07:45:53 +0000 2021",
+    "id": 1374628519511265281,
+    "id_str": "1374628519511265281",
+    "text": "The BBC Attempting to manipulate ethnic minorities again because they don\u2019t want the gene altering therapy... https://t.co/2ug7Teot5H",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2ug7Teot5H",
+          "expanded_url": "https://twitter.com/Chrissy_2697/status/1374098769910849539",
+          "display_url": "twitter.com/Chrissy_2697/s\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1249770360934928393,
+      "id_str": "1249770360934928393",
+      "name": "FreeNation West Yorkshire",
+      "screen_name": "freenationtoday",
+      "location": "WEST YORKSHIRE-ENGLAND ",
+      "description": "As we find ourselves in this world of oppression and tyranny, we are creating support networks and community\u2019s in the Yorkshire region.",
+      "url": "https://t.co/oVeXkLDIGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/oVeXkLDIGV",
+              "expanded_url": "http://freenation.today",
+              "display_url": "freenation.today",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5544,
+      "friends_count": 450,
+      "listed_count": 0,
+      "created_at": "Mon Apr 13 18:44:26 +0000 2020",
+      "favourites_count": 5299,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5831,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1293837077696655361/dhCVuMwz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1293837077696655361/dhCVuMwz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249770360934928393/1597309773",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1374098769910849539,
+    "quoted_status_id_str": "1374098769910849539",
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 3,
+  "favorite_count": 15,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

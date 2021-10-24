@@ -1,0 +1,352 @@
+{
+  "created_at": "Thu Apr 08 03:31:42 +0000 2021",
+  "id": 1380000372970946561,
+  "id_str": "1380000372970946561",
+  "text": "Lockdowners: wake up. https://t.co/TAWkENCASw",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/TAWkENCASw",
+        "expanded_url": "https://twitter.com/katewand/status/1379925748484599813",
+        "display_url": "twitter.com/katewand/statu\u2026",
+        "indices": [
+          22,
+          45
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1379925748484599813,
+  "quoted_status_id_str": "1379925748484599813",
+  "quoted_status": {
+    "created_at": "Wed Apr 07 22:35:10 +0000 2021",
+    "id": 1379925748484599813,
+    "id_str": "1379925748484599813",
+    "text": "#ZeroLockdown #ZeroFisman #FireFordOpenOntario \nWATCH NOW: Tragedy &amp; Crisis in Ontario https://t.co/IWjbXzleDM https://t.co/sVW8UAu0e2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ZeroLockdown",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "ZeroFisman",
+          "indices": [
+            14,
+            25
+          ]
+        },
+        {
+          "text": "FireFordOpenOntario",
+          "indices": [
+            26,
+            46
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IWjbXzleDM",
+          "expanded_url": "https://youtu.be/PMK-40Vt27s",
+          "display_url": "youtu.be/PMK-40Vt27s",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1379925173109993477,
+          "id_str": "1379925173109993477",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1379925173109993477/pu/img/nvqqCsKhUUSInhlp.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1379925173109993477/pu/img/nvqqCsKhUUSInhlp.jpg",
+          "url": "https://t.co/sVW8UAu0e2",
+          "display_url": "pic.twitter.com/sVW8UAu0e2",
+          "expanded_url": "https://twitter.com/katewand/status/1379925748484599813/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1379925173109993477,
+          "id_str": "1379925173109993477",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1379925173109993477/pu/img/nvqqCsKhUUSInhlp.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1379925173109993477/pu/img/nvqqCsKhUUSInhlp.jpg",
+          "url": "https://t.co/sVW8UAu0e2",
+          "display_url": "pic.twitter.com/sVW8UAu0e2",
+          "expanded_url": "https://twitter.com/katewand/status/1379925748484599813/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 136583,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1379925173109993477/pu/vid/640x360/BkEHeaF9LYb6p2lA.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1379925173109993477/pu/pl/f5DKz0tgPly8TaUg.m3u8?tag=12"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1379925173109993477/pu/vid/480x270/sge7xsldpUWZFaDi.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1379925173109993477/pu/vid/1280x720/97FdNLIG1V6k2-7B.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1295783797007425536,
+      "id_str": "1295783797007425536",
+      "name": "Kate",
+      "screen_name": "katewand",
+      "location": "Canazuela",
+      "description": "Artist, Writer, Filmmaker @ https://t.co/pAZvzFc8Lf w/@wg_gervais | https://t.co/c5JM0sHcmi | https://t.co/3wXBkJyNhb",
+      "url": "https://t.co/uxHjQDO7yh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/uxHjQDO7yh",
+              "expanded_url": "https://www.youtube.com/c/KateWand",
+              "display_url": "youtube.com/c/KateWand",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/pAZvzFc8Lf",
+              "expanded_url": "http://very-opinionated.com",
+              "display_url": "very-opinionated.com",
+              "indices": [
+                28,
+                51
+              ]
+            },
+            {
+              "url": "https://t.co/c5JM0sHcmi",
+              "expanded_url": "http://katewand.substack.com",
+              "display_url": "katewand.substack.com",
+              "indices": [
+                68,
+                91
+              ]
+            },
+            {
+              "url": "https://t.co/3wXBkJyNhb",
+              "expanded_url": "http://buymeacoffee.com/katewand",
+              "display_url": "buymeacoffee.com/katewand",
+              "indices": [
+                94,
+                117
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 10332,
+      "friends_count": 1191,
+      "listed_count": 69,
+      "created_at": "Tue Aug 18 18:05:20 +0000 2020",
+      "favourites_count": 23267,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7093,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1429243326126071814/1mONJRyZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429243326126071814/1mONJRyZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295783797007425536/1629593330",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 183,
+    "favorite_count": 317,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 5,
+  "favorite_count": 20,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

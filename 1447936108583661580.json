@@ -1,0 +1,280 @@
+{
+  "created_at": "Tue Oct 12 14:44:04 +0000 2021",
+  "id": 1447936108583661580,
+  "id_str": "1447936108583661580",
+  "text": "RT @Fynnderella1: Here\u2019s an important metric not discussed on https://t.co/Cu7QX4jj6d \nNumber of ADR\u2019s reported/categorized by year. https:\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Fynnderella1",
+        "name": "Fynn-derella",
+        "id": 1396494923243851785,
+        "id_str": "1396494923243851785",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Cu7QX4jj6d",
+        "expanded_url": "http://vigiaccess.org",
+        "display_url": "vigiaccess.org",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 12 14:35:23 +0000 2021",
+    "id": 1447933923338686501,
+    "id_str": "1447933923338686501",
+    "text": "Here\u2019s an important metric not discussed on https://t.co/Cu7QX4jj6d \nNumber of ADR\u2019s reported/categorized by year. https://t.co/YTzXSMTksH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Cu7QX4jj6d",
+          "expanded_url": "http://vigiaccess.org",
+          "display_url": "vigiaccess.org",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1447933920222253064,
+          "id_str": "1447933920222253064",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBgYOp0WEAgkIFU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBgYOp0WEAgkIFU.jpg",
+          "url": "https://t.co/YTzXSMTksH",
+          "display_url": "pic.twitter.com/YTzXSMTksH",
+          "expanded_url": "https://twitter.com/Fynnderella1/status/1447933923338686501/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 544,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 361,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 544,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1447933920222253064,
+          "id_str": "1447933920222253064",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBgYOp0WEAgkIFU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBgYOp0WEAgkIFU.jpg",
+          "url": "https://t.co/YTzXSMTksH",
+          "display_url": "pic.twitter.com/YTzXSMTksH",
+          "expanded_url": "https://twitter.com/Fynnderella1/status/1447933923338686501/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 544,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 361,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 544,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1396494923243851785,
+      "id_str": "1396494923243851785",
+      "name": "Fynn-derella",
+      "screen_name": "Fynnderella1",
+      "location": "New York, USA",
+      "description": "\ud83e\uddec MD-Researcher-Author-Investigator\ud83d\udc8aAccurate about SC2 origin, virulence, treatment and pub-health since Feb 2020. \ud83e\ude7a Treat Early! Tweets are my opinion.",
+      "url": "https://t.co/pEnNIanjfF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/pEnNIanjfF",
+              "expanded_url": "http://AFLDS.org",
+              "display_url": "AFLDS.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 33062,
+      "friends_count": 828,
+      "listed_count": 164,
+      "created_at": "Sun May 23 15:55:27 +0000 2021",
+      "favourites_count": 28401,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15017,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1408041922778836998/KlsWs7_1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408041922778836998/KlsWs7_1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396494923243851785/1624472048",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 152,
+    "favorite_count": 250,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 152,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,333 @@
+{
+  "created_at": "Mon Jan 04 02:48:24 +0000 2021",
+  "id": 1345925017268350977,
+  "id_str": "1345925017268350977",
+  "text": "RT @aginnt: Lockdowns vs. skeptics https://t.co/iinr9JNvgg",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "aginnt",
+        "name": "Aaron Ginn",
+        "id": 184789840,
+        "id_str": "184789840",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1345844263674916864,
+        "id_str": "1345844263674916864",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eq1mOitXMAABKsp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Eq1mOitXMAABKsp.jpg",
+        "url": "https://t.co/iinr9JNvgg",
+        "display_url": "pic.twitter.com/iinr9JNvgg",
+        "expanded_url": "https://twitter.com/aginnt/status/1345844269068775424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 896,
+            "h": 717,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 896,
+            "h": 717,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 544,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1345844269068775424,
+        "source_status_id_str": "1345844269068775424",
+        "source_user_id": 184789840,
+        "source_user_id_str": "184789840"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1345844263674916864,
+        "id_str": "1345844263674916864",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eq1mOitXMAABKsp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Eq1mOitXMAABKsp.jpg",
+        "url": "https://t.co/iinr9JNvgg",
+        "display_url": "pic.twitter.com/iinr9JNvgg",
+        "expanded_url": "https://twitter.com/aginnt/status/1345844269068775424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 896,
+            "h": 717,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 896,
+            "h": 717,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 544,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1345844269068775424,
+        "source_status_id_str": "1345844269068775424",
+        "source_user_id": 184789840,
+        "source_user_id_str": "184789840"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5194,
+    "friends_count": 877,
+    "listed_count": 13,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6202,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3338,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Jan 03 21:27:32 +0000 2021",
+    "id": 1345844269068775424,
+    "id_str": "1345844269068775424",
+    "text": "Lockdowns vs. skeptics https://t.co/iinr9JNvgg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1345844263674916864,
+          "id_str": "1345844263674916864",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eq1mOitXMAABKsp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eq1mOitXMAABKsp.jpg",
+          "url": "https://t.co/iinr9JNvgg",
+          "display_url": "pic.twitter.com/iinr9JNvgg",
+          "expanded_url": "https://twitter.com/aginnt/status/1345844269068775424/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 896,
+              "h": 717,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 896,
+              "h": 717,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 544,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1345844263674916864,
+          "id_str": "1345844263674916864",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eq1mOitXMAABKsp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eq1mOitXMAABKsp.jpg",
+          "url": "https://t.co/iinr9JNvgg",
+          "display_url": "pic.twitter.com/iinr9JNvgg",
+          "expanded_url": "https://twitter.com/aginnt/status/1345844269068775424/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 896,
+              "h": 717,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 896,
+              "h": 717,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 544,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 184789840,
+      "id_str": "184789840",
+      "name": "Aaron Ginn",
+      "screen_name": "aginnt",
+      "location": "",
+      "description": "Cofounder of @joinlincoln + new co. alum: growth @everlane @stumbleupon and @MittRomney 2012. Saved by grace for \u03ba\u03b1\u03b9\u03bd\u1f78\u03bd \u03bf\u1f50\u03c1\u03b1\u03bd\u1f79\u03c2 \u03b3\u1fc6\u03bd. #skeptic #crossfit #keto",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 34514,
+      "friends_count": 923,
+      "listed_count": 718,
+      "created_at": "Mon Aug 30 14:00:57 +0000 2010",
+      "favourites_count": 7980,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19542,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1153839283259629570/OYHwVln6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153839283259629570/OYHwVln6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/184789840/1583852930",
+      "profile_link_color": "0C00B3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D2",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 66,
+    "favorite_count": 326,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 66,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

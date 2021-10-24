@@ -1,0 +1,303 @@
+{
+  "created_at": "Thu Mar 25 18:19:50 +0000 2021",
+  "id": 1375150447103782913,
+  "id_str": "1375150447103782913",
+  "text": "RT @Haggis_UK: @Kate_M_Proctor https://t.co/qeLXY1qTgo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Haggis_UK",
+        "name": "Haggis_UK \ud83c\uddec\ud83c\udde7 \ud83c\uddea\ud83c\uddfa",
+        "id": 351784239,
+        "id_str": "351784239",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "Kate_M_Proctor",
+        "name": "Kate Proctor",
+        "id": 49001937,
+        "id_str": "49001937",
+        "indices": [
+          15,
+          30
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/qeLXY1qTgo",
+        "expanded_url": "https://twitter.com/Haggis_UK/status/1375097853429870598?s=19",
+        "display_url": "twitter.com/Haggis_UK/stat\u2026",
+        "indices": [
+          31,
+          54
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Mar 25 15:19:16 +0000 2021",
+    "id": 1375105007272534023,
+    "id_str": "1375105007272534023",
+    "text": "@Kate_M_Proctor https://t.co/qeLXY1qTgo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Kate_M_Proctor",
+          "name": "Kate Proctor",
+          "id": 49001937,
+          "id_str": "49001937",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qeLXY1qTgo",
+          "expanded_url": "https://twitter.com/Haggis_UK/status/1375097853429870598?s=19",
+          "display_url": "twitter.com/Haggis_UK/stat\u2026",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1375094581306519557,
+    "in_reply_to_status_id_str": "1375094581306519557",
+    "in_reply_to_user_id": 49001937,
+    "in_reply_to_user_id_str": "49001937",
+    "in_reply_to_screen_name": "Kate_M_Proctor",
+    "user": {
+      "id": 351784239,
+      "id_str": "351784239",
+      "name": "Haggis_UK \ud83c\uddec\ud83c\udde7 \ud83c\uddea\ud83c\uddfa",
+      "screen_name": "Haggis_UK",
+      "location": "Haggis HQ",
+      "description": "News & politics videos. Rugby, F1, Golf & MotoGP fan. RTs are not an endorsement.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 43651,
+      "friends_count": 7843,
+      "listed_count": 210,
+      "created_at": "Tue Aug 09 18:44:15 +0000 2011",
+      "favourites_count": 32264,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 21172,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1486695046/images_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486695046/images_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/351784239/1498666769",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1375097853429870598,
+    "quoted_status_id_str": "1375097853429870598",
+    "quoted_status": {
+      "created_at": "Thu Mar 25 14:50:50 +0000 2021",
+      "id": 1375097853429870598,
+      "id_str": "1375097853429870598",
+      "text": "Charles Walker is going to allow himself an act of defiance, &amp; he's going to walk around London with a pint of milk\u2026 https://t.co/gmm7OHK7KW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gmm7OHK7KW",
+            "expanded_url": "https://twitter.com/i/web/status/1375097853429870598",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 351784239,
+        "id_str": "351784239",
+        "name": "Haggis_UK \ud83c\uddec\ud83c\udde7 \ud83c\uddea\ud83c\uddfa",
+        "screen_name": "Haggis_UK",
+        "location": "Haggis HQ",
+        "description": "News & politics videos. Rugby, F1, Golf & MotoGP fan. RTs are not an endorsement.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 43651,
+        "friends_count": 7843,
+        "listed_count": 210,
+        "created_at": "Tue Aug 09 18:44:15 +0000 2011",
+        "favourites_count": 32264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21172,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1486695046/images_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486695046/images_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/351784239/1498666769",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 274,
+      "favorite_count": 989,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 8,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1375097853429870598,
+  "quoted_status_id_str": "1375097853429870598",
+  "retweet_count": 8,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

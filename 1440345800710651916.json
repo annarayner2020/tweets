@@ -1,0 +1,193 @@
+{
+  "created_at": "Tue Sep 21 16:02:53 +0000 2021",
+  "id": 1440345800710651916,
+  "id_str": "1440345800710651916",
+  "text": "Rise up Australia! Amazing scenes from Victoria. https://t.co/AIaRTUwElw",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/AIaRTUwElw",
+        "expanded_url": "https://twitter.com/NMLockdownsUK/status/1440258925836726274",
+        "display_url": "twitter.com/NMLockdownsUK/\u2026",
+        "indices": [
+          49,
+          72
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1440258925836726274,
+  "quoted_status_id_str": "1440258925836726274",
+  "quoted_status": {
+    "created_at": "Tue Sep 21 10:17:41 +0000 2021",
+    "id": 1440258925836726274,
+    "id_str": "1440258925836726274",
+    "text": "MELBOURNE Construction Workers rise up and the Police then retreat. This is PEOPLE POWER in action what a glorious\u2026 https://t.co/ibedJmsYre",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ibedJmsYre",
+          "expanded_url": "https://twitter.com/i/web/status/1440258925836726274",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1372527506557960200,
+      "id_str": "1372527506557960200",
+      "name": "No More Lockdowns UK",
+      "screen_name": "NMLockdownsUK",
+      "location": "United Kingdom",
+      "description": "A genuine grassroots group empowering individuals and communities to oppose the political policy of lockdowns and discriminatory vaxx passports in the UK.",
+      "url": "https://t.co/gA3ketlSgq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gA3ketlSgq",
+              "expanded_url": "http://nomorelockdowns.uk",
+              "display_url": "nomorelockdowns.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8140,
+      "friends_count": 135,
+      "listed_count": 27,
+      "created_at": "Thu Mar 18 12:37:50 +0000 2021",
+      "favourites_count": 1385,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1529,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1378681790236360706/lCW8Ouur_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378681790236360706/lCW8Ouur_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372527506557960200/1617011828",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1028,
+    "favorite_count": 2791,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 9,
+  "favorite_count": 17,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

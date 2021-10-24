@@ -1,0 +1,344 @@
+{
+  "created_at": "Sun Oct 17 19:01:02 +0000 2021",
+  "id": 1449812718354042880,
+  "id_str": "1449812718354042880",
+  "text": "RT @Queenzooch: How about that @grantshapps ? @talkRADIO @JuliaHB1",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Queenzooch",
+        "name": "#StopGlobalCommunism",
+        "id": 186187157,
+        "id_str": "186187157",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "grantshapps",
+        "name": "Rt Hon Grant Shapps MP",
+        "id": 14104027,
+        "id_str": "14104027",
+        "indices": [
+          31,
+          43
+        ]
+      },
+      {
+        "screen_name": "talkRADIO",
+        "name": "talkRADIO",
+        "id": 3380282686,
+        "id_str": "3380282686",
+        "indices": [
+          46,
+          56
+        ]
+      },
+      {
+        "screen_name": "JuliaHB1",
+        "name": "Julia Hartley-Brewer",
+        "id": 459390022,
+        "id_str": "459390022",
+        "indices": [
+          57,
+          66
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 17 19:00:34 +0000 2021",
+    "id": 1449812597058981891,
+    "id_str": "1449812597058981891",
+    "text": "How about that @grantshapps ? @talkRADIO @JuliaHB1 https://t.co/3iafuovjPn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "grantshapps",
+          "name": "Rt Hon Grant Shapps MP",
+          "id": 14104027,
+          "id_str": "14104027",
+          "indices": [
+            15,
+            27
+          ]
+        },
+        {
+          "screen_name": "talkRADIO",
+          "name": "talkRADIO",
+          "id": 3380282686,
+          "id_str": "3380282686",
+          "indices": [
+            30,
+            40
+          ]
+        },
+        {
+          "screen_name": "JuliaHB1",
+          "name": "Julia Hartley-Brewer",
+          "id": 459390022,
+          "id_str": "459390022",
+          "indices": [
+            41,
+            50
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3iafuovjPn",
+          "expanded_url": "https://twitter.com/akheriaty/status/1449540279992651780",
+          "display_url": "twitter.com/akheriaty/stat\u2026",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 186187157,
+      "id_str": "186187157",
+      "name": "#StopGlobalCommunism",
+      "screen_name": "Queenzooch",
+      "location": "wiltshire, uk",
+      "description": "my Twitter name is my Telegram name",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 242,
+      "friends_count": 254,
+      "listed_count": 1,
+      "created_at": "Thu Sep 02 20:06:13 +0000 2010",
+      "favourites_count": 43527,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 24822,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1404486805777436677/riamqz1R_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404486805777436677/riamqz1R_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/186187157/1623136177",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1449540279992651780,
+    "quoted_status_id_str": "1449540279992651780",
+    "quoted_status": {
+      "created_at": "Sun Oct 17 00:58:28 +0000 2021",
+      "id": 1449540279992651780,
+      "id_str": "1449540279992651780",
+      "text": "1/ The largest population-based study comparing the unvaccinated/naturally immune to the vaccinated found that vacc\u2026 https://t.co/bkKPfx80LL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bkKPfx80LL",
+            "expanded_url": "https://twitter.com/i/web/status/1449540279992651780",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 54322957,
+        "id_str": "54322957",
+        "name": "Aaron Kheriaty, MD",
+        "screen_name": "akheriaty",
+        "location": "Orange, CA",
+        "description": "Professor of Psychiatry @UCIrvineSOM. Director, Medical Ethics @UCIrvineHealth. @eppcdc. Writings in @WashingtonPost @WSJ @TNAJournal @FirstThingsmag @CityJourn",
+        "url": "https://t.co/XGqAMf5rhR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XGqAMf5rhR",
+                "expanded_url": "http://aaronkheriaty.substack.com",
+                "display_url": "aaronkheriaty.substack.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 31259,
+        "friends_count": 490,
+        "listed_count": 192,
+        "created_at": "Mon Jul 06 20:30:50 +0000 2009",
+        "favourites_count": 4714,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3245,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1306813351763128322/-18cuGOl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306813351763128322/-18cuGOl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54322957/1600403511",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6767,
+      "favorite_count": 15051,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1449540279992651780,
+  "quoted_status_id_str": "1449540279992651780",
+  "retweet_count": 3,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

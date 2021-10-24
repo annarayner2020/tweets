@@ -1,0 +1,223 @@
+{
+  "created_at": "Sat Feb 13 22:47:08 +0000 2021",
+  "id": 1360722201121607680,
+  "id_str": "1360722201121607680",
+  "text": "Another chilling parallel. https://t.co/hKm5ihDMwM",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/hKm5ihDMwM",
+        "expanded_url": "https://twitter.com/WG_Gervais/status/1360721792197922816",
+        "display_url": "twitter.com/WG_Gervais/sta\u2026",
+        "indices": [
+          27,
+          50
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5217,
+    "friends_count": 894,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6934,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3922,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1360721792197922816,
+  "quoted_status_id_str": "1360721792197922816",
+  "quoted_status": {
+    "created_at": "Sat Feb 13 22:45:30 +0000 2021",
+    "id": 1360721792197922816,
+    "id_str": "1360721792197922816",
+    "text": "\u201cDuring the Weimar Republic in the mid-twentieth century, more than half of all German physicians became early join\u2026 https://t.co/0t1aKOuLVx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0t1aKOuLVx",
+          "expanded_url": "https://twitter.com/i/web/status/1360721792197922816",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 49651268,
+      "id_str": "49651268",
+      "name": "W | L L | A |V|",
+      "screen_name": "WG_Gervais",
+      "location": "Techno-Fascist State of Karens",
+      "description": "Filmmaker @ https://t.co/IPI7aPELUP LBRY https://t.co/rUtqTiiKlj https://t.co/0CW4k2AIvN Pronouns: Fu Ck/Ja Ck",
+      "url": "https://t.co/CJgpJHPX92",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/CJgpJHPX92",
+              "expanded_url": "https://www.buymeacoffee.com/katewand",
+              "display_url": "buymeacoffee.com/katewand",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/IPI7aPELUP",
+              "expanded_url": "http://Very-Opinionated.com",
+              "display_url": "Very-Opinionated.com",
+              "indices": [
+                12,
+                35
+              ]
+            },
+            {
+              "url": "https://t.co/rUtqTiiKlj",
+              "expanded_url": "http://odysee.com/@VeryOpinionatedShow:5",
+              "display_url": "odysee.com/@VeryOpinionat\u2026",
+              "indices": [
+                41,
+                64
+              ]
+            },
+            {
+              "url": "https://t.co/0CW4k2AIvN",
+              "expanded_url": "Https://YouTube.com/c/TheVeryOpinionatedKateWandShow",
+              "display_url": "YouTube.com/c/TheVeryOpini\u2026",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1626,
+      "friends_count": 3301,
+      "listed_count": 11,
+      "created_at": "Mon Jun 22 14:53:52 +0000 2009",
+      "favourites_count": 65436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 16662,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1428739064610631682/8PmnzjgF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1428739064610631682/8PmnzjgF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/49651268/1629593018",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1360340494711193601,
+    "quoted_status_id_str": "1360340494711193601",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 17,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,200 @@
+{
+  "created_at": "Thu Jan 14 06:43:44 +0000 2021",
+  "id": 1349608119966556161,
+  "id_str": "1349608119966556161",
+  "text": "RT @SoniaPoulton: We cannot have a 'no end in sight' policy. This is untenable. We are being carried along on information that crumbles whe\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SoniaPoulton",
+        "name": "Sonia Poulton",
+        "id": 371967650,
+        "id_str": "371967650",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5175,
+    "friends_count": 887,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6455,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3563,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 13 11:30:17 +0000 2021",
+    "id": 1349317844182454273,
+    "id_str": "1349317844182454273",
+    "text": "We cannot have a 'no end in sight' policy. This is untenable. We are being carried along on information that crumbl\u2026 https://t.co/0aYcSvaEuk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0aYcSvaEuk",
+          "expanded_url": "https://twitter.com/i/web/status/1349317844182454273",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 371967650,
+      "id_str": "371967650",
+      "name": "Sonia Poulton",
+      "screen_name": "SoniaPoulton",
+      "location": "where you least expect me",
+      "description": "Journalist. Broadcaster. Commentator. Film Maker. Mum. Has an attitude about injustice & doesn't care who knows it. https://t.co/QWiQ0OFnEe",
+      "url": "https://t.co/3o9OiSDOsG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3o9OiSDOsG",
+              "expanded_url": "https://www.soniapoulton.co.uk",
+              "display_url": "soniapoulton.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/QWiQ0OFnEe",
+              "expanded_url": "https://www.buymeacoffee.com/soniapoulton",
+              "display_url": "buymeacoffee.com/soniapoulton",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 47074,
+      "friends_count": 1181,
+      "listed_count": 308,
+      "created_at": "Sun Sep 11 21:27:17 +0000 2011",
+      "favourites_count": 27791,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 29252,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1257621541841494017/Ua6tIv74_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257621541841494017/Ua6tIv74_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/371967650/1615116748",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 645,
+    "favorite_count": 1697,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 645,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

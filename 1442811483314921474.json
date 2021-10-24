@@ -1,0 +1,195 @@
+{
+  "created_at": "Tue Sep 28 11:20:38 +0000 2021",
+  "id": 1442811483314921474,
+  "id_str": "1442811483314921474",
+  "text": "Good grief! https://t.co/Ccp7G7o00C",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/Ccp7G7o00C",
+        "expanded_url": "https://twitter.com/Lukewearechange/status/1442650549023805443",
+        "display_url": "twitter.com/Lukewearechang\u2026",
+        "indices": [
+          12,
+          35
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4684,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1442650549023805443,
+  "quoted_status_id_str": "1442650549023805443",
+  "quoted_status": {
+    "created_at": "Tue Sep 28 00:41:08 +0000 2021",
+    "id": 1442650549023805443,
+    "id_str": "1442650549023805443",
+    "text": "CULT https://t.co/PCx22R3O6G",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PCx22R3O6G",
+          "expanded_url": "https://twitter.com/GraduatedBen/status/1442604025954799618",
+          "display_url": "twitter.com/GraduatedBen/s\u2026",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 95994080,
+      "id_str": "95994080",
+      "name": "Luke Rudkowski",
+      "screen_name": "Lukewearechange",
+      "location": "Brooklyn NY",
+      "description": "\ud83c\uddf5\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 \u201cMr. Rudkowski is no shrinking violet. Armed with a video camera and a YouTube account- NYTIMES",
+      "url": "https://t.co/5SQOVrsSCo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5SQOVrsSCo",
+              "expanded_url": "http://youtube.com/wearechange",
+              "display_url": "youtube.com/wearechange",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190087,
+      "friends_count": 2889,
+      "listed_count": 1658,
+      "created_at": "Thu Dec 10 22:04:56 +0000 2009",
+      "favourites_count": 4297,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 43079,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1199152764825280513/IfkjLZuB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199152764825280513/IfkjLZuB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/95994080/1547747122",
+      "profile_link_color": "4E6085",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1442604025954799618,
+    "quoted_status_id_str": "1442604025954799618",
+    "retweet_count": 430,
+    "favorite_count": 2323,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

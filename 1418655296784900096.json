@@ -1,0 +1,352 @@
+{
+  "created_at": "Fri Jul 23 19:32:34 +0000 2021",
+  "id": 1418655296784900096,
+  "id_str": "1418655296784900096",
+  "text": "RT @MichaelPSenger: Malta sees surge of over 4000% in COVID cases despite nearly 90% of its population having been vaccinated. https://t.co\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MichaelPSenger",
+        "name": "Michael P Senger",
+        "id": 1679362640,
+        "id_str": "1679362640",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jul 23 19:27:34 +0000 2021",
+    "id": 1418654039194046464,
+    "id_str": "1418654039194046464",
+    "text": "Malta sees surge of over 4000% in COVID cases despite nearly 90% of its population having been vaccinated. https://t.co/zm5vHDf6dP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/zm5vHDf6dP",
+          "expanded_url": "https://twitter.com/ClareCraigPath/status/1418207952775749638",
+          "display_url": "twitter.com/ClareCraigPath\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1679362640,
+      "id_str": "1679362640",
+      "name": "Michael P Senger",
+      "screen_name": "MichaelPSenger",
+      "location": "",
+      "description": "Attorney, author of China\u2019s Global Lockdown Propaganda Campaign",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 67248,
+      "friends_count": 15676,
+      "listed_count": 424,
+      "created_at": "Sat Aug 17 23:24:38 +0000 2013",
+      "favourites_count": 208739,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679362640/1597698065",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1418207952775749638,
+    "quoted_status_id_str": "1418207952775749638",
+    "quoted_status": {
+      "created_at": "Thu Jul 22 13:54:59 +0000 2021",
+      "id": 1418207952775749638,
+      "id_str": "1418207952775749638",
+      "text": "Malta has vaccinated enough children that 88% of the total population are vaccinated. https://t.co/BZuF9QpNiX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1418207939697930241,
+            "id_str": "1418207939697930241",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/E658m29VcAEXPZi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E658m29VcAEXPZi.jpg",
+            "url": "https://t.co/BZuF9QpNiX",
+            "display_url": "pic.twitter.com/BZuF9QpNiX",
+            "expanded_url": "https://twitter.com/ClareCraigPath/status/1418207952775749638/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1449,
+                "h": 725,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1418207939697930241,
+            "id_str": "1418207939697930241",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/E658m29VcAEXPZi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E658m29VcAEXPZi.jpg",
+            "url": "https://t.co/BZuF9QpNiX",
+            "display_url": "pic.twitter.com/BZuF9QpNiX",
+            "expanded_url": "https://twitter.com/ClareCraigPath/status/1418207952775749638/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1449,
+                "h": 725,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1302978006441492481,
+        "id_str": "1302978006441492481",
+        "name": "Dr Clare Craig",
+        "screen_name": "ClareCraigPath",
+        "location": "",
+        "description": "Diagnostic pathologist, lover of data, digital pathology and AI, sceptical but optimistic. Views my own not the RCPath's.",
+        "url": "https://t.co/g3aXTQ7A0p",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/g3aXTQ7A0p",
+                "expanded_url": "https://www.hartgroup.org/",
+                "display_url": "hartgroup.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 84740,
+        "friends_count": 387,
+        "listed_count": 570,
+        "created_at": "Mon Sep 07 14:32:26 +0000 2020",
+        "favourites_count": 1680,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7184,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302978006441492481/1628178678",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 437,
+      "favorite_count": 874,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1196,
+    "favorite_count": 2011,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1418207952775749638,
+  "quoted_status_id_str": "1418207952775749638",
+  "retweet_count": 1196,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

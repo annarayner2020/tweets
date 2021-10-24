@@ -1,0 +1,362 @@
+{
+  "created_at": "Sat Aug 14 13:05:40 +0000 2021",
+  "id": 1426530460927250436,
+  "id_str": "1426530460927250436",
+  "text": "Repeat after me\n\u2018This is not about a virus\u2019 https://t.co/NYEYXbshBC",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/NYEYXbshBC",
+        "expanded_url": "https://twitter.com/LozzaFox/status/1426485438634725381",
+        "display_url": "twitter.com/LozzaFox/statu\u2026",
+        "indices": [
+          44,
+          67
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1426485438634725381,
+  "quoted_status_id_str": "1426485438634725381",
+  "quoted_status": {
+    "created_at": "Sat Aug 14 10:06:46 +0000 2021",
+    "id": 1426485438634725381,
+    "id_str": "1426485438634725381",
+    "text": "Fascist psychopaths. \nhttps://t.co/o8f6m6GYrK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1426454295109582848,
+          "id_str": "1426454295109582848",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426454295109582848/pu/img/8llXsrBsH3SjWnq6.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426454295109582848/pu/img/8llXsrBsH3SjWnq6.jpg",
+          "url": "https://t.co/o8f6m6GYrK",
+          "display_url": "pic.twitter.com/o8f6m6GYrK",
+          "expanded_url": "https://twitter.com/GillianMcKeith/status/1426454736585338880/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 315,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 555,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 592,
+              "h": 1280,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1426454736585338880,
+          "source_status_id_str": "1426454736585338880",
+          "source_user_id": 4849786505,
+          "source_user_id_str": "4849786505"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1426454295109582848,
+          "id_str": "1426454295109582848",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426454295109582848/pu/img/8llXsrBsH3SjWnq6.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426454295109582848/pu/img/8llXsrBsH3SjWnq6.jpg",
+          "url": "https://t.co/o8f6m6GYrK",
+          "display_url": "pic.twitter.com/o8f6m6GYrK",
+          "expanded_url": "https://twitter.com/GillianMcKeith/status/1426454736585338880/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 315,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 555,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 592,
+              "h": 1280,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1426454736585338880,
+          "source_status_id_str": "1426454736585338880",
+          "source_user_id": 4849786505,
+          "source_user_id_str": "4849786505",
+          "video_info": {
+            "aspect_ratio": [
+              37,
+              80
+            ],
+            "duration_millis": 140000,
+            "variants": [
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1426454295109582848/pu/vid/480x1036/Q3CbKANIuaEFPpmy.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1426454295109582848/pu/vid/320x690/glCtSJvMf_jN834d.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1426454295109582848/pu/pl/MqEiwhvldqKdKWgv.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1426454295109582848/pu/vid/592x1280/JfzU90XT4n9ilOrP.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 4849786505,
+              "id_str": "4849786505",
+              "name": "Gillian McKeith",
+              "screen_name": "GillianMcKeith",
+              "location": "",
+              "description": "Television Presenter. Nutritionist & Dietetic Technician. No.1 Bestselling Author. Public Health Advocate. Ivy Leaguer. The 'Poo' Lady!! Support your Immunity.",
+              "url": "https://t.co/Rj7Fd3ZpC6",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/Rj7Fd3ZpC6",
+                      "expanded_url": "http://www.gillianmckeith.com",
+                      "display_url": "gillianmckeith.com",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 79941,
+              "friends_count": 1775,
+              "listed_count": 309,
+              "created_at": "Tue Jan 26 13:35:37 +0000 2016",
+              "favourites_count": 7677,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": true,
+              "statuses_count": 7534,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/691982809389494272/ZsXQlZ5c_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/691982809389494272/ZsXQlZ5c_normal.png",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4849786505/1453816644",
+              "profile_link_color": "3B94D9",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "has_extended_profile": true,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 81371986,
+      "id_str": "81371986",
+      "name": "Laurence Fox \u26aa\ufe0f",
+      "screen_name": "LozzaFox",
+      "location": "Home",
+      "description": "Live strong and free. @TheReclaimParty Media enquiries: media@reclaimparty.co.uk BTC donate - bc1qzql5p88rva353tw6qjqy678dw5h6qhx5kmtjpp",
+      "url": "https://t.co/2xA37YnQMn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2xA37YnQMn",
+              "expanded_url": "https://reclaimparty.co.uk/",
+              "display_url": "reclaimparty.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 300299,
+      "friends_count": 1275,
+      "listed_count": 860,
+      "created_at": "Sat Oct 10 14:59:49 +0000 2009",
+      "favourites_count": 11091,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 5638,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1376911883723276288/41p0gTa2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376911883723276288/41p0gTa2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/81371986/1620372164",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 968,
+    "favorite_count": 2951,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  "retweet_count": 1,
+  "favorite_count": 4,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

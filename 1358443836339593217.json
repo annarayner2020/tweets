@@ -1,0 +1,262 @@
+{
+  "created_at": "Sun Feb 07 15:53:43 +0000 2021",
+  "id": 1358443836339593217,
+  "id_str": "1358443836339593217",
+  "text": "RT @BrianOSheaSPI: @melindagates @BillGates Your video, which seems lovely, brings up a question: Why is https://t.co/cOkazBODiE so heavily\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BrianOSheaSPI",
+        "name": "Brian O'Shea",
+        "id": 246236637,
+        "id_str": "246236637",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "melindagates",
+        "name": "Melinda French Gates",
+        "id": 161801527,
+        "id_str": "161801527",
+        "indices": [
+          19,
+          32
+        ]
+      },
+      {
+        "screen_name": "BillGates",
+        "name": "Bill Gates",
+        "id": 50393960,
+        "id_str": "50393960",
+        "indices": [
+          33,
+          43
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/cOkazBODiE",
+        "expanded_url": "http://gatesfoundation.org",
+        "display_url": "gatesfoundation.org",
+        "indices": [
+          105,
+          128
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5201,
+    "friends_count": 891,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6736,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3765,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Feb 07 15:50:14 +0000 2021",
+    "id": 1358442957460897794,
+    "id_str": "1358442957460897794",
+    "text": "@melindagates @BillGates Your video, which seems lovely, brings up a question: Why is https://t.co/cOkazBODiE so he\u2026 https://t.co/orlLJtXE6S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "melindagates",
+          "name": "Melinda French Gates",
+          "id": 161801527,
+          "id_str": "161801527",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "BillGates",
+          "name": "Bill Gates",
+          "id": 50393960,
+          "id_str": "50393960",
+          "indices": [
+            14,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cOkazBODiE",
+          "expanded_url": "http://gatesfoundation.org",
+          "display_url": "gatesfoundation.org",
+          "indices": [
+            86,
+            109
+          ]
+        },
+        {
+          "url": "https://t.co/orlLJtXE6S",
+          "expanded_url": "https://twitter.com/i/web/status/1358442957460897794",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1354840396430413827,
+    "in_reply_to_status_id_str": "1354840396430413827",
+    "in_reply_to_user_id": 161801527,
+    "in_reply_to_user_id_str": "161801527",
+    "in_reply_to_screen_name": "melindagates",
+    "user": {
+      "id": 246236637,
+      "id_str": "246236637",
+      "name": "Brian O'Shea",
+      "screen_name": "BrianOSheaSPI",
+      "location": "New York",
+      "description": "Investigate everything & trust your own informed judgement. You are the expert if you want to be. TELEGRAM https://t.co/9nBElhFzKU & Gettr: @BrianOSheaSPI",
+      "url": "https://t.co/pMrOC6pfjC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/pMrOC6pfjC",
+              "expanded_url": "https://m.youtube.com/user/thamer412",
+              "display_url": "m.youtube.com/user/thamer412",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/9nBElhFzKU",
+              "expanded_url": "http://t.me/BrianOShea_SPI",
+              "display_url": "t.me/BrianOShea_SPI",
+              "indices": [
+                107,
+                130
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 7975,
+      "friends_count": 1110,
+      "listed_count": 34,
+      "created_at": "Wed Feb 02 12:17:13 +0000 2011",
+      "favourites_count": 9534,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 19432,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1425955286251102213/B5gAALVi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1425955286251102213/B5gAALVi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/246236637/1624065523",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 109,
+    "favorite_count": 294,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 109,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

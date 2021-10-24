@@ -1,0 +1,283 @@
+{
+  "created_at": "Wed Dec 30 14:37:13 +0000 2020",
+  "id": 1344291455825813510,
+  "id_str": "1344291455825813510",
+  "text": "RT @jengleruk: 10k excess 2nd wave deaths but Covid in 25k?\n\nand\n\n\u201cDeaths from other causes significantly lower. \u201c\n\nReally?\n\nEither:\n\n-we h\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jengleruk",
+        "name": "Jonathan Engler",
+        "id": 19684606,
+        "id_str": "19684606",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5194,
+    "friends_count": 877,
+    "listed_count": 13,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6202,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3338,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Dec 30 14:29:56 +0000 2020",
+    "id": 1344289623443464194,
+    "id_str": "1344289623443464194",
+    "text": "10k excess 2nd wave deaths but Covid in 25k?\n\nand\n\n\u201cDeaths from other causes significantly lower. \u201c\n\nReally?\n\nEithe\u2026 https://t.co/QLNo3J2oSe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QLNo3J2oSe",
+          "expanded_url": "https://twitter.com/i/web/status/1344289623443464194",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19684606,
+      "id_str": "19684606",
+      "name": "Jonathan Engler",
+      "screen_name": "jengleruk",
+      "location": "",
+      "description": "Medically and legally qualified. Dad to 4 \u201cadult\u201d kids, husband. Covid is real but threat is exaggerated and response to it is massively more dangerous.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11269,
+      "friends_count": 1202,
+      "listed_count": 69,
+      "created_at": "Wed Jan 28 23:44:24 +0000 2009",
+      "favourites_count": 5925,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 16242,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1426992341861163011/QBsUNAuO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426992341861163011/QBsUNAuO_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1344285473930440704,
+    "quoted_status_id_str": "1344285473930440704",
+    "quoted_status": {
+      "created_at": "Wed Dec 30 14:13:27 +0000 2020",
+      "id": 1344285473930440704,
+      "id_str": "1344285473930440704",
+      "text": "CMI notes that second wave excess deaths are significant, but are a fraction of reported COVID-19 deaths.\n\nThe full\u2026 https://t.co/Fxwnj8FZaQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Fxwnj8FZaQ",
+            "expanded_url": "https://twitter.com/i/web/status/1344285473930440704",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1344285464078004227,
+      "in_reply_to_status_id_str": "1344285464078004227",
+      "in_reply_to_user_id": 1243131149955858435,
+      "in_reply_to_user_id_str": "1243131149955858435",
+      "in_reply_to_screen_name": "COVID19actuary",
+      "user": {
+        "id": 1243131149955858435,
+        "id_str": "1243131149955858435",
+        "name": "COVID-19 Actuaries Response Group",
+        "screen_name": "COVID19actuary",
+        "location": "United Kingdom",
+        "description": "Our purpose: our volunteers aim to learn, educate, inform and influence the response to this crisis in a positive way.",
+        "url": "https://t.co/iAWkXHNWqP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/iAWkXHNWqP",
+                "expanded_url": "http://www.covid-arg.com/bulletins",
+                "display_url": "covid-arg.com/bulletins",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 18546,
+        "friends_count": 102,
+        "listed_count": 302,
+        "created_at": "Thu Mar 26 11:02:36 +0000 2020",
+        "favourites_count": 4575,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2082,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243138274824200192/ZuXkJ7ld_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243138274824200192/ZuXkJ7ld_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243131149955858435/1585296613",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 152,
+    "favorite_count": 389,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1344285473930440704,
+  "quoted_status_id_str": "1344285473930440704",
+  "retweet_count": 152,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,327 @@
+{
+  "created_at": "Sun Oct 17 08:43:05 +0000 2021",
+  "id": 1449657203082813441,
+  "id_str": "1449657203082813441",
+  "text": "RT @Im_Vladimir_S: PCT blokada v Italiji \ud83d\ude4f",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Im_Vladimir_S",
+        "name": "Vladimir Slemen\u0161ek",
+        "id": 244123825,
+        "id_str": "244123825",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Oct 15 14:33:28 +0000 2021",
+    "id": 1449020604858908675,
+    "id_str": "1449020604858908675",
+    "text": "PCT blokada v Italiji \ud83d\ude4f https://t.co/5aqqFKpDyb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5aqqFKpDyb",
+          "expanded_url": "https://twitter.com/hugowiz/status/1448981982487134221",
+          "display_url": "twitter.com/hugowiz/status\u2026",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 244123825,
+      "id_str": "244123825",
+      "name": "Vladimir Slemen\u0161ek",
+      "screen_name": "Im_Vladimir_S",
+      "location": "Ljubljana, Slovenia",
+      "description": "THIS TIME YOU SHOULD STAY UNINOCULATED\ud83d\udcaa\ud83d\ude4f\nAntispajker. Pod istim nickom me najdete na GABu.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 180,
+      "friends_count": 267,
+      "listed_count": 0,
+      "created_at": "Fri Jan 28 15:31:13 +0000 2011",
+      "favourites_count": 4705,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1502,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1429027140268396544/_XqaHCFa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429027140268396544/_XqaHCFa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/244123825/1633801340",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1448981982487134221,
+    "quoted_status_id_str": "1448981982487134221",
+    "quoted_status": {
+      "created_at": "Fri Oct 15 12:00:00 +0000 2021",
+      "id": 1448981982487134221,
+      "id_str": "1448981982487134221",
+      "text": "Update from \"Green Pass\" Italy\n\nThe first day of enforcement is today October 15th\n\nMany citizens won't go to work\u2026 https://t.co/dZoJyhLCtJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dZoJyhLCtJ",
+            "expanded_url": "https://twitter.com/i/web/status/1448981982487134221",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 136317670,
+        "id_str": "136317670",
+        "name": "Ugo Mendes Donelli",
+        "screen_name": "hugowiz",
+        "location": "Milano, Italy",
+        "description": "Strategy Innovation, Creativity, oneatatime https://t.co/UO9V0khUj0",
+        "url": "http://t.co/G0utKl27co",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/G0utKl27co",
+                "expanded_url": "http://hugowiz.it",
+                "display_url": "hugowiz.it",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/UO9V0khUj0",
+                "expanded_url": "https://www.one-at-a-time.biz/",
+                "display_url": "one-at-a-time.biz",
+                "indices": [
+                  44,
+                  67
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3181,
+        "friends_count": 632,
+        "listed_count": 124,
+        "created_at": "Fri Apr 23 15:57:47 +0000 2010",
+        "favourites_count": 59767,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24254,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100049578852798464/2DcS17Lk_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100049578852798464/2DcS17Lk_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/136317670/1398665683",
+        "profile_link_color": "105E74",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1ea588c12abd39d7",
+        "url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json",
+        "place_type": "city",
+        "name": "Milan",
+        "full_name": "Milan, Lombardy",
+        "country_code": "IT",
+        "country": "Italy",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                9.040628,
+                45.3867262
+              ],
+              [
+                9.2780451,
+                45.3867262
+              ],
+              [
+                9.2780451,
+                45.5359644
+              ],
+              [
+                9.040628,
+                45.5359644
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1034,
+      "favorite_count": 3072,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 11,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "lt"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1448981982487134221,
+  "quoted_status_id_str": "1448981982487134221",
+  "retweet_count": 11,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "lt"
+}

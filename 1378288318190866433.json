@@ -1,0 +1,443 @@
+{
+  "created_at": "Sat Apr 03 10:08:37 +0000 2021",
+  "id": 1378288318190866433,
+  "id_str": "1378288318190866433",
+  "text": "RT @JoseSenco: @NeilDotObrien @SimonClarkeMP @MattHancock @pritipatel @IanDuncanHMG @LozzaFox @Nigel_Farage @Keir_Starmer Power to the Peop\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JoseSenco",
+        "name": "Jose Senco",
+        "id": 1307748390676172802,
+        "id_str": "1307748390676172802",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "NeilDotObrien",
+        "name": "Neil O'Brien MP",
+        "id": 64679759,
+        "id_str": "64679759",
+        "indices": [
+          15,
+          29
+        ]
+      },
+      {
+        "screen_name": "SimonClarkeMP",
+        "name": "Simon Clarke MP",
+        "id": 1715832776,
+        "id_str": "1715832776",
+        "indices": [
+          30,
+          44
+        ]
+      },
+      {
+        "screen_name": "MattHancock",
+        "name": "Matt Hancock",
+        "id": 19825835,
+        "id_str": "19825835",
+        "indices": [
+          45,
+          57
+        ]
+      },
+      {
+        "screen_name": "pritipatel",
+        "name": "Priti Patel",
+        "id": 61660254,
+        "id_str": "61660254",
+        "indices": [
+          58,
+          69
+        ]
+      },
+      {
+        "screen_name": "IanDuncanHMG",
+        "name": "Ian Duncan",
+        "id": 1300328653,
+        "id_str": "1300328653",
+        "indices": [
+          70,
+          83
+        ]
+      },
+      {
+        "screen_name": "LozzaFox",
+        "name": "Laurence Fox \u26aa\ufe0f",
+        "id": 81371986,
+        "id_str": "81371986",
+        "indices": [
+          84,
+          93
+        ]
+      },
+      {
+        "screen_name": "Nigel_Farage",
+        "name": "Nigel Farage",
+        "id": 19017675,
+        "id_str": "19017675",
+        "indices": [
+          94,
+          107
+        ]
+      },
+      {
+        "screen_name": "Keir_Starmer",
+        "name": "Keir Starmer",
+        "id": 2425571623,
+        "id_str": "2425571623",
+        "indices": [
+          108,
+          121
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Apr 03 09:54:13 +0000 2021",
+    "id": 1378284696820453376,
+    "id_str": "1378284696820453376",
+    "text": "@NeilDotObrien @SimonClarkeMP @MattHancock @pritipatel @IanDuncanHMG @LozzaFox @Nigel_Farage @Keir_Starmer Power to\u2026 https://t.co/A3K8OGdvaz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NeilDotObrien",
+          "name": "Neil O'Brien MP",
+          "id": 64679759,
+          "id_str": "64679759",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "SimonClarkeMP",
+          "name": "Simon Clarke MP",
+          "id": 1715832776,
+          "id_str": "1715832776",
+          "indices": [
+            15,
+            29
+          ]
+        },
+        {
+          "screen_name": "MattHancock",
+          "name": "Matt Hancock",
+          "id": 19825835,
+          "id_str": "19825835",
+          "indices": [
+            30,
+            42
+          ]
+        },
+        {
+          "screen_name": "pritipatel",
+          "name": "Priti Patel",
+          "id": 61660254,
+          "id_str": "61660254",
+          "indices": [
+            43,
+            54
+          ]
+        },
+        {
+          "screen_name": "IanDuncanHMG",
+          "name": "Ian Duncan",
+          "id": 1300328653,
+          "id_str": "1300328653",
+          "indices": [
+            55,
+            68
+          ]
+        },
+        {
+          "screen_name": "LozzaFox",
+          "name": "Laurence Fox \u26aa\ufe0f",
+          "id": 81371986,
+          "id_str": "81371986",
+          "indices": [
+            69,
+            78
+          ]
+        },
+        {
+          "screen_name": "Nigel_Farage",
+          "name": "Nigel Farage",
+          "id": 19017675,
+          "id_str": "19017675",
+          "indices": [
+            79,
+            92
+          ]
+        },
+        {
+          "screen_name": "Keir_Starmer",
+          "name": "Keir Starmer",
+          "id": 2425571623,
+          "id_str": "2425571623",
+          "indices": [
+            93,
+            106
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A3K8OGdvaz",
+          "expanded_url": "https://twitter.com/i/web/status/1378284696820453376",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 64679759,
+    "in_reply_to_user_id_str": "64679759",
+    "in_reply_to_screen_name": "NeilDotObrien",
+    "user": {
+      "id": 1307748390676172802,
+      "id_str": "1307748390676172802",
+      "name": "Jose Senco",
+      "screen_name": "JoseSenco",
+      "location": "Cambridge, England",
+      "description": "I just want my normal life back, nothing more, nothing less. British resident, critical thinker. Not anti-vaxx but anti-covid passports and pointless lockdowns.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 691,
+      "friends_count": 1127,
+      "listed_count": 0,
+      "created_at": "Sun Sep 20 18:28:20 +0000 2020",
+      "favourites_count": 27523,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 24132,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1449721683133206536/Ak0_1z0b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449721683133206536/Ak0_1z0b_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1307748390676172802/1617305217",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1378282090857385984,
+    "quoted_status_id_str": "1378282090857385984",
+    "quoted_status": {
+      "created_at": "Sat Apr 03 09:43:52 +0000 2021",
+      "id": 1378282090857385984,
+      "id_str": "1378282090857385984",
+      "text": "These @Conservatives think they can steal our money to give to mates, lock us up without scientific grounds and des\u2026 https://t.co/wjN5jDg5Ix",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Conservatives",
+            "name": "Conservatives",
+            "id": 14281853,
+            "id_str": "14281853",
+            "indices": [
+              6,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wjN5jDg5Ix",
+            "expanded_url": "https://twitter.com/i/web/status/1378282090857385984",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1307748390676172802,
+        "id_str": "1307748390676172802",
+        "name": "Jose Senco",
+        "screen_name": "JoseSenco",
+        "location": "Cambridge, England",
+        "description": "I just want my normal life back, nothing more, nothing less. British resident, critical thinker. Not anti-vaxx but anti-covid passports and pointless lockdowns.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 691,
+        "friends_count": 1127,
+        "listed_count": 0,
+        "created_at": "Sun Sep 20 18:28:20 +0000 2020",
+        "favourites_count": 27523,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24132,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1449721683133206536/Ak0_1z0b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449721683133206536/Ak0_1z0b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1307748390676172802/1617305217",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1378282090857385984,
+  "quoted_status_id_str": "1378282090857385984",
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

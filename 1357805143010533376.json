@@ -1,0 +1,336 @@
+{
+  "created_at": "Fri Feb 05 21:35:47 +0000 2021",
+  "id": 1357805143010533376,
+  "id_str": "1357805143010533376",
+  "text": "RT @ighfyne: Since we\u2019ve traded our time for money, when money is printed, our time is stolen. - Ross Stevens / @NYDIG_BTC \n\nTitle: Casuall\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ighfyne",
+        "name": "Ighfyne Dor\u00e9",
+        "id": 1355611850197630977,
+        "id_str": "1355611850197630977",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "NYDIG_BTC",
+        "name": "NYDIG",
+        "id": 1349478596591681536,
+        "id_str": "1349478596591681536",
+        "indices": [
+          112,
+          122
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5201,
+    "friends_count": 891,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6736,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3765,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Feb 05 14:12:38 +0000 2021",
+    "id": 1357693618631417859,
+    "id_str": "1357693618631417859",
+    "text": "Since we\u2019ve traded our time for money, when money is printed, our time is stolen. - Ross Stevens / @NYDIG_BTC \n\nTit\u2026 https://t.co/kwCdKn5gFS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NYDIG_BTC",
+          "name": "NYDIG",
+          "id": 1349478596591681536,
+          "id_str": "1349478596591681536",
+          "indices": [
+            99,
+            109
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kwCdKn5gFS",
+          "expanded_url": "https://twitter.com/i/web/status/1357693618631417859",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1355611850197630977,
+      "id_str": "1355611850197630977",
+      "name": "Ighfyne Dor\u00e9",
+      "screen_name": "ighfyne",
+      "location": "Orkus",
+      "description": "Dark. Art. Ink. 666. https://t.co/bZxitFXuVx \ud83d\udc80 https://t.co/RLTY9bbrKT",
+      "url": "https://t.co/kbcUO9gBM7",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/kbcUO9gBM7",
+              "expanded_url": "https://www.instagram.com/ighfyne/",
+              "display_url": "instagram.com/ighfyne/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bZxitFXuVx",
+              "expanded_url": "https://foundation.app/@ighfyne",
+              "display_url": "foundation.app/@ighfyne",
+              "indices": [
+                21,
+                44
+              ]
+            },
+            {
+              "url": "https://t.co/RLTY9bbrKT",
+              "expanded_url": "https://hen.ighfyne.art",
+              "display_url": "hen.ighfyne.art",
+              "indices": [
+                47,
+                70
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 727,
+      "friends_count": 667,
+      "listed_count": 4,
+      "created_at": "Sat Jan 30 20:22:02 +0000 2021",
+      "favourites_count": 11204,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2542,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1414343992775483393/GsyvL3XY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414343992775483393/GsyvL3XY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355611850197630977/1629629231",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1357458511689613314,
+    "quoted_status_id_str": "1357458511689613314",
+    "quoted_status": {
+      "created_at": "Thu Feb 04 22:38:24 +0000 2021",
+      "id": 1357458511689613314,
+      "id_str": "1357458511689613314",
+      "text": "\u201cMoney is title to human time. People sacrifice their time for money which enables us to trade our time for the tim\u2026 https://t.co/Op78mpubnr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Op78mpubnr",
+            "expanded_url": "https://twitter.com/i/web/status/1357458511689613314",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1357458337072373763,
+      "in_reply_to_status_id_str": "1357458337072373763",
+      "in_reply_to_user_id": 866982591114731523,
+      "in_reply_to_user_id_str": "866982591114731523",
+      "in_reply_to_screen_name": "DrBitcoinMD",
+      "user": {
+        "id": 866982591114731523,
+        "id_str": "866982591114731523",
+        "name": "Dr Bitcoin MD",
+        "screen_name": "DrBitcoinMD",
+        "location": "Citadel 1776",
+        "description": "Yes, I'm actually a doctor.",
+        "url": "https://t.co/lM7vf6bqO5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/lM7vf6bqO5",
+                "expanded_url": "http://drbitcoinmd.com",
+                "display_url": "drbitcoinmd.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 28673,
+        "friends_count": 749,
+        "listed_count": 410,
+        "created_at": "Tue May 23 11:42:12 +0000 2017",
+        "favourites_count": 12446,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16032,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362485091595919362/7gNiKVER_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362485091595919362/7gNiKVER_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/866982591114731523/1564730304",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 140,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 30,
+    "favorite_count": 124,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1357458511689613314,
+  "quoted_status_id_str": "1357458511689613314",
+  "retweet_count": 30,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

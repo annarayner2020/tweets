@@ -1,0 +1,418 @@
+{
+  "created_at": "Mon Mar 22 14:33:26 +0000 2021",
+  "id": 1374006310090506243,
+  "id_str": "1374006310090506243",
+  "text": "RT @FreenationW: Police telling paid actors what to do in Bristol. Trouble is a set up and police involved https://t.co/Ou5eGxYMgp",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "FreenationW",
+        "name": "Free Nation Coventry & Warwickshire",
+        "id": 1314197686627704843,
+        "id_str": "1314197686627704843",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Ou5eGxYMgp",
+        "expanded_url": "https://twitter.com/FreenationW/status/1373718703871823876",
+        "display_url": "twitter.com/FreenationW/st\u2026",
+        "indices": [
+          107,
+          130
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Mar 21 19:34:02 +0000 2021",
+    "id": 1373719568686923779,
+    "id_str": "1373719568686923779",
+    "text": "Police telling paid actors what to do in Bristol. Trouble is a set up and police involved https://t.co/Ou5eGxYMgp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ou5eGxYMgp",
+          "expanded_url": "https://twitter.com/FreenationW/status/1373718703871823876",
+          "display_url": "twitter.com/FreenationW/st\u2026",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1314197686627704843,
+      "id_str": "1314197686627704843",
+      "name": "Free Nation Coventry & Warwickshire",
+      "screen_name": "FreenationW",
+      "location": "COVENTRY & WARWICKSHIRE",
+      "description": "As we find ourselves in this world of oppression and tryanny, we are creating a support community in the Coventry & Warwickshire area. \nWE WILL NEVER CONSENT",
+      "url": "https://t.co/oVeXkLDIGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/oVeXkLDIGV",
+              "expanded_url": "http://freenation.today",
+              "display_url": "freenation.today",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 177,
+      "friends_count": 76,
+      "listed_count": 2,
+      "created_at": "Thu Oct 08 13:42:31 +0000 2020",
+      "favourites_count": 2907,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1453,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1314205058926485510/gk18YlTL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314205058926485510/gk18YlTL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1314197686627704843/1602166181",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1373718703871823876,
+    "quoted_status_id_str": "1373718703871823876",
+    "quoted_status": {
+      "created_at": "Sun Mar 21 19:30:36 +0000 2021",
+      "id": 1373718703871823876,
+      "id_str": "1373718703871823876",
+      "text": "@SmithTarquin https://t.co/BqiLMlXFIi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SmithTarquin",
+            "name": "Winston Tarquin Smith #CGAF",
+            "id": 536747679,
+            "id_str": "536747679",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1373718371397730311,
+            "id_str": "1373718371397730311",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373718371397730311/pu/img/YUOfUys9aFA1JQPf.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373718371397730311/pu/img/YUOfUys9aFA1JQPf.jpg",
+            "url": "https://t.co/BqiLMlXFIi",
+            "display_url": "pic.twitter.com/BqiLMlXFIi",
+            "expanded_url": "https://twitter.com/FreenationW/status/1373718703871823876/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 681,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1268,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 386,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1373718371397730311,
+            "id_str": "1373718371397730311",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373718371397730311/pu/img/YUOfUys9aFA1JQPf.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373718371397730311/pu/img/YUOfUys9aFA1JQPf.jpg",
+            "url": "https://t.co/BqiLMlXFIi",
+            "display_url": "pic.twitter.com/BqiLMlXFIi",
+            "expanded_url": "https://twitter.com/FreenationW/status/1373718703871823876/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 681,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1268,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 386,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                317,
+                180
+              ],
+              "duration_millis": 45061,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1373718371397730311/pu/pl/6jJx9xocpow7Xy5h.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1373718371397730311/pu/vid/1268x720/oSsXCZLdDC1KYIvN.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1373718371397730311/pu/vid/474x270/UFNPFJdu7fMZVbY6.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1373718371397730311/pu/vid/634x360/ieMOcWj9k4_mcUv_.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1373706054178123777,
+      "in_reply_to_status_id_str": "1373706054178123777",
+      "in_reply_to_user_id": 536747679,
+      "in_reply_to_user_id_str": "536747679",
+      "in_reply_to_screen_name": "SmithTarquin",
+      "user": {
+        "id": 1314197686627704843,
+        "id_str": "1314197686627704843",
+        "name": "Free Nation Coventry & Warwickshire",
+        "screen_name": "FreenationW",
+        "location": "COVENTRY & WARWICKSHIRE",
+        "description": "As we find ourselves in this world of oppression and tryanny, we are creating a support community in the Coventry & Warwickshire area. \nWE WILL NEVER CONSENT",
+        "url": "https://t.co/oVeXkLDIGV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oVeXkLDIGV",
+                "expanded_url": "http://freenation.today",
+                "display_url": "freenation.today",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 177,
+        "friends_count": 76,
+        "listed_count": 2,
+        "created_at": "Thu Oct 08 13:42:31 +0000 2020",
+        "favourites_count": 2907,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1453,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314205058926485510/gk18YlTL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314205058926485510/gk18YlTL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1314197686627704843/1602166181",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 67,
+      "favorite_count": 104,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "retweet_count": 655,
+    "favorite_count": 864,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1373718703871823876,
+  "quoted_status_id_str": "1373718703871823876",
+  "retweet_count": 655,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

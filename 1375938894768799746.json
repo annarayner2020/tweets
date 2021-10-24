@@ -1,0 +1,514 @@
+{
+  "created_at": "Sat Mar 27 22:32:50 +0000 2021",
+  "id": 1375938894768799746,
+  "id_str": "1375938894768799746",
+  "text": "RT @kennardmatt: This is a beautiful 20 seconds.\nhttps://t.co/GPZZOgRG1l",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "kennardmatt",
+        "name": "Matt Kennard",
+        "id": 591982810,
+        "id_str": "591982810",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1374092029156855815,
+        "id_str": "1374092029156855815",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374092029156855815/pu/img/SWF6OdYAGpzpaptf.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374092029156855815/pu/img/SWF6OdYAGpzpaptf.jpg",
+        "url": "https://t.co/GPZZOgRG1l",
+        "display_url": "pic.twitter.com/GPZZOgRG1l",
+        "expanded_url": "https://twitter.com/MasalaFry69/status/1374092391582474241/video/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 800,
+            "h": 720,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 800,
+            "h": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 612,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1374092391582474241,
+        "source_status_id_str": "1374092391582474241",
+        "source_user_id": 931375012942053376,
+        "source_user_id_str": "931375012942053376"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1374092029156855815,
+        "id_str": "1374092029156855815",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374092029156855815/pu/img/SWF6OdYAGpzpaptf.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374092029156855815/pu/img/SWF6OdYAGpzpaptf.jpg",
+        "url": "https://t.co/GPZZOgRG1l",
+        "display_url": "pic.twitter.com/GPZZOgRG1l",
+        "expanded_url": "https://twitter.com/MasalaFry69/status/1374092391582474241/video/1",
+        "type": "video",
+        "sizes": {
+          "large": {
+            "w": 800,
+            "h": 720,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 800,
+            "h": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 612,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1374092391582474241,
+        "source_status_id_str": "1374092391582474241",
+        "source_user_id": 931375012942053376,
+        "source_user_id_str": "931375012942053376",
+        "video_info": {
+          "aspect_ratio": [
+            10,
+            9
+          ],
+          "duration_millis": 21000,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1374092029156855815/pu/vid/300x270/DBWchTvGqXLkZ_x0.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1374092029156855815/pu/vid/800x720/aNShZgHYXv_jtoFt.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1374092029156855815/pu/vid/400x360/48kYdf17GSes7G2D.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1374092029156855815/pu/pl/f9OVHshZD1W--hYn.m3u8?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 931375012942053376,
+            "id_str": "931375012942053376",
+            "name": "Methi \ud83c\uddf5\ud83c\uddf8 \ud83c\udf39",
+            "screen_name": "MasalaFry69",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 2696,
+            "friends_count": 3309,
+            "listed_count": 9,
+            "created_at": "Fri Nov 17 04:14:42 +0000 2017",
+            "favourites_count": 24489,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 39850,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/936751187273179136/coqMtZ2m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/936751187273179136/coqMtZ2m_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/931375012942053376/1562117998",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Mar 26 12:29:19 +0000 2021",
+    "id": 1375424623815360512,
+    "id_str": "1375424623815360512",
+    "text": "This is a beautiful 20 seconds.\nhttps://t.co/GPZZOgRG1l",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1374092029156855815,
+          "id_str": "1374092029156855815",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374092029156855815/pu/img/SWF6OdYAGpzpaptf.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374092029156855815/pu/img/SWF6OdYAGpzpaptf.jpg",
+          "url": "https://t.co/GPZZOgRG1l",
+          "display_url": "pic.twitter.com/GPZZOgRG1l",
+          "expanded_url": "https://twitter.com/MasalaFry69/status/1374092391582474241/video/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 612,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1374092391582474241,
+          "source_status_id_str": "1374092391582474241",
+          "source_user_id": 931375012942053376,
+          "source_user_id_str": "931375012942053376"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1374092029156855815,
+          "id_str": "1374092029156855815",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374092029156855815/pu/img/SWF6OdYAGpzpaptf.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374092029156855815/pu/img/SWF6OdYAGpzpaptf.jpg",
+          "url": "https://t.co/GPZZOgRG1l",
+          "display_url": "pic.twitter.com/GPZZOgRG1l",
+          "expanded_url": "https://twitter.com/MasalaFry69/status/1374092391582474241/video/1",
+          "type": "video",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 612,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1374092391582474241,
+          "source_status_id_str": "1374092391582474241",
+          "source_user_id": 931375012942053376,
+          "source_user_id_str": "931375012942053376",
+          "video_info": {
+            "aspect_ratio": [
+              10,
+              9
+            ],
+            "duration_millis": 21000,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1374092029156855815/pu/vid/300x270/DBWchTvGqXLkZ_x0.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1374092029156855815/pu/vid/800x720/aNShZgHYXv_jtoFt.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1374092029156855815/pu/vid/400x360/48kYdf17GSes7G2D.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1374092029156855815/pu/pl/f9OVHshZD1W--hYn.m3u8?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 931375012942053376,
+              "id_str": "931375012942053376",
+              "name": "Methi \ud83c\uddf5\ud83c\uddf8 \ud83c\udf39",
+              "screen_name": "MasalaFry69",
+              "location": "",
+              "description": "",
+              "url": null,
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 2696,
+              "friends_count": 3309,
+              "listed_count": 9,
+              "created_at": "Fri Nov 17 04:14:42 +0000 2017",
+              "favourites_count": 24489,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 39850,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/936751187273179136/coqMtZ2m_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/936751187273179136/coqMtZ2m_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/931375012942053376/1562117998",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 591982810,
+      "id_str": "591982810",
+      "name": "Matt Kennard",
+      "screen_name": "kennardmatt",
+      "location": "83448eb3aff3b94a8a9dd4df63cef4",
+      "description": "investigations @DeclassifiedUK. author of Irregular Army & The Racket.",
+      "url": "https://t.co/bYINPU3bbF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/bYINPU3bbF",
+              "expanded_url": "https://declassifieduk.org",
+              "display_url": "declassifieduk.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 31598,
+      "friends_count": 2288,
+      "listed_count": 333,
+      "created_at": "Sun May 27 17:09:30 +0000 2012",
+      "favourites_count": 6654,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6974,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1419350907586818048/33NFctNR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1419350907586818048/33NFctNR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/591982810/1623071851",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 604,
+    "favorite_count": 1756,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 604,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

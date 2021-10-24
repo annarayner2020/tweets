@@ -1,0 +1,414 @@
+{
+  "created_at": "Thu Feb 18 17:55:19 +0000 2021",
+  "id": 1362460703328731144,
+  "id_str": "1362460703328731144",
+  "text": "RT @BVermeesch: @chriskeebs @Sterling2143 @annarayner2020 @heaneyp I will not!!! https://t.co/IoMxviFeuO",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BVermeesch",
+        "name": "Brandon Vermeesch",
+        "id": 1232055377220579330,
+        "id_str": "1232055377220579330",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "chriskeebs",
+        "name": "Chris Keebs \ud83c\udf38 #together #NoVaccinePassports",
+        "id": 50587630,
+        "id_str": "50587630",
+        "indices": [
+          16,
+          27
+        ]
+      },
+      {
+        "screen_name": "Sterling2143",
+        "name": "Sterling214",
+        "id": 1050736815278366720,
+        "id_str": "1050736815278366720",
+        "indices": [
+          28,
+          41
+        ]
+      },
+      {
+        "screen_name": "annarayner2020",
+        "name": "Anna Rayner",
+        "id": 1309907616953491457,
+        "id_str": "1309907616953491457",
+        "indices": [
+          42,
+          57
+        ]
+      },
+      {
+        "screen_name": "heaneyp",
+        "name": "Patrick Heaney",
+        "id": 33835648,
+        "id_str": "33835648",
+        "indices": [
+          58,
+          66
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1362459517422829572,
+        "id_str": "1362459517422829572",
+        "indices": [
+          81,
+          104
+        ],
+        "media_url": "http://pbs.twimg.com/media/EuhttmTWgAQfdYK.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EuhttmTWgAQfdYK.jpg",
+        "url": "https://t.co/IoMxviFeuO",
+        "display_url": "pic.twitter.com/IoMxviFeuO",
+        "expanded_url": "https://twitter.com/BVermeesch/status/1362459522455986176/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1362459522455986176,
+        "source_status_id_str": "1362459522455986176",
+        "source_user_id": 1232055377220579330,
+        "source_user_id_str": "1232055377220579330"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1362459517422829572,
+        "id_str": "1362459517422829572",
+        "indices": [
+          81,
+          104
+        ],
+        "media_url": "http://pbs.twimg.com/media/EuhttmTWgAQfdYK.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EuhttmTWgAQfdYK.jpg",
+        "url": "https://t.co/IoMxviFeuO",
+        "display_url": "pic.twitter.com/IoMxviFeuO",
+        "expanded_url": "https://twitter.com/BVermeesch/status/1362459522455986176/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1362459522455986176,
+        "source_status_id_str": "1362459522455986176",
+        "source_user_id": 1232055377220579330,
+        "source_user_id_str": "1232055377220579330"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5326,
+    "friends_count": 897,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7108,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4082,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Feb 18 17:50:38 +0000 2021",
+    "id": 1362459522455986176,
+    "id_str": "1362459522455986176",
+    "text": "@chriskeebs @Sterling2143 @annarayner2020 @heaneyp I will not!!! https://t.co/IoMxviFeuO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "chriskeebs",
+          "name": "Chris Keebs \ud83c\udf38 #together #NoVaccinePassports",
+          "id": 50587630,
+          "id_str": "50587630",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "Sterling2143",
+          "name": "Sterling214",
+          "id": 1050736815278366720,
+          "id_str": "1050736815278366720",
+          "indices": [
+            12,
+            25
+          ]
+        },
+        {
+          "screen_name": "annarayner2020",
+          "name": "Anna Rayner",
+          "id": 1309907616953491457,
+          "id_str": "1309907616953491457",
+          "indices": [
+            26,
+            41
+          ]
+        },
+        {
+          "screen_name": "heaneyp",
+          "name": "Patrick Heaney",
+          "id": 33835648,
+          "id_str": "33835648",
+          "indices": [
+            42,
+            50
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1362459517422829572,
+          "id_str": "1362459517422829572",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuhttmTWgAQfdYK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuhttmTWgAQfdYK.jpg",
+          "url": "https://t.co/IoMxviFeuO",
+          "display_url": "pic.twitter.com/IoMxviFeuO",
+          "expanded_url": "https://twitter.com/BVermeesch/status/1362459522455986176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1362459517422829572,
+          "id_str": "1362459517422829572",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuhttmTWgAQfdYK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuhttmTWgAQfdYK.jpg",
+          "url": "https://t.co/IoMxviFeuO",
+          "display_url": "pic.twitter.com/IoMxviFeuO",
+          "expanded_url": "https://twitter.com/BVermeesch/status/1362459522455986176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1362459123363766274,
+    "in_reply_to_status_id_str": "1362459123363766274",
+    "in_reply_to_user_id": 1232055377220579330,
+    "in_reply_to_user_id_str": "1232055377220579330",
+    "in_reply_to_screen_name": "BVermeesch",
+    "user": {
+      "id": 1232055377220579330,
+      "id_str": "1232055377220579330",
+      "name": "Brandon Vermeesch",
+      "screen_name": "BVermeesch",
+      "location": "Detroit, MI",
+      "description": "Why Why Why do I keep getting blocked...haha... thanks twitter...?! ...Enjoy your lyfe now.... before you miss your MF'n chance...!        BET....!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 70,
+      "friends_count": 367,
+      "listed_count": 1,
+      "created_at": "Mon Feb 24 21:31:21 +0000 2020",
+      "favourites_count": 8252,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4320,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1271106105792499713/sMoFxjnd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271106105792499713/sMoFxjnd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232055377220579330/1582640777",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 3,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

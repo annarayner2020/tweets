@@ -1,0 +1,460 @@
+{
+  "created_at": "Thu Aug 05 14:33:07 +0000 2021",
+  "id": 1423290977922412549,
+  "id_str": "1423290977922412549",
+  "text": "RT @abirballan: 80% of sequenced viruses in Sweden are Delta.\n40% of people are vaccinated.\nZero death with COVID.\n\nShshsh! Don\u2019t tell anyo\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "abirballan",
+        "name": "Abir Ballan",
+        "id": 569970630,
+        "id_str": "569970630",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Aug 04 05:14:29 +0000 2021",
+    "id": 1422788007552237570,
+    "id_str": "1422788007552237570",
+    "text": "80% of sequenced viruses in Sweden are Delta.\n40% of people are vaccinated.\nZero death with COVID.\n\nShshsh! Don\u2019t t\u2026 https://t.co/RyGvYcFG7i",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/RyGvYcFG7i",
+          "expanded_url": "https://twitter.com/i/web/status/1422788007552237570",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 569970630,
+      "id_str": "569970630",
+      "name": "Abir Ballan",
+      "screen_name": "abirballan",
+      "location": "",
+      "description": "@PanData19 member of executive committee| Masters in Public Health| Psychology| Education | Children\u2019s Author| I do not consent to the new abnormal.",
+      "url": "https://t.co/L4BlcLVh6m",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/L4BlcLVh6m",
+              "expanded_url": "https://www.pandata19.org/",
+              "display_url": "pandata19.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 37236,
+      "friends_count": 534,
+      "listed_count": 287,
+      "created_at": "Thu May 03 11:14:47 +0000 2012",
+      "favourites_count": 7856,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9408,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1320671112880152577/xXivOqmJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320671112880152577/xXivOqmJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/569970630/1601284104",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1422764126275837953,
+    "quoted_status_id_str": "1422764126275837953",
+    "quoted_status": {
+      "created_at": "Wed Aug 04 03:39:36 +0000 2021",
+      "id": 1422764126275837953,
+      "id_str": "1422764126275837953",
+      "text": "Why is no one talking about Sweden in these scary Delta days? \ud83e\udd14\n\nOhhh that's why! \ud83e\udd13\ud83d\udc4d https://t.co/8U2aONW2r5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1422763679859236865,
+            "id_str": "1422763679859236865",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/E76sB1lWYAEVMaj.png",
+            "media_url_https": "https://pbs.twimg.com/media/E76sB1lWYAEVMaj.png",
+            "url": "https://t.co/8U2aONW2r5",
+            "display_url": "pic.twitter.com/8U2aONW2r5",
+            "expanded_url": "https://twitter.com/Akustronique/status/1422764126275837953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 403,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 958,
+                "h": 568,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 958,
+                "h": 568,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1422763679859236865,
+            "id_str": "1422763679859236865",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/E76sB1lWYAEVMaj.png",
+            "media_url_https": "https://pbs.twimg.com/media/E76sB1lWYAEVMaj.png",
+            "url": "https://t.co/8U2aONW2r5",
+            "display_url": "pic.twitter.com/8U2aONW2r5",
+            "expanded_url": "https://twitter.com/Akustronique/status/1422764126275837953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 403,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 958,
+                "h": 568,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 958,
+                "h": 568,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          },
+          {
+            "id": 1422763866195468288,
+            "id_str": "1422763866195468288",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/E76sMrvXoAAi3gG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E76sMrvXoAAi3gG.jpg",
+            "url": "https://t.co/8U2aONW2r5",
+            "display_url": "pic.twitter.com/8U2aONW2r5",
+            "expanded_url": "https://twitter.com/Akustronique/status/1422764126275837953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 401,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 955,
+                "h": 563,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 955,
+                "h": 563,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1422763976476266498,
+            "id_str": "1422763976476266498",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/E76sTGkXEAIEX10.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E76sTGkXEAIEX10.jpg",
+            "url": "https://t.co/8U2aONW2r5",
+            "display_url": "pic.twitter.com/8U2aONW2r5",
+            "expanded_url": "https://twitter.com/Akustronique/status/1422764126275837953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 566,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 566,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 401,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1422764079647690752,
+            "id_str": "1422764079647690752",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/E76sZG6WEAA9ez0.png",
+            "media_url_https": "https://pbs.twimg.com/media/E76sZG6WEAA9ez0.png",
+            "url": "https://t.co/8U2aONW2r5",
+            "display_url": "pic.twitter.com/8U2aONW2r5",
+            "expanded_url": "https://twitter.com/Akustronique/status/1422764126275837953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 957,
+                "h": 563,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 400,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 957,
+                "h": 563,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1106206240525467648,
+        "id_str": "1106206240525467648",
+        "name": "Camilo Solano",
+        "screen_name": "Akustronique",
+        "location": "Barranquilla-Colombia",
+        "description": "Composer, musical director and former university teacher\n-with a desire to exercise again. Reader of scientific, political and philosophical topics",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1785,
+        "friends_count": 903,
+        "listed_count": 11,
+        "created_at": "Thu Mar 14 14:51:34 +0000 2019",
+        "favourites_count": 66909,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 41158,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1443266241318248448/ON-yHdGj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1443266241318248448/ON-yHdGj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106206240525467648/1589601011",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 604,
+      "favorite_count": 1485,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 291,
+    "favorite_count": 617,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1422764126275837953,
+  "quoted_status_id_str": "1422764126275837953",
+  "retweet_count": 291,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,527 @@
+{
+  "created_at": "Thu Oct 07 10:34:22 +0000 2021",
+  "id": 1446061332697128970,
+  "id_str": "1446061332697128970",
+  "text": "RT @Ringo_Lennon123: This doesn\u2019t happen in real pandemics...it\u2019s all fakery  https://t.co/5w1t3aIm22",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Ringo_Lennon123",
+        "name": "Ringo Lennon",
+        "id": 836328949181464576,
+        "id_str": "836328949181464576",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1445693901231116294,
+        "id_str": "1445693901231116294",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445693901231116294/pu/img/2veGoM8nAQKA0mQV.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445693901231116294/pu/img/2veGoM8nAQKA0mQV.jpg",
+        "url": "https://t.co/5w1t3aIm22",
+        "display_url": "pic.twitter.com/5w1t3aIm22",
+        "expanded_url": "https://twitter.com/hoffman_noa/status/1445694164633481230/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1445694164633481230,
+        "source_status_id_str": "1445694164633481230",
+        "source_user_id": 1097544221119209472,
+        "source_user_id_str": "1097544221119209472"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1445693901231116294,
+        "id_str": "1445693901231116294",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445693901231116294/pu/img/2veGoM8nAQKA0mQV.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445693901231116294/pu/img/2veGoM8nAQKA0mQV.jpg",
+        "url": "https://t.co/5w1t3aIm22",
+        "display_url": "pic.twitter.com/5w1t3aIm22",
+        "expanded_url": "https://twitter.com/hoffman_noa/status/1445694164633481230/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1445694164633481230,
+        "source_status_id_str": "1445694164633481230",
+        "source_user_id": 1097544221119209472,
+        "source_user_id_str": "1097544221119209472",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 41295,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1445693901231116294/pu/pl/djgwCyAfdafL6upr.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1445693901231116294/pu/vid/320x568/TQRcn8Y6pXc0tReu.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1445693901231116294/pu/vid/720x1280/lMCmz9cD89nvXfRC.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1445693901231116294/pu/vid/480x852/Cs9-cUiUrzBDSrsp.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 1097544221119209472,
+            "id_str": "1097544221119209472",
+            "name": "Noa Hoffman",
+            "screen_name": "hoffman_noa",
+            "location": "London",
+            "description": "Political reporter @politicshome @thehousemag \u2b50\ufe0f prev: @edinburghpaper @thescotsman @yorkshirelive \u2b50\ufe0f DMs open / \ud83d\udce7: noa.hoffman@dodsgroup.com",
+            "url": "https://t.co/ZK3XKJ2lXS",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/ZK3XKJ2lXS",
+                    "expanded_url": "https://www.politicshome.com/",
+                    "display_url": "politicshome.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 2006,
+            "friends_count": 1488,
+            "listed_count": 13,
+            "created_at": "Mon Feb 18 17:11:48 +0000 2019",
+            "favourites_count": 5829,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 1874,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415038837085114368/svSQGjsd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415038837085114368/svSQGjsd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097544221119209472/1550511030",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7759,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 07 10:31:03 +0000 2021",
+    "id": 1446060497980334081,
+    "id_str": "1446060497980334081",
+    "text": "This doesn\u2019t happen in real pandemics...it\u2019s all fakery  https://t.co/5w1t3aIm22",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1445693901231116294,
+          "id_str": "1445693901231116294",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445693901231116294/pu/img/2veGoM8nAQKA0mQV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445693901231116294/pu/img/2veGoM8nAQKA0mQV.jpg",
+          "url": "https://t.co/5w1t3aIm22",
+          "display_url": "pic.twitter.com/5w1t3aIm22",
+          "expanded_url": "https://twitter.com/hoffman_noa/status/1445694164633481230/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1445694164633481230,
+          "source_status_id_str": "1445694164633481230",
+          "source_user_id": 1097544221119209472,
+          "source_user_id_str": "1097544221119209472"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1445693901231116294,
+          "id_str": "1445693901231116294",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445693901231116294/pu/img/2veGoM8nAQKA0mQV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445693901231116294/pu/img/2veGoM8nAQKA0mQV.jpg",
+          "url": "https://t.co/5w1t3aIm22",
+          "display_url": "pic.twitter.com/5w1t3aIm22",
+          "expanded_url": "https://twitter.com/hoffman_noa/status/1445694164633481230/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1445694164633481230,
+          "source_status_id_str": "1445694164633481230",
+          "source_user_id": 1097544221119209472,
+          "source_user_id_str": "1097544221119209472",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 41295,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1445693901231116294/pu/pl/djgwCyAfdafL6upr.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1445693901231116294/pu/vid/320x568/TQRcn8Y6pXc0tReu.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1445693901231116294/pu/vid/720x1280/lMCmz9cD89nvXfRC.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1445693901231116294/pu/vid/480x852/Cs9-cUiUrzBDSrsp.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 1097544221119209472,
+              "id_str": "1097544221119209472",
+              "name": "Noa Hoffman",
+              "screen_name": "hoffman_noa",
+              "location": "London",
+              "description": "Political reporter @politicshome @thehousemag \u2b50\ufe0f prev: @edinburghpaper @thescotsman @yorkshirelive \u2b50\ufe0f DMs open / \ud83d\udce7: noa.hoffman@dodsgroup.com",
+              "url": "https://t.co/ZK3XKJ2lXS",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/ZK3XKJ2lXS",
+                      "expanded_url": "https://www.politicshome.com/",
+                      "display_url": "politicshome.com",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 2006,
+              "friends_count": 1488,
+              "listed_count": 13,
+              "created_at": "Mon Feb 18 17:11:48 +0000 2019",
+              "favourites_count": 5829,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": true,
+              "statuses_count": 1874,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1415038837085114368/svSQGjsd_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415038837085114368/svSQGjsd_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097544221119209472/1550511030",
+              "profile_link_color": "F58EA8",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "has_extended_profile": true,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 836328949181464576,
+      "id_str": "836328949181464576",
+      "name": "Ringo Lennon",
+      "screen_name": "Ringo_Lennon123",
+      "location": "",
+      "description": "Banter. News and Comments.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1724,
+      "friends_count": 585,
+      "listed_count": 7,
+      "created_at": "Mon Feb 27 21:35:34 +0000 2017",
+      "favourites_count": 6586,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 26802,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1450064671738826756/P6XFXXox_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450064671738826756/P6XFXXox_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/836328949181464576/1634573830",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1026,
+    "favorite_count": 2031,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1026,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

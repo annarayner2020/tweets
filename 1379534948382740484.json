@@ -1,0 +1,259 @@
+{
+  "created_at": "Tue Apr 06 20:42:16 +0000 2021",
+  "id": 1379534948382740484,
+  "id_str": "1379534948382740484",
+  "text": "RT @SparrowKraken: @annarayner2020 @TimHowe73500437 @margarethodge @NickBoles JOIN THE REVOLUTION THURSDAY @ 8PM IN THE STREETS\n\nI HAVE A V\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SparrowKraken",
+        "name": "Catherina Borrett \ud83c\uddff\ud83c\udde6",
+        "id": 1342198232877830151,
+        "id_str": "1342198232877830151",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "annarayner2020",
+        "name": "Anna Rayner",
+        "id": 1309907616953491457,
+        "id_str": "1309907616953491457",
+        "indices": [
+          19,
+          34
+        ]
+      },
+      {
+        "screen_name": "TimHowe73500437",
+        "name": "Tim Howe \ud83c\udf38\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8",
+        "id": 1293574779128221696,
+        "id_str": "1293574779128221696",
+        "indices": [
+          35,
+          51
+        ]
+      },
+      {
+        "screen_name": "margarethodge",
+        "name": "Margaret Hodge",
+        "id": 111411358,
+        "id_str": "111411358",
+        "indices": [
+          52,
+          66
+        ]
+      },
+      {
+        "screen_name": "NickBoles",
+        "name": "Nick Boles",
+        "id": 1548391070,
+        "id_str": "1548391070",
+        "indices": [
+          67,
+          77
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Apr 06 20:01:52 +0000 2021",
+    "id": 1379524780102144007,
+    "id_str": "1379524780102144007",
+    "text": "@annarayner2020 @TimHowe73500437 @margarethodge @NickBoles JOIN THE REVOLUTION THURSDAY @ 8PM IN THE STREETS\n\nI HAV\u2026 https://t.co/HduuS7lQ5b",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "annarayner2020",
+          "name": "Anna Rayner",
+          "id": 1309907616953491457,
+          "id_str": "1309907616953491457",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "TimHowe73500437",
+          "name": "Tim Howe \ud83c\udf38\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8",
+          "id": 1293574779128221696,
+          "id_str": "1293574779128221696",
+          "indices": [
+            16,
+            32
+          ]
+        },
+        {
+          "screen_name": "margarethodge",
+          "name": "Margaret Hodge",
+          "id": 111411358,
+          "id_str": "111411358",
+          "indices": [
+            33,
+            47
+          ]
+        },
+        {
+          "screen_name": "NickBoles",
+          "name": "Nick Boles",
+          "id": 1548391070,
+          "id_str": "1548391070",
+          "indices": [
+            48,
+            58
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HduuS7lQ5b",
+          "expanded_url": "https://twitter.com/i/web/status/1379524780102144007",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1379452821679054853,
+    "in_reply_to_status_id_str": "1379452821679054853",
+    "in_reply_to_user_id": 1309907616953491457,
+    "in_reply_to_user_id_str": "1309907616953491457",
+    "in_reply_to_screen_name": "annarayner2020",
+    "user": {
+      "id": 1342198232877830151,
+      "id_str": "1342198232877830151",
+      "name": "Catherina Borrett \ud83c\uddff\ud83c\udde6",
+      "screen_name": "SparrowKraken",
+      "location": "United Kingdom",
+      "description": "White African, super conspiracy theorist and a chemist \"I AM MAD, I FED UP, I AM NOT GONNA TAKE IT ANYMORE\" #NoMore #CriticalThinking #Freedom #NeverAgain",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 966,
+      "friends_count": 2213,
+      "listed_count": 2,
+      "created_at": "Thu Dec 24 19:59:41 +0000 2020",
+      "favourites_count": 28876,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 33933,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344346741643104256/UhRHmTuj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344346741643104256/UhRHmTuj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342198232877830151/1609352215",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

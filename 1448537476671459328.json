@@ -1,0 +1,297 @@
+{
+  "created_at": "Thu Oct 14 06:33:41 +0000 2021",
+  "id": 1448537476671459328,
+  "id_str": "1448537476671459328",
+  "text": "RT @Inform_Scotland: Man who abuses nation claims he is being abused.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Inform_Scotland",
+        "name": "Inform Scotland",
+        "id": 1336607831341096960,
+        "id_str": "1336607831341096960",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 13 22:08:50 +0000 2021",
+    "id": 1448410428413984779,
+    "id_str": "1448410428413984779",
+    "text": "Man who abuses nation claims he is being abused. https://t.co/n81Bgm3pIT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/n81Bgm3pIT",
+          "expanded_url": "https://twitter.com/DrGregorSmith/status/1448397221175693312",
+          "display_url": "twitter.com/DrGregorSmith/\u2026",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1336607831341096960,
+      "id_str": "1336607831341096960",
+      "name": "Inform Scotland",
+      "screen_name": "Inform_Scotland",
+      "location": "Scotland, United Kingdom",
+      "description": "A group of professionals and concerned citizens working together to Inform Scotland in 2021",
+      "url": "https://t.co/krW08ikpi0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/krW08ikpi0",
+              "expanded_url": "http://Informscotland.uk",
+              "display_url": "Informscotland.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1064,
+      "friends_count": 91,
+      "listed_count": 2,
+      "created_at": "Wed Dec 09 09:46:08 +0000 2020",
+      "favourites_count": 883,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1089,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347942774340022272/PGxO5Pwm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347942774340022272/PGxO5Pwm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1336607831341096960/1610209575",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1448397221175693312,
+    "quoted_status_id_str": "1448397221175693312",
+    "quoted_status": {
+      "created_at": "Wed Oct 13 21:16:22 +0000 2021",
+      "id": 1448397221175693312,
+      "id_str": "1448397221175693312",
+      "text": "Important to highlight this. I experience it regularly &amp; I know colleagues do too. Ensuring support is in place for\u2026 https://t.co/RL2ZzCprCU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RL2ZzCprCU",
+            "expanded_url": "https://twitter.com/i/web/status/1448397221175693312",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 635292736,
+        "id_str": "635292736",
+        "name": "Gregor Smith",
+        "screen_name": "DrGregorSmith",
+        "location": "Scotland",
+        "description": "Chief Medical Officer for Scotland, GP; aut viam inveniam aut faciam #RealisticMedicine \ud83c\udfc3\ud83c\udfca\ud83c\udfcb\ud83c\udffc\ud83d\udeb4\ud83c\udffb\ud83c\udfb8\ud83c\udfa7",
+        "url": "https://t.co/lF9t0jSEC9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/lF9t0jSEC9",
+                "expanded_url": "https://www.realisticmedicine.scot/about/",
+                "display_url": "realisticmedicine.scot/about/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 25725,
+        "friends_count": 1995,
+        "listed_count": 112,
+        "created_at": "Sat Jul 14 10:39:35 +0000 2012",
+        "favourites_count": 8674,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 12962,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039605245767237635/QUj6gCHm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039605245767237635/QUj6gCHm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/635292736/1631826935",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 224,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1448397221175693312,
+  "quoted_status_id_str": "1448397221175693312",
+  "retweet_count": 3,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

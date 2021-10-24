@@ -1,0 +1,289 @@
+{
+  "created_at": "Tue Mar 02 06:59:09 +0000 2021",
+  "id": 1366644228005253125,
+  "id_str": "1366644228005253125",
+  "text": "RT @ItsABadFlu: Not only cricket in India with a 55k crowd. One of the teams happened to be England. You know our country @BorisJohnson. Ou\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ItsABadFlu",
+        "name": "BatFlu",
+        "id": 1310805864933138440,
+        "id_str": "1310805864933138440",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "BorisJohnson",
+        "name": "Boris Johnson",
+        "id": 3131144855,
+        "id_str": "3131144855",
+        "indices": [
+          122,
+          135
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5381,
+    "friends_count": 900,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7316,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4269,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Mar 01 17:57:09 +0000 2021",
+    "id": 1366447428837253120,
+    "id_str": "1366447428837253120",
+    "text": "Not only cricket in India with a 55k crowd. One of the teams happened to be England. You know our country\u2026 https://t.co/e794lGDP2S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/e794lGDP2S",
+          "expanded_url": "https://twitter.com/i/web/status/1366447428837253120",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1310805864933138440,
+      "id_str": "1310805864933138440",
+      "name": "BatFlu",
+      "screen_name": "ItsABadFlu",
+      "location": "",
+      "description": "You don't destroy your society for a flu, so why covid? \n3 questions to answer:\nIs lockdown moral?\nDoes it work? \nIf it works, is the trade off worth it?",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2675,
+      "friends_count": 1649,
+      "listed_count": 14,
+      "created_at": "Tue Sep 29 04:57:41 +0000 2020",
+      "favourites_count": 46393,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 22135,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1311537265974353920/yBccDNNE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311537265974353920/yBccDNNE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310805864933138440/1601366399",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1365035529109127177,
+    "quoted_status_id_str": "1365035529109127177",
+    "quoted_status": {
+      "created_at": "Thu Feb 25 20:26:45 +0000 2021",
+      "id": 1365035529109127177,
+      "id_str": "1365035529109127177",
+      "text": "Mal wieder Bock auf Stadion mit den Kids? In Indien kein Problem.\nCricket diese Woche.\nGanz ohne #GreenPass \u00fcbrigen\u2026 https://t.co/APz4TjFUMp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GreenPass",
+            "indices": [
+              97,
+              107
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/APz4TjFUMp",
+            "expanded_url": "https://twitter.com/i/web/status/1365035529109127177",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252542024299012097,
+        "id_str": "1252542024299012097",
+        "name": "Prof. Freedom",
+        "screen_name": "prof_freedom",
+        "location": "",
+        "description": "Covid is real. Lockdown sceptic. Mask sceptic. Pro Covid vax for eldery. Covid vax for kids = No! Libertarian, Atheist.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 23858,
+        "friends_count": 458,
+        "listed_count": 191,
+        "created_at": "Tue Apr 21 10:17:51 +0000 2020",
+        "favourites_count": 39022,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25298,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1438948180767526912/CJ1oQp6s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1438948180767526912/CJ1oQp6s_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252542024299012097/1622099933",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 31,
+      "favorite_count": 106,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "de"
+    },
+    "retweet_count": 19,
+    "favorite_count": 47,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1365035529109127177,
+  "quoted_status_id_str": "1365035529109127177",
+  "retweet_count": 19,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

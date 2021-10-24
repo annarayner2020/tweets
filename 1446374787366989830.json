@@ -1,0 +1,344 @@
+{
+  "created_at": "Fri Oct 08 07:19:56 +0000 2021",
+  "id": 1446374787366989830,
+  "id_str": "1446374787366989830",
+  "text": "Our good friends in Canada are just going along with this and I don't recognise who they are any more. \n\nNo one men\u2026 https://t.co/I3bE4hRZOz",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/I3bE4hRZOz",
+        "expanded_url": "https://twitter.com/i/web/status/1446374787366989830",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1446220146100613124,
+  "quoted_status_id_str": "1446220146100613124",
+  "quoted_status": {
+    "created_at": "Thu Oct 07 21:05:26 +0000 2021",
+    "id": 1446220146100613124,
+    "id_str": "1446220146100613124",
+    "text": "Let\u2019s be clear:\n\nThis is TYRANNY\n\n https://t.co/Zo2yUDj0RY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1445820064868020224,
+          "id_str": "1445820064868020224",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445820064868020224/pu/img/JfRyvheSCs9wHEDK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445820064868020224/pu/img/JfRyvheSCs9wHEDK.jpg",
+          "url": "https://t.co/Zo2yUDj0RY",
+          "display_url": "pic.twitter.com/Zo2yUDj0RY",
+          "expanded_url": "https://twitter.com/BoerboelBritish/status/1445820163685822465/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1445820163685822465,
+          "source_status_id_str": "1445820163685822465",
+          "source_user_id": 1326963412824289280,
+          "source_user_id_str": "1326963412824289280"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1445820064868020224,
+          "id_str": "1445820064868020224",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445820064868020224/pu/img/JfRyvheSCs9wHEDK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445820064868020224/pu/img/JfRyvheSCs9wHEDK.jpg",
+          "url": "https://t.co/Zo2yUDj0RY",
+          "display_url": "pic.twitter.com/Zo2yUDj0RY",
+          "expanded_url": "https://twitter.com/BoerboelBritish/status/1445820163685822465/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1445820163685822465,
+          "source_status_id_str": "1445820163685822465",
+          "source_user_id": 1326963412824289280,
+          "source_user_id_str": "1326963412824289280",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 128938,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1445820064868020224/pu/vid/640x360/xkUhX1VRB14ybNZW.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1445820064868020224/pu/pl/a1n1w_v0HLCRG3IB.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1445820064868020224/pu/vid/480x270/brmWwnpN9Bkb2o8E.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 1326963412824289280,
+              "id_str": "1326963412824289280",
+              "name": "UK Patriot the IV",
+              "screen_name": "BoerboelBritish",
+              "location": "",
+              "description": "Trump for life. Proud Little Englander, Grace BJJ, MMA @Valetudo on Parler. @BoerboelUK on GAB \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1. There are only two genders..",
+              "url": null,
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 8368,
+              "friends_count": 4414,
+              "listed_count": 27,
+              "created_at": "Thu Nov 12 19:02:39 +0000 2020",
+              "favourites_count": 33070,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 9527,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1345663321928835072/5C-aRckJ_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345663321928835072/5C-aRckJ_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1326963412824289280/1632860130",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": true,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2773644907,
+      "id_str": "2773644907",
+      "name": "Charlotte \ud83d\udd95\ud83c\udffc",
+      "screen_name": "CharlieEmmaUK",
+      "location": "",
+      "description": "Reluctant inhabitee of \ud83e\udd21\ud83c\udf0dPronouns: Fuck/Off. Awake not woke. Not frightened of coughs. Henry Kissinger thinks I\u2019m a \u201cuseless eater\u201d. Exempt from bullshit.",
+      "url": "https://t.co/jH2q0rCdvg",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jH2q0rCdvg",
+              "expanded_url": "https://t.me/letscutthecrap",
+              "display_url": "t.me/letscutthecrap",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 21617,
+      "friends_count": 6409,
+      "listed_count": 57,
+      "created_at": "Wed Aug 27 15:37:43 +0000 2014",
+      "favourites_count": 38469,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 32220,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1444062522211016705/kawhMjkI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444062522211016705/kawhMjkI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2773644907/1615930898",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 226,
+    "favorite_count": 688,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 2,
+  "favorite_count": 6,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

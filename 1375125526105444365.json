@@ -1,0 +1,295 @@
+{
+  "created_at": "Thu Mar 25 16:40:48 +0000 2021",
+  "id": 1375125526105444365,
+  "id_str": "1375125526105444365",
+  "text": "RT @RealJoelSmalley: The collateral harms of propaganda can be felt far and wide, and for a long time to come. https://t.co/iL9384FeKt",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "RealJoelSmalley",
+        "name": "Joel",
+        "id": 1086212368575680512,
+        "id_str": "1086212368575680512",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/iL9384FeKt",
+        "expanded_url": "https://twitter.com/Think_Scotland/status/1375089332894240777",
+        "display_url": "twitter.com/Think_Scotland\u2026",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Mar 25 16:21:35 +0000 2021",
+    "id": 1375120690538553345,
+    "id_str": "1375120690538553345",
+    "text": "The collateral harms of propaganda can be felt far and wide, and for a long time to come. https://t.co/iL9384FeKt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iL9384FeKt",
+          "expanded_url": "https://twitter.com/Think_Scotland/status/1375089332894240777",
+          "display_url": "twitter.com/Think_Scotland\u2026",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1086212368575680512,
+      "id_str": "1086212368575680512",
+      "name": "Joel",
+      "screen_name": "RealJoelSmalley",
+      "location": "Dem. People's Rep. of England",
+      "description": "Calling me anti- this and that is fine. You become that way when you're a critical thinker. Long term, it's good for survival. #LetsGoBrandon",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 48816,
+      "friends_count": 3669,
+      "listed_count": 265,
+      "created_at": "Fri Jan 18 10:43:04 +0000 2019",
+      "favourites_count": 36425,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8447,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1449466834785349638/y1RCIEKj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449466834785349638/y1RCIEKj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086212368575680512/1634234358",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1375089332894240777,
+    "quoted_status_id_str": "1375089332894240777",
+    "quoted_status": {
+      "created_at": "Thu Mar 25 14:16:59 +0000 2021",
+      "id": 1375089332894240777,
+      "id_str": "1375089332894240777",
+      "text": "Last year the Government spent \u00a3184m on advertising that fuelled unprecedented fear \u2013 causing mental health charity\u2026 https://t.co/iTdWIEzFnq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iTdWIEzFnq",
+            "expanded_url": "https://twitter.com/i/web/status/1375089332894240777",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 621385365,
+        "id_str": "621385365",
+        "name": "ThinkScotland",
+        "screen_name": "Think_Scotland",
+        "location": "",
+        "description": "Find Jill Stephenson, Alan Sked, Dean Thomson, Linda Holt, Max Young, Alan Grant, Ewen Stewart, Jon Stanley, Tom Gallagher, Eben Wilson & more @Think_Scotland",
+        "url": "http://t.co/UZ7lXrOfvL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/UZ7lXrOfvL",
+                "expanded_url": "http://www.thinkscotland.org/",
+                "display_url": "thinkscotland.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3899,
+        "friends_count": 1959,
+        "listed_count": 53,
+        "created_at": "Thu Jun 28 20:58:09 +0000 2012",
+        "favourites_count": 278,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17591,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3749535661/c84b3528645469b2ed0b80fdf3a38641_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3749535661/c84b3528645469b2ed0b80fdf3a38641_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/621385365/1610709738",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 49,
+      "favorite_count": 96,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 67,
+    "favorite_count": 183,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1375089332894240777,
+  "quoted_status_id_str": "1375089332894240777",
+  "retweet_count": 67,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

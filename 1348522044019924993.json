@@ -1,0 +1,297 @@
+{
+  "created_at": "Mon Jan 11 06:48:04 +0000 2021",
+  "id": 1348522044019924993,
+  "id_str": "1348522044019924993",
+  "text": "RT @ClareCraigPath: This is weird logic. Based on antibody results in spring we could estimate the true number of cases per death (IFR).\n\nN\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ClareCraigPath",
+        "name": "Dr Clare Craig",
+        "id": 1302978006441492481,
+        "id_str": "1302978006441492481",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5175,
+    "friends_count": 887,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6455,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3563,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jan 11 06:45:47 +0000 2021",
+    "id": 1348521470293663744,
+    "id_str": "1348521470293663744",
+    "text": "This is weird logic. Based on antibody results in spring we could estimate the true number of cases per death (IFR)\u2026 https://t.co/BU9DpdWCc1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BU9DpdWCc1",
+          "expanded_url": "https://twitter.com/i/web/status/1348521470293663744",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1302978006441492481,
+      "id_str": "1302978006441492481",
+      "name": "Dr Clare Craig",
+      "screen_name": "ClareCraigPath",
+      "location": "",
+      "description": "Diagnostic pathologist, lover of data, digital pathology and AI, sceptical but optimistic. Views my own not the RCPath's.",
+      "url": "https://t.co/g3aXTQ7A0p",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/g3aXTQ7A0p",
+              "expanded_url": "https://www.hartgroup.org/",
+              "display_url": "hartgroup.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 78765,
+      "friends_count": 380,
+      "listed_count": 530,
+      "created_at": "Mon Sep 07 14:32:26 +0000 2020",
+      "favourites_count": 1648,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6694,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350050462431653889/yH8i2c-4_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302978006441492481/1628178678",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1348417161497370627,
+    "quoted_status_id_str": "1348417161497370627",
+    "quoted_status": {
+      "created_at": "Sun Jan 10 23:51:18 +0000 2021",
+      "id": 1348417161497370627,
+      "id_str": "1348417161497370627",
+      "text": "\"1 in 5 people in England may have had coronavirus, new modelling suggests... rising to almost 1 in 2 in some areas\u2026 https://t.co/vMfIYAMwWG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vMfIYAMwWG",
+            "expanded_url": "https://twitter.com/i/web/status/1348417161497370627",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1253076808150462466,
+        "id_str": "1253076808150462466",
+        "name": "Ruminator Dan (Telegram: RuminatorDan)",
+        "screen_name": "RuminatorDan",
+        "location": "UK",
+        "description": "'Men, it has been well said, think in herds; it will be seen that they go mad in herds, while they only recover their senses slowly,& one by one'\nCharles Mackay",
+        "url": "https://t.co/ZM4YIQmn4m",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZM4YIQmn4m",
+                "expanded_url": "https://t.me/ruminatordan",
+                "display_url": "t.me/ruminatordan",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4218,
+        "friends_count": 347,
+        "listed_count": 30,
+        "created_at": "Wed Apr 22 21:45:48 +0000 2020",
+        "favourites_count": 3923,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5616,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253679439550058496/Yf5KDLVR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253679439550058496/Yf5KDLVR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253076808150462466/1587735445",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 41,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 42,
+    "favorite_count": 93,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1348417161497370627,
+  "quoted_status_id_str": "1348417161497370627",
+  "retweet_count": 42,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,204 @@
+{
+  "created_at": "Fri Oct 01 09:41:48 +0000 2021",
+  "id": 1443873772952604678,
+  "id_str": "1443873772952604678",
+  "text": "@beckwith_de This is going to terrify you: \n\nhttps://t.co/UpYhLK9ewL",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "beckwith_de",
+        "name": "Alfonso De Beckwith.",
+        "id": 1292915818225958912,
+        "id_str": "1292915818225958912",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/UpYhLK9ewL",
+        "expanded_url": "https://twitter.com/SafeEdForAll_UK/status/1443656814432772097?s=20",
+        "display_url": "twitter.com/SafeEdForAll_U\u2026",
+        "indices": [
+          45,
+          68
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1443868973171462169,
+  "in_reply_to_status_id_str": "1443868973171462169",
+  "in_reply_to_user_id": 1292915818225958912,
+  "in_reply_to_user_id_str": "1292915818225958912",
+  "in_reply_to_screen_name": "beckwith_de",
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4683,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1443656814432772097,
+  "quoted_status_id_str": "1443656814432772097",
+  "quoted_status": {
+    "created_at": "Thu Sep 30 19:19:41 +0000 2021",
+    "id": 1443656814432772097,
+    "id_str": "1443656814432772097",
+    "text": "STAND UP, SPEAK OUT\n\nIt is not acceptable to unnecessarily and knowingly expose children, school staff and their fa\u2026 https://t.co/0KGYnrewy1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0KGYnrewy1",
+          "expanded_url": "https://twitter.com/i/web/status/1443656814432772097",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1331899815140143105,
+      "id_str": "1331899815140143105",
+      "name": "SafeEdForAll #Swarm\ud83d\udc1d #hivetosurvive #SafeEdForAll",
+      "screen_name": "SafeEdForAll_UK",
+      "location": "UK",
+      "description": "Parent-led grassroots campaign group, following the science. It\u2019s WRONG to unnecessarily and knowingly expose ANYONE to increased risk of infection",
+      "url": "https://t.co/iQQIyi8fXZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/iQQIyi8fXZ",
+              "expanded_url": "http://www.safeedforall.com",
+              "display_url": "safeedforall.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6795,
+      "friends_count": 5041,
+      "listed_count": 53,
+      "created_at": "Thu Nov 26 09:57:34 +0000 2020",
+      "favourites_count": 16829,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 18659,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1426543249267826695/izudWE6M_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426543249267826695/izudWE6M_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1331899815140143105/1612259700",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 226,
+    "favorite_count": 447,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

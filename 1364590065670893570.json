@@ -1,0 +1,249 @@
+{
+  "created_at": "Wed Feb 24 14:56:39 +0000 2021",
+  "id": 1364590065670893570,
+  "id_str": "1364590065670893570",
+  "text": "RT @Richard03954394: @DerekoOco1978 @annarayner2020 @NewtonClarkeUK @manchesterlady2 @michaelgove https://t.co/G651WwYqfS Sign and RT lets\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Richard03954394",
+        "name": "Richard Shepherd",
+        "id": 1333193416881156101,
+        "id_str": "1333193416881156101",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "DerekoOco1978",
+        "name": "Derek O\u2019Connor",
+        "id": 873553175894208513,
+        "id_str": "873553175894208513",
+        "indices": [
+          21,
+          35
+        ]
+      },
+      {
+        "screen_name": "annarayner2020",
+        "name": "Anna Rayner",
+        "id": 1309907616953491457,
+        "id_str": "1309907616953491457",
+        "indices": [
+          36,
+          51
+        ]
+      },
+      {
+        "screen_name": "NewtonClarkeUK",
+        "name": "Newton Peter Clarke \ud83d\udc8e \ud83c\uddec\ud83c\udde7",
+        "id": 1199753098824159233,
+        "id_str": "1199753098824159233",
+        "indices": [
+          52,
+          67
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5326,
+    "friends_count": 897,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7108,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4082,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Feb 24 07:10:17 +0000 2021",
+    "id": 1364472703516819458,
+    "id_str": "1364472703516819458",
+    "text": "@DerekoOco1978 @annarayner2020 @NewtonClarkeUK @manchesterlady2 @michaelgove https://t.co/G651WwYqfS Sign and RT lets get to  1 million",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DerekoOco1978",
+          "name": "Derek O\u2019Connor",
+          "id": 873553175894208513,
+          "id_str": "873553175894208513",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "annarayner2020",
+          "name": "Anna Rayner",
+          "id": 1309907616953491457,
+          "id_str": "1309907616953491457",
+          "indices": [
+            15,
+            30
+          ]
+        },
+        {
+          "screen_name": "NewtonClarkeUK",
+          "name": "Newton Peter Clarke \ud83d\udc8e \ud83c\uddec\ud83c\udde7",
+          "id": 1199753098824159233,
+          "id_str": "1199753098824159233",
+          "indices": [
+            31,
+            46
+          ]
+        },
+        {
+          "screen_name": "michaelgove",
+          "name": "Michael Gove",
+          "id": 748453510048518145,
+          "id_str": "748453510048518145",
+          "indices": [
+            64,
+            76
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/G651WwYqfS",
+          "expanded_url": "http://petition.parliament.uk/petitions/569957",
+          "display_url": "petition.parliament.uk/petitions/5699\u2026",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1364287477058519041,
+    "in_reply_to_status_id_str": "1364287477058519041",
+    "in_reply_to_user_id": 873553175894208513,
+    "in_reply_to_user_id_str": "873553175894208513",
+    "in_reply_to_screen_name": "DerekoOco1978",
+    "user": {
+      "id": 1333193416881156101,
+      "id_str": "1333193416881156101",
+      "name": "Richard Shepherd",
+      "screen_name": "Richard03954394",
+      "location": "",
+      "description": "Hmmm ... I think too much... I think....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 150,
+      "friends_count": 138,
+      "listed_count": 0,
+      "created_at": "Sun Nov 29 23:37:54 +0000 2020",
+      "favourites_count": 23479,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8080,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1356243881516531715/bvKNI2M5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356243881516531715/bvKNI2M5_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1333193416881156101/1612188899",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

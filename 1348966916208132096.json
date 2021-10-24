@@ -1,0 +1,202 @@
+{
+  "created_at": "Tue Jan 12 12:15:50 +0000 2021",
+  "id": 1348966916208132096,
+  "id_str": "1348966916208132096",
+  "text": "RT @DJWarburton: Why I could not vote for this three month lockdown yesterday in Parliament:\n\nhttps://t.co/VgBKkXk4uR",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DJWarburton",
+        "name": "David Warburton MP",
+        "id": 164208335,
+        "id_str": "164208335",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/VgBKkXk4uR",
+        "expanded_url": "https://www.davidwarburton.org.uk/news/my-vote-national-lockdown",
+        "display_url": "davidwarburton.org.uk/news/my-vote-n\u2026",
+        "indices": [
+          94,
+          117
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5175,
+    "friends_count": 887,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6455,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3563,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jan 07 16:18:01 +0000 2021",
+    "id": 1347215926199017474,
+    "id_str": "1347215926199017474",
+    "text": "Why I could not vote for this three month lockdown yesterday in Parliament:\n\nhttps://t.co/VgBKkXk4uR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VgBKkXk4uR",
+          "expanded_url": "https://www.davidwarburton.org.uk/news/my-vote-national-lockdown",
+          "display_url": "davidwarburton.org.uk/news/my-vote-n\u2026",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 164208335,
+      "id_str": "164208335",
+      "name": "David Warburton MP",
+      "screen_name": "DJWarburton",
+      "location": "Somerset, UK",
+      "description": "Member of Parliament for Somerton & Frome in glorious Somerset. To contact don't tweet! Please email david.warburton.mp@parliament.uk - thanks!",
+      "url": "https://t.co/m8fRSo04s7",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/m8fRSo04s7",
+              "expanded_url": "http://www.davidwarburton.org.uk",
+              "display_url": "davidwarburton.org.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14713,
+      "friends_count": 9426,
+      "listed_count": 361,
+      "created_at": "Thu Jul 08 08:59:28 +0000 2010",
+      "favourites_count": 9426,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 6426,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "62573A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1420867295358984204/1S1M1blV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420867295358984204/1S1M1blV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/164208335/1627596137",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 108,
+    "favorite_count": 434,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 108,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

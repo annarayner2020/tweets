@@ -1,0 +1,282 @@
+{
+  "created_at": "Mon Aug 16 21:33:25 +0000 2021",
+  "id": 1427383017392295939,
+  "id_str": "1427383017392295939",
+  "text": "RT @ArmyofShadows2: The MSM are destroying themselves by ignoring the uprising. Oh well, I won't miss them. https://t.co/IGry1Wr189",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ArmyofShadows2",
+        "name": "Army of Shadows",
+        "id": 1305628147694665729,
+        "id_str": "1305628147694665729",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/IGry1Wr189",
+        "expanded_url": "https://twitter.com/MichaelPSenger/status/1426601629470445568",
+        "display_url": "twitter.com/MichaelPSenger\u2026",
+        "indices": [
+          108,
+          131
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Aug 15 21:09:14 +0000 2021",
+    "id": 1427014541515411457,
+    "id_str": "1427014541515411457",
+    "text": "The MSM are destroying themselves by ignoring the uprising. Oh well, I won't miss them. https://t.co/IGry1Wr189",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IGry1Wr189",
+          "expanded_url": "https://twitter.com/MichaelPSenger/status/1426601629470445568",
+          "display_url": "twitter.com/MichaelPSenger\u2026",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1305628147694665729,
+      "id_str": "1305628147694665729",
+      "name": "Army of Shadows",
+      "screen_name": "ArmyofShadows2",
+      "location": "Occupied London",
+      "description": "Reality is little more than a stage set whose cast and scenery can be swept aside and replaced overnight.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5576,
+      "friends_count": 4231,
+      "listed_count": 5,
+      "created_at": "Mon Sep 14 22:05:47 +0000 2020",
+      "favourites_count": 40002,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 29949,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1434630448102187010/WmtNJEHy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1434630448102187010/WmtNJEHy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1305628147694665729/1634508693",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1426601629470445568,
+    "quoted_status_id_str": "1426601629470445568",
+    "quoted_status": {
+      "created_at": "Sat Aug 14 17:48:28 +0000 2021",
+      "id": 1426601629470445568,
+      "id_str": "1426601629470445568",
+      "text": "Hundreds of thousands take to the streets in over 200 towns and cities across France for a fifth consecutive weeken\u2026 https://t.co/bnKModJKrm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bnKModJKrm",
+            "expanded_url": "https://twitter.com/i/web/status/1426601629470445568",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1679362640,
+        "id_str": "1679362640",
+        "name": "Michael P Senger",
+        "screen_name": "MichaelPSenger",
+        "location": "",
+        "description": "Attorney, author of China\u2019s Global Lockdown Propaganda Campaign",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 67247,
+        "friends_count": 15676,
+        "listed_count": 424,
+        "created_at": "Sat Aug 17 23:24:38 +0000 2013",
+        "favourites_count": 208739,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679362640/1597698065",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2673,
+      "favorite_count": 6223,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 40,
+    "favorite_count": 113,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1426601629470445568,
+  "quoted_status_id_str": "1426601629470445568",
+  "retweet_count": 40,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,349 @@
+{
+  "created_at": "Mon Aug 09 10:20:04 +0000 2021",
+  "id": 1424676849410580482,
+  "id_str": "1424676849410580482",
+  "text": "Think I\u2019ve found my fave person of the day https://t.co/FCNsy49dec",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/FCNsy49dec",
+        "expanded_url": "https://twitter.com/slyfox__/status/1424309731997495296",
+        "display_url": "twitter.com/slyfox__/statu\u2026",
+        "indices": [
+          43,
+          66
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1424309731997495296,
+  "quoted_status_id_str": "1424309731997495296",
+  "quoted_status": {
+    "created_at": "Sun Aug 08 10:01:17 +0000 2021",
+    "id": 1424309731997495296,
+    "id_str": "1424309731997495296",
+    "text": "\u201cCorona doesn\u2019t exist for rich people\u201d.......  \ud83d\ude21\ud83d\ude21\nmulti millionaire Andrew Tate \nhttps://t.co/9LtQvf5NjM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1423493072185401344,
+          "id_str": "1423493072185401344",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423493072185401344/pu/img/zzo72D8Ly6-6bcYK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423493072185401344/pu/img/zzo72D8Ly6-6bcYK.jpg",
+          "url": "https://t.co/9LtQvf5NjM",
+          "display_url": "pic.twitter.com/9LtQvf5NjM",
+          "expanded_url": "https://twitter.com/whenallwozkool/status/1423493214699413505/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1423493214699413505,
+          "source_status_id_str": "1423493214699413505",
+          "source_user_id": 1315935149977149440,
+          "source_user_id_str": "1315935149977149440"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1423493072185401344,
+          "id_str": "1423493072185401344",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423493072185401344/pu/img/zzo72D8Ly6-6bcYK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423493072185401344/pu/img/zzo72D8Ly6-6bcYK.jpg",
+          "url": "https://t.co/9LtQvf5NjM",
+          "display_url": "pic.twitter.com/9LtQvf5NjM",
+          "expanded_url": "https://twitter.com/whenallwozkool/status/1423493214699413505/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1423493214699413505,
+          "source_status_id_str": "1423493214699413505",
+          "source_user_id": 1315935149977149440,
+          "source_user_id_str": "1315935149977149440",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 116400,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1423493072185401344/pu/pl/X_QW8GhHiBWy3BiY.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1423493072185401344/pu/vid/480x270/TZOz3W5mWeEKc3A_.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1423493072185401344/pu/vid/1280x720/zssIcT6ayd7o7SMr.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1423493072185401344/pu/vid/640x360/u-ETO3KAoiYXP4V2.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 1315935149977149440,
+              "id_str": "1315935149977149440",
+              "name": "Whenallwozkool",
+              "screen_name": "whenallwozkool",
+              "location": "",
+              "description": "Old Times They Are Not Forgotten.",
+              "url": null,
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 3932,
+              "friends_count": 3121,
+              "listed_count": 8,
+              "created_at": "Tue Oct 13 08:39:34 +0000 2020",
+              "favourites_count": 7927,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 11589,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1315962586551259138/ANFywkwl_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315962586551259138/ANFywkwl_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315935149977149440/1602578600",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": true,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1179725114,
+      "id_str": "1179725114",
+      "name": "SoulJar \ud83d\udde3",
+      "screen_name": "slyfox__",
+      "location": "\ud83d\udcccEngland",
+      "description": "\ud83c\udf5e\ud83c\udfaaYOU OWN NOTHING! EVERYTHING IN EXISTENCE BELONGS TO THE BANKSTERS, you\u2019re just using this stuff while you\u2019re here. go crypto.",
+      "url": "https://t.co/zp2A2nzu0u",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/zp2A2nzu0u",
+              "expanded_url": "https://youtube.com/playlist?list=PLh-7t8d6-L7U8nqBOz3DEtcDTCDpia8oo",
+              "display_url": "youtube.com/playlist?list=\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1865,
+      "friends_count": 712,
+      "listed_count": 23,
+      "created_at": "Thu Feb 14 16:45:06 +0000 2013",
+      "favourites_count": 20589,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 22936,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1372323661869424642/e2mLYd1i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372323661869424642/e2mLYd1i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179725114/1621675350",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2329,
+    "favorite_count": 4039,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 262,
+  "favorite_count": 594,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

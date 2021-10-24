@@ -1,0 +1,234 @@
+{
+  "created_at": "Thu Sep 30 16:19:48 +0000 2021",
+  "id": 1443611546802954249,
+  "id_str": "1443611546802954249",
+  "text": "It is so heartening to see more brave doctors speaking out. Thank you @drkohilathas and colleagues for daring to do\u2026 https://t.co/rRhr4BpyhH",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "drkohilathas",
+        "name": "basednotbiased.eth",
+        "id": 1215979697433141253,
+        "id_str": "1215979697433141253",
+        "indices": [
+          70,
+          83
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/rRhr4BpyhH",
+        "expanded_url": "https://twitter.com/i/web/status/1443611546802954249",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4683,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1443468430078791681,
+  "quoted_status_id_str": "1443468430078791681",
+  "quoted_status": {
+    "created_at": "Thu Sep 30 06:51:06 +0000 2021",
+    "id": 1443468430078791681,
+    "id_str": "1443468430078791681",
+    "text": "An open letter to the @gmcuk \n\n\"The GMC was formed more than 150 years ago, with the primary aim to protect patient\u2026 https://t.co/YAP4JFd1eD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "gmcuk",
+          "name": "GMC",
+          "id": 492996846,
+          "id_str": "492996846",
+          "indices": [
+            22,
+            28
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YAP4JFd1eD",
+          "expanded_url": "https://twitter.com/i/web/status/1443468430078791681",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1215979697433141253,
+      "id_str": "1215979697433141253",
+      "name": "basednotbiased.eth",
+      "screen_name": "drkohilathas",
+      "location": "",
+      "description": "Preventologist.\n\nAuthor of Saving A&E The Toyota Way.\n\nCo-Founder @FreeDoughUK\nArt: https://t.co/5FQTCUG9EU\nLibrary: https://t.co/L2SwombthV",
+      "url": "https://t.co/LCiB4Nv1vz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/LCiB4Nv1vz",
+              "expanded_url": "https://linktr.ee/drkohilathas",
+              "display_url": "linktr.ee/drkohilathas",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/5FQTCUG9EU",
+              "expanded_url": "http://opensea.io/basednotbiased",
+              "display_url": "opensea.io/basednotbiased",
+              "indices": [
+                84,
+                107
+              ]
+            },
+            {
+              "url": "https://t.co/L2SwombthV",
+              "expanded_url": "https://www.drkohilathas.co.uk/library",
+              "display_url": "drkohilathas.co.uk/library",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8899,
+      "friends_count": 305,
+      "listed_count": 63,
+      "created_at": "Sat Jan 11 12:52:13 +0000 2020",
+      "favourites_count": 13681,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8378,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1444294763465805830/5cGEwuTB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444294763465805830/5cGEwuTB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215979697433141253/1633179974",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 676,
+    "favorite_count": 1123,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 10,
+  "favorite_count": 32,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

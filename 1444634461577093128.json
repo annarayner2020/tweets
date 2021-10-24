@@ -1,0 +1,375 @@
+{
+  "created_at": "Sun Oct 03 12:04:30 +0000 2021",
+  "id": 1444634461577093128,
+  "id_str": "1444634461577093128",
+  "text": "How do Victoria police justify this to themselves when they end their shift? There will be a lot of PTSD on all sid\u2026 https://t.co/YMaYnynb5j",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/YMaYnynb5j",
+        "expanded_url": "https://twitter.com/i/web/status/1444634461577093128",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1444546402156122115,
+  "quoted_status_id_str": "1444546402156122115",
+  "quoted_status": {
+    "created_at": "Sun Oct 03 06:14:35 +0000 2021",
+    "id": 1444546402156122115,
+    "id_str": "1444546402156122115",
+    "text": "Thank you, Victoria Police, for spending ANOTHER weekend keeping us safe from this pesky virus.\n\n  https://t.co/izxZGcz5WG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1444340140512534534,
+          "id_str": "1444340140512534534",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/FA1whPDX0AAVou7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FA1whPDX0AAVou7.jpg",
+          "url": "https://t.co/izxZGcz5WG",
+          "display_url": "pic.twitter.com/izxZGcz5WG",
+          "expanded_url": "https://twitter.com/RT_com/status/1444447101644152834/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1444447101644152834,
+          "source_status_id_str": "1444447101644152834",
+          "source_user_id": 64643056,
+          "source_user_id_str": "64643056"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1444340140512534534,
+          "id_str": "1444340140512534534",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/FA1whPDX0AAVou7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FA1whPDX0AAVou7.jpg",
+          "url": "https://t.co/izxZGcz5WG",
+          "display_url": "pic.twitter.com/izxZGcz5WG",
+          "expanded_url": "https://twitter.com/RT_com/status/1444447101644152834/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1444447101644152834,
+          "source_status_id_str": "1444447101644152834",
+          "source_user_id": 64643056,
+          "source_user_id_str": "64643056",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 42680,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1444340140512534534/vid/640x360/mFPhlql5QPY5uBl0.mp4?tag=14"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1444340140512534534/vid/480x270/7eMZPa0_X7Wx-doj.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1444340140512534534/pl/3yUR8S57FxPiVv4Z.m3u8?tag=14"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1444340140512534534/vid/1280x720/x0LWAv9VL--eYh7x.mp4?tag=14"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "id": 64643056,
+              "id_str": "64643056",
+              "name": "RT",
+              "screen_name": "RT_com",
+              "location": "",
+              "description": "Freedom over censorship, truth over narrative. On air in 100+ countries. 10+ bn video views in 2020. Don\u2019t want your news filtered - find us at https://t.co/ucB15kSJBr",
+              "url": "https://t.co/gtHSJ8TMVD",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/gtHSJ8TMVD",
+                      "expanded_url": "http://RT.com",
+                      "display_url": "RT.com",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/ucB15kSJBr",
+                      "expanded_url": "http://t.me/rtnews",
+                      "display_url": "t.me/rtnews",
+                      "indices": [
+                        144,
+                        167
+                      ]
+                    }
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 2961511,
+              "friends_count": 697,
+              "listed_count": 20724,
+              "created_at": "Tue Aug 11 06:12:45 +0000 2009",
+              "favourites_count": 2078,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": true,
+              "statuses_count": 404071,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "1D1D1D",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/64643056/1619624482",
+              "profile_link_color": "3D990F",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "EBEBEB",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "regular",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 97054224,
+      "id_str": "97054224",
+      "name": "Avi Yemini \ud83c\udde6\ud83c\uddfa\ud83c\uddee\ud83c\uddf1",
+      "screen_name": "OzraeliAvi",
+      "location": "Melbourne, Victoria",
+      "description": "Chief Oz correspondent for @RebelNewsOnline. In charge of telling the other side of the story down under.",
+      "url": "https://t.co/P1zS235oTr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P1zS235oTr",
+              "expanded_url": "http://RebelNews.com.au",
+              "display_url": "RebelNews.com.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 187526,
+      "friends_count": 971,
+      "listed_count": 580,
+      "created_at": "Tue Dec 15 20:23:03 +0000 2009",
+      "favourites_count": 7066,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 19431,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1332624725160300544/ungit5Ic_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332624725160300544/ungit5Ic_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/97054224/1607598855",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "050505",
+      "profile_sidebar_fill_color": "EBE5CB",
+      "profile_text_color": "034261",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3395,
+    "favorite_count": 7875,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 2,
+  "favorite_count": 6,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

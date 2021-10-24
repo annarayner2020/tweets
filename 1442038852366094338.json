@@ -1,0 +1,318 @@
+{
+  "created_at": "Sun Sep 26 08:10:28 +0000 2021",
+  "id": 1442038852366094338,
+  "id_str": "1442038852366094338",
+  "text": "RT @JeffreyPeel: Wonderful. @thecoastguy has a superb ability to sense the mood. He's right. The global bullying narrative is cracking. Fre\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JeffreyPeel",
+        "name": "Jeffrey Peel",
+        "id": 23587765,
+        "id_str": "23587765",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "thecoastguy",
+        "name": "Neil Oliver",
+        "id": 924541717944131584,
+        "id_str": "924541717944131584",
+        "indices": [
+          28,
+          40
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Sep 26 08:01:37 +0000 2021",
+    "id": 1442036624431403008,
+    "id_str": "1442036624431403008",
+    "text": "Wonderful. @thecoastguy has a superb ability to sense the mood. He's right. The global bullying narrative is cracki\u2026 https://t.co/WnZOw96Q3A",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "thecoastguy",
+          "name": "Neil Oliver",
+          "id": 924541717944131584,
+          "id_str": "924541717944131584",
+          "indices": [
+            11,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WnZOw96Q3A",
+          "expanded_url": "https://twitter.com/i/web/status/1442036624431403008",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23587765,
+      "id_str": "23587765",
+      "name": "Jeffrey Peel",
+      "screen_name": "JeffreyPeel",
+      "location": "UK",
+      "description": "The Digital ID Debate: 25th November, London. Book now.",
+      "url": "https://t.co/bSy1mpkNUv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/bSy1mpkNUv",
+              "expanded_url": "https://www.techthenewera.co.uk",
+              "display_url": "techthenewera.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10329,
+      "friends_count": 1404,
+      "listed_count": 266,
+      "created_at": "Tue Mar 10 12:56:36 +0000 2009",
+      "favourites_count": 32929,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 5923,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1447306193635053574/MJhLJzPf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447306193635053574/MJhLJzPf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23587765/1634160499",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1441830195976146950,
+    "quoted_status_id_str": "1441830195976146950",
+    "quoted_status": {
+      "created_at": "Sat Sep 25 18:21:21 +0000 2021",
+      "id": 1441830195976146950,
+      "id_str": "1441830195976146950",
+      "text": "Neil Oliver: 'There\u2019s fear in the air. The strongest smell of fear is emanating not from the ordinary people, but f\u2026 https://t.co/qcVBp5vHPQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qcVBp5vHPQ",
+            "expanded_url": "https://twitter.com/i/web/status/1441830195976146950",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1339166129110065152,
+        "id_str": "1339166129110065152",
+        "name": "GB News",
+        "screen_name": "GBNEWS",
+        "location": "",
+        "description": "Freeview 236, Sky HD 515, Virgin Media HD 626, YouView 236, Freesat HD 216, YouTube, mobile, online & radio - news, opinion & debate for all the UK.",
+        "url": "https://t.co/SGyNilQpMI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SGyNilQpMI",
+                "expanded_url": "http://www.gbnews.uk",
+                "display_url": "gbnews.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 324000,
+        "friends_count": 37,
+        "listed_count": 772,
+        "created_at": "Wed Dec 16 11:11:23 +0000 2020",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 11599,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1377301663740989442/7Hbbjuxt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377301663740989442/7Hbbjuxt_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339166129110065152/1629583470",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5106,
+      "favorite_count": 12364,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 91,
+    "favorite_count": 257,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1441830195976146950,
+  "quoted_status_id_str": "1441830195976146950",
+  "retweet_count": 91,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

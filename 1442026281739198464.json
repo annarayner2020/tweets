@@ -1,0 +1,540 @@
+{
+  "created_at": "Sun Sep 26 07:20:31 +0000 2021",
+  "id": 1442026281739198464,
+  "id_str": "1442026281739198464",
+  "text": "RT @JackPosobiec: Irishman screaming \u201cpure evil\u201d at Hillary today in Belfast https://t.co/JhoeF3Ld0J",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JackPosobiec",
+        "name": "Jack Posobiec \ud83c\uddfa\ud83c\uddf8",
+        "id": 592730371,
+        "id_str": "592730371",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1441409983837466636,
+        "id_str": "1441409983837466636",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1441409983837466636/pu/img/zuQlocI2yCXbmiVV.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1441409983837466636/pu/img/zuQlocI2yCXbmiVV.jpg",
+        "url": "https://t.co/JhoeF3Ld0J",
+        "display_url": "pic.twitter.com/JhoeF3Ld0J",
+        "expanded_url": "https://twitter.com/NewsForAllIre/status/1441410111524818947/video/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 590,
+            "h": 738,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 590,
+            "h": 738,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1441410111524818947,
+        "source_status_id_str": "1441410111524818947",
+        "source_user_id": 1363253641893867530,
+        "source_user_id_str": "1363253641893867530"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1441409983837466636,
+        "id_str": "1441409983837466636",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1441409983837466636/pu/img/zuQlocI2yCXbmiVV.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1441409983837466636/pu/img/zuQlocI2yCXbmiVV.jpg",
+        "url": "https://t.co/JhoeF3Ld0J",
+        "display_url": "pic.twitter.com/JhoeF3Ld0J",
+        "expanded_url": "https://twitter.com/NewsForAllIre/status/1441410111524818947/video/1",
+        "type": "video",
+        "sizes": {
+          "medium": {
+            "w": 590,
+            "h": 738,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 590,
+            "h": 738,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1441410111524818947,
+        "source_status_id_str": "1441410111524818947",
+        "source_user_id": 1363253641893867530,
+        "source_user_id_str": "1363253641893867530",
+        "video_info": {
+          "aspect_ratio": [
+            295,
+            369
+          ],
+          "duration_millis": 21548,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1441409983837466636/pu/vid/590x738/08VZN6hU2b7QXb7-.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1441409983837466636/pu/vid/480x600/04F9_fVZEPkgXrZw.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1441409983837466636/pu/pl/T9AXodppRosSFu3Z.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1441409983837466636/pu/vid/320x400/Xi1jeD4Ji8qhPp-r.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 1363253641893867530,
+            "id_str": "1363253641893867530",
+            "name": "News For All Ireland",
+            "screen_name": "NewsForAllIre",
+            "location": "Ireland",
+            "description": "News & updates Ireland & Worldwide. \ud83c\uddee\ud83c\uddea \ud83c\udf0f\n          News you will not see in the mainstream.",
+            "url": "https://t.co/OZoiRgxmf4",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/OZoiRgxmf4",
+                    "expanded_url": "https://t.me/newsforallofficial",
+                    "display_url": "t.me/newsforalloffi\u2026",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 4591,
+            "friends_count": 37,
+            "listed_count": 17,
+            "created_at": "Sat Feb 20 22:26:16 +0000 2021",
+            "favourites_count": 130,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1441,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1429603405320892420/HiS4dbDk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429603405320892420/HiS4dbDk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363253641893867530/1614557635",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Sep 25 01:29:42 +0000 2021",
+    "id": 1441575608069328897,
+    "id_str": "1441575608069328897",
+    "text": "Irishman screaming \u201cpure evil\u201d at Hillary today in Belfast https://t.co/JhoeF3Ld0J",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1441409983837466636,
+          "id_str": "1441409983837466636",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1441409983837466636/pu/img/zuQlocI2yCXbmiVV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1441409983837466636/pu/img/zuQlocI2yCXbmiVV.jpg",
+          "url": "https://t.co/JhoeF3Ld0J",
+          "display_url": "pic.twitter.com/JhoeF3Ld0J",
+          "expanded_url": "https://twitter.com/NewsForAllIre/status/1441410111524818947/video/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 590,
+              "h": 738,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 590,
+              "h": 738,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1441410111524818947,
+          "source_status_id_str": "1441410111524818947",
+          "source_user_id": 1363253641893867530,
+          "source_user_id_str": "1363253641893867530"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1441409983837466636,
+          "id_str": "1441409983837466636",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1441409983837466636/pu/img/zuQlocI2yCXbmiVV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1441409983837466636/pu/img/zuQlocI2yCXbmiVV.jpg",
+          "url": "https://t.co/JhoeF3Ld0J",
+          "display_url": "pic.twitter.com/JhoeF3Ld0J",
+          "expanded_url": "https://twitter.com/NewsForAllIre/status/1441410111524818947/video/1",
+          "type": "video",
+          "sizes": {
+            "medium": {
+              "w": 590,
+              "h": 738,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 590,
+              "h": 738,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1441410111524818947,
+          "source_status_id_str": "1441410111524818947",
+          "source_user_id": 1363253641893867530,
+          "source_user_id_str": "1363253641893867530",
+          "video_info": {
+            "aspect_ratio": [
+              295,
+              369
+            ],
+            "duration_millis": 21548,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1441409983837466636/pu/vid/590x738/08VZN6hU2b7QXb7-.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1441409983837466636/pu/vid/480x600/04F9_fVZEPkgXrZw.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1441409983837466636/pu/pl/T9AXodppRosSFu3Z.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1441409983837466636/pu/vid/320x400/Xi1jeD4Ji8qhPp-r.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 1363253641893867530,
+              "id_str": "1363253641893867530",
+              "name": "News For All Ireland",
+              "screen_name": "NewsForAllIre",
+              "location": "Ireland",
+              "description": "News & updates Ireland & Worldwide. \ud83c\uddee\ud83c\uddea \ud83c\udf0f\n          News you will not see in the mainstream.",
+              "url": "https://t.co/OZoiRgxmf4",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/OZoiRgxmf4",
+                      "expanded_url": "https://t.me/newsforallofficial",
+                      "display_url": "t.me/newsforalloffi\u2026",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 4591,
+              "friends_count": 37,
+              "listed_count": 17,
+              "created_at": "Sat Feb 20 22:26:16 +0000 2021",
+              "favourites_count": 130,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 1441,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1429603405320892420/HiS4dbDk_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429603405320892420/HiS4dbDk_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363253641893867530/1614557635",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 592730371,
+      "id_str": "592730371",
+      "name": "Jack Posobiec \ud83c\uddfa\ud83c\uddf8",
+      "screen_name": "JackPosobiec",
+      "location": "Wuhan Lab \u6b66\u6c49",
+      "description": "Senior Editor of @HumanEvents. Fmr Navy intel officer. China analyst.",
+      "url": "https://t.co/fTxYG7YLmC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/fTxYG7YLmC",
+              "expanded_url": "https://podcasts.apple.com/us/podcast/human-events-daily-with-jack-posobiec/id1585243541",
+              "display_url": "podcasts.apple.com/us/podcast/hum\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1464206,
+      "friends_count": 949,
+      "listed_count": 6726,
+      "created_at": "Mon May 28 13:31:22 +0000 2012",
+      "favourites_count": 116199,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 108803,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1418813091140227072/iXDCqBz0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418813091140227072/iXDCqBz0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/592730371/1633872207",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1977,
+    "favorite_count": 8029,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1977,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

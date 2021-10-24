@@ -1,0 +1,281 @@
+{
+  "created_at": "Fri Oct 15 14:34:11 +0000 2021",
+  "id": 1449020786946228232,
+  "id_str": "1449020786946228232",
+  "text": "RT @AllisonPearson: It is high time that school measures like these, which frighten children and spoil their lives, were permanently stoppe\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AllisonPearson",
+        "name": "Allison Pearson",
+        "id": 137413599,
+        "id_str": "137413599",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 13 21:43:53 +0000 2021",
+    "id": 1448404147674484737,
+    "id_str": "1448404147674484737",
+    "text": "It is high time that school measures like these, which frighten children and spoil their lives, were permanently st\u2026 https://t.co/PSIJmFuf2e",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PSIJmFuf2e",
+          "expanded_url": "https://twitter.com/i/web/status/1448404147674484737",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 137413599,
+      "id_str": "137413599",
+      "name": "Allison Pearson",
+      "screen_name": "AllisonPearson",
+      "location": "Cambridge, UK",
+      "description": "Telegraph columnist, apprentice mother, words nut, author How Hard Can It Be? Follows anyone from Wales.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 85231,
+      "friends_count": 18988,
+      "listed_count": 721,
+      "created_at": "Mon Apr 26 17:41:47 +0000 2010",
+      "favourites_count": 12265,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 73134,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/689893297989509121/CIfzAmmu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/689893297989509121/CIfzAmmu_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1448403189645123585,
+    "quoted_status_id_str": "1448403189645123585",
+    "quoted_status": {
+      "created_at": "Wed Oct 13 21:40:05 +0000 2021",
+      "id": 1448403189645123585,
+      "id_str": "1448403189645123585",
+      "text": "Here we go again. My child\u2019s mental health is bottom of the list whilst bojo enjoys his jolly. \ud83e\udd2f @UsforThemUK\u2026 https://t.co/szxlye4qAU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "UsforThemUK",
+            "name": "UsforThemUK \ud83c\udf1f",
+            "id": 1262729670346321922,
+            "id_str": "1262729670346321922",
+            "indices": [
+              97,
+              109
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/szxlye4qAU",
+            "expanded_url": "https://twitter.com/i/web/status/1448403189645123585",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4330798599,
+        "id_str": "4330798599",
+        "name": "Claire",
+        "screen_name": "clairelucashyp",
+        "location": "",
+        "description": "Therapist & Advocate for children",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 452,
+        "friends_count": 332,
+        "listed_count": 0,
+        "created_at": "Mon Nov 30 16:57:12 +0000 2015",
+        "favourites_count": 3792,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1463,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265973569873469441/eCilcUMT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265973569873469441/eCilcUMT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4330798599/1602573318",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 93,
+      "favorite_count": 388,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 112,
+    "favorite_count": 412,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1448403189645123585,
+  "quoted_status_id_str": "1448403189645123585",
+  "retweet_count": 112,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

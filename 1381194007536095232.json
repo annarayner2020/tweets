@@ -1,0 +1,335 @@
+{
+  "created_at": "Sun Apr 11 10:34:47 +0000 2021",
+  "id": 1381194007536095232,
+  "id_str": "1381194007536095232",
+  "text": "RT @Dem_Liberals: Please share with your family and friends. https://t.co/6BvDzC0JyM",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1381048976581914627,
+        "id_str": "1381048976581914627",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eyp4uiKU8AMrBe3.png",
+        "media_url_https": "https://pbs.twimg.com/media/Eyp4uiKU8AMrBe3.png",
+        "url": "https://t.co/6BvDzC0JyM",
+        "display_url": "pic.twitter.com/6BvDzC0JyM",
+        "expanded_url": "https://twitter.com/Dem_Liberals/status/1381048980126064640/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "source_status_id": 1381048980126064640,
+        "source_status_id_str": "1381048980126064640",
+        "source_user_id": 1373102851220676608,
+        "source_user_id_str": "1373102851220676608"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1381048976581914627,
+        "id_str": "1381048976581914627",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eyp4uiKU8AMrBe3.png",
+        "media_url_https": "https://pbs.twimg.com/media/Eyp4uiKU8AMrBe3.png",
+        "url": "https://t.co/6BvDzC0JyM",
+        "display_url": "pic.twitter.com/6BvDzC0JyM",
+        "expanded_url": "https://twitter.com/Dem_Liberals/status/1381048980126064640/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "source_status_id": 1381048980126064640,
+        "source_status_id_str": "1381048980126064640",
+        "source_user_id": 1373102851220676608,
+        "source_user_id_str": "1373102851220676608"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Apr 11 00:58:30 +0000 2021",
+    "id": 1381048980126064640,
+    "id_str": "1381048980126064640",
+    "text": "Please share with your family and friends. https://t.co/6BvDzC0JyM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1381048976581914627,
+          "id_str": "1381048976581914627",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eyp4uiKU8AMrBe3.png",
+          "media_url_https": "https://pbs.twimg.com/media/Eyp4uiKU8AMrBe3.png",
+          "url": "https://t.co/6BvDzC0JyM",
+          "display_url": "pic.twitter.com/6BvDzC0JyM",
+          "expanded_url": "https://twitter.com/Dem_Liberals/status/1381048980126064640/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1381048976581914627,
+          "id_str": "1381048976581914627",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eyp4uiKU8AMrBe3.png",
+          "media_url_https": "https://pbs.twimg.com/media/Eyp4uiKU8AMrBe3.png",
+          "url": "https://t.co/6BvDzC0JyM",
+          "display_url": "pic.twitter.com/6BvDzC0JyM",
+          "expanded_url": "https://twitter.com/Dem_Liberals/status/1381048980126064640/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1373102851220676608,
+      "id_str": "1373102851220676608",
+      "name": "Australia's Representatives is the answer",
+      "screen_name": "Ausreps2021",
+      "location": "",
+      "description": "I support Australia's Representatives, currently being registered, as the only democratic alternative to the totalitarian Liberal and Labor parties.",
+      "url": "https://t.co/5CzfRjJlJW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5CzfRjJlJW",
+              "expanded_url": "http://ausreps.org",
+              "display_url": "ausreps.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 124,
+      "friends_count": 175,
+      "listed_count": 0,
+      "created_at": "Sat Mar 20 02:43:59 +0000 2021",
+      "favourites_count": 10,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1829,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1405261505919025153/Z9YWbvIP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405261505919025153/Z9YWbvIP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1373102851220676608/1621281147",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 247,
+    "favorite_count": 385,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 247,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

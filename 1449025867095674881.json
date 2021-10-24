@@ -1,0 +1,283 @@
+{
+  "created_at": "Fri Oct 15 14:54:22 +0000 2021",
+  "id": 1449025867095674881,
+  "id_str": "1449025867095674881",
+  "text": "RT @BarSolara: Shocking",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BarSolara",
+        "name": "bar solara",
+        "id": 1285707100321128449,
+        "id_str": "1285707100321128449",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Oct 15 14:27:53 +0000 2021",
+    "id": 1449019199427391496,
+    "id_str": "1449019199427391496",
+    "text": "Shocking https://t.co/Kdy4gwQGR2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Kdy4gwQGR2",
+          "expanded_url": "https://twitter.com/ebugos/status/1448717572535422986",
+          "display_url": "twitter.com/ebugos/status/\u2026",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1285707100321128449,
+      "id_str": "1285707100321128449",
+      "name": "MudBlood",
+      "screen_name": "BarSolara",
+      "location": "Nowhere",
+      "description": "\ud835\udd40\ud835\udd65\u2019\ud835\udd64 \ud835\udd39\ud835\udd63\ud835\udd5a\ud835\udd65\ud835\udd5f\ud835\udd56\ud835\udd6a \ud835\udd53\ud835\udd5a\ud835\udd65\ud835\udd54\ud835\udd59  I'm a lover, not a fighter, but I'll light this place on fire",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 503,
+      "friends_count": 422,
+      "listed_count": 1,
+      "created_at": "Tue Jul 21 22:44:12 +0000 2020",
+      "favourites_count": 56261,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 11467,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1423410461257703434/JA7C8pso_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423410461257703434/JA7C8pso_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285707100321128449/1623114256",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1448717572535422986,
+    "quoted_status_id_str": "1448717572535422986",
+    "quoted_status": {
+      "created_at": "Thu Oct 14 18:29:19 +0000 2021",
+      "id": 1448717572535422986,
+      "id_str": "1448717572535422986",
+      "text": "\"I was fine up until I took the vaccine... Yes, the vaccine ended my season. One thousand percent.\u201d\n\nNBA Player Got\u2026 https://t.co/Ep9QrcTIIu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ep9QrcTIIu",
+            "expanded_url": "https://twitter.com/i/web/status/1448717572535422986",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 289247700,
+        "id_str": "289247700",
+        "name": "Edmond Bugos",
+        "screen_name": "ebugos",
+        "location": "Vancouver",
+        "description": "Investment strategist, mining analyst, and economist-journalist",
+        "url": "http://t.co/M4Gg0gjWw7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/M4Gg0gjWw7",
+                "expanded_url": "http://dollarvigilante.com",
+                "display_url": "dollarvigilante.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5883,
+        "friends_count": 186,
+        "listed_count": 41,
+        "created_at": "Thu Apr 28 09:03:18 +0000 2011",
+        "favourites_count": 507,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2180,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/457693164883558400/A5AcSmax_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/457693164883558400/A5AcSmax_normal.jpeg",
+        "profile_link_color": "91791B",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 11,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1448717572535422986,
+  "quoted_status_id_str": "1448717572535422986",
+  "retweet_count": 11,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,328 @@
+{
+  "created_at": "Sun Sep 12 20:49:44 +0000 2021",
+  "id": 1437156496329121796,
+  "id_str": "1437156496329121796",
+  "text": "RT @RealJoelSmalley: France on the brink.\nIt's not about a virus.\n#CanYouSeeItYet",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CanYouSeeItYet",
+        "indices": [
+          66,
+          81
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "RealJoelSmalley",
+        "name": "Joel",
+        "id": 1086212368575680512,
+        "id_str": "1086212368575680512",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Sep 12 06:04:42 +0000 2021",
+    "id": 1436933769265655811,
+    "id_str": "1436933769265655811",
+    "text": "France on the brink.\nIt's not about a virus.\n#CanYouSeeItYet https://t.co/W19nsfrKuH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CanYouSeeItYet",
+          "indices": [
+            45,
+            60
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/W19nsfrKuH",
+          "expanded_url": "https://twitter.com/TheMarieOakes/status/1436755063066726408",
+          "display_url": "twitter.com/TheMarieOakes/\u2026",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1086212368575680512,
+      "id_str": "1086212368575680512",
+      "name": "Joel",
+      "screen_name": "RealJoelSmalley",
+      "location": "Dem. People's Rep. of England",
+      "description": "Calling me anti- this and that is fine. You become that way when you're a critical thinker. Long term, it's good for survival. #LetsGoBrandon",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 48815,
+      "friends_count": 3669,
+      "listed_count": 265,
+      "created_at": "Fri Jan 18 10:43:04 +0000 2019",
+      "favourites_count": 36425,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8447,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1449466834785349638/y1RCIEKj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449466834785349638/y1RCIEKj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086212368575680512/1634234358",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1436755063066726408,
+    "quoted_status_id_str": "1436755063066726408",
+    "quoted_status": {
+      "created_at": "Sat Sep 11 18:14:35 +0000 2021",
+      "id": 1436755063066726408,
+      "id_str": "1436755063066726408",
+      "text": "Intense scene in Paris, France during the protest against the domestic vaccine pass and mandatory vaccinations.\n\nPa\u2026 https://t.co/DnnQLnlHqC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DnnQLnlHqC",
+            "expanded_url": "https://twitter.com/i/web/status/1436755063066726408",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 101597075,
+        "id_str": "101597075",
+        "name": "Marie Oakes",
+        "screen_name": "TheMarieOakes",
+        "location": "",
+        "description": "writer @WestphalianNews\nPodcast: No Malarkey! w/@thelaurenchen\nYT: https://t.co/WKwvzXCHDs\nhttps://t.co/7B8hJwG5lY\nSupport: https://t.co/36RAAZmhoR",
+        "url": "https://t.co/7JQynDV3te",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7JQynDV3te",
+                "expanded_url": "https://westphaliantimes.com/author/marie_oakes/",
+                "display_url": "westphaliantimes.com/author/marie_o\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/WKwvzXCHDs",
+                "expanded_url": "http://bit.ly/36bsAId",
+                "display_url": "bit.ly/36bsAId",
+                "indices": [
+                  67,
+                  90
+                ]
+              },
+              {
+                "url": "https://t.co/7B8hJwG5lY",
+                "expanded_url": "http://marieoakes.substack.com",
+                "display_url": "marieoakes.substack.com",
+                "indices": [
+                  91,
+                  114
+                ]
+              },
+              {
+                "url": "https://t.co/36RAAZmhoR",
+                "expanded_url": "https://www.paypal.com/paypalme/TheMarieOakes",
+                "display_url": "paypal.com/paypalme/TheMa\u2026",
+                "indices": [
+                  124,
+                  147
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 25670,
+        "friends_count": 1046,
+        "listed_count": 152,
+        "created_at": "Sun Jan 03 23:10:49 +0000 2010",
+        "favourites_count": 997,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3801,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8AC0DE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330609223588311043/Xx9y1g53_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330609223588311043/Xx9y1g53_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/101597075/1628353849",
+        "profile_link_color": "08484A",
+        "profile_sidebar_border_color": "0D4042",
+        "profile_sidebar_fill_color": "DB72BF",
+        "profile_text_color": "050505",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 871,
+      "favorite_count": 1662,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 510,
+    "favorite_count": 1398,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1436755063066726408,
+  "quoted_status_id_str": "1436755063066726408",
+  "retweet_count": 510,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

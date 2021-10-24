@@ -1,0 +1,214 @@
+{
+  "created_at": "Sat Sep 25 22:29:25 +0000 2021",
+  "id": 1441892626463031297,
+  "id_str": "1441892626463031297",
+  "text": "I\u2019m starting to think @thecoastguy might actually need to lead the free (what\u2019s left of it) world. https://t.co/h3CIT2blv2",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "thecoastguy",
+        "name": "Neil Oliver",
+        "id": 924541717944131584,
+        "id_str": "924541717944131584",
+        "indices": [
+          22,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/h3CIT2blv2",
+        "expanded_url": "https://twitter.com/trutherbleuchef/status/1441874266849361921",
+        "display_url": "twitter.com/trutherbleuche\u2026",
+        "indices": [
+          99,
+          122
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1441874266849361921,
+  "quoted_status_id_str": "1441874266849361921",
+  "quoted_status": {
+    "created_at": "Sat Sep 25 21:16:28 +0000 2021",
+    "id": 1441874266849361921,
+    "id_str": "1441874266849361921",
+    "text": "Why does @thecoastguy only get 1 slot a week on @GBNEWS?\nIf he was on our screens 24/7 then this would all be over\u2026 https://t.co/007hvMHmUX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "thecoastguy",
+          "name": "Neil Oliver",
+          "id": 924541717944131584,
+          "id_str": "924541717944131584",
+          "indices": [
+            9,
+            21
+          ]
+        },
+        {
+          "screen_name": "GBNEWS",
+          "name": "GB News",
+          "id": 1339166129110065152,
+          "id_str": "1339166129110065152",
+          "indices": [
+            48,
+            55
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/007hvMHmUX",
+          "expanded_url": "https://twitter.com/i/web/status/1441874266849361921",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1731218809,
+      "id_str": "1731218809",
+      "name": "Mr.B",
+      "screen_name": "trutherbleuchef",
+      "location": "Right here right now.",
+      "description": "Bring back the old normal.\nMy views are my own.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17159,
+      "friends_count": 8972,
+      "listed_count": 44,
+      "created_at": "Thu Sep 05 07:48:36 +0000 2013",
+      "favourites_count": 40575,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 69619,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1352654832042180608/om6BRelM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352654832042180608/om6BRelM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731218809/1616540448",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1441830195976146950,
+    "quoted_status_id_str": "1441830195976146950",
+    "retweet_count": 116,
+    "favorite_count": 630,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 6,
+  "favorite_count": 48,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,578 @@
+{
+  "created_at": "Mon Aug 09 14:06:05 +0000 2021",
+  "id": 1424733727167557637,
+  "id_str": "1424733727167557637",
+  "text": "RT @GillianMcKeith: Protest getting very heated at bbc studios white city, London  against the jabs for children.. https://t.co/5YrCDtxuCm",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "GillianMcKeith",
+        "name": "Gillian McKeith",
+        "id": 4849786505,
+        "id_str": "4849786505",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1424706696048521217,
+        "id_str": "1424706696048521217",
+        "indices": [
+          115,
+          138
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1424706696048521217/pu/img/7zkV9Q7y6GsMvt1b.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1424706696048521217/pu/img/7zkV9Q7y6GsMvt1b.jpg",
+        "url": "https://t.co/5YrCDtxuCm",
+        "display_url": "pic.twitter.com/5YrCDtxuCm",
+        "expanded_url": "https://twitter.com/PaulBrown_UK/status/1424707015083974657/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1424707015083974657,
+        "source_status_id_str": "1424707015083974657",
+        "source_user_id": 25658390,
+        "source_user_id_str": "25658390"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1424706696048521217,
+        "id_str": "1424706696048521217",
+        "indices": [
+          115,
+          138
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1424706696048521217/pu/img/7zkV9Q7y6GsMvt1b.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1424706696048521217/pu/img/7zkV9Q7y6GsMvt1b.jpg",
+        "url": "https://t.co/5YrCDtxuCm",
+        "display_url": "pic.twitter.com/5YrCDtxuCm",
+        "expanded_url": "https://twitter.com/PaulBrown_UK/status/1424707015083974657/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1424707015083974657,
+        "source_status_id_str": "1424707015083974657",
+        "source_user_id": 25658390,
+        "source_user_id_str": "25658390",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 20711,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1424706696048521217/pu/vid/540x540/rZkJqWYTRxPWluEd.mp4?tag=12"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1424706696048521217/pu/vid/720x720/txyMhkQBHwlzyB79.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1424706696048521217/pu/pl/-NA4C-jv6T7aBYkj.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1424706696048521217/pu/vid/320x320/agPQLfpcsSnlc1Ms.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 25658390,
+            "id_str": "25658390",
+            "name": "Paul Brown \ud83c\uddec\ud83c\udde7 Browns fan\ud83c\udfc8 London News \ud83c\udfa5Vlogger",
+            "screen_name": "PaulBrown_UK",
+            "location": "London Uk \ud83c\uddec\ud83c\udde7",
+            "description": "London live news \ud83c\udfa5 Cleveland #Browns Vlogger https://t.co/eWP0G3LAwd give us a follow on Instagram https://t.co/62MijbA6Ve",
+            "url": "https://t.co/buwjLWvYTl",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/buwjLWvYTl",
+                    "expanded_url": "https://themrbrown.podbean.com",
+                    "display_url": "themrbrown.podbean.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": [
+                  {
+                    "url": "https://t.co/eWP0G3LAwd",
+                    "expanded_url": "https://www.youtube.com/PaulBrown_CLE",
+                    "display_url": "youtube.com/PaulBrown_CLE",
+                    "indices": [
+                      45,
+                      68
+                    ]
+                  },
+                  {
+                    "url": "https://t.co/62MijbA6Ve",
+                    "expanded_url": "http://instagram.com/paulbrown_uk",
+                    "display_url": "instagram.com/paulbrown_uk",
+                    "indices": [
+                      99,
+                      122
+                    ]
+                  }
+                ]
+              }
+            },
+            "protected": false,
+            "followers_count": 22694,
+            "friends_count": 2940,
+            "listed_count": 149,
+            "created_at": "Sat Mar 21 09:35:27 +0000 2009",
+            "favourites_count": 87333,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12822,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1109035561031999488/6-1uxBX7_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109035561031999488/6-1uxBX7_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25658390/1616331630",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Aug 09 13:57:34 +0000 2021",
+    "id": 1424731585241300993,
+    "id_str": "1424731585241300993",
+    "text": "Protest getting very heated at bbc studios white city, London  against the jabs for children.. https://t.co/5YrCDtxuCm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1424706696048521217,
+          "id_str": "1424706696048521217",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1424706696048521217/pu/img/7zkV9Q7y6GsMvt1b.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1424706696048521217/pu/img/7zkV9Q7y6GsMvt1b.jpg",
+          "url": "https://t.co/5YrCDtxuCm",
+          "display_url": "pic.twitter.com/5YrCDtxuCm",
+          "expanded_url": "https://twitter.com/PaulBrown_UK/status/1424707015083974657/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1424707015083974657,
+          "source_status_id_str": "1424707015083974657",
+          "source_user_id": 25658390,
+          "source_user_id_str": "25658390"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1424706696048521217,
+          "id_str": "1424706696048521217",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1424706696048521217/pu/img/7zkV9Q7y6GsMvt1b.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1424706696048521217/pu/img/7zkV9Q7y6GsMvt1b.jpg",
+          "url": "https://t.co/5YrCDtxuCm",
+          "display_url": "pic.twitter.com/5YrCDtxuCm",
+          "expanded_url": "https://twitter.com/PaulBrown_UK/status/1424707015083974657/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1424707015083974657,
+          "source_status_id_str": "1424707015083974657",
+          "source_user_id": 25658390,
+          "source_user_id_str": "25658390",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 20711,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1424706696048521217/pu/vid/540x540/rZkJqWYTRxPWluEd.mp4?tag=12"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1424706696048521217/pu/vid/720x720/txyMhkQBHwlzyB79.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1424706696048521217/pu/pl/-NA4C-jv6T7aBYkj.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1424706696048521217/pu/vid/320x320/agPQLfpcsSnlc1Ms.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 25658390,
+              "id_str": "25658390",
+              "name": "Paul Brown \ud83c\uddec\ud83c\udde7 Browns fan\ud83c\udfc8 London News \ud83c\udfa5Vlogger",
+              "screen_name": "PaulBrown_UK",
+              "location": "London Uk \ud83c\uddec\ud83c\udde7",
+              "description": "London live news \ud83c\udfa5 Cleveland #Browns Vlogger https://t.co/eWP0G3LAwd give us a follow on Instagram https://t.co/62MijbA6Ve",
+              "url": "https://t.co/buwjLWvYTl",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/buwjLWvYTl",
+                      "expanded_url": "https://themrbrown.podbean.com",
+                      "display_url": "themrbrown.podbean.com",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/eWP0G3LAwd",
+                      "expanded_url": "https://www.youtube.com/PaulBrown_CLE",
+                      "display_url": "youtube.com/PaulBrown_CLE",
+                      "indices": [
+                        45,
+                        68
+                      ]
+                    },
+                    {
+                      "url": "https://t.co/62MijbA6Ve",
+                      "expanded_url": "http://instagram.com/paulbrown_uk",
+                      "display_url": "instagram.com/paulbrown_uk",
+                      "indices": [
+                        99,
+                        122
+                      ]
+                    }
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 22694,
+              "friends_count": 2940,
+              "listed_count": 149,
+              "created_at": "Sat Mar 21 09:35:27 +0000 2009",
+              "favourites_count": 87333,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": false,
+              "statuses_count": 12822,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1109035561031999488/6-1uxBX7_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109035561031999488/6-1uxBX7_normal.png",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/25658390/1616331630",
+              "profile_link_color": "FF691F",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "has_extended_profile": true,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4849786505,
+      "id_str": "4849786505",
+      "name": "Gillian McKeith",
+      "screen_name": "GillianMcKeith",
+      "location": "",
+      "description": "Television Presenter. Nutritionist & Dietetic Technician. No.1 Bestselling Author. Public Health Advocate. Ivy Leaguer. The 'Poo' Lady!! Support your Immunity.",
+      "url": "https://t.co/Rj7Fd3ZpC6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Rj7Fd3ZpC6",
+              "expanded_url": "http://www.gillianmckeith.com",
+              "display_url": "gillianmckeith.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79941,
+      "friends_count": 1775,
+      "listed_count": 309,
+      "created_at": "Tue Jan 26 13:35:37 +0000 2016",
+      "favourites_count": 7677,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 7534,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/691982809389494272/ZsXQlZ5c_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/691982809389494272/ZsXQlZ5c_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4849786505/1453816644",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 915,
+    "favorite_count": 2519,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 915,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

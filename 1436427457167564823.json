@@ -1,0 +1,287 @@
+{
+  "created_at": "Fri Sep 10 20:32:47 +0000 2021",
+  "id": 1436427457167564823,
+  "id_str": "1436427457167564823",
+  "text": "RT @JoseSenco: This is what we also have to start doing, make a mockery of all this nonsense now #Resist \ud83d\udc4a\u270a",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Resist",
+        "indices": [
+          97,
+          104
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JoseSenco",
+        "name": "Jose Senco",
+        "id": 1307748390676172802,
+        "id_str": "1307748390676172802",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 10 20:29:04 +0000 2021",
+    "id": 1436426520181022737,
+    "id_str": "1436426520181022737",
+    "text": "This is what we also have to start doing, make a mockery of all this nonsense now #Resist \ud83d\udc4a\u270a https://t.co/UErWbDrdeU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Resist",
+          "indices": [
+            82,
+            89
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UErWbDrdeU",
+          "expanded_url": "https://twitter.com/Supergranagain/status/1436361603335835681",
+          "display_url": "twitter.com/Supergranagain\u2026",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1307748390676172802,
+      "id_str": "1307748390676172802",
+      "name": "Jose Senco",
+      "screen_name": "JoseSenco",
+      "location": "Cambridge, England",
+      "description": "I just want my normal life back, nothing more, nothing less. British resident, critical thinker. Not anti-vaxx but anti-covid passports and pointless lockdowns.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 691,
+      "friends_count": 1127,
+      "listed_count": 1,
+      "created_at": "Sun Sep 20 18:28:20 +0000 2020",
+      "favourites_count": 27523,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 24132,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1449721683133206536/Ak0_1z0b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449721683133206536/Ak0_1z0b_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1307748390676172802/1617305217",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1436361603335835681,
+    "quoted_status_id_str": "1436361603335835681",
+    "quoted_status": {
+      "created_at": "Fri Sep 10 16:11:07 +0000 2021",
+      "id": 1436361603335835681,
+      "id_str": "1436361603335835681",
+      "text": "HILARIOUS: Man shows up in bee suit to troll school board. \n\n\"I have a 0.0001% chance of being stung by a bee today\u2026 https://t.co/ox5NyPRguR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ox5NyPRguR",
+            "expanded_url": "https://twitter.com/i/web/status/1436361603335835681",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1432577226592202752,
+        "id_str": "1432577226592202752",
+        "name": "Supergran6",
+        "screen_name": "Supergranagain",
+        "location": "",
+        "description": "Brit truth seeker, mind speaker. over the target \ud83d\udd95\ud83d\udd95\ud83d\udd95Tired of sheep, dont fucking bleet at me.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 784,
+        "friends_count": 561,
+        "listed_count": 2,
+        "created_at": "Tue Aug 31 05:33:35 +0000 2021",
+        "favourites_count": 603,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3122,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1432578167911460864/HPxMyBwv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432578167911460864/HPxMyBwv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432577226592202752/1630388240",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8221,
+      "favorite_count": 27138,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1436361603335835681,
+  "quoted_status_id_str": "1436361603335835681",
+  "retweet_count": 3,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

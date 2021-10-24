@@ -1,0 +1,279 @@
+{
+  "created_at": "Sun Feb 28 19:22:52 +0000 2021",
+  "id": 1366106613803847682,
+  "id_str": "1366106613803847682",
+  "text": "Tick tock, the jig is up @CMO_England @BorisJohnson https://t.co/fHJhxOrQKD",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "CMO_England",
+        "name": "Professor Chris Whitty",
+        "id": 1178622443814084608,
+        "id_str": "1178622443814084608",
+        "indices": [
+          25,
+          37
+        ]
+      },
+      {
+        "screen_name": "BorisJohnson",
+        "name": "Boris Johnson",
+        "id": 3131144855,
+        "id_str": "3131144855",
+        "indices": [
+          38,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/fHJhxOrQKD",
+        "expanded_url": "https://twitter.com/ProfessorWerner/status/1366084518294278150",
+        "display_url": "twitter.com/ProfessorWerne\u2026",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5326,
+    "friends_count": 897,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7108,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4082,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1366084518294278150,
+  "quoted_status_id_str": "1366084518294278150",
+  "quoted_status": {
+    "created_at": "Sun Feb 28 17:55:04 +0000 2021",
+    "id": 1366084518294278150,
+    "id_str": "1366084518294278150",
+    "text": "UK death numbers for the elderly above 80 has been rising since the vaccine roll-out. https://t.co/dsHQP8kQU0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1366084345233047555,
+          "id_str": "1366084345233047555",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvVOeWLWgAMRdmR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvVOeWLWgAMRdmR.jpg",
+          "url": "https://t.co/dsHQP8kQU0",
+          "display_url": "pic.twitter.com/dsHQP8kQU0",
+          "expanded_url": "https://twitter.com/ProfessorWerner/status/1366084518294278150/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1393,
+              "h": 873,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 752,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1366084345233047555,
+          "id_str": "1366084345233047555",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvVOeWLWgAMRdmR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvVOeWLWgAMRdmR.jpg",
+          "url": "https://t.co/dsHQP8kQU0",
+          "display_url": "pic.twitter.com/dsHQP8kQU0",
+          "expanded_url": "https://twitter.com/ProfessorWerner/status/1366084518294278150/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1393,
+              "h": 873,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 752,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1294234550927753217,
+      "id_str": "1294234550927753217",
+      "name": "Professor Richard A. Werner",
+      "screen_name": "ProfessorWerner",
+      "location": "views expressed are mine alone",
+      "description": "Nikkei 2 Sept. 1995: Richard A. Werner: \"Quantitative Easing to Create Recovery\". Author: Princes of the Yen https://t.co/n6WkFSuHQy. Views own, not of any other",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/n6WkFSuHQy",
+              "expanded_url": "http://quantumpublishers.com",
+              "display_url": "quantumpublishers.com",
+              "indices": [
+                109,
+                132
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 12452,
+      "friends_count": 359,
+      "listed_count": 135,
+      "created_at": "Fri Aug 14 11:30:21 +0000 2020",
+      "favourites_count": 5604,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1710,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1294235069272543233/pKcj9X6o_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294235069272543233/pKcj9X6o_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1294234550927753217/1597405539",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 166,
+    "favorite_count": 297,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 5,
+  "favorite_count": 8,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

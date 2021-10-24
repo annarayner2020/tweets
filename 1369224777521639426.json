@@ -1,0 +1,195 @@
+{
+  "created_at": "Tue Mar 09 09:53:20 +0000 2021",
+  "id": 1369224777521639426,
+  "id_str": "1369224777521639426",
+  "text": "RT @TheCoronaCure_: I love this.\n\nCovid is a scam.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "TheCoronaCure_",
+        "name": "The Corona Cure",
+        "id": 1303797127651393547,
+        "id_str": "1303797127651393547",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5384,
+    "friends_count": 902,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7471,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4415,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Mar 09 05:35:48 +0000 2021",
+    "id": 1369159966452498434,
+    "id_str": "1369159966452498434",
+    "text": "I love this.\n\nCovid is a scam. https://t.co/GdVYVYb5jg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GdVYVYb5jg",
+          "expanded_url": "https://twitter.com/Renegad88254736/status/1368993361290534913",
+          "display_url": "twitter.com/Renegad8825473\u2026",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1303797127651393547,
+      "id_str": "1303797127651393547",
+      "name": "The Corona Cure",
+      "screen_name": "TheCoronaCure_",
+      "location": "Join me to create anew:",
+      "description": "The cure is simple. Do not comply.\n\nFollow me for daily positive and practical ideas about peaceful civil disobedience.\n\n\u2764\ufe0f",
+      "url": "https://t.co/TmkQIIZyMm",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/TmkQIIZyMm",
+              "expanded_url": "https://www.bournebright.com",
+              "display_url": "bournebright.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26040,
+      "friends_count": 91,
+      "listed_count": 75,
+      "created_at": "Wed Sep 09 20:47:28 +0000 2020",
+      "favourites_count": 31059,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10267,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1398666114838769664/fR4ocFLa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398666114838769664/fR4ocFLa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303797127651393547/1599686311",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1368993361290534913,
+    "quoted_status_id_str": "1368993361290534913",
+    "retweet_count": 71,
+    "favorite_count": 198,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1368993361290534913,
+  "quoted_status_id_str": "1368993361290534913",
+  "retweet_count": 71,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

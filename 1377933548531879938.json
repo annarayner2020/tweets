@@ -1,0 +1,304 @@
+{
+  "created_at": "Fri Apr 02 10:38:53 +0000 2021",
+  "id": 1377933548531879938,
+  "id_str": "1377933548531879938",
+  "text": "RT @AbiChippindale: I'm supporting @BigBrotherWatch. I'm against discrimination, state interference in how we live our lives #NoVaccinePass\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AbiChippindale",
+        "name": "toffeepud\ud83e\udd5b\ud83c\udf38",
+        "id": 1197916914342862848,
+        "id_str": "1197916914342862848",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "BigBrotherWatch",
+        "name": "Big Brother Watch",
+        "id": 76004287,
+        "id_str": "76004287",
+        "indices": [
+          35,
+          51
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Apr 02 10:36:27 +0000 2021",
+    "id": 1377932937199550465,
+    "id_str": "1377932937199550465",
+    "text": "I'm supporting @BigBrotherWatch. I'm against discrimination, state interference in how we live our lives\u2026 https://t.co/CkCASldnin",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BigBrotherWatch",
+          "name": "Big Brother Watch",
+          "id": 76004287,
+          "id_str": "76004287",
+          "indices": [
+            15,
+            31
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CkCASldnin",
+          "expanded_url": "https://twitter.com/i/web/status/1377932937199550465",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1197916914342862848,
+      "id_str": "1197916914342862848",
+      "name": "toffeepud\ud83e\udd5b\ud83c\udf38",
+      "screen_name": "AbiChippindale",
+      "location": "England, United Kingdom",
+      "description": "Autistic woman, mum and autism advocate. \nHonest to the point of brutality, I don't have the energy to dance around the edges...\ud83d\ude06\n\n#51andfedup",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1671,
+      "friends_count": 570,
+      "listed_count": 4,
+      "created_at": "Fri Nov 22 16:37:18 +0000 2019",
+      "favourites_count": 153646,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 78371,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1238872505626083329/HAPbKwwu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238872505626083329/HAPbKwwu_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1377856108002426880,
+    "quoted_status_id_str": "1377856108002426880",
+    "quoted_status": {
+      "created_at": "Fri Apr 02 05:31:10 +0000 2021",
+      "id": 1377856108002426880,
+      "id_str": "1377856108002426880",
+      "text": "\ud83d\udea8BREAKING\ud83d\udea8\n\nWe\u2019ve launched a cross-party campaign with 70+ MPs opposing divisive and discriminatory Covid passes.\n\nhttps://t.co/sMgmWSwAZp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sMgmWSwAZp",
+            "expanded_url": "https://www.bbc.co.uk/news/uk-politics-56605598",
+            "display_url": "bbc.co.uk/news/uk-politi\u2026",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 76004287,
+        "id_str": "76004287",
+        "name": "Big Brother Watch",
+        "screen_name": "BigBrotherWatch",
+        "location": "United Kingdom",
+        "description": "Defending civil liberties and protecting privacy.",
+        "url": "https://t.co/UkP8w97Tr0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UkP8w97Tr0",
+                "expanded_url": "https://bigbrotherwatch.org.uk/join-us/",
+                "display_url": "bigbrotherwatch.org.uk/join-us/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 96289,
+        "friends_count": 3009,
+        "listed_count": 947,
+        "created_at": "Mon Sep 21 11:02:36 +0000 2009",
+        "favourites_count": 5397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 12514,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229388982376706049/Ck5DzrgX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229388982376706049/Ck5DzrgX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76004287/1581944150",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1515,
+      "favorite_count": 4567,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1377856108002426880,
+  "quoted_status_id_str": "1377856108002426880",
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

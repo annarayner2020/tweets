@@ -1,0 +1,248 @@
+{
+  "created_at": "Tue Sep 28 18:02:26 +0000 2021",
+  "id": 1442912598685487108,
+  "id_str": "1442912598685487108",
+  "text": "\ud83e\udd21 https://t.co/egCpwJKyTy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/egCpwJKyTy",
+        "expanded_url": "https://twitter.com/TheMindsEye13/status/1442811866602954758",
+        "display_url": "twitter.com/TheMindsEye13/\u2026",
+        "indices": [
+          2,
+          25
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7760,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4684,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1442811866602954758,
+  "quoted_status_id_str": "1442811866602954758",
+  "quoted_status": {
+    "created_at": "Tue Sep 28 11:22:09 +0000 2021",
+    "id": 1442811866602954758,
+    "id_str": "1442811866602954758",
+    "text": "https://t.co/ji0tjafHUz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1442811839268761602,
+          "id_str": "1442811839268761602",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/FAXluTVXsAIe5Wu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FAXluTVXsAIe5Wu.jpg",
+          "url": "https://t.co/ji0tjafHUz",
+          "display_url": "pic.twitter.com/ji0tjafHUz",
+          "expanded_url": "https://twitter.com/TheMindsEye13/status/1442811866602954758/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 622,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1828,
+              "h": 2000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1097,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1442811839268761602,
+          "id_str": "1442811839268761602",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/FAXluTVXsAIe5Wu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FAXluTVXsAIe5Wu.jpg",
+          "url": "https://t.co/ji0tjafHUz",
+          "display_url": "pic.twitter.com/ji0tjafHUz",
+          "expanded_url": "https://twitter.com/TheMindsEye13/status/1442811866602954758/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 622,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1828,
+              "h": 2000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1097,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1379502584868798466,
+      "id_str": "1379502584868798466",
+      "name": "The Mind's Eye 2",
+      "screen_name": "TheMindsEye13",
+      "location": "",
+      "description": "Seeker of truth and knowledge, no vax ,passport,mask, social distance. Bassist rock metal,\nNew account since Twitler took the huff.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 288,
+      "friends_count": 370,
+      "listed_count": 0,
+      "created_at": "Tue Apr 06 18:34:03 +0000 2021",
+      "favourites_count": 3060,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1408,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1379503488099614722/m42WSyWr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379503488099614722/m42WSyWr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1379502584868798466/1617734429",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 659,
+    "favorite_count": 1213,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "retweet_count": 3,
+  "favorite_count": 22,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

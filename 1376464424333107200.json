@@ -1,0 +1,225 @@
+{
+  "created_at": "Mon Mar 29 09:21:06 +0000 2021",
+  "id": 1376464424333107200,
+  "id_str": "1376464424333107200",
+  "text": "Booooo -  @SusanMichie - trot off and tell the Communist Party that the jig is up. \n\nYour 'several thousand' cases\u2026 https://t.co/ZqGdPi9Kiw",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SusanMichie",
+        "name": "Susan Michie",
+        "id": 161988348,
+        "id_str": "161988348",
+        "indices": [
+          10,
+          22
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ZqGdPi9Kiw",
+        "expanded_url": "https://twitter.com/i/web/status/1376464424333107200",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1376427753768161284,
+  "quoted_status_id_str": "1376427753768161284",
+  "quoted_status": {
+    "created_at": "Mon Mar 29 06:55:23 +0000 2021",
+    "id": 1376427753768161284,
+    "id_str": "1376427753768161284",
+    "text": "Professor @SusanMichie says the rule of six or two households mixing is fine outside but shares her concerns about\u2026 https://t.co/q4Ft4To1fn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SusanMichie",
+          "name": "Susan Michie",
+          "id": 161988348,
+          "id_str": "161988348",
+          "indices": [
+            10,
+            22
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q4Ft4To1fn",
+          "expanded_url": "https://twitter.com/i/web/status/1376427753768161284",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1376425095497932801,
+    "in_reply_to_status_id_str": "1376425095497932801",
+    "in_reply_to_user_id": 19424427,
+    "in_reply_to_user_id_str": "19424427",
+    "in_reply_to_screen_name": "GMB",
+    "user": {
+      "id": 19424427,
+      "id_str": "19424427",
+      "name": "Good Morning Britain",
+      "screen_name": "GMB",
+      "location": "London",
+      "description": "The UK's most talked about breakfast television show. Weekdays from 6am on @ITV. Replies & content may be used on air. See https://t.co/u4BYxXFfJq",
+      "url": "https://t.co/ZZKX14E7X3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZZKX14E7X3",
+              "expanded_url": "http://www.itv.com/gmb",
+              "display_url": "itv.com/gmb",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/u4BYxXFfJq",
+              "expanded_url": "http://itv.com/terms",
+              "display_url": "itv.com/terms",
+              "indices": [
+                123,
+                146
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 900805,
+      "friends_count": 2944,
+      "listed_count": 1852,
+      "created_at": "Sat Jan 24 00:25:12 +0000 2009",
+      "favourites_count": 5246,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 83604,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F3800D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1251008232040136705/eC9hDm_F_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251008232040136705/eC9hDm_F_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19424427/1615560344",
+      "profile_link_color": "B85B0E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "282828",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 94,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 4,
+  "favorite_count": 21,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,284 @@
+{
+  "created_at": "Mon Jan 11 10:28:21 +0000 2021",
+  "id": 1348577480009986049,
+  "id_str": "1348577480009986049",
+  "text": "RT @AlanFreestone: What utter fear-fuelling nonsense.\n\nHow can a NHS doctor continue in good conscience to state falsehoods (flatly contrad\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AlanFreestone",
+        "name": "Alan Freestone",
+        "id": 592201973,
+        "id_str": "592201973",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5175,
+    "friends_count": 887,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6455,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3563,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jan 11 09:12:24 +0000 2021",
+    "id": 1348558366289899520,
+    "id_str": "1348558366289899520",
+    "text": "What utter fear-fuelling nonsense.\n\nHow can a NHS doctor continue in good conscience to state falsehoods (flatly co\u2026 https://t.co/aKirFTv4bW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/aKirFTv4bW",
+          "expanded_url": "https://twitter.com/i/web/status/1348558366289899520",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 592201973,
+      "id_str": "592201973",
+      "name": "Alan Freestone",
+      "screen_name": "AlanFreestone",
+      "location": "Birmingham, England",
+      "description": "#Bitcoin \n'The national interest' doesn't mean what you think it means.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2530,
+      "friends_count": 1645,
+      "listed_count": 60,
+      "created_at": "Sun May 27 22:45:41 +0000 2012",
+      "favourites_count": 95643,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17540,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1363179410434781190/6YMB9ois_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363179410434781190/6YMB9ois_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/592201973/1629628025",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1348363063544713217,
+    "quoted_status_id_str": "1348363063544713217",
+    "quoted_status": {
+      "created_at": "Sun Jan 10 20:16:20 +0000 2021",
+      "id": 1348363063544713217,
+      "id_str": "1348363063544713217",
+      "text": "Patients we are seeing on ICU are often young. Fit. With no medical problems. And they are fighting for their lives\u2026 https://t.co/vi85CRLmAb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vi85CRLmAb",
+            "expanded_url": "https://twitter.com/i/web/status/1348363063544713217",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 343058013,
+        "id_str": "343058013",
+        "name": "Dr Samantha Batt-Rawden \ud83d\udc99",
+        "screen_name": "sbattrawden",
+        "location": "Caring Intensively in the UK",
+        "description": "NHS \ud83d\udc99 | Critical care without walls | ICU doctor | HEMs air ambulance \ud83d\ude81 | EM/ICM/PHEM Senior Registrar | Mum to NHS miracle Joshua | @gmb",
+        "url": "https://t.co/XQmmWQpRam",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XQmmWQpRam",
+                "expanded_url": "https://linktr.ee/sbattrawden",
+                "display_url": "linktr.ee/sbattrawden",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 121826,
+        "friends_count": 2061,
+        "listed_count": 342,
+        "created_at": "Wed Jul 27 00:35:19 +0000 2011",
+        "favourites_count": 17452,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 11756,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375518284255219712/x706Wq-t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375518284255219712/x706Wq-t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/343058013/1609202110",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1983,
+      "favorite_count": 3387,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 6,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1348363063544713217,
+  "quoted_status_id_str": "1348363063544713217",
+  "retweet_count": 6,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

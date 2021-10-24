@@ -1,0 +1,363 @@
+{
+  "created_at": "Sun Aug 22 10:33:01 +0000 2021",
+  "id": 1429391149618315265,
+  "id_str": "1429391149618315265",
+  "text": "RT @InProportion2: But Swedes eat meatballs, like dancing around May poles and shop at IKEA. This is why they have had a relatively good co\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "InProportion2",
+        "name": "InProportion2",
+        "id": 1143953805563912193,
+        "id_str": "1143953805563912193",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5200,
+    "friends_count": 892,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6789,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3810,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Aug 21 11:56:00 +0000 2021",
+    "id": 1429049643904618503,
+    "id_str": "1429049643904618503",
+    "text": "But Swedes eat meatballs, like dancing around May poles and shop at IKEA. This is why they have had a relatively go\u2026 https://t.co/xmDs9BYBoA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xmDs9BYBoA",
+          "expanded_url": "https://twitter.com/i/web/status/1429049643904618503",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1143953805563912193,
+      "id_str": "1143953805563912193",
+      "name": "InProportion2",
+      "screen_name": "InProportion2",
+      "location": "UK",
+      "description": "Is the lockdown really as benign and necessary as many seem to think? History is littered with stupid and deadly mistakes by leaders.\n\nSkepticism is essential.",
+      "url": "https://t.co/EMCNwYaqYJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/EMCNwYaqYJ",
+              "expanded_url": "http://inproportion2.talkigy.com",
+              "display_url": "inproportion2.talkigy.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 21256,
+      "friends_count": 1465,
+      "listed_count": 184,
+      "created_at": "Wed Jun 26 18:46:55 +0000 2019",
+      "favourites_count": 17250,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35178,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1412093115737980928/jcxfeGWw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412093115737980928/jcxfeGWw_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143953805563912193/1611101150",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1429001201694220288,
+    "quoted_status_id_str": "1429001201694220288",
+    "quoted_status": {
+      "created_at": "Sat Aug 21 08:43:30 +0000 2021",
+      "id": 1429001201694220288,
+      "id_str": "1429001201694220288",
+      "text": "@OzraeliAvi Lockdowns do not work. https://t.co/PHRST00CPt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OzraeliAvi",
+            "name": "Avi Yemini \ud83c\udde6\ud83c\uddfa\ud83c\uddee\ud83c\uddf1",
+            "id": 97054224,
+            "id_str": "97054224",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1429001165992235013,
+            "id_str": "1429001165992235013",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/E9TU_UKWEAUx54k.png",
+            "media_url_https": "https://pbs.twimg.com/media/E9TU_UKWEAUx54k.png",
+            "url": "https://t.co/PHRST00CPt",
+            "display_url": "pic.twitter.com/PHRST00CPt",
+            "expanded_url": "https://twitter.com/jeremy_hume/status/1429001201694220288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1000,
+                "h": 701,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 477,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 701,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1429001165992235013,
+            "id_str": "1429001165992235013",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/E9TU_UKWEAUx54k.png",
+            "media_url_https": "https://pbs.twimg.com/media/E9TU_UKWEAUx54k.png",
+            "url": "https://t.co/PHRST00CPt",
+            "display_url": "pic.twitter.com/PHRST00CPt",
+            "expanded_url": "https://twitter.com/jeremy_hume/status/1429001201694220288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1000,
+                "h": 701,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 477,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 701,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1428922594082783240,
+      "in_reply_to_status_id_str": "1428922594082783240",
+      "in_reply_to_user_id": 97054224,
+      "in_reply_to_user_id_str": "97054224",
+      "in_reply_to_screen_name": "OzraeliAvi",
+      "user": {
+        "id": 1269773684518146052,
+        "id_str": "1269773684518146052",
+        "name": "Jeremy Hume",
+        "screen_name": "jeremy_hume",
+        "location": "Oxford",
+        "description": "Data Scientist. Born in Wales, studied in Scotland. Fan of The Wire. The UK government's response to Covid has been the biggest overreaction in British history.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5109,
+        "friends_count": 736,
+        "listed_count": 33,
+        "created_at": "Sun Jun 07 23:30:22 +0000 2020",
+        "favourites_count": 609,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 303221,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299987007750504450/GlSiVKSP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299987007750504450/GlSiVKSP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1269773684518146052/1621713995",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 15,
+    "favorite_count": 39,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1429001201694220288,
+  "quoted_status_id_str": "1429001201694220288",
+  "retweet_count": 15,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

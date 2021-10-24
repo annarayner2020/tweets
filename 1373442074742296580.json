@@ -1,0 +1,199 @@
+{
+  "created_at": "Sun Mar 21 01:11:22 +0000 2021",
+  "id": 1373442074742296580,
+  "id_str": "1373442074742296580",
+  "text": "RT @SakrRuth: @PeterStefanovi2 When the Facist Nazi Party came to power, German Newspaper editors were ordered not to report any news that\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SakrRuth",
+        "name": "SakrRuth\ud83c\uddf5\ud83c\uddf8 \ud83d\udfe8\ud83d\udfe5 #StayAlertToToryBullshit 3.5 \ud83d\udc99",
+        "id": 777678606,
+        "id_str": "777678606",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "PeterStefanovi2",
+        "name": "Peter Stefanovic",
+        "id": 2441666255,
+        "id_str": "2441666255",
+        "indices": [
+          14,
+          30
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Mar 18 17:01:53 +0000 2021",
+    "id": 1372594117440634888,
+    "id_str": "1372594117440634888",
+    "text": "@PeterStefanovi2 When the Facist Nazi Party came to power, German Newspaper editors were ordered not to report any\u2026 https://t.co/5vjZz5srHa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PeterStefanovi2",
+          "name": "Peter Stefanovic",
+          "id": 2441666255,
+          "id_str": "2441666255",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5vjZz5srHa",
+          "expanded_url": "https://twitter.com/i/web/status/1372594117440634888",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1372582566780411906,
+    "in_reply_to_status_id_str": "1372582566780411906",
+    "in_reply_to_user_id": 2441666255,
+    "in_reply_to_user_id_str": "2441666255",
+    "in_reply_to_screen_name": "PeterStefanovi2",
+    "user": {
+      "id": 777678606,
+      "id_str": "777678606",
+      "name": "SakrRuth\ud83c\uddf5\ud83c\uddf8 \ud83d\udfe8\ud83d\udfe5 #StayAlertToToryBullshit 3.5 \ud83d\udc99",
+      "screen_name": "SakrRuth",
+      "location": "UK",
+      "description": "Shaun, homeless at 16 addicted to Heroin, dead at 22! Failed by an inadequate underfunded system. I knew shaun he was kind sweet & talented. He deserved better!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5938,
+      "friends_count": 6285,
+      "listed_count": 14,
+      "created_at": "Fri Aug 24 08:06:49 +0000 2012",
+      "favourites_count": 73727,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 82490,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1449710751804006402/8TFZroRq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449710751804006402/8TFZroRq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/777678606/1547858028",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 63,
+    "favorite_count": 106,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 63,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

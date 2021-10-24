@@ -1,0 +1,139 @@
+{
+  "created_at": "Thu Dec 31 06:24:25 +0000 2020",
+  "id": 1344529827735461888,
+  "id_str": "1344529827735461888",
+  "text": "@drgamzu @bjames280961 @trentconsultant @DrEmilyGrossman @StevenB20228355 @BorisJohnson The virus is bad and there\u2026 https://t.co/b4y4jf3JCf",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "drgamzu",
+        "name": "\u05d7\u05d9\u05d9\u05dd \u05d2\u05de\u05d6\u05d5 - \u062c\u0645\u0632\u0648 - Gamzu",
+        "id": 1155137452098670593,
+        "id_str": "1155137452098670593",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "bjames280961",
+        "name": "BJ",
+        "id": 980930352477802496,
+        "id_str": "980930352477802496",
+        "indices": [
+          9,
+          22
+        ]
+      },
+      {
+        "screen_name": "trentconsultant",
+        "name": "Mike Henley \ud83e\udd28",
+        "id": 425739445,
+        "id_str": "425739445",
+        "indices": [
+          23,
+          39
+        ]
+      },
+      {
+        "screen_name": "DrEmilyGrossman",
+        "name": "Dr Emily Grossman",
+        "id": 1094540586,
+        "id_str": "1094540586",
+        "indices": [
+          40,
+          56
+        ]
+      },
+      {
+        "screen_name": "BorisJohnson",
+        "name": "Boris Johnson",
+        "id": 3131144855,
+        "id_str": "3131144855",
+        "indices": [
+          74,
+          87
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/b4y4jf3JCf",
+        "expanded_url": "https://twitter.com/i/web/status/1344529827735461888",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1344430463339941888,
+  "in_reply_to_status_id_str": "1344430463339941888",
+  "in_reply_to_user_id": 1155137452098670593,
+  "in_reply_to_user_id_str": "1155137452098670593",
+  "in_reply_to_screen_name": "drgamzu",
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5194,
+    "friends_count": 877,
+    "listed_count": 13,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6202,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3338,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

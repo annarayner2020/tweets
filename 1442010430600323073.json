@@ -1,0 +1,193 @@
+{
+  "created_at": "Sun Sep 26 06:17:32 +0000 2021",
+  "id": 1442010430600323073,
+  "id_str": "1442010430600323073",
+  "text": "When journalists try to do their job, they are threatened &amp; intimidated. It is deeply unnerving. https://t.co/rFwLGymVyn",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/rFwLGymVyn",
+        "expanded_url": "https://twitter.com/_taylorhudak/status/1441913814837075968",
+        "display_url": "twitter.com/_taylorhudak/s\u2026",
+        "indices": [
+          101,
+          124
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1441913814837075968,
+  "quoted_status_id_str": "1441913814837075968",
+  "quoted_status": {
+    "created_at": "Sat Sep 25 23:53:37 +0000 2021",
+    "id": 1441913814837075968,
+    "id_str": "1441913814837075968",
+    "text": "Hi all, I want you to know that I am being harassed and threatened by persons unknown. These are just the latest me\u2026 https://t.co/sPYGwTWD0S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sPYGwTWD0S",
+          "expanded_url": "https://twitter.com/i/web/status/1441913814837075968",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 906273810248196097,
+      "id_str": "906273810248196097",
+      "name": "Taylor Hudak",
+      "screen_name": "_taylorhudak",
+      "location": "USA",
+      "description": "MA, journalist @acTVismMunich, @TLAVagabond & @tl_eng",
+      "url": "https://t.co/o5n4DpDwYO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/o5n4DpDwYO",
+              "expanded_url": "https://t.me/taylorhudak",
+              "display_url": "t.me/taylorhudak",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 22561,
+      "friends_count": 299,
+      "listed_count": 189,
+      "created_at": "Fri Sep 08 21:51:28 +0000 2017",
+      "favourites_count": 11395,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9832,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1448484943059902468/4Vi0H2ae_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448484943059902468/4Vi0H2ae_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/906273810248196097/1632440917",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 117,
+    "favorite_count": 288,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 22,
+  "favorite_count": 59,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,212 @@
+{
+  "created_at": "Sat Oct 09 06:48:21 +0000 2021",
+  "id": 1446729226514800641,
+  "id_str": "1446729226514800641",
+  "text": "RT @jeffreyatucker: I feel like I follow this stuff as closely as anyone but this one just stuns me. https://t.co/6JbrmU5hmu",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jeffreyatucker",
+        "name": "Jeffrey A Tucker",
+        "id": 23485648,
+        "id_str": "23485648",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/6JbrmU5hmu",
+        "expanded_url": "https://www.thedesertreview.com/opinion/columnists/inventor-of-mrna-banned-by-the-new-england-journal-of-medicine/article_4350cf46-27af-11ec-bf58-ab6dcf0152c3.html",
+        "display_url": "thedesertreview.com/opinion/column\u2026",
+        "indices": [
+          101,
+          124
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Oct 08 03:07:16 +0000 2021",
+    "id": 1446311202968244225,
+    "id_str": "1446311202968244225",
+    "text": "I feel like I follow this stuff as closely as anyone but this one just stuns me. https://t.co/6JbrmU5hmu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6JbrmU5hmu",
+          "expanded_url": "https://www.thedesertreview.com/opinion/columnists/inventor-of-mrna-banned-by-the-new-england-journal-of-medicine/article_4350cf46-27af-11ec-bf58-ab6dcf0152c3.html",
+          "display_url": "thedesertreview.com/opinion/column\u2026",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23485648,
+      "id_str": "23485648",
+      "name": "Jeffrey A Tucker",
+      "screen_name": "jeffreyatucker",
+      "location": "Austin, TX ",
+      "description": "Prez @brownstoneinst, Publisher https://t.co/d0ucnJNoUs",
+      "url": "https://t.co/sJXoJJbLg0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/sJXoJJbLg0",
+              "expanded_url": "https://jeffreytucker.me",
+              "display_url": "jeffreytucker.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/d0ucnJNoUs",
+              "expanded_url": "https://www.amazon.com/Great-Covid-Panic-What-Happened/dp/1630692778/ref=sr_1_1?crid=24T789LNKXA86&dchild=1&keywords=the+great+c",
+              "display_url": "amazon.com/Great-Covid-Pa\u2026",
+              "indices": [
+                32,
+                55
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 81105,
+      "friends_count": 2838,
+      "listed_count": 1200,
+      "created_at": "Mon Mar 09 19:27:50 +0000 2009",
+      "favourites_count": 26075,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 53475,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1343728829500715010/zep0nppv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343728829500715010/zep0nppv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23485648/1631891728",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 292,
+    "favorite_count": 812,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 292,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

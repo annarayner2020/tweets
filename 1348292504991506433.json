@@ -1,0 +1,203 @@
+{
+  "created_at": "Sun Jan 10 15:35:57 +0000 2021",
+  "id": 1348292504991506433,
+  "id_str": "1348292504991506433",
+  "text": "\ud83c\udde8\ud83c\uddf3\ud83c\udde8\ud83c\uddf3\ud83c\udde8\ud83c\uddf3\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7- let\u2019s play \u2018spot the difference\u2019 https://t.co/no5yDgSgVu",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/no5yDgSgVu",
+        "expanded_url": "https://twitter.com/DailyMailUK/status/1347820433702268929",
+        "display_url": "twitter.com/DailyMailUK/st\u2026",
+        "indices": [
+          47,
+          70
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5169,
+    "friends_count": 887,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6412,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3525,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1347820433702268929,
+  "quoted_status_id_str": "1347820433702268929",
+  "quoted_status": {
+    "created_at": "Sat Jan 09 08:20:07 +0000 2021",
+    "id": 1347820433702268929,
+    "id_str": "1347820433702268929",
+    "text": "No more warnings: Police will focus on enforcing the lockdown rules rather than explaining them to public https://t.co/SpUf2RAJXu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SpUf2RAJXu",
+          "expanded_url": "https://trib.al/thE77JG",
+          "display_url": "trib.al/thE77JG",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 111556423,
+      "id_str": "111556423",
+      "name": "Daily Mail U.K.",
+      "screen_name": "DailyMailUK",
+      "location": "London, UK",
+      "description": "For the latest updates on breaking news visit our website: https://t.co/5os3efxRyQ \ud83c\uddec\ud83c\udde7",
+      "url": "http://t.co/nRGzxnMROY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/nRGzxnMROY",
+              "expanded_url": "http://dailymail.co.uk/news",
+              "display_url": "dailymail.co.uk/news",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/5os3efxRyQ",
+              "expanded_url": "http://www.dailymail.co.uk",
+              "display_url": "dailymail.co.uk",
+              "indices": [
+                59,
+                82
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 588764,
+      "friends_count": 540,
+      "listed_count": 3929,
+      "created_at": "Fri Feb 05 10:18:15 +0000 2010",
+      "favourites_count": 723,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 336702,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1194268356108541952/VUP4n4nK_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194268356108541952/VUP4n4nK_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/111556423/1488911323",
+      "profile_link_color": "00ACD2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3E3E3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 68,
+    "favorite_count": 178,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 4,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

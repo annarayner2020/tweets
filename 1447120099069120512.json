@@ -1,0 +1,367 @@
+{
+  "created_at": "Sun Oct 10 08:41:32 +0000 2021",
+  "id": 1447120099069120512,
+  "id_str": "1447120099069120512",
+  "text": "RT @antoguerrera: From today\u2019s @thesundaytimes https://t.co/FkyC5qpvJM",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "antoguerrera",
+        "name": "Antonello Guerrera",
+        "id": 147991962,
+        "id_str": "147991962",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "thesundaytimes",
+        "name": "The Sunday Times",
+        "id": 102707504,
+        "id_str": "102707504",
+        "indices": [
+          31,
+          46
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1447113976765206530,
+        "id_str": "1447113976765206530",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/FBUufqaX0AIKXat.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FBUufqaX0AIKXat.jpg",
+        "url": "https://t.co/FkyC5qpvJM",
+        "display_url": "pic.twitter.com/FkyC5qpvJM",
+        "expanded_url": "https://twitter.com/antoguerrera/status/1447113980640735237/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 828,
+            "h": 512,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 420,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 828,
+            "h": 512,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1447113980640735237,
+        "source_status_id_str": "1447113980640735237",
+        "source_user_id": 147991962,
+        "source_user_id_str": "147991962"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1447113976765206530,
+        "id_str": "1447113976765206530",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/FBUufqaX0AIKXat.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FBUufqaX0AIKXat.jpg",
+        "url": "https://t.co/FkyC5qpvJM",
+        "display_url": "pic.twitter.com/FkyC5qpvJM",
+        "expanded_url": "https://twitter.com/antoguerrera/status/1447113980640735237/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 828,
+            "h": 512,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 420,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 828,
+            "h": 512,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1447113980640735237,
+        "source_status_id_str": "1447113980640735237",
+        "source_user_id": 147991962,
+        "source_user_id_str": "147991962"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 10 08:17:13 +0000 2021",
+    "id": 1447113980640735237,
+    "id_str": "1447113980640735237",
+    "text": "From today\u2019s @thesundaytimes https://t.co/FkyC5qpvJM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "thesundaytimes",
+          "name": "The Sunday Times",
+          "id": 102707504,
+          "id_str": "102707504",
+          "indices": [
+            13,
+            28
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1447113976765206530,
+          "id_str": "1447113976765206530",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBUufqaX0AIKXat.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBUufqaX0AIKXat.jpg",
+          "url": "https://t.co/FkyC5qpvJM",
+          "display_url": "pic.twitter.com/FkyC5qpvJM",
+          "expanded_url": "https://twitter.com/antoguerrera/status/1447113980640735237/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 828,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 420,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 828,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1447113976765206530,
+          "id_str": "1447113976765206530",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBUufqaX0AIKXat.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBUufqaX0AIKXat.jpg",
+          "url": "https://t.co/FkyC5qpvJM",
+          "display_url": "pic.twitter.com/FkyC5qpvJM",
+          "expanded_url": "https://twitter.com/antoguerrera/status/1447113980640735237/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 828,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 420,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 828,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 147991962,
+      "id_str": "147991962",
+      "name": "Antonello Guerrera",
+      "screen_name": "antoguerrera",
+      "location": "London, England",
+      "description": "Journalist, 1984, UK correspondent & Westminster Lobby @repubblica \ud83c\uddec\ud83c\udde7\nCorrispondente da Londra La Repubblica.\n\u00dcberfl\u00e2neur.\n\ud83d\udce9 a.guerrera@repubblica.it",
+      "url": "https://t.co/QDy6JxLezQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/QDy6JxLezQ",
+              "expanded_url": "https://ricerca.repubblica.it/ricerca/repubblica?author=&sortby=score&query=antonello+guerrera&fromd",
+              "display_url": "ricerca.repubblica.it/ricerca/repubb\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 34722,
+      "friends_count": 2291,
+      "listed_count": 574,
+      "created_at": "Tue May 25 15:18:35 +0000 2010",
+      "favourites_count": 29179,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 41425,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1325990525019828229/5PajaT8l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325990525019828229/5PajaT8l_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/147991962/1584475980",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 91,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 24,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

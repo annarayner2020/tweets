@@ -1,0 +1,201 @@
+{
+  "created_at": "Thu Sep 16 13:54:28 +0000 2021",
+  "id": 1438501541023866884,
+  "id_str": "1438501541023866884",
+  "text": "RT @collateralglbl: 11/\nThere are concerns about increased exploitation of vulnerable children, child sexual exploitation, online abuse and\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "collateralglbl",
+        "name": "Collateral Global Charity",
+        "id": 1321458598917132293,
+        "id_str": "1321458598917132293",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Sep 15 10:09:01 +0000 2021",
+    "id": 1438082419379290112,
+    "id_str": "1438082419379290112",
+    "text": "11/\nThere are concerns about increased exploitation of vulnerable children, child sexual exploitation, online abuse\u2026 https://t.co/Rl207eMdQ9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Rl207eMdQ9",
+          "expanded_url": "https://twitter.com/i/web/status/1438082419379290112",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1438082417315700738,
+    "in_reply_to_status_id_str": "1438082417315700738",
+    "in_reply_to_user_id": 1321458598917132293,
+    "in_reply_to_user_id_str": "1321458598917132293",
+    "in_reply_to_screen_name": "collateralglbl",
+    "user": {
+      "id": 1321458598917132293,
+      "id_str": "1321458598917132293",
+      "name": "Collateral Global Charity",
+      "screen_name": "collateralglbl",
+      "location": "International",
+      "description": "Understanding the global impact of Covid-19 restrictions,  to inform better decisions in the future. #AllOfUs \n\nPlease donate https://t.co/dDbs6MQK7b",
+      "url": "https://t.co/73leWKYim7",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/73leWKYim7",
+              "expanded_url": "http://www.collateralglobal.org",
+              "display_url": "collateralglobal.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/dDbs6MQK7b",
+              "expanded_url": "https://tinyurl.com/2ksvzsxp",
+              "display_url": "tinyurl.com/2ksvzsxp",
+              "indices": [
+                126,
+                149
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 16373,
+      "friends_count": 326,
+      "listed_count": 97,
+      "created_at": "Wed Oct 28 14:28:02 +0000 2020",
+      "favourites_count": 121,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 831,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1388210496545898498/zfgvfwbw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388210496545898498/zfgvfwbw_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321458598917132293/1619810150",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 12,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

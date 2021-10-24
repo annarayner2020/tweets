@@ -1,0 +1,470 @@
+{
+  "created_at": "Fri Sep 10 20:56:29 +0000 2021",
+  "id": 1436433421409132574,
+  "id_str": "1436433421409132574",
+  "text": "RT @scottygb: Fireworks on the BBC News Channel with Paul Gambaccini https://t.co/oydH7dPB38",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "scottygb",
+        "name": "Scott Bryan",
+        "id": 15721456,
+        "id_str": "15721456",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1435895804925984770,
+        "id_str": "1435895804925984770",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435895804925984770/pu/img/ReYexCo1ZG44rSAW.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435895804925984770/pu/img/ReYexCo1ZG44rSAW.jpg",
+        "url": "https://t.co/oydH7dPB38",
+        "display_url": "pic.twitter.com/oydH7dPB38",
+        "expanded_url": "https://twitter.com/scottygb/status/1435895945191952385/video/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1272,
+            "h": 720,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 679,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 385,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1435895945191952385,
+        "source_status_id_str": "1435895945191952385",
+        "source_user_id": 15721456,
+        "source_user_id_str": "15721456"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1435895804925984770,
+        "id_str": "1435895804925984770",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435895804925984770/pu/img/ReYexCo1ZG44rSAW.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435895804925984770/pu/img/ReYexCo1ZG44rSAW.jpg",
+        "url": "https://t.co/oydH7dPB38",
+        "display_url": "pic.twitter.com/oydH7dPB38",
+        "expanded_url": "https://twitter.com/scottygb/status/1435895945191952385/video/1",
+        "type": "video",
+        "sizes": {
+          "large": {
+            "w": 1272,
+            "h": 720,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 679,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 385,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1435895945191952385,
+        "source_status_id_str": "1435895945191952385",
+        "source_user_id": 15721456,
+        "source_user_id_str": "15721456",
+        "video_info": {
+          "aspect_ratio": [
+            53,
+            30
+          ],
+          "duration_millis": 109397,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1435895804925984770/pu/vid/1272x720/r3tXYKl0GJ4RoaFa.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1435895804925984770/pu/pl/NA3kjcGXdvxg8li1.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1435895804925984770/pu/vid/636x360/Zw0zAcEJkORR2C_S.mp4?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1435895804925984770/pu/vid/476x270/T_I6wFXSWgy3joky.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 15721456,
+            "id_str": "15721456",
+            "name": "Scott Bryan",
+            "screen_name": "scottygb",
+            "location": "East London",
+            "description": "TV critic and broadcaster / Must Watch podcast on @bbc5live and @BBCSounds / Bake Off @Guardian liveblog. Dyslexic. scottglennbryan@gmail.com",
+            "url": "https://t.co/wlBd2JY9T6",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/wlBd2JY9T6",
+                    "expanded_url": "http://www.scottybryan.com",
+                    "display_url": "scottybryan.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 62725,
+            "friends_count": 3240,
+            "listed_count": 514,
+            "created_at": "Mon Aug 04 12:33:01 +0000 2008",
+            "favourites_count": 32327,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 78103,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15721456/1406021532",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Sep 09 09:20:45 +0000 2021",
+    "id": 1435895945191952385,
+    "id_str": "1435895945191952385",
+    "text": "Fireworks on the BBC News Channel with Paul Gambaccini https://t.co/oydH7dPB38",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1435895804925984770,
+          "id_str": "1435895804925984770",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435895804925984770/pu/img/ReYexCo1ZG44rSAW.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435895804925984770/pu/img/ReYexCo1ZG44rSAW.jpg",
+          "url": "https://t.co/oydH7dPB38",
+          "display_url": "pic.twitter.com/oydH7dPB38",
+          "expanded_url": "https://twitter.com/scottygb/status/1435895945191952385/video/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1272,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 679,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1435895804925984770,
+          "id_str": "1435895804925984770",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435895804925984770/pu/img/ReYexCo1ZG44rSAW.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435895804925984770/pu/img/ReYexCo1ZG44rSAW.jpg",
+          "url": "https://t.co/oydH7dPB38",
+          "display_url": "pic.twitter.com/oydH7dPB38",
+          "expanded_url": "https://twitter.com/scottygb/status/1435895945191952385/video/1",
+          "type": "video",
+          "sizes": {
+            "large": {
+              "w": 1272,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 679,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              53,
+              30
+            ],
+            "duration_millis": 109397,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1435895804925984770/pu/vid/1272x720/r3tXYKl0GJ4RoaFa.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1435895804925984770/pu/pl/NA3kjcGXdvxg8li1.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1435895804925984770/pu/vid/636x360/Zw0zAcEJkORR2C_S.mp4?tag=12"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1435895804925984770/pu/vid/476x270/T_I6wFXSWgy3joky.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15721456,
+      "id_str": "15721456",
+      "name": "Scott Bryan",
+      "screen_name": "scottygb",
+      "location": "East London",
+      "description": "TV critic and broadcaster / Must Watch podcast on @bbc5live and @BBCSounds / Bake Off @Guardian liveblog. Dyslexic. scottglennbryan@gmail.com",
+      "url": "https://t.co/wlBd2JY9T6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wlBd2JY9T6",
+              "expanded_url": "http://www.scottybryan.com",
+              "display_url": "scottybryan.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 62725,
+      "friends_count": 3240,
+      "listed_count": 514,
+      "created_at": "Mon Aug 04 12:33:01 +0000 2008",
+      "favourites_count": 32327,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 78103,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15721456/1406021532",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 653,
+    "favorite_count": 1515,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 653,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

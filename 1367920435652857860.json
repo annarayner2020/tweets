@@ -1,0 +1,232 @@
+{
+  "created_at": "Fri Mar 05 19:30:21 +0000 2021",
+  "id": 1367920435652857860,
+  "id_str": "1367920435652857860",
+  "text": "RT @EUbrainwashing: @JMC_Starbug @SeanCollins66 Update your operating system  and anti-virus software or stick with the time tested open so\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "EUbrainwashing",
+        "name": "ConVirus & COn2 \ud835\udd39\ud835\udd63\ud835\udd52\ud835\udd5a\ud835\udd5f\ud835\udd68\ud835\udd52\ud835\udd64\ud835\udd59\ud835\udd5a\ud835\udd5f\ud835\udd58",
+        "id": 82946823,
+        "id_str": "82946823",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "JMC_Starbug",
+        "name": "@Baldwhinger",
+        "id": 1020301946,
+        "id_str": "1020301946",
+        "indices": [
+          20,
+          32
+        ]
+      },
+      {
+        "screen_name": "SeanCollins66",
+        "name": "Sean collins",
+        "id": 206996636,
+        "id_str": "206996636",
+        "indices": [
+          33,
+          47
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5384,
+    "friends_count": 902,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7471,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4415,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Mar 04 18:13:07 +0000 2021",
+    "id": 1367538612598960135,
+    "id_str": "1367538612598960135",
+    "text": "@JMC_Starbug @SeanCollins66 Update your operating system  and anti-virus software or stick with the time tested ope\u2026 https://t.co/eHYO7Sc8Tn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JMC_Starbug",
+          "name": "@Baldwhinger",
+          "id": 1020301946,
+          "id_str": "1020301946",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "SeanCollins66",
+          "name": "Sean collins",
+          "id": 206996636,
+          "id_str": "206996636",
+          "indices": [
+            13,
+            27
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eHYO7Sc8Tn",
+          "expanded_url": "https://twitter.com/i/web/status/1367538612598960135",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1367466223043301380,
+    "in_reply_to_status_id_str": "1367466223043301380",
+    "in_reply_to_user_id": 1020301946,
+    "in_reply_to_user_id_str": "1020301946",
+    "in_reply_to_screen_name": "JMC_Starbug",
+    "user": {
+      "id": 82946823,
+      "id_str": "82946823",
+      "name": "ConVirus & COn2 \ud835\udd39\ud835\udd63\ud835\udd52\ud835\udd5a\ud835\udd5f\ud835\udd68\ud835\udd52\ud835\udd64\ud835\udd59\ud835\udd5a\ud835\udd5f\ud835\udd58",
+      "screen_name": "EUbrainwashing",
+      "location": "British Isles",
+      "description": "\u2018the most brilliant propagandist technique .. must confine itself to a few points and repeat them over and over\u2019 Mein Kampf by AdoIf HitIer (not an endorsement)",
+      "url": "https://t.co/OvmB3N6P0e",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/OvmB3N6P0e",
+              "expanded_url": "http://eubrainwashing.blogspot.com/",
+              "display_url": "eubrainwashing.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1346,
+      "friends_count": 689,
+      "listed_count": 12,
+      "created_at": "Fri Oct 16 18:55:30 +0000 2009",
+      "favourites_count": 5444,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 28988,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/474906793/05-11-06_194_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/474906793/05-11-06_194_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/82946823/1626736822",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

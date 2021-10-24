@@ -1,0 +1,317 @@
+{
+  "created_at": "Tue Mar 02 06:38:45 +0000 2021",
+  "id": 1366639092910469120,
+  "id_str": "1366639092910469120",
+  "text": "RT @JoRogersUK: Damn straight.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JoRogersUK",
+        "name": "Jo Rogers \ud83c\udf38",
+        "id": 136929904,
+        "id_str": "136929904",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5381,
+    "friends_count": 900,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7316,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4269,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Mar 01 23:18:54 +0000 2021",
+    "id": 1366528401515905031,
+    "id_str": "1366528401515905031",
+    "text": "Damn straight. https://t.co/l6jRqJZ3q1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/l6jRqJZ3q1",
+          "expanded_url": "https://twitter.com/Fox_Claire/status/1366425491813642250",
+          "display_url": "twitter.com/Fox_Claire/sta\u2026",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 136929904,
+      "id_str": "136929904",
+      "name": "Jo Rogers \ud83c\udf38",
+      "screen_name": "JoRogersUK",
+      "location": "London",
+      "description": "Legal problem-solver. Democracy Declarer: https://t.co/hOTXw869S7",
+      "url": "https://t.co/q1sABZ2Ivg",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/q1sABZ2Ivg",
+              "expanded_url": "http://lawyersforliberty.uk",
+              "display_url": "lawyersforliberty.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/hOTXw869S7",
+              "expanded_url": "https://democracydeclaration.com/",
+              "display_url": "democracydeclaration.com",
+              "indices": [
+                42,
+                65
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4310,
+      "friends_count": 603,
+      "listed_count": 29,
+      "created_at": "Sun Apr 25 08:52:43 +0000 2010",
+      "favourites_count": 6473,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1917,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1437917355435233283/snQeR1sX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1437917355435233283/snQeR1sX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/136929904/1630531153",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1366425491813642250,
+    "quoted_status_id_str": "1366425491813642250",
+    "quoted_status": {
+      "created_at": "Mon Mar 01 16:29:58 +0000 2021",
+      "id": 1366425491813642250,
+      "id_str": "1366425491813642250",
+      "text": "Face masks in the classroom are clearly nonsensical (in the prime minister's own words) so why isn't there more pus\u2026 https://t.co/TfphXICVUV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TfphXICVUV",
+            "expanded_url": "https://twitter.com/i/web/status/1366425491813642250",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 278656915,
+        "id_str": "278656915",
+        "name": "Claire Fox",
+        "screen_name": "Fox_Claire",
+        "location": "London",
+        "description": "Claire Fox is director of @instofideas, author of 'I find that Offensive!', former MEP; now Baroness Fox of Buckley (!!!)\nhttps://t.co/ZmUX0nHaBW #CP4G",
+        "url": "https://t.co/6AcHt7zBKq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/6AcHt7zBKq",
+                "expanded_url": "http://www.clairefox.org.uk",
+                "display_url": "clairefox.org.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/ZmUX0nHaBW",
+                "expanded_url": "http://academyofideas.org.uk",
+                "display_url": "academyofideas.org.uk",
+                "indices": [
+                  122,
+                  145
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 75216,
+        "friends_count": 2430,
+        "listed_count": 595,
+        "created_at": "Thu Apr 07 18:11:59 +0000 2011",
+        "favourites_count": 77526,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 114819,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000478623450/3bcf981285aa946f413cbcc4ae12b573_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000478623450/3bcf981285aa946f413cbcc4ae12b573_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278656915/1583338118",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 876,
+      "favorite_count": 3430,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 16,
+    "favorite_count": 65,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1366425491813642250,
+  "quoted_status_id_str": "1366425491813642250",
+  "retweet_count": 16,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

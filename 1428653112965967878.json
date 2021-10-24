@@ -1,0 +1,333 @@
+{
+  "created_at": "Fri Aug 20 09:40:19 +0000 2021",
+  "id": 1428653112965967878,
+  "id_str": "1428653112965967878",
+  "text": "RT @medicmatt090: https://t.co/VyeyYILfM5",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "medicmatt090",
+        "name": "Kungfumedic",
+        "id": 3323746120,
+        "id_str": "3323746120",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1428607117628428292,
+        "id_str": "1428607117628428292",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/E9NumrnWUAQFqVU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E9NumrnWUAQFqVU.jpg",
+        "url": "https://t.co/VyeyYILfM5",
+        "display_url": "pic.twitter.com/VyeyYILfM5",
+        "expanded_url": "https://twitter.com/medicmatt090/status/1428607121940168707/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 587,
+            "h": 651,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 587,
+            "h": 651,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 587,
+            "h": 651,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1428607121940168707,
+        "source_status_id_str": "1428607121940168707",
+        "source_user_id": 3323746120,
+        "source_user_id_str": "3323746120"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1428607117628428292,
+        "id_str": "1428607117628428292",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/E9NumrnWUAQFqVU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E9NumrnWUAQFqVU.jpg",
+        "url": "https://t.co/VyeyYILfM5",
+        "display_url": "pic.twitter.com/VyeyYILfM5",
+        "expanded_url": "https://twitter.com/medicmatt090/status/1428607121940168707/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 587,
+            "h": 651,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 587,
+            "h": 651,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 587,
+            "h": 651,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1428607121940168707,
+        "source_status_id_str": "1428607121940168707",
+        "source_user_id": 3323746120,
+        "source_user_id_str": "3323746120"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Aug 20 06:37:34 +0000 2021",
+    "id": 1428607121940168707,
+    "id_str": "1428607121940168707",
+    "text": "https://t.co/VyeyYILfM5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1428607117628428292,
+          "id_str": "1428607117628428292",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9NumrnWUAQFqVU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9NumrnWUAQFqVU.jpg",
+          "url": "https://t.co/VyeyYILfM5",
+          "display_url": "pic.twitter.com/VyeyYILfM5",
+          "expanded_url": "https://twitter.com/medicmatt090/status/1428607121940168707/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 587,
+              "h": 651,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 587,
+              "h": 651,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 587,
+              "h": 651,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1428607117628428292,
+          "id_str": "1428607117628428292",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9NumrnWUAQFqVU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9NumrnWUAQFqVU.jpg",
+          "url": "https://t.co/VyeyYILfM5",
+          "display_url": "pic.twitter.com/VyeyYILfM5",
+          "expanded_url": "https://twitter.com/medicmatt090/status/1428607121940168707/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 587,
+              "h": 651,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 587,
+              "h": 651,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 587,
+              "h": 651,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3323746120,
+      "id_str": "3323746120",
+      "name": "Kungfumedic",
+      "screen_name": "medicmatt090",
+      "location": "England, United Kingdom",
+      "description": "Question the narrative, always.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 506,
+      "friends_count": 897,
+      "listed_count": 2,
+      "created_at": "Sat Jun 13 21:24:11 +0000 2015",
+      "favourites_count": 7758,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4436,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1420773079832272896/VvRsBvrF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420773079832272896/VvRsBvrF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3323746120/1514825057",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 53,
+    "favorite_count": 82,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": false,
+  "retweet_count": 53,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

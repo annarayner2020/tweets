@@ -1,0 +1,296 @@
+{
+  "created_at": "Sat Feb 13 08:33:22 +0000 2021",
+  "id": 1360507342186545156,
+  "id_str": "1360507342186545156",
+  "text": "RT @latimeralder: Overall death rate in Florida is 1,330 per million.\n\nUK is 1,707 per million.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "latimeralder",
+        "name": "Latimer Alder",
+        "id": 98583506,
+        "id_str": "98583506",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5217,
+    "friends_count": 894,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6934,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3922,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Feb 13 07:59:21 +0000 2021",
+    "id": 1360498784434868224,
+    "id_str": "1360498784434868224",
+    "text": "Overall death rate in Florida is 1,330 per million.\n\nUK is 1,707 per million. https://t.co/rwAzLylGsX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rwAzLylGsX",
+          "expanded_url": "https://twitter.com/DuncanBannatyne/status/1360281912556851202",
+          "display_url": "twitter.com/DuncanBannatyn\u2026",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 98583506,
+      "id_str": "98583506",
+      "name": "Latimer Alder",
+      "screen_name": "latimeralder",
+      "location": "UK",
+      "description": "Sceptical about many things....\n\n'I follow him because he is straightforward, logical, and unfailingly polite'",
+      "url": "https://t.co/yvuPBTKfx7",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/yvuPBTKfx7",
+              "expanded_url": "https://chasingliberty.libsyn.com/latimer-alder-talks-climate-change",
+              "display_url": "chasingliberty.libsyn.com/latimer-alder-\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 23623,
+      "friends_count": 18110,
+      "listed_count": 100,
+      "created_at": "Tue Dec 22 08:06:13 +0000 2009",
+      "favourites_count": 123201,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 170900,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/604015856469725184/RLEfIl6D_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/604015856469725184/RLEfIl6D_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/98583506/1521704541",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1360281912556851202,
+    "quoted_status_id_str": "1360281912556851202",
+    "quoted_status": {
+      "created_at": "Fri Feb 12 17:37:35 +0000 2021",
+      "id": 1360281912556851202,
+      "id_str": "1360281912556851202",
+      "text": "I am in Miami.  Restaurants, bars, Hotels, gyms are all open. Neither death rate nor infection rate is much higher\u2026 https://t.co/5hfsdTGiXf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5hfsdTGiXf",
+            "expanded_url": "https://twitter.com/i/web/status/1360281912556851202",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 44115106,
+        "id_str": "44115106",
+        "name": "Duncan Bannatyne",
+        "screen_name": "DuncanBannatyne",
+        "location": "International ",
+        "description": "Founder, Bannatyne Group. Author, 7 books. Father, 6 amazing children. Married to @wnigora_nigora. I thank  the lord every day for the wonderful life I live",
+        "url": "https://t.co/rnRp6HRiOp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rnRp6HRiOp",
+                "expanded_url": "http://www.bannatyne.co.uk",
+                "display_url": "bannatyne.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 715152,
+        "friends_count": 764,
+        "listed_count": 4433,
+        "created_at": "Tue Jun 02 13:14:14 +0000 2009",
+        "favourites_count": 571,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 80939,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/873301857606807555/KnWt0HgZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/873301857606807555/KnWt0HgZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44115106/1497046417",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5497,
+      "favorite_count": 27472,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 50,
+    "favorite_count": 101,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1360281912556851202,
+  "quoted_status_id_str": "1360281912556851202",
+  "retweet_count": 50,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

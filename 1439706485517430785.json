@@ -1,0 +1,284 @@
+{
+  "created_at": "Sun Sep 19 21:42:29 +0000 2021",
+  "id": 1439706485517430785,
+  "id_str": "1439706485517430785",
+  "text": "RT @VanessaGray158: And this ladies and gentlemen is how you create a real pandemic - using the jabs",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "VanessaGray158",
+        "name": "Vanessa Gray",
+        "id": 1356192286858760195,
+        "id_str": "1356192286858760195",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5195,
+    "friends_count": 890,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6712,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3746,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Sep 19 18:25:18 +0000 2021",
+    "id": 1439656865579868161,
+    "id_str": "1439656865579868161",
+    "text": "And this ladies and gentlemen is how you create a real pandemic - using the jabs https://t.co/dKl7T2IFh8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dKl7T2IFh8",
+          "expanded_url": "https://twitter.com/BordersAgainst/status/1439579134099787776",
+          "display_url": "twitter.com/BordersAgainst\u2026",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1356192286858760195,
+      "id_str": "1356192286858760195",
+      "name": "Vanessa Gray",
+      "screen_name": "VanessaGray158",
+      "location": "",
+      "description": "Never a truer word. \u201cIt\u2019s not war that China wants but total economic and territorial domination by stealth, intimidation and bullying\u201d",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3560,
+      "friends_count": 371,
+      "listed_count": 13,
+      "created_at": "Mon Feb 01 10:47:08 +0000 2021",
+      "favourites_count": 15363,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 707,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1441010047799242754/rVPP8Ox6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1441010047799242754/rVPP8Ox6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356192286858760195/1612287784",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1439579134099787776,
+    "quoted_status_id_str": "1439579134099787776",
+    "quoted_status": {
+      "created_at": "Sun Sep 19 13:16:26 +0000 2021",
+      "id": 1439579134099787776,
+      "id_str": "1439579134099787776",
+      "text": "ISRAELI STUDY: Fully Vaxxed Are 27 Times More Likely To Get COVID Compared To People With Natural Immunity\n\nhttps://t.co/mHHjArBTzb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mHHjArBTzb",
+            "expanded_url": "https://nationalfile.com/israeli-study-fully-vaxxed-are-27-times-more-likely-to-get-covid-compared-to-people-with-natural-immunity/",
+            "display_url": "nationalfile.com/israeli-study-\u2026",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22983091,
+        "id_str": "22983091",
+        "name": "Edinburgh Lothian & Borders Lockdown Sceptics",
+        "screen_name": "BordersAgainst",
+        "location": "scotland",
+        "description": "We feel strongly that citizens should be able to discuss and question the draconian legislation relating to the  so called pandemic.",
+        "url": "https://t.co/XDyOsQmgrw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XDyOsQmgrw",
+                "expanded_url": "https://www.hartgroup.org/",
+                "display_url": "hartgroup.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5152,
+        "friends_count": 3105,
+        "listed_count": 31,
+        "created_at": "Thu Mar 05 21:35:47 +0000 2009",
+        "favourites_count": 20533,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14040,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1441701489110618113/t2K0ed8Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1441701489110618113/t2K0ed8Q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22983091/1611344604",
+        "profile_link_color": "005FB3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 698,
+      "favorite_count": 1141,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 35,
+    "favorite_count": 61,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1439579134099787776,
+  "quoted_status_id_str": "1439579134099787776",
+  "retweet_count": 35,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

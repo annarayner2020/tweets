@@ -1,0 +1,326 @@
+{
+  "created_at": "Tue Oct 12 20:55:33 +0000 2021",
+  "id": 1448029597874982914,
+  "id_str": "1448029597874982914",
+  "text": "RT @DrHoenderkamp: This also shows that tragically 25 children under 15 have died of covid since the start. Thats 25 from a population of 1\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DrHoenderkamp",
+        "name": "Renee Hoenderkamp",
+        "id": 1411219694,
+        "id_str": "1411219694",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 10 21:27:08 +0000 2021",
+    "id": 1447312768726716416,
+    "id_str": "1447312768726716416",
+    "text": "This also shows that tragically 25 children under 15 have died of covid since the start. Thats 25 from a population\u2026 https://t.co/CnhtFXGz4z",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CnhtFXGz4z",
+          "expanded_url": "https://twitter.com/i/web/status/1447312768726716416",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1411219694,
+      "id_str": "1411219694",
+      "name": "Renee Hoenderkamp",
+      "screen_name": "DrHoenderkamp",
+      "location": "London, England ",
+      "description": "Doctor. Mum. NHS GP. Mail/Mailplus contributor.Resident GP Talk Radio UK. Inside Out. All views personal. https://t.co/xZs5rUYwH1",
+      "url": "https://t.co/xtefDxtjK4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xtefDxtjK4",
+              "expanded_url": "http://www.mailplus.co.uk/authors/dr-renee-hoenderkamp",
+              "display_url": "mailplus.co.uk/authors/dr-ren\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/xZs5rUYwH1",
+              "expanded_url": "https://muckrack.com/renee-hoenderkamp/articles",
+              "display_url": "muckrack.com/renee-hoenderk\u2026",
+              "indices": [
+                106,
+                129
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 35983,
+      "friends_count": 481,
+      "listed_count": 182,
+      "created_at": "Tue May 07 20:52:56 +0000 2013",
+      "favourites_count": 9140,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19053,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346154662798491648/Hnng8mVG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346154662798491648/Hnng8mVG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411219694/1458683444",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1447301712939831296,
+    "quoted_status_id_str": "1447301712939831296",
+    "quoted_status": {
+      "created_at": "Sun Oct 10 20:43:12 +0000 2021",
+      "id": 1447301712939831296,
+      "id_str": "1447301712939831296",
+      "text": "I can't stress enough how much these stats tell you.\n\nLook at the deaths under 30!\n\nWe are collapsing society &amp; the\u2026 https://t.co/jKHMl5gr6H",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jKHMl5gr6H",
+            "expanded_url": "https://twitter.com/i/web/status/1447301712939831296",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20555838,
+        "id_str": "20555838",
+        "name": "Lange",
+        "screen_name": "djlange",
+        "location": "Earth",
+        "description": "Musician, International DJ, Human Being.\nWe are stronger #together \ud83d\udd4a\ufe0f\ud83d\udc99\u270a\ud83d\udc4a\nNew vinyl releases at https://t.co/TqeJE4h0wZ\nhttps://t.co/sphc2BlGfX",
+        "url": "https://t.co/ERBSYPQlR3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ERBSYPQlR3",
+                "expanded_url": "http://www.djlange.com",
+                "display_url": "djlange.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/TqeJE4h0wZ",
+                "expanded_url": "http://lange.bandcamp.com",
+                "display_url": "lange.bandcamp.com",
+                "indices": [
+                  95,
+                  118
+                ]
+              },
+              {
+                "url": "https://t.co/sphc2BlGfX",
+                "expanded_url": "https://www.buymeacoffee.com/Lange",
+                "display_url": "buymeacoffee.com/Lange",
+                "indices": [
+                  119,
+                  142
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 72734,
+        "friends_count": 1874,
+        "listed_count": 858,
+        "created_at": "Tue Feb 10 23:11:10 +0000 2009",
+        "favourites_count": 42480,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 33232,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1442481947108945923/TeoCpyCF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442481947108945923/TeoCpyCF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20555838/1629658672",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 465,
+      "favorite_count": 1110,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 179,
+    "favorite_count": 530,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1447301712939831296,
+  "quoted_status_id_str": "1447301712939831296",
+  "retweet_count": 179,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,308 @@
+{
+  "created_at": "Thu Oct 07 12:33:14 +0000 2021",
+  "id": 1446091245600784384,
+  "id_str": "1446091245600784384",
+  "text": "RT @calvinrobinson: They won't let you RT or Like this tweet.\n\nBefore dismissing it, or calling me a conspiracy theorist, give it a watch.\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "calvinrobinson",
+        "name": "Calvin",
+        "id": 75343905,
+        "id_str": "75343905",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 07 08:02:04 +0000 2021",
+    "id": 1446023001409998848,
+    "id_str": "1446023001409998848",
+    "text": "They won't let you RT or Like this tweet.\n\nBefore dismissing it, or calling me a conspiracy theorist, give it a wat\u2026 https://t.co/U7rMzfuwne",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/U7rMzfuwne",
+          "expanded_url": "https://twitter.com/i/web/status/1446023001409998848",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 75343905,
+      "id_str": "75343905",
+      "name": "Calvin",
+      "screen_name": "calvinrobinson",
+      "location": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f\u271d\ud83c\uddec\ud83c\udde7",
+      "description": "Broadcaster. \n\n\"Superstar\" ~Dan Wootton, \n\"House n\u2014\u2014\" ~Race Trust,\n\"Shock jock and academic intellectual\" ~Baroness Fox.",
+      "url": "https://t.co/vJjet7IIlM",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vJjet7IIlM",
+              "expanded_url": "http://www.calvinrobinson.com/",
+              "display_url": "calvinrobinson.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 115640,
+      "friends_count": 1011,
+      "listed_count": 301,
+      "created_at": "Fri Sep 18 18:04:16 +0000 2009",
+      "favourites_count": 224459,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 7906,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1444347449296965641/ULFYsN2w_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444347449296965641/ULFYsN2w_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/75343905/1633197256",
+      "profile_link_color": "134E80",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1445970398064041985,
+    "quoted_status_id_str": "1445970398064041985",
+    "quoted_status": {
+      "created_at": "Thu Oct 07 04:33:02 +0000 2021",
+      "id": 1445970398064041985,
+      "id_str": "1445970398064041985",
+      "text": "ICYMI: @Pfizer Whistleblower Drops Covid Vaccine BOMBSHELL About Company\u2019s Agenda To Suppress Covid Vaccine Details\u2026 https://t.co/6mmo03jG88",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pfizer",
+            "name": "Pfizer Inc.",
+            "id": 56488059,
+            "id_str": "56488059",
+            "indices": [
+              7,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6mmo03jG88",
+            "expanded_url": "https://twitter.com/i/web/status/1445970398064041985",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 705902960967094272,
+        "id_str": "705902960967094272",
+        "name": "veritastips@protonmail.com\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "EricSpracklen",
+        "location": "Somewhere in the USA\u2708\ufe0f",
+        "description": "Patriot \ud83c\uddfa\ud83c\uddf8 Chief of Staff @Project_Veritas \ud83d\udcf9 Political Operative\ud83d\udd75\ud83c\udffb\u200d\u2642\ufe0f Crypto Investor\ud83d\ude80Gun Owner \ud83d\udd2b World Traveler\u2708\ufe0fViews are mine\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f",
+        "url": "https://t.co/Klp4ULmcTt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Klp4ULmcTt",
+                "expanded_url": "https://t.me/sprack",
+                "display_url": "t.me/sprack",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 192651,
+        "friends_count": 12835,
+        "listed_count": 503,
+        "created_at": "Fri Mar 04 23:49:15 +0000 2016",
+        "favourites_count": 45134,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 46608,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1338319105464655876/fhw-en5a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338319105464655876/fhw-en5a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705902960967094272/1633706527",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1797,
+    "favorite_count": 3640,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1445970398064041985,
+  "quoted_status_id_str": "1445970398064041985",
+  "retweet_count": 1797,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

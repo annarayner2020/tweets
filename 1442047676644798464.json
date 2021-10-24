@@ -1,0 +1,339 @@
+{
+  "created_at": "Sun Sep 26 08:45:32 +0000 2021",
+  "id": 1442047676644798464,
+  "id_str": "1442047676644798464",
+  "text": "RT @WrecklessGamer: Wow!",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "WrecklessGamer",
+        "name": "Booker Dewitt \ud83c\udf38",
+        "id": 1062033653084098561,
+        "id_str": "1062033653084098561",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Sep 25 13:27:14 +0000 2021",
+    "id": 1441756181786103811,
+    "id_str": "1441756181786103811",
+    "text": "Wow! https://t.co/16IKLEGS7C",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/16IKLEGS7C",
+          "expanded_url": "https://twitter.com/hieghtyalmighty/status/1441719677256749061",
+          "display_url": "twitter.com/hieghtyalmight\u2026",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1062033653084098561,
+      "id_str": "1062033653084098561",
+      "name": "Booker Dewitt \ud83c\udf38",
+      "screen_name": "WrecklessGamer",
+      "location": "Northern Ireland, UK.",
+      "description": "Northern Irish Dad, Gamer and Tea Drinker.  On the right side of history \ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1820,
+      "friends_count": 2304,
+      "listed_count": 2,
+      "created_at": "Mon Nov 12 17:25:29 +0000 2018",
+      "favourites_count": 35013,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15159,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1320814052969467905/qr_P6uSg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320814052969467905/qr_P6uSg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1062033653084098561/1603741585",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1441719677256749061,
+    "quoted_status_id_str": "1441719677256749061",
+    "quoted_status": {
+      "created_at": "Sat Sep 25 11:02:11 +0000 2021",
+      "id": 1441719677256749061,
+      "id_str": "1441719677256749061",
+      "text": "Balloon paint booms \ud83c\udf88\ud83d\udca5\ud83e\udd23\n(Australi\u00e0)  Don't look so scary now haha https://t.co/HdjdMzkCtX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1441719675054968832,
+            "id_str": "1441719675054968832",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/FAIEZ-lX0AA6d4E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FAIEZ-lX0AA6d4E.jpg",
+            "url": "https://t.co/HdjdMzkCtX",
+            "display_url": "pic.twitter.com/HdjdMzkCtX",
+            "expanded_url": "https://twitter.com/hieghtyalmighty/status/1441719677256749061/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1441719675054968832,
+            "id_str": "1441719675054968832",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/FAIEZ-lX0AA6d4E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FAIEZ-lX0AA6d4E.jpg",
+            "url": "https://t.co/HdjdMzkCtX",
+            "display_url": "pic.twitter.com/HdjdMzkCtX",
+            "expanded_url": "https://twitter.com/hieghtyalmighty/status/1441719677256749061/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 919918939,
+        "id_str": "919918939",
+        "name": "Bumbalina",
+        "screen_name": "hieghtyalmighty",
+        "location": "",
+        "description": "I'm a free spirit. Love nature. Organic food.  Hate Plastic. Meat free. I hate liars. Natural remedies and natural immunity. Peace & love is the way to live \ud83c\udf38",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1468,
+        "friends_count": 1796,
+        "listed_count": 3,
+        "created_at": "Thu Nov 01 21:54:18 +0000 2012",
+        "favourites_count": 6552,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4539,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328092429623439363/1CiSV9Xp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328092429623439363/1CiSV9Xp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919918939/1624303503",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3144,
+      "favorite_count": 9396,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1441719677256749061,
+  "quoted_status_id_str": "1441719677256749061",
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "und"
+}

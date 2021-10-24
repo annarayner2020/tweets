@@ -1,0 +1,501 @@
+{
+  "created_at": "Tue Feb 02 21:16:50 +0000 2021",
+  "id": 1356713209554759682,
+  "id_str": "1356713209554759682",
+  "text": "RT @pcrclaims: @SkyNews which is true? Your anchor or your article? https://t.co/yRAEH5qDqX https://t.co/gxYcHUyQg1",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "pcrclaims",
+        "name": "PCRclaims\ud83c\udf38",
+        "id": 1330266621810778114,
+        "id_str": "1330266621810778114",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "SkyNews",
+        "name": "Sky News",
+        "id": 7587032,
+        "id_str": "7587032",
+        "indices": [
+          15,
+          23
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/yRAEH5qDqX",
+        "expanded_url": "https://news.sky.com/story/covid-19-captain-sir-tom-moores-family-with-him-in-hospital-as-he-is-treated-for-coronavirus-12205997",
+        "display_url": "news.sky.com/story/covid-19\u2026",
+        "indices": [
+          68,
+          91
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1356711028755750913,
+        "id_str": "1356711028755750913",
+        "indices": [
+          92,
+          115
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356711028755750913/pu/img/n4bInQHztXhm-ApQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356711028755750913/pu/img/n4bInQHztXhm-ApQ.jpg",
+        "url": "https://t.co/gxYcHUyQg1",
+        "display_url": "pic.twitter.com/gxYcHUyQg1",
+        "expanded_url": "https://twitter.com/pcrclaims/status/1356711056463310848/video/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 364,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 402,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 402,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1356711056463310848,
+        "source_status_id_str": "1356711056463310848",
+        "source_user_id": 1330266621810778114,
+        "source_user_id_str": "1330266621810778114"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1356711028755750913,
+        "id_str": "1356711028755750913",
+        "indices": [
+          92,
+          115
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356711028755750913/pu/img/n4bInQHztXhm-ApQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356711028755750913/pu/img/n4bInQHztXhm-ApQ.jpg",
+        "url": "https://t.co/gxYcHUyQg1",
+        "display_url": "pic.twitter.com/gxYcHUyQg1",
+        "expanded_url": "https://twitter.com/pcrclaims/status/1356711056463310848/video/1",
+        "type": "video",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 364,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 402,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 402,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1356711056463310848,
+        "source_status_id_str": "1356711056463310848",
+        "source_user_id": 1330266621810778114,
+        "source_user_id_str": "1330266621810778114",
+        "video_info": {
+          "aspect_ratio": [
+            125,
+            67
+          ],
+          "duration_millis": 19668,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1356711028755750913/pu/vid/502x270/1xPBPIM_9s93MeXR.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1356711028755750913/pu/vid/750x402/B9Dl9WWIpHjs0z1D.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1356711028755750913/pu/pl/Uc1dQUEAESouGHig.m3u8?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 1330266621810778114,
+            "id_str": "1330266621810778114",
+            "name": "PCRclaims\ud83c\udf38",
+            "screen_name": "pcrclaims",
+            "location": "Edinburgh, Scotland",
+            "description": "PCR mass testing created a disproportionate state of fear in the nation drawing unmerited attention to \u201ccases\u201d instead of disease. Time for a @LiberalSpring\ud83c\udf38",
+            "url": "https://t.co/TXJ0Dy08md",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/TXJ0Dy08md",
+                    "expanded_url": "https://pcrclaims.co.uk",
+                    "display_url": "pcrclaims.co.uk",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 35878,
+            "friends_count": 299,
+            "listed_count": 162,
+            "created_at": "Sat Nov 21 21:47:51 +0000 2020",
+            "favourites_count": 1563,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4552,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1352286847863566336/ijaNQO_D_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352286847863566336/ijaNQO_D_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330266621810778114/1622885860",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5195,
+    "friends_count": 890,
+    "listed_count": 14,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6712,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3746,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Feb 02 21:08:16 +0000 2021",
+    "id": 1356711056463310848,
+    "id_str": "1356711056463310848",
+    "text": "@SkyNews which is true? Your anchor or your article? https://t.co/yRAEH5qDqX https://t.co/gxYcHUyQg1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SkyNews",
+          "name": "Sky News",
+          "id": 7587032,
+          "id_str": "7587032",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yRAEH5qDqX",
+          "expanded_url": "https://news.sky.com/story/covid-19-captain-sir-tom-moores-family-with-him-in-hospital-as-he-is-treated-for-coronavirus-12205997",
+          "display_url": "news.sky.com/story/covid-19\u2026",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1356711028755750913,
+          "id_str": "1356711028755750913",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356711028755750913/pu/img/n4bInQHztXhm-ApQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356711028755750913/pu/img/n4bInQHztXhm-ApQ.jpg",
+          "url": "https://t.co/gxYcHUyQg1",
+          "display_url": "pic.twitter.com/gxYcHUyQg1",
+          "expanded_url": "https://twitter.com/pcrclaims/status/1356711056463310848/video/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 364,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 402,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 402,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1356711028755750913,
+          "id_str": "1356711028755750913",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356711028755750913/pu/img/n4bInQHztXhm-ApQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356711028755750913/pu/img/n4bInQHztXhm-ApQ.jpg",
+          "url": "https://t.co/gxYcHUyQg1",
+          "display_url": "pic.twitter.com/gxYcHUyQg1",
+          "expanded_url": "https://twitter.com/pcrclaims/status/1356711056463310848/video/1",
+          "type": "video",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 364,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 402,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 402,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              125,
+              67
+            ],
+            "duration_millis": 19668,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1356711028755750913/pu/vid/502x270/1xPBPIM_9s93MeXR.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1356711028755750913/pu/vid/750x402/B9Dl9WWIpHjs0z1D.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1356711028755750913/pu/pl/Uc1dQUEAESouGHig.m3u8?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 7587032,
+    "in_reply_to_user_id_str": "7587032",
+    "in_reply_to_screen_name": "SkyNews",
+    "user": {
+      "id": 1330266621810778114,
+      "id_str": "1330266621810778114",
+      "name": "PCRclaims\ud83c\udf38",
+      "screen_name": "pcrclaims",
+      "location": "Edinburgh, Scotland",
+      "description": "PCR mass testing created a disproportionate state of fear in the nation drawing unmerited attention to \u201ccases\u201d instead of disease. Time for a @LiberalSpring\ud83c\udf38",
+      "url": "https://t.co/TXJ0Dy08md",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/TXJ0Dy08md",
+              "expanded_url": "https://pcrclaims.co.uk",
+              "display_url": "pcrclaims.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 35878,
+      "friends_count": 299,
+      "listed_count": 162,
+      "created_at": "Sat Nov 21 21:47:51 +0000 2020",
+      "favourites_count": 1563,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4552,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1352286847863566336/ijaNQO_D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352286847863566336/ijaNQO_D_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330266621810778114/1622885860",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 15,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

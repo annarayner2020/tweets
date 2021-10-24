@@ -1,0 +1,311 @@
+{
+  "created_at": "Mon Mar 01 18:41:44 +0000 2021",
+  "id": 1366458649753890822,
+  "id_str": "1366458649753890822",
+  "text": "RT @AlisonBlunt: @code__green @AerialBolero @VanessaBeeley @EBopface @ClarkeMicah @JamesDelingpole 1/2 They are calling these treatments va\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AlisonBlunt",
+        "name": "Alison Blunt",
+        "id": 497366191,
+        "id_str": "497366191",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "code__green",
+        "name": "Code Green",
+        "id": 1314504259728142337,
+        "id_str": "1314504259728142337",
+        "indices": [
+          17,
+          29
+        ]
+      },
+      {
+        "screen_name": "AerialBolero",
+        "name": "Deus Pascit Corvos",
+        "id": 3393538007,
+        "id_str": "3393538007",
+        "indices": [
+          30,
+          43
+        ]
+      },
+      {
+        "screen_name": "VanessaBeeley",
+        "name": "vanessa beeley",
+        "id": 956171191,
+        "id_str": "956171191",
+        "indices": [
+          44,
+          58
+        ]
+      },
+      {
+        "screen_name": "EBopface",
+        "name": "Andy Rogers",
+        "id": 1323726877031342091,
+        "id_str": "1323726877031342091",
+        "indices": [
+          59,
+          68
+        ]
+      },
+      {
+        "screen_name": "ClarkeMicah",
+        "name": "Peter Hitchens",
+        "id": 405605548,
+        "id_str": "405605548",
+        "indices": [
+          69,
+          81
+        ]
+      },
+      {
+        "screen_name": "JamesDelingpole",
+        "name": "Totally Fake 'President' James Delingpole",
+        "id": 15798091,
+        "id_str": "15798091",
+        "indices": [
+          82,
+          98
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5381,
+    "friends_count": 900,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7316,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4269,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Mar 01 18:34:16 +0000 2021",
+    "id": 1366456772039434252,
+    "id_str": "1366456772039434252",
+    "text": "@code__green @AerialBolero @VanessaBeeley @EBopface @ClarkeMicah @JamesDelingpole 1/2 They are calling these treatm\u2026 https://t.co/d40ZmB5PF6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "code__green",
+          "name": "Code Green",
+          "id": 1314504259728142337,
+          "id_str": "1314504259728142337",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "AerialBolero",
+          "name": "Deus Pascit Corvos",
+          "id": 3393538007,
+          "id_str": "3393538007",
+          "indices": [
+            13,
+            26
+          ]
+        },
+        {
+          "screen_name": "VanessaBeeley",
+          "name": "vanessa beeley",
+          "id": 956171191,
+          "id_str": "956171191",
+          "indices": [
+            27,
+            41
+          ]
+        },
+        {
+          "screen_name": "EBopface",
+          "name": "Andy Rogers",
+          "id": 1323726877031342091,
+          "id_str": "1323726877031342091",
+          "indices": [
+            42,
+            51
+          ]
+        },
+        {
+          "screen_name": "ClarkeMicah",
+          "name": "Peter Hitchens",
+          "id": 405605548,
+          "id_str": "405605548",
+          "indices": [
+            52,
+            64
+          ]
+        },
+        {
+          "screen_name": "JamesDelingpole",
+          "name": "Totally Fake 'President' James Delingpole",
+          "id": 15798091,
+          "id_str": "15798091",
+          "indices": [
+            65,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d40ZmB5PF6",
+          "expanded_url": "https://twitter.com/i/web/status/1366456772039434252",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1366455278405750787,
+    "in_reply_to_status_id_str": "1366455278405750787",
+    "in_reply_to_user_id": 1314504259728142337,
+    "in_reply_to_user_id_str": "1314504259728142337",
+    "in_reply_to_screen_name": "code__green",
+    "user": {
+      "id": 497366191,
+      "id_str": "497366191",
+      "name": "Alison Blunt",
+      "screen_name": "AlisonBlunt",
+      "location": "",
+      "description": "Bio: Born in Mombasa, grew up in Nairobi & Cumbria. Improviser, composer, performer, workshop leader, adventurer. Tweets about things that interest & concern.",
+      "url": "https://t.co/h5UdSP2tRX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/h5UdSP2tRX",
+              "expanded_url": "https://britishmusiccollection.org.uk/article/interview-alison-blunt",
+              "display_url": "britishmusiccollection.org.uk/article/interv\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7484,
+      "friends_count": 5461,
+      "listed_count": 50,
+      "created_at": "Sun Feb 19 22:31:20 +0000 2012",
+      "favourites_count": 92479,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 66623,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1224456160138293250/EoCDuqti_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224456160138293250/EoCDuqti_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/497366191/1516752586",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 19,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

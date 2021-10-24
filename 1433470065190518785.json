@@ -1,0 +1,357 @@
+{
+  "created_at": "Thu Sep 02 16:41:10 +0000 2021",
+  "id": 1433470065190518785,
+  "id_str": "1433470065190518785",
+  "text": "RT @C19Assembly: Fantastic Francis! #TogetherDeclaration #together https://t.co/TWNMGueaF5",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "TogetherDeclaration",
+        "indices": [
+          36,
+          56
+        ]
+      },
+      {
+        "text": "together",
+        "indices": [
+          57,
+          66
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "C19Assembly",
+        "name": "Covid19 Assembly",
+        "id": 1296209045070675968,
+        "id_str": "1296209045070675968",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/TWNMGueaF5",
+        "expanded_url": "https://twitter.com/OracleFilmsUK/status/1431306833625485316",
+        "display_url": "twitter.com/OracleFilmsUK/\u2026",
+        "indices": [
+          67,
+          90
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Aug 27 21:37:56 +0000 2021",
+    "id": 1431370420884844545,
+    "id_str": "1431370420884844545",
+    "text": "Fantastic Francis! #TogetherDeclaration #together https://t.co/TWNMGueaF5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TogetherDeclaration",
+          "indices": [
+            19,
+            39
+          ]
+        },
+        {
+          "text": "together",
+          "indices": [
+            40,
+            49
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TWNMGueaF5",
+          "expanded_url": "https://twitter.com/OracleFilmsUK/status/1431306833625485316",
+          "display_url": "twitter.com/OracleFilmsUK/\u2026",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1296209045070675968,
+      "id_str": "1296209045070675968",
+      "name": "Covid19 Assembly",
+      "screen_name": "C19Assembly",
+      "location": "London",
+      "description": "Working to end all Covid related restrictions forever through information.",
+      "url": "https://t.co/nHCLeXkeHd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/nHCLeXkeHd",
+              "expanded_url": "http://www.covid19assembly.org",
+              "display_url": "covid19assembly.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 20244,
+      "friends_count": 43,
+      "listed_count": 99,
+      "created_at": "Wed Aug 19 22:15:05 +0000 2020",
+      "favourites_count": 82,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 57,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1298545299439353856/bCCVvMzF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298545299439353856/bCCVvMzF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1296209045070675968/1600983897",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1431306833625485316,
+    "quoted_status_id_str": "1431306833625485316",
+    "quoted_status": {
+      "created_at": "Fri Aug 27 17:25:16 +0000 2021",
+      "id": 1431306833625485316,
+      "id_str": "1431306833625485316",
+      "text": "@Francis_Hoar's great speech at the #together event, London UK.\n\nWe are free human beings.\nWe must fight against va\u2026 https://t.co/yfQuIPGg9K",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "together",
+            "indices": [
+              36,
+              45
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Francis_Hoar",
+            "name": "Francis Hoar",
+            "id": 142640919,
+            "id_str": "142640919",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yfQuIPGg9K",
+            "expanded_url": "https://twitter.com/i/web/status/1431306833625485316",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 142640919,
+      "in_reply_to_user_id_str": "142640919",
+      "in_reply_to_screen_name": "Francis_Hoar",
+      "user": {
+        "id": 92292805,
+        "id_str": "92292805",
+        "name": "Oracle Films",
+        "screen_name": "OracleFilmsUK",
+        "location": "UK",
+        "description": "We make films that platforms like this one don't seem to like.",
+        "url": "https://t.co/pCiSxvMhpF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pCiSxvMhpF",
+                "expanded_url": "http://www.oraclefilms.com",
+                "display_url": "oraclefilms.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4787,
+        "friends_count": 633,
+        "listed_count": 21,
+        "created_at": "Tue Nov 24 15:11:22 +0000 2009",
+        "favourites_count": 3121,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 220,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1431035490250240001/4uHDcr8-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1431035490250240001/4uHDcr8-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92292805/1613795058",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 749,
+      "favorite_count": 1474,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 113,
+    "favorite_count": 265,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1431306833625485316,
+  "quoted_status_id_str": "1431306833625485316",
+  "retweet_count": 113,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,286 @@
+{
+  "created_at": "Sun Sep 12 15:31:13 +0000 2021",
+  "id": 1437076340579225601,
+  "id_str": "1437076340579225601",
+  "text": "RT @MichaelPSenger: Just a totally normal, totally not foreign-sponsored tweet in which Ding praises China for sending its hockey team in h\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MichaelPSenger",
+        "name": "Michael P Senger",
+        "id": 1679362640,
+        "id_str": "1679362640",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Sep 12 14:45:14 +0000 2021",
+    "id": 1437064768137744391,
+    "id_str": "1437064768137744391",
+    "text": "Just a totally normal, totally not foreign-sponsored tweet in which Ding praises China for sending its hockey team\u2026 https://t.co/XCJLlBOR6U",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XCJLlBOR6U",
+          "expanded_url": "https://twitter.com/i/web/status/1437064768137744391",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1679362640,
+      "id_str": "1679362640",
+      "name": "Michael P Senger",
+      "screen_name": "MichaelPSenger",
+      "location": "",
+      "description": "Attorney, author of China\u2019s Global Lockdown Propaganda Campaign",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 67246,
+      "friends_count": 15676,
+      "listed_count": 424,
+      "created_at": "Sat Aug 17 23:24:38 +0000 2013",
+      "favourites_count": 208739,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679362640/1597698065",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1437031231217184774,
+    "quoted_status_id_str": "1437031231217184774",
+    "quoted_status": {
+      "created_at": "Sun Sep 12 12:31:58 +0000 2021",
+      "id": 1437031231217184774,
+      "id_str": "1437031231217184774",
+      "text": "Behold\u2014Chinese hockey \ud83c\udfd2 players upon arrival in the dangerous land of mask-resistant, no-kids-under-16-vaccination,\u2026 https://t.co/Q4kdLbt2mJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Q4kdLbt2mJ",
+            "expanded_url": "https://twitter.com/i/web/status/1437031231217184774",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18831926,
+        "id_str": "18831926",
+        "name": "Eric Feigl-Ding",
+        "screen_name": "DrEricDing",
+        "location": "Washington DC & Virginia",
+        "description": "Epidemiologist & health economist. Senior Fellow @FAScientists. Former 16 years @Harvard. @JohnsHopkins alum. Health policy @NECSI. COVID Updates since Jan '20",
+        "url": "https://t.co/ipohSRjmIW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ipohSRjmIW",
+                "expanded_url": "http://fas.org/expert/eric-feigl-ding/",
+                "display_url": "fas.org/expert/eric-fe\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 595332,
+        "friends_count": 9598,
+        "listed_count": 7030,
+        "created_at": "Sat Jan 10 11:01:33 +0000 2009",
+        "favourites_count": 209336,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 56538,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1296690786688479234/wflBN5Ks_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296690786688479234/wflBN5Ks_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18831926/1634610256",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1437017498596122624,
+      "quoted_status_id_str": "1437017498596122624",
+      "retweet_count": 936,
+      "favorite_count": 2963,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 264,
+    "favorite_count": 1125,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1437031231217184774,
+  "quoted_status_id_str": "1437031231217184774",
+  "retweet_count": 264,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

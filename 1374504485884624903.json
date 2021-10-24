@@ -1,0 +1,362 @@
+{
+  "created_at": "Tue Mar 23 23:33:01 +0000 2021",
+  "id": 1374504485884624903,
+  "id_str": "1374504485884624903",
+  "text": "RT @BTCAaron: Fiat wood.\n\n#bitcoin fixes wood. https://t.co/ejiOLCd1Y9",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bitcoin",
+        "indices": [
+          26,
+          34
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BTCAaron",
+        "name": "Double A",
+        "id": 36533187,
+        "id_str": "36533187",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1374018740904468488,
+        "id_str": "1374018740904468488",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/ExF-w9ZXIAg_B3v.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ExF-w9ZXIAg_B3v.jpg",
+        "url": "https://t.co/ejiOLCd1Y9",
+        "display_url": "pic.twitter.com/ejiOLCd1Y9",
+        "expanded_url": "https://twitter.com/BTCAaron/status/1374018748051513348/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 587,
+            "h": 608,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 587,
+            "h": 608,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 587,
+            "h": 608,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1374018748051513348,
+        "source_status_id_str": "1374018748051513348",
+        "source_user_id": 36533187,
+        "source_user_id_str": "36533187"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1374018740904468488,
+        "id_str": "1374018740904468488",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/ExF-w9ZXIAg_B3v.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ExF-w9ZXIAg_B3v.jpg",
+        "url": "https://t.co/ejiOLCd1Y9",
+        "display_url": "pic.twitter.com/ejiOLCd1Y9",
+        "expanded_url": "https://twitter.com/BTCAaron/status/1374018748051513348/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 587,
+            "h": 608,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 587,
+            "h": 608,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 587,
+            "h": 608,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1374018748051513348,
+        "source_status_id_str": "1374018748051513348",
+        "source_user_id": 36533187,
+        "source_user_id_str": "36533187"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Mar 22 15:22:52 +0000 2021",
+    "id": 1374018748051513348,
+    "id_str": "1374018748051513348",
+    "text": "Fiat wood.\n\n#bitcoin fixes wood. https://t.co/ejiOLCd1Y9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bitcoin",
+          "indices": [
+            12,
+            20
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1374018740904468488,
+          "id_str": "1374018740904468488",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/ExF-w9ZXIAg_B3v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ExF-w9ZXIAg_B3v.jpg",
+          "url": "https://t.co/ejiOLCd1Y9",
+          "display_url": "pic.twitter.com/ejiOLCd1Y9",
+          "expanded_url": "https://twitter.com/BTCAaron/status/1374018748051513348/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 587,
+              "h": 608,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 587,
+              "h": 608,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 587,
+              "h": 608,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1374018740904468488,
+          "id_str": "1374018740904468488",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/ExF-w9ZXIAg_B3v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ExF-w9ZXIAg_B3v.jpg",
+          "url": "https://t.co/ejiOLCd1Y9",
+          "display_url": "pic.twitter.com/ejiOLCd1Y9",
+          "expanded_url": "https://twitter.com/BTCAaron/status/1374018748051513348/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 587,
+              "h": 608,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 587,
+              "h": 608,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 587,
+              "h": 608,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 36533187,
+      "id_str": "36533187",
+      "name": "Double A",
+      "screen_name": "BTCAaron",
+      "location": "United States",
+      "description": "optimist, eat meat and stack #bitcoin #freeross",
+      "url": "https://t.co/jyIsjq2y5T",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jyIsjq2y5T",
+              "expanded_url": "https://1ml.com/node/029775aed2dd13f493fd7e1ea0a198e726b633e188c3c0c5c3465acad15fdba3ce",
+              "display_url": "1ml.com/node/029775aed\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3749,
+      "friends_count": 1477,
+      "listed_count": 51,
+      "created_at": "Thu Apr 30 00:20:03 +0000 2009",
+      "favourites_count": 13426,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6008,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1429173469221212162/r99PSboP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429173469221212162/r99PSboP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/36533187/1621218723",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 62,
+    "favorite_count": 815,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 62,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

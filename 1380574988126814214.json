@@ -1,0 +1,193 @@
+{
+  "created_at": "Fri Apr 09 17:35:01 +0000 2021",
+  "id": 1380574988126814214,
+  "id_str": "1380574988126814214",
+  "text": "Do they IMF? Or do they need it because you've been printing cash for decades? \n\nClimate change: the 2nd most weapo\u2026 https://t.co/A3CZvTRs7E",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/A3CZvTRs7E",
+        "expanded_url": "https://twitter.com/i/web/status/1380574988126814214",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1380435729768189955,
+  "quoted_status_id_str": "1380435729768189955",
+  "quoted_status": {
+    "created_at": "Fri Apr 09 08:21:39 +0000 2021",
+    "id": 1380435729768189955,
+    "id_str": "1380435729768189955",
+    "text": "There you go .. it's official \n\nIMF: Worlds needs a Monetary Reset 'to stop runaway climate change'..\n\nhttps://t.co/er1B6lS2Xy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/er1B6lS2Xy",
+          "expanded_url": "https://www.imf.org/external/pubs/ft/fandd/2019/12/pdf/a-new-sustainable-financial-system-to-stop-climate-change-carney.pdf",
+          "display_url": "imf.org/external/pubs/\u2026",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19059966,
+      "id_str": "19059966",
+      "name": "Willem Middelkoop",
+      "screen_name": "wmiddelkoop",
+      "location": "markets-geopolitics",
+      "description": "\u2018The Oracle from Amsterdam\u2019 (Max Keiser) - Discovery Investor (Geneva \u201862) - 2 companies & 8 books (The Big Reset - 2014: BTC = Virtual Gold) - OMFIF advisor",
+      "url": "https://t.co/JoMOzTfIuD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/JoMOzTfIuD",
+              "expanded_url": "http://www.cdfund.com",
+              "display_url": "cdfund.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 87033,
+      "friends_count": 8061,
+      "listed_count": 1253,
+      "created_at": "Fri Jan 16 08:57:11 +0000 2009",
+      "favourites_count": 13603,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 112292,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1249603010206064640/ylxQy_Cg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249603010206064640/ylxQy_Cg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19059966/1618051380",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 989,
+    "favorite_count": 2745,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 5,
+  "favorite_count": 11,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

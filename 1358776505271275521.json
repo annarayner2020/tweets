@@ -1,0 +1,308 @@
+{
+  "created_at": "Mon Feb 08 13:55:38 +0000 2021",
+  "id": 1358776505271275521,
+  "id_str": "1358776505271275521",
+  "text": "What is this? An MP actually talking lawfully. I need a sit down. https://t.co/j6nqnxSJc5",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/j6nqnxSJc5",
+        "expanded_url": "https://twitter.com/SteveBakerHW/status/1358772521076731906",
+        "display_url": "twitter.com/SteveBakerHW/s\u2026",
+        "indices": [
+          66,
+          89
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5200,
+    "friends_count": 892,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6801,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3810,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1358772521076731906,
+  "quoted_status_id_str": "1358772521076731906",
+  "quoted_status": {
+    "created_at": "Mon Feb 08 13:39:48 +0000 2021",
+    "id": 1358772521076731906,
+    "id_str": "1358772521076731906",
+    "text": "Well said @nadhimzahawi \ud83d\udc4f https://t.co/6Pi7rTEc1n",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "nadhimzahawi",
+          "name": "Nadhim Zahawi",
+          "id": 121127090,
+          "id_str": "121127090",
+          "indices": [
+            10,
+            23
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1358772473689440258,
+          "id_str": "1358772473689440258",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358772473689440258/pu/img/6p5GDsaUw7Tv7wu_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358772473689440258/pu/img/6p5GDsaUw7Tv7wu_.jpg",
+          "url": "https://t.co/6Pi7rTEc1n",
+          "display_url": "pic.twitter.com/6Pi7rTEc1n",
+          "expanded_url": "https://twitter.com/SteveBakerHW/status/1358772521076731906/video/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1358772473689440258,
+          "id_str": "1358772473689440258",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358772473689440258/pu/img/6p5GDsaUw7Tv7wu_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358772473689440258/pu/img/6p5GDsaUw7Tv7wu_.jpg",
+          "url": "https://t.co/6Pi7rTEc1n",
+          "display_url": "pic.twitter.com/6Pi7rTEc1n",
+          "expanded_url": "https://twitter.com/SteveBakerHW/status/1358772521076731906/video/1",
+          "type": "video",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 46088,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1358772473689440258/pu/pl/xaYOe9n17IF_gEgD.m3u8?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1358772473689440258/pu/vid/480x480/9_W9KF_DOVgDQSkP.mp4?tag=12"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1358772473689440258/pu/vid/320x320/0OPq0v8kjIeINnOK.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15157283,
+      "id_str": "15157283",
+      "name": "Steve Baker MP FRSA",
+      "screen_name": "SteveBakerHW",
+      "location": "Wycombe, UK",
+      "description": "Conservative MP for Wycombe | https://t.co/LWv7qT99tS",
+      "url": "https://t.co/hgYrEXJTc8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/hgYrEXJTc8",
+              "expanded_url": "http://www.stevebaker.info",
+              "display_url": "stevebaker.info",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/LWv7qT99tS",
+              "expanded_url": "http://stevebaker.info/contact/",
+              "display_url": "stevebaker.info/contact/",
+              "indices": [
+                30,
+                53
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 117359,
+      "friends_count": 4491,
+      "listed_count": 1257,
+      "created_at": "Wed Jun 18 12:32:28 +0000 2008",
+      "favourites_count": 11539,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65720,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1363543028351254528/YRyk0hsO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363543028351254528/YRyk0hsO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15157283/1619371297",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 277,
+    "favorite_count": 1067,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 2,
+  "favorite_count": 19,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

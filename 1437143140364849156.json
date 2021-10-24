@@ -1,0 +1,434 @@
+{
+  "created_at": "Sun Sep 12 19:56:40 +0000 2021",
+  "id": 1437143140364849156,
+  "id_str": "1437143140364849156",
+  "text": "RT @_RedWalrus_: Why is this so hard for billions of people to understand? IDGI\n\nThe Guy's Absolutely Right https://t.co/J4DhoNwLTd",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "_RedWalrus_",
+        "name": "Red Walrus",
+        "id": 1206881666,
+        "id_str": "1206881666",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1436835311925927938,
+        "id_str": "1436835311925927938",
+        "indices": [
+          108,
+          131
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436835311925927938/pu/img/85iunB5zEaD5ZBxt.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436835311925927938/pu/img/85iunB5zEaD5ZBxt.jpg",
+        "url": "https://t.co/J4DhoNwLTd",
+        "display_url": "pic.twitter.com/J4DhoNwLTd",
+        "expanded_url": "https://twitter.com/_RedWalrus_/status/1436835438065451011/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 406,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 406,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1436835438065451011,
+        "source_status_id_str": "1436835438065451011",
+        "source_user_id": 1206881666,
+        "source_user_id_str": "1206881666"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1436835311925927938,
+        "id_str": "1436835311925927938",
+        "indices": [
+          108,
+          131
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436835311925927938/pu/img/85iunB5zEaD5ZBxt.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436835311925927938/pu/img/85iunB5zEaD5ZBxt.jpg",
+        "url": "https://t.co/J4DhoNwLTd",
+        "display_url": "pic.twitter.com/J4DhoNwLTd",
+        "expanded_url": "https://twitter.com/_RedWalrus_/status/1436835438065451011/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 406,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 406,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1436835438065451011,
+        "source_status_id_str": "1436835438065451011",
+        "source_user_id": 1206881666,
+        "source_user_id_str": "1206881666",
+        "video_info": {
+          "aspect_ratio": [
+            203,
+            360
+          ],
+          "duration_millis": 110410,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1436835311925927938/pu/pl/4zHYA1RE7aWFI9Sy.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1436835311925927938/pu/vid/320x566/tuUWB2oIhIdv8HxZ.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1436835311925927938/pu/vid/406x720/a5i1zIWbF0Wqe0ON.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 1206881666,
+            "id_str": "1206881666",
+            "name": "Red Walrus",
+            "screen_name": "_RedWalrus_",
+            "location": "Scottsdale",
+            "description": "\ud83d\udc0a DrainTheSwamp  \ud83d\udd2b2A  \ud83d\udc7cProLife \ud83d\udca5 IFBP \ud83d\udca5No dating Horse***t \ud83d\udca5Let me know if not Following Back \ud83d\udcaf Retweet Means I Agree With Everything U Ever Said \ud83d\udcaf",
+            "url": null,
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 33783,
+            "friends_count": 26367,
+            "listed_count": 14,
+            "created_at": "Fri Feb 22 05:09:51 +0000 2013",
+            "favourites_count": 46805,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 174937,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1431126035022577664/28fXVzru_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1431126035022577664/28fXVzru_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1206881666/1630042011",
+            "profile_link_color": "0C1585",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5200,
+    "friends_count": 892,
+    "listed_count": 15,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 6789,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3810,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Sep 11 23:33:58 +0000 2021",
+    "id": 1436835438065451011,
+    "id_str": "1436835438065451011",
+    "text": "Why is this so hard for billions of people to understand? IDGI\n\nThe Guy's Absolutely Right https://t.co/J4DhoNwLTd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1436835311925927938,
+          "id_str": "1436835311925927938",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436835311925927938/pu/img/85iunB5zEaD5ZBxt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436835311925927938/pu/img/85iunB5zEaD5ZBxt.jpg",
+          "url": "https://t.co/J4DhoNwLTd",
+          "display_url": "pic.twitter.com/J4DhoNwLTd",
+          "expanded_url": "https://twitter.com/_RedWalrus_/status/1436835438065451011/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 406,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 406,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1436835311925927938,
+          "id_str": "1436835311925927938",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436835311925927938/pu/img/85iunB5zEaD5ZBxt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436835311925927938/pu/img/85iunB5zEaD5ZBxt.jpg",
+          "url": "https://t.co/J4DhoNwLTd",
+          "display_url": "pic.twitter.com/J4DhoNwLTd",
+          "expanded_url": "https://twitter.com/_RedWalrus_/status/1436835438065451011/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 406,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 406,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              203,
+              360
+            ],
+            "duration_millis": 110410,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1436835311925927938/pu/pl/4zHYA1RE7aWFI9Sy.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1436835311925927938/pu/vid/320x566/tuUWB2oIhIdv8HxZ.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1436835311925927938/pu/vid/406x720/a5i1zIWbF0Wqe0ON.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1206881666,
+      "id_str": "1206881666",
+      "name": "Red Walrus",
+      "screen_name": "_RedWalrus_",
+      "location": "Scottsdale",
+      "description": "\ud83d\udc0a DrainTheSwamp  \ud83d\udd2b2A  \ud83d\udc7cProLife \ud83d\udca5 IFBP \ud83d\udca5No dating Horse***t \ud83d\udca5Let me know if not Following Back \ud83d\udcaf Retweet Means I Agree With Everything U Ever Said \ud83d\udcaf",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 33783,
+      "friends_count": 26367,
+      "listed_count": 14,
+      "created_at": "Fri Feb 22 05:09:51 +0000 2013",
+      "favourites_count": 46805,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 174937,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1431126035022577664/28fXVzru_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1431126035022577664/28fXVzru_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1206881666/1630042011",
+      "profile_link_color": "0C1585",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4549,
+    "favorite_count": 7391,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 4549,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

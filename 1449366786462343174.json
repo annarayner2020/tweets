@@ -1,0 +1,283 @@
+{
+  "created_at": "Sat Oct 16 13:29:04 +0000 2021",
+  "id": 1449366786462343174,
+  "id_str": "1449366786462343174",
+  "text": "RT @MichaelPSenger: A heartfelt and very welcome apology from a Congressman who initially supported \u201c15 days to slow the spread\u201d in March a\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MichaelPSenger",
+        "name": "Michael P Senger",
+        "id": 1679362640,
+        "id_str": "1679362640",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Oct 15 17:09:54 +0000 2021",
+    "id": 1449059972319309827,
+    "id_str": "1449059972319309827",
+    "text": "A heartfelt and very welcome apology from a Congressman who initially supported \u201c15 days to slow the spread\u201d in Mar\u2026 https://t.co/6ry0VqXWtg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6ry0VqXWtg",
+          "expanded_url": "https://twitter.com/i/web/status/1449059972319309827",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1679362640,
+      "id_str": "1679362640",
+      "name": "Michael P Senger",
+      "screen_name": "MichaelPSenger",
+      "location": "",
+      "description": "Attorney, author of China\u2019s Global Lockdown Propaganda Campaign",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 67251,
+      "friends_count": 15670,
+      "listed_count": 424,
+      "created_at": "Sat Aug 17 23:24:38 +0000 2013",
+      "favourites_count": 208732,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15568,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347992309535625216/8sHtpp8C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679362640/1597698065",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1448826829759041548,
+    "quoted_status_id_str": "1448826829759041548",
+    "quoted_status": {
+      "created_at": "Fri Oct 15 01:43:28 +0000 2021",
+      "id": 1448826829759041548,
+      "id_str": "1448826829759041548",
+      "text": "I admit my shame. Against my gut, I accepted 15 days to flatten the curve out of deference to POTUS &amp; the possibili\u2026 https://t.co/vbkmNaIAy4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vbkmNaIAy4",
+            "expanded_url": "https://twitter.com/i/web/status/1448826829759041548",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1257667158,
+        "id_str": "1257667158",
+        "name": "Chip Roy",
+        "screen_name": "chiproytx",
+        "location": "Austin, Texas",
+        "description": "Husband, father, cancer survivor, Congressman from the Great State of Texas. Freedom works. https://t.co/1JZa4Av6WU",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/1JZa4Av6WU",
+                "expanded_url": "http://chiproy.com",
+                "display_url": "chiproy.com",
+                "indices": [
+                  92,
+                  115
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 66203,
+        "friends_count": 826,
+        "listed_count": 634,
+        "created_at": "Sun Mar 10 18:36:29 +0000 2013",
+        "favourites_count": 30206,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 43228,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1067414842867367937/mhwAN0Mg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067414842867367937/mhwAN0Mg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257667158/1583847345",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1448815769958092800,
+      "quoted_status_id_str": "1448815769958092800",
+      "retweet_count": 681,
+      "favorite_count": 3906,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 102,
+    "favorite_count": 403,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1448826829759041548,
+  "quoted_status_id_str": "1448826829759041548",
+  "retweet_count": 102,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

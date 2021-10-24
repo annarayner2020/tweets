@@ -1,0 +1,200 @@
+{
+  "created_at": "Fri Mar 05 11:10:01 +0000 2021",
+  "id": 1367794523275943944,
+  "id_str": "1367794523275943944",
+  "text": "RT @latimeralder: In 29 years time the Government plan that UK will have hugely impoverished itsef collectively and individually to achieve\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "latimeralder",
+        "name": "Latimer Alder",
+        "id": 98583506,
+        "id_str": "98583506",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5384,
+    "friends_count": 902,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7471,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4415,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Mar 05 06:59:26 +0000 2021",
+    "id": 1367731464259989506,
+    "id_str": "1367731464259989506",
+    "text": "In 29 years time the Government plan that UK will have hugely impoverished itsef collectively and individually to a\u2026 https://t.co/B4CQwnPmOL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/B4CQwnPmOL",
+          "expanded_url": "https://twitter.com/i/web/status/1367731464259989506",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 98583506,
+      "id_str": "98583506",
+      "name": "Latimer Alder",
+      "screen_name": "latimeralder",
+      "location": "UK",
+      "description": "Sceptical about many things\n\n'I follow him because he is straightforward, logical, and unfailingly polite'\n\nhttps://t.co/3mFfeWYVC2",
+      "url": "https://t.co/yvuPBTKfx7",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/yvuPBTKfx7",
+              "expanded_url": "https://chasingliberty.libsyn.com/latimer-alder-talks-climate-change",
+              "display_url": "chasingliberty.libsyn.com/latimer-alder-\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/3mFfeWYVC2",
+              "expanded_url": "https://www.youtube.com/watch?v=nc3QOw4jnNw",
+              "display_url": "youtube.com/watch?v=nc3QOw\u2026",
+              "indices": [
+                108,
+                131
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 23650,
+      "friends_count": 18125,
+      "listed_count": 100,
+      "created_at": "Tue Dec 22 08:06:13 +0000 2009",
+      "favourites_count": 124211,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 171641,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/604015856469725184/RLEfIl6D_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/604015856469725184/RLEfIl6D_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/98583506/1521704541",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 92,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 24,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

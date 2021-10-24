@@ -1,0 +1,190 @@
+{
+  "created_at": "Thu Aug 05 11:37:54 +0000 2021",
+  "id": 1423246882256691202,
+  "id_str": "1423246882256691202",
+  "text": "RT @PhilipWatson_: Covid Stats NI: 4/8/20 vs 4/8/21\n\n4/8/20 = \ud83d\udfe0\n4/8/21 = \ud83d\udd34\n\n\ud83d\udfe0Vaccinated: 0\n\ud83d\udd34Vaccinated: 84%\n\n\ud83d\udfe08 +ve cases\n\ud83d\udd341040 +ve cases\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "philipwatson_",
+        "name": "Philip Watson",
+        "id": 1435000046546784257,
+        "id_str": "1435000046546784257",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Aug 05 11:28:58 +0000 2021",
+    "id": 1423244635628056582,
+    "id_str": "1423244635628056582",
+    "text": "Covid Stats NI: 4/8/20 vs 4/8/21\n\n4/8/20 = \ud83d\udfe0\n4/8/21 = \ud83d\udd34\n\n\ud83d\udfe0Vaccinated: 0\n\ud83d\udd34Vaccinated: 84%\n\n\ud83d\udfe08 +ve cases\n\ud83d\udd341040 +ve ca\u2026 https://t.co/VFg6b1HsvI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VFg6b1HsvI",
+          "expanded_url": "https://twitter.com/i/web/status/1423244635628056582",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 990720508550373376,
+      "id_str": "990720508550373376",
+      "name": "CitizenJournos",
+      "screen_name": "citizenjournos_",
+      "location": "Northern Ireland",
+      "description": "OSINT Investigators, Citizen Journalists    enquiries@citizenjournos.com",
+      "url": "https://t.co/7UkGJBJrpL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7UkGJBJrpL",
+              "expanded_url": "https://citizenjournos.com",
+              "display_url": "citizenjournos.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 12487,
+      "friends_count": 513,
+      "listed_count": 22,
+      "created_at": "Sun Apr 29 22:32:30 +0000 2018",
+      "favourites_count": 8507,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 27076,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1134198147616575488/KdJHMfNQ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134198147616575488/KdJHMfNQ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/990720508550373376/1621724881",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 323,
+    "favorite_count": 549,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 323,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

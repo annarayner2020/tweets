@@ -1,0 +1,248 @@
+{
+  "created_at": "Tue Mar 23 09:02:20 +0000 2021",
+  "id": 1374285372893630464,
+  "id_str": "1374285372893630464",
+  "text": "Remember when Russia were the \u2018baddies\u2019? \n\nI hear Moscow is lovely in the springtime. https://t.co/qeZpgQYkaH",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/qeZpgQYkaH",
+        "expanded_url": "https://twitter.com/samstreetwrites/status/1374138875136901120",
+        "display_url": "twitter.com/samstreetwrite\u2026",
+        "indices": [
+          86,
+          109
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1374138875136901120,
+  "quoted_status_id_str": "1374138875136901120",
+  "quoted_status": {
+    "created_at": "Mon Mar 22 23:20:12 +0000 2021",
+    "id": 1374138875136901120,
+    "id_str": "1374138875136901120",
+    "text": "\"Vaccination is the voluntary choice of every person.\"\n\n- Vladimir Putin https://t.co/KMRWGnnHZN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1374138828995375104,
+          "id_str": "1374138828995375104",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/ExHr_AZXMAAa9vl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ExHr_AZXMAAa9vl.jpg",
+          "url": "https://t.co/KMRWGnnHZN",
+          "display_url": "pic.twitter.com/KMRWGnnHZN",
+          "expanded_url": "https://twitter.com/samstreetwrites/status/1374138875136901120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 992,
+              "h": 558,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 992,
+              "h": 558,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1374138828995375104,
+          "id_str": "1374138828995375104",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/ExHr_AZXMAAa9vl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ExHr_AZXMAAa9vl.jpg",
+          "url": "https://t.co/KMRWGnnHZN",
+          "display_url": "pic.twitter.com/KMRWGnnHZN",
+          "expanded_url": "https://twitter.com/samstreetwrites/status/1374138875136901120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 992,
+              "h": 558,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 992,
+              "h": 558,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 921314112,
+      "id_str": "921314112",
+      "name": "Sam Street",
+      "screen_name": "samstreetwrites",
+      "location": "",
+      "description": "Sports journalist and #WatfordFC fan.\n\nAmateur travel corridors forecaster.\u2708\ufe0f\n\nNotoriously hard to please.\n\n\u0421\u0440\u0431\u0438\u0458\u0430, Brasil",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4892,
+      "friends_count": 649,
+      "listed_count": 34,
+      "created_at": "Fri Nov 02 16:17:37 +0000 2012",
+      "favourites_count": 21107,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 28671,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/742448321629978624/46gLuAEt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/742448321629978624/46gLuAEt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/921314112/1352460546",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4562,
+    "favorite_count": 17215,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 42,
+  "favorite_count": 215,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

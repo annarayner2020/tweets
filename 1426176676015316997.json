@@ -1,0 +1,411 @@
+{
+  "created_at": "Fri Aug 13 13:39:51 +0000 2021",
+  "id": 1426176676015316997,
+  "id_str": "1426176676015316997",
+  "text": "RT @Arwenstar: FRANCE: the Resistance carries on - makeshift mini restaurants are appearing all over towns and cities - No Vax Pass AND Fre\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Arwenstar",
+        "name": "Nat",
+        "id": 21947445,
+        "id_str": "21947445",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Aug 12 17:49:11 +0000 2021",
+    "id": 1425877033905790977,
+    "id_str": "1425877033905790977",
+    "text": "FRANCE: the Resistance carries on - makeshift mini restaurants are appearing all over towns and cities - No Vax Pas\u2026 https://t.co/5HX2Ji8dym",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5HX2Ji8dym",
+          "expanded_url": "https://twitter.com/i/web/status/1425877033905790977",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 21947445,
+      "id_str": "21947445",
+      "name": "Nat",
+      "screen_name": "Arwenstar",
+      "location": "Real World",
+      "description": "Bookworm\u2014NCTJ Qualified Journalist\u2014anti-Woke\u2014no interest in MSM\u2014French but Britain is my home\u2014Pro Free Speech\u2014Patriot \ud83c\uddec\ud83c\udde7\ud83c\uddeb\ud83c\uddf7 \u2014NO Vaccine Passports \u2014 Dissident",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 34088,
+      "friends_count": 3980,
+      "listed_count": 146,
+      "created_at": "Thu Feb 26 00:43:32 +0000 2009",
+      "favourites_count": 108561,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61314,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1423818821589159939/38sfYJEW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423818821589159939/38sfYJEW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21947445/1626404142",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1425689663344369664,
+    "quoted_status_id_str": "1425689663344369664",
+    "quoted_status": {
+      "created_at": "Thu Aug 12 05:24:38 +0000 2021",
+      "id": 1425689663344369664,
+      "id_str": "1425689663344369664",
+      "text": "Terrasse sauvage... Thionville... \ud83d\udcaa https://t.co/19FBwlUxZD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425689647498383360,
+            "id_str": "1425689647498383360",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8kRLkcX0AAq7Yp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8kRLkcX0AAq7Yp.jpg",
+            "url": "https://t.co/19FBwlUxZD",
+            "display_url": "pic.twitter.com/19FBwlUxZD",
+            "expanded_url": "https://twitter.com/Titithebest4/status/1425689663344369664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425689647498383360,
+            "id_str": "1425689647498383360",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8kRLkcX0AAq7Yp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8kRLkcX0AAq7Yp.jpg",
+            "url": "https://t.co/19FBwlUxZD",
+            "display_url": "pic.twitter.com/19FBwlUxZD",
+            "expanded_url": "https://twitter.com/Titithebest4/status/1425689663344369664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1425689653244477442,
+            "id_str": "1425689653244477442",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8kRL52WQAIThUy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8kRL52WQAIThUy.jpg",
+            "url": "https://t.co/19FBwlUxZD",
+            "display_url": "pic.twitter.com/19FBwlUxZD",
+            "expanded_url": "https://twitter.com/Titithebest4/status/1425689663344369664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1425689658504142848,
+            "id_str": "1425689658504142848",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8kRMNcWYAA_2bK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8kRMNcWYAA_2bK.jpg",
+            "url": "https://t.co/19FBwlUxZD",
+            "display_url": "pic.twitter.com/19FBwlUxZD",
+            "expanded_url": "https://twitter.com/Titithebest4/status/1425689663344369664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1339452343750971392,
+        "id_str": "1339452343750971392",
+        "name": "Titi the best",
+        "screen_name": "Titithebest4",
+        "location": "",
+        "description": "Si quelqu'un t'a offens\u00e9, ne cherche pas \u00e0 te venger.\nAssieds-toi au bord de la rivi\u00e8re et bient\u00f4t tu verras passer son cadavre.\nLao-Tseu \ud83d\ude0e",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2436,
+        "friends_count": 245,
+        "listed_count": 12,
+        "created_at": "Thu Dec 17 06:08:33 +0000 2020",
+        "favourites_count": 27161,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18128,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414675085819105282/oRRNMds3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414675085819105282/oRRNMds3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339452343750971392/1615571169",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 98,
+      "favorite_count": 391,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "retweet_count": 826,
+    "favorite_count": 2317,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1425689663344369664,
+  "quoted_status_id_str": "1425689663344369664",
+  "retweet_count": 826,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,181 @@
+{
+  "created_at": "Tue Mar 23 23:36:39 +0000 2021",
+  "id": 1374505403678040069,
+  "id_str": "1374505403678040069",
+  "text": "@AlanFreestone https://t.co/SEheFcTFDX",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AlanFreestone",
+        "name": "Alan Freestone",
+        "id": 592201973,
+        "id_str": "592201973",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1374505395801092097,
+        "id_str": "1374505395801092097",
+        "indices": [
+          15,
+          38
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/ExM5YAKU8AEXjdS.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ExM5YAKU8AEXjdS.jpg",
+        "url": "https://t.co/SEheFcTFDX",
+        "display_url": "pic.twitter.com/SEheFcTFDX",
+        "expanded_url": "https://twitter.com/annarayner2020/status/1374505403678040069/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1374505395801092097,
+        "id_str": "1374505395801092097",
+        "indices": [
+          15,
+          38
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/ExM5YAKU8AEXjdS.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ExM5YAKU8AEXjdS.jpg",
+        "url": "https://t.co/SEheFcTFDX",
+        "display_url": "pic.twitter.com/SEheFcTFDX",
+        "expanded_url": "https://twitter.com/annarayner2020/status/1374505403678040069/photo/1",
+        "type": "animated_gif",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/ExM5YAKU8AEXjdS.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1374468650153902100,
+  "in_reply_to_status_id_str": "1374468650153902100",
+  "in_reply_to_user_id": 592201973,
+  "in_reply_to_user_id_str": "592201973",
+  "in_reply_to_screen_name": "AlanFreestone",
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

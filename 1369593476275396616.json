@@ -1,0 +1,364 @@
+{
+  "created_at": "Wed Mar 10 10:18:25 +0000 2021",
+  "id": 1369593476275396616,
+  "id_str": "1369593476275396616",
+  "text": "RT @Bobby_Network: Oh the irony! Our fav #CCPDing/#ZeroDing \"Dr\" Eric Feigl Ding softly moved with his family to my hometown Vienna while p\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CCPDing",
+        "indices": [
+          41,
+          49
+        ]
+      },
+      {
+        "text": "ZeroDing",
+        "indices": [
+          50,
+          59
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Bobby_Network",
+        "name": "Bobby Rajesh Malhotra \u30c4 \u03c8",
+        "id": 85569220,
+        "id_str": "85569220",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5394,
+    "friends_count": 910,
+    "listed_count": 16,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7563,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4492,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Mar 10 06:56:12 +0000 2021",
+    "id": 1369542587443449856,
+    "id_str": "1369542587443449856",
+    "text": "Oh the irony! Our fav #CCPDing/#ZeroDing \"Dr\" Eric Feigl Ding softly moved with his family to my hometown Vienna wh\u2026 https://t.co/CYQaLUXRy1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CCPDing",
+          "indices": [
+            22,
+            30
+          ]
+        },
+        {
+          "text": "ZeroDing",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CYQaLUXRy1",
+          "expanded_url": "https://twitter.com/i/web/status/1369542587443449856",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 85569220,
+      "id_str": "85569220",
+      "name": "Bobby Rajesh Malhotra \u30c4 \u03c8",
+      "screen_name": "Bobby_Network",
+      "location": "Vienna",
+      "description": "Dissecting #SocialEngineering. My artistic method is accompanied by high political content.\n\nSubstack: https://t.co/mdDvGm5BBf\nJoin: https://t.co/F7hUWMBg6U",
+      "url": "https://t.co/dZ7HEoSSJ2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/dZ7HEoSSJ2",
+              "expanded_url": "https://bobbyrajeshmalhotra.tumblr.com",
+              "display_url": "bobbyrajeshmalhotra.tumblr.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/mdDvGm5BBf",
+              "expanded_url": "http://bobbynetwork.substack.com",
+              "display_url": "bobbynetwork.substack.com",
+              "indices": [
+                103,
+                126
+              ]
+            },
+            {
+              "url": "https://t.co/F7hUWMBg6U",
+              "expanded_url": "http://t.me/bobbynetwork",
+              "display_url": "t.me/bobbynetwork",
+              "indices": [
+                133,
+                156
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 14079,
+      "friends_count": 2134,
+      "listed_count": 148,
+      "created_at": "Tue Oct 27 13:32:46 +0000 2009",
+      "favourites_count": 18406,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 15237,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1332032200922046467/YEy_iV7H_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332032200922046467/YEy_iV7H_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/85569220/1617117104",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1369488647028871174,
+    "quoted_status_id_str": "1369488647028871174",
+    "quoted_status": {
+      "created_at": "Wed Mar 10 03:21:51 +0000 2021",
+      "id": 1369488647028871174,
+      "id_str": "1369488647028871174",
+      "text": "Can now confirm: Eric Feigl-Ding, the chief COVID-19 panic salesman on social media, quietly moved his family to Au\u2026 https://t.co/Hb7uvq6DYZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Hb7uvq6DYZ",
+            "expanded_url": "https://twitter.com/i/web/status/1369488647028871174",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 535643852,
+        "id_str": "535643852",
+        "name": "Jordan Schachtel @ dossier.substack.com",
+        "screen_name": "JordanSchachtel",
+        "location": "Florida",
+        "description": "Independent Journalist. \nPublication: https://t.co/Ky1txh4Elb \nPodcast: https://t.co/SXZwqJIqSG\nJds921@protonmail.com",
+        "url": "https://t.co/lcfMjw18HP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/lcfMjw18HP",
+                "expanded_url": "http://Rokfin.com/JordanSchachtel",
+                "display_url": "Rokfin.com/JordanSchachtel",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Ky1txh4Elb",
+                "expanded_url": "http://dossier.substack.com/subscribe",
+                "display_url": "dossier.substack.com/subscribe",
+                "indices": [
+                  38,
+                  61
+                ]
+              },
+              {
+                "url": "https://t.co/SXZwqJIqSG",
+                "expanded_url": "https://podcasts.apple.com/us/podcast/the-dossier/id1575",
+                "display_url": "podcasts.apple.com/us/podcast/the\u2026",
+                "indices": [
+                  72,
+                  95
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 145523,
+        "friends_count": 1021,
+        "listed_count": 1068,
+        "created_at": "Sat Mar 24 19:38:57 +0000 2012",
+        "favourites_count": 33301,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 32052,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083530547442401280/gc9FVEN__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083530547442401280/gc9FVEN__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/535643852/1547168949",
+        "profile_link_color": "00B312",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7270,
+      "favorite_count": 17997,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 80,
+    "favorite_count": 214,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1369488647028871174,
+  "quoted_status_id_str": "1369488647028871174",
+  "retweet_count": 80,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

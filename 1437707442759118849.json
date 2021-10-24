@@ -1,0 +1,297 @@
+{
+  "created_at": "Tue Sep 14 09:19:00 +0000 2021",
+  "id": 1437707442759118849,
+  "id_str": "1437707442759118849",
+  "text": "RT @KonstantinKisin: It shows.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "KonstantinKisin",
+        "name": "Konstantin Kisin",
+        "id": 1495726466,
+        "id_str": "1495726466",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309907616953491457,
+    "id_str": "1309907616953491457",
+    "name": "Anna Rayner",
+    "screen_name": "annarayner2020",
+    "location": "London",
+    "description": "Politically homeless, believer in truth, freedom, and critical thinking. I will not follow the herd if the herd is sleep-walking into hell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 5422,
+    "friends_count": 965,
+    "listed_count": 17,
+    "created_at": "Sat Sep 26 17:28:21 +0000 2020",
+    "favourites_count": 7761,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4685,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341345543772106753/S6jYLRT4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309907616953491457/1602678796",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Sep 14 09:13:59 +0000 2021",
+    "id": 1437706180785213442,
+    "id_str": "1437706180785213442",
+    "text": "It shows. https://t.co/CvDkUX1bY4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CvDkUX1bY4",
+          "expanded_url": "https://twitter.com/ArmisteadJake/status/1437705897128697856",
+          "display_url": "twitter.com/ArmisteadJake/\u2026",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1495726466,
+      "id_str": "1495726466",
+      "name": "Konstantin Kisin",
+      "screen_name": "KonstantinKisin",
+      "location": "London, England",
+      "description": "Comedian, Co-Host of @triggerpod, 'Centrist Chad'.\n\nBook: 'An Immigrant's Love Letter to the West' in 2022.\n\nAgent: christian@bluebookam.com",
+      "url": "https://t.co/lTYIsbn2S0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lTYIsbn2S0",
+              "expanded_url": "http://www.konstantinkisin.com",
+              "display_url": "konstantinkisin.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 92259,
+      "friends_count": 922,
+      "listed_count": 341,
+      "created_at": "Sun Jun 09 14:19:41 +0000 2013",
+      "favourites_count": 25560,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15577,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1271801424272384001/r4WGzdXc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271801424272384001/r4WGzdXc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495726466/1592004473",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1437705897128697856,
+    "quoted_status_id_str": "1437705897128697856",
+    "quoted_status": {
+      "created_at": "Tue Sep 14 09:12:51 +0000 2021",
+      "id": 1437705897128697856,
+      "id_str": "1437705897128697856",
+      "text": "@KonstantinKisin We don't all have time to go buy books and read them, some of us work for a living...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KonstantinKisin",
+            "name": "Konstantin Kisin",
+            "id": 1495726466,
+            "id_str": "1495726466",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1437701180424138756,
+      "in_reply_to_status_id_str": "1437701180424138756",
+      "in_reply_to_user_id": 1495726466,
+      "in_reply_to_user_id_str": "1495726466",
+      "in_reply_to_screen_name": "KonstantinKisin",
+      "user": {
+        "id": 1324808930346831875,
+        "id_str": "1324808930346831875",
+        "name": "\ud83c\udf83 Jake 'Cry Wolf' A-harmistead \ud83c\udf83 \ud83c\uddf5\ud83c\uddf8",
+        "screen_name": "ArmisteadJake",
+        "location": "Fleetwood, Lancashire",
+        "description": "Music, games, film, friends and family = my world. he/him, gay and loving it\n\nCouncil Communist\n\nAll Tories are evil\n\nAnti-fascist and proud\n\n@BThroughParty \ud83d\udfe0\u26c5",
+        "url": "https://t.co/QOGfLfRz8l",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/QOGfLfRz8l",
+                "expanded_url": "https://letterboxd.com/rockinchimp/",
+                "display_url": "letterboxd.com/rockinchimp/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 204,
+        "friends_count": 428,
+        "listed_count": 0,
+        "created_at": "Fri Nov 06 20:20:50 +0000 2020",
+        "favourites_count": 63339,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15588,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405077713812082691/9aL7Ntvr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405077713812082691/9aL7Ntvr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324808930346831875/1604747511",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 230,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1437705897128697856,
+  "quoted_status_id_str": "1437705897128697856",
+  "retweet_count": 3,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
